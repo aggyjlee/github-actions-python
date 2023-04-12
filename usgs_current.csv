@@ -370,4 +370,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-11T10:37:15.207Z,62.3897,-148.7648,17.5,1.6,ml,,,,0.78,ak,ak0234n7gclc,2023-04-11T10:39:06.023Z,"61 km ENE of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-11T10:36:49.410Z,58.1858333333333,-155.255666666667,0.88,-0.29,ml,9,140,,0.07,av,av91844186,2023-04-12T03:25:06.650Z,"83 km NW of Karluk, Alaska",earthquake,0.25,1.32,0.367842384877504,9,reviewed,av,av
 2023-04-11T10:35:39.630Z,35.5,-118.3951667,3.83,1.13,ml,20,67,0.1747,0.18,ci,ci40439560,2023-04-11T13:47:01.720Z,"13km SE of Bodfish, CA",earthquake,0.29,1.09,0.116,11,reviewed,ci,ci
-2023-04-11T10:25:27.560Z,19.2468338012695,-155.38850402832,29.9400005340576,2.07,ml,34,138,,0.189999998,hv,hv73361277,2023-04-11T10:30:57.940Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.93,0.839999974,0.2,5,automatic,hv,hv
