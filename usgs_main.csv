@@ -668,3 +668,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-12T14:35:50.190Z,38.7758331,-122.7518311,0.92,1.35,md,22.0,81.0,0.01393,0.03,nc,nc73872375,2023-04-12T14:37:26.130Z,"0km ESE of The Geysers, CA",earthquake,0.24,0.45,0.18,21.0,automatic,nc,nc
 2023-04-12T14:35:18.600Z,38.8240013,-122.8041687,3.52,0.65,md,9.0,94.0,0.004652,0.02,nc,nc73872370,2023-04-12T14:36:56.407Z,"7km NW of The Geysers, CA",earthquake,0.49,2.14,0.23,9.0,automatic,nc,nc
 2023-04-12T14:34:02.000Z,38.8264999,-122.7971649,1.01,1.07,md,12.0,60.0,0.01055,0.02,nc,nc73872365,2023-04-12T14:35:43.394Z,"6km W of Cobb, CA",earthquake,0.27,0.69,0.3,13.0,automatic,nc,nc
+2023-04-12T14:39:57.870Z,38.824501,-122.8075027,1.76,1.53,md,23.0,35.0,0.002292,0.05,nc,nc73872385,2023-04-12T14:41:35.315Z,"7km NW of The Geysers, CA",earthquake,0.2,0.46,0.15,26.0,automatic,nc,nc
+2023-04-12T14:35:56.420Z,-24.6412,179.8486,505.256,5.0,mb,63.0,44.0,4.996,1.36,us,us6000k3tg,2023-04-12T14:50:43.040Z,south of the Fiji Islands,earthquake,9.73,7.963,0.076,60.0,reviewed,us,us
