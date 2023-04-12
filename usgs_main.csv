@@ -614,3 +614,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-12T11:25:10.486Z,59.878,-152.6689,97.0,2.0,ml,,,,0.15,ak,ak0234ovijqg,2023-04-12T11:26:31.852Z,"48 km WNW of Anchor Point, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-04-12T11:24:04.520Z,38.8278351,-122.8065033,1.9,0.22,md,7.0,84.0,0.005238,0.01,nc,nc73872170,2023-04-12T11:25:40.881Z,"7km NW of The Geysers, CA",earthquake,0.71,1.57,0.13,8.0,automatic,nc,nc
 2023-04-12T11:35:40.240Z,38.8344994,-122.8010025,3.07,1.02,md,14.0,75.0,0.009194,0.02,nc,nc73872185,2023-04-12T11:37:16.000Z,"7km WNW of Cobb, CA",earthquake,0.33,0.68,0.22,18.0,automatic,nc,nc
+2023-04-12T11:47:16.958Z,58.4842,-154.2692,23.7,1.2,ml,,,,0.54,ak,ak0234ovn9zj,2023-04-12T11:48:27.089Z,"92 km WNW of Aleneva, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-04-12T11:16:51.610Z,17.9785,-66.9551666666667,13.44,2.19,md,5.0,173.0,0.07233,0.08,pr,pr71404478,2023-04-12T11:43:01.150Z,"4 km WSW of Fuig, Puerto Rico",earthquake,1.01,0.57,0.0569584599736577,4.0,reviewed,pr,pr
