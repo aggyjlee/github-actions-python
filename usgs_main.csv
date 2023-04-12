@@ -766,3 +766,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-12T20:27:40.091Z,62.2125,-149.4475,27.5,1.4,ml,,,,0.4,ak,ak0234p0vxw9,2023-04-12T20:31:19.549Z,Central Alaska,earthquake,,0.4,,,automatic,ak,ak
 2023-04-12T20:26:45.105Z,65.3957,-166.0172,6.5,3.1,ml,,,,1.03,ak,ak0234p0vqke,2023-04-12T20:37:38.316Z,"21 km NE of Teller, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-12T20:32:55.560Z,17.9508333333333,-66.9625,14.76,2.23,md,5.0,211.0,0.07996,0.07,pr,pr71404588,2023-04-12T20:49:19.900Z,"6 km WSW of Guánica, Puerto Rico",earthquake,0.74,0.66,0.0417923314449276,5.0,reviewed,pr,pr
+2023-04-12T21:00:38.280Z,38.3618,-118.9003,14.5,2.4,ml,11.0,75.03,0.329,0.1208,nn,nn00858138,2023-04-12T21:03:01.866Z,"30 km SW of Hawthorne, Nevada",earthquake,,0.8,0.33,6.0,automatic,nn,nn
