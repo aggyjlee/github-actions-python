@@ -820,3 +820,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-12T23:14:29.262Z,65.1138,-148.7069,21.6,1.1,ml,,,,0.32,ak,ak0234p2lfke,2023-04-12T23:16:09.734Z,northern Alaska,earthquake,,0.9,,,automatic,ak,ak
 2023-04-12T23:07:28.458Z,65.0211,-147.0325,20.1,1.2,ml,,,,1.1,ak,ak0234p2jxl1,2023-04-12T23:09:34.473Z,"16 km N of Two Rivers, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-04-12T20:15:38.040Z,53.8705,-166.569333333333,5.42,0.23,ml,5.0,157.0,,0.25,av,av91097428,2023-04-12T23:09:54.420Z,"2 km W of Unalaska, Alaska",earthquake,0.82,2.02,0.263270924363578,5.0,reviewed,av,av
+2023-04-12T23:21:19.885Z,61.7633,-151.1357,79.8,1.7,ml,,,,0.23,ak,ak0234p2mwus,2023-04-12T23:23:05.533Z,Southern Alaska,earthquake,,0.7,,,automatic,ak,ak
+2023-04-12T23:18:38.389Z,63.3634,-147.4867,77.2,1.6,ml,,,,0.75,ak,ak0234p2mb4u,2023-04-12T23:20:44.039Z,"73 km E of Cantwell, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2023-04-12T20:15:01.270Z,53.8773333333333,-166.5665,5.42,0.67,ml,6.0,167.0,,0.17,av,av91097433,2023-04-12T23:18:28.420Z,"2 km SW of Dutch Harbor, Alaska",earthquake,0.49,1.2,0.264184669269734,6.0,reviewed,av,av
