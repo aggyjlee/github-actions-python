@@ -1076,3 +1076,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-13T16:34:10.267Z,39.4159,-119.873,9.1,0.9,ml,15.0,72.43,0.088,0.1237,nn,nn00858188,2023-04-13T18:06:26.962Z,"11 km SSE of Mogul, Nevada",earthquake,,1.8,0.63,5.0,reviewed,nn,nn
 2023-04-13T13:52:22.610Z,33.6808333,-116.7336667,13.67,0.12,ml,11.0,115.0,0.03435,0.07,ci,ci40440424,2023-04-13T17:57:18.165Z,"7km SSW of Idyllwild, CA",earthquake,0.28,0.48,0.105,4.0,reviewed,ci,ci
 2023-04-13T08:01:36.030Z,56.9011666666667,-158.0695,-3.2,1.21,ml,4.0,260.0,,0.18,av,av91097448,2023-04-13T18:06:08.810Z,"34 km E of Port Heiden, Alaska",earthquake,1.57,3.09,0.169092945812168,6.0,reviewed,av,av
+2023-04-13T18:06:49.399Z,58.1905,-155.3075,0.5,1.4,ml,,,,0.8,ak,ak0234qn3xuz,2023-04-13T18:08:23.272Z,"85 km NW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-04-13T17:28:18.170Z,39.8254,-120.7221,8.4,0.7,ml,3.0,329.72,0.282,0.1157,nn,nn00858189,2023-04-13T18:09:34.282Z,"4 km SW of Cromberg, California",earthquake,,15.8,0.37,3.0,reviewed,nn,nn
+2023-04-13T12:17:40.040Z,56.2536666666667,-159.503,4.74,0.12,ml,4.0,303.0,,0.07,av,av91097453,2023-04-13T18:17:38.320Z,"39 km N of Ivanof Bay, Alaska",earthquake,0.76,0.54,0.281626876700983,4.0,reviewed,av,av
