@@ -910,3 +910,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-13T00:06:58.720Z,57.9153333333333,-155.544666666667,11.34,0.3,ml,11.0,184.0,,0.24,av,av91845991,2023-04-13T02:51:38.880Z,"75 km WNW of Karluk, Alaska",earthquake,0.91,1.85,0.240512785011081,11.0,reviewed,av,av
 2023-04-12T22:21:19.850Z,59.6611,-153.0822,112.5,1.7,ml,,,,0.29,ak,ak0234p21hpw,2023-04-13T03:00:55.015Z,"59 km ESE of Pedro Bay, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2023-04-12T20:39:54.355Z,60.2478,-152.8391,0.3,1.1,ml,,,,0.43,ak,ak0234p0yjc2,2023-04-13T03:05:39.758Z,Southern Alaska,earthquake,,0.2,,,reviewed,ak,ak
+2023-04-13T03:16:58.081Z,58.0898,-155.5663,33.6,0.9,ml,,,,0.44,ak,ak0234qe8lm8,2023-04-13T03:18:42.130Z,Alaska Peninsula,earthquake,,3.8,,,automatic,ak,ak
+2023-04-13T03:08:36.700Z,38.8378334,-122.8013306,2.61,1.1,md,25.0,85.0,0.008599,0.02,nc,nc73872860,2023-04-13T03:10:12.295Z,"7km WNW of Cobb, CA",earthquake,0.23,0.48,0.15,25.0,automatic,nc,nc
+2023-04-13T03:07:18.120Z,36.5541649,-121.1681671,5.89,1.81,md,15.0,95.0,0.1063,0.37,nc,nc73872855,2023-04-13T03:17:38.108Z,"3km NW of Pinnacles, CA",earthquake,0.99,5.79,0.14,12.0,automatic,nc,nc
+2023-04-12T16:16:13.067Z,60.7061,-150.7132,47.6,1.4,ml,,,,0.54,ak,ak0234oyfmr0,2023-04-13T03:11:53.778Z,"19 km N of Sterling, Alaska",earthquake,,0.7,,,reviewed,ak,ak
