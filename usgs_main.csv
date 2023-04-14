@@ -1285,3 +1285,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-14T08:02:29.930Z,17.8581666666667,-66.8656666666667,13.64,2.68,md,10.0,252.0,0.117,0.14,pr,pr71404873,2023-04-14T08:12:35.500Z,Puerto Rico region,earthquake,0.77,0.29,0.162219736576193,4.0,reviewed,pr,pr
 2023-04-14T08:29:07.850Z,34.1628342,-117.4683304,10.5,1.61,ml,81.0,33.0,0.04506,0.19,ci,ci40440720,2023-04-14T08:31:25.770Z,"7km N of Fontana, CA",earthquake,0.23,0.31,0.241,16.0,automatic,ci,ci
 2023-04-14T08:24:46.380Z,38.8255005,-122.7701645,13.72,0.88,md,6.0,211.0,0.004967,0.04,nc,nc73873495,2023-04-14T08:26:20.697Z,"4km W of Cobb, CA",earthquake,3.09,8.77,,1.0,automatic,nc,nc
+2023-04-14T08:16:09.855Z,35.8493,-106.7742,10.028,2.5,ml,14.0,106.0,0.938,0.38,us,us6000k499,2023-04-14T08:36:05.040Z,"11 km NW of Jemez Springs, New Mexico",earthquake,2.68,8.508,0.064,32.0,reviewed,us,us
