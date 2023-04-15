@@ -1565,3 +1565,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-15T12:08:18.690Z,19.3693332672119,-155.294662475586,1.74000000953674,2.01,ml,16.0,118.0,,0.129999995,hv,hv73364512,2023-04-15T12:13:46.430Z,"10 km SW of Volcano, Hawaii",earthquake,0.31,0.409999996,0.26,7.0,automatic,hv,hv
 2023-04-15T12:06:49.020Z,19.2628326416016,-155.383163452148,33.0900001525879,1.84000003,md,32.0,140.0,,0.119999997,hv,hv73364507,2023-04-15T12:10:02.780Z,"12 km ENE of Pāhala, Hawaii",earthquake,0.82,0.620000005,0.920000017,3.0,automatic,hv,hv
 2023-04-15T12:17:42.192Z,-31.165,-178.6386,91.394,4.4,mb,24.0,137.0,1.996,0.69,us,us6000k4nx,2023-04-15T12:52:00.040Z,Kermadec Islands region,earthquake,11.07,9.716,0.143,18.0,reviewed,us,us
+2023-04-15T13:04:00.986Z,58.3337,-154.8499,1.2,1.5,ml,,,,0.28,ak,ak0234tv6xnm,2023-04-15T13:05:01.743Z,"88 km NNW of Karluk, Alaska",earthquake,,2.6,,,automatic,ak,ak
+2023-04-15T13:03:11.961Z,60.3618,-148.134,14.3,1.5,ml,,,,0.53,ak,ak0234tv6qsc,2023-04-15T13:04:59.080Z,"Kenai Peninsula, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-04-15T12:57:13.320Z,35.4981667,-118.398,3.76,1.27,ml,26.0,36.0,0.1756,0.24,ci,ci40441048,2023-04-15T13:00:56.101Z,"13km SE of Bodfish, CA",earthquake,0.35,1.25,0.141,17.0,automatic,ci,ci
+2023-04-15T12:50:40.818Z,65.7997,-150.3093,0.0,1.1,ml,,,,1.61,ak,ak0234tuvg3l,2023-04-15T12:53:59.678Z,northern Alaska,earthquake,,0.7,,,automatic,ak,ak
