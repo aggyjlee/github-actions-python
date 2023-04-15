@@ -1625,3 +1625,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-15T17:13:45.733Z,-23.6187,-179.4776,537.497,4.9,mb,41.0,107.0,4.646,1.03,us,us6000k4rw,2023-04-15T20:00:55.040Z,south of the Fiji Islands,earthquake,15.18,11.189,0.094,38.0,reviewed,us,us
 2023-04-15T20:38:15.490Z,33.4684982,-116.5631638,10.16,0.96,ml,24.0,63.0,0.0418,0.12,ci,ci40441216,2023-04-15T20:40:20.159Z,"14km SE of Anza, CA",earthquake,0.33,0.7,0.255,10.0,automatic,ci,ci
 2023-04-15T18:50:56.844Z,1.197,96.8409,21.495,4.3,mb,39.0,109.0,0.742,0.64,us,us6000k4sb,2023-04-15T20:49:43.040Z,"150 km SSE of Sinabang, Indonesia",earthquake,9.42,6.332,0.109,25.0,reviewed,us,us
+2023-04-15T20:55:24.814Z,60.0718,-152.5551,96.4,2.0,ml,,,,0.38,ak,ak0234tznyen,2023-04-15T20:59:32.735Z,"47 km WNW of Happy Valley, Alaska",earthquake,,2.0,,,automatic,ak,ak
+2023-04-15T20:48:42.270Z,19.1191673278809,-155.390167236328,30.4300003051758,1.92999995,md,34.0,187.0,,0.150000006,hv,hv73364827,2023-04-15T20:52:04.320Z,"13 km SE of Pāhala, Hawaii",earthquake,0.67,1.08000004,1.55999994,8.0,automatic,hv,hv
