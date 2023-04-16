@@ -1787,3 +1787,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-16T19:02:14.930Z,38.7966652,-122.8198318,1.31,1.07,md,19.0,95.0,0.01233,0.04,nc,nc73874335,2023-04-16T19:03:48.838Z,"6km WNW of The Geysers, CA",earthquake,0.22,0.38,0.19,21.0,automatic,nc,nc
 2023-04-16T19:20:28.610Z,33.3885,-116.896,10.29,0.69,ml,23.0,66.0,0.1136,0.18,ci,ci40441592,2023-04-16T19:23:59.850Z,"5km NW of Palomar Observatory, CA",earthquake,0.34,1.29,0.158,17.0,automatic,ci,ci
 2023-04-16T20:09:00.860Z,40.5299988,-124.3830032,17.3,2.44,md,14.0,242.0,0.06451,0.07,nc,nc73874380,2023-04-16T20:15:11.065Z,"11km WSW of Ferndale, CA",earthquake,1.35,0.38,0.12,10.0,automatic,nc,nc
+2023-04-16T18:28:26.224Z,65.0589,-146.9642,0.0,0.8,ml,,,,0.3,ak,ak0234vlunbq,2023-04-16T20:21:41.571Z,northern Alaska,explosion,,0.0,,,reviewed,ak,ak
