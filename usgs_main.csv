@@ -1680,3 +1680,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-16T01:09:22.642Z,61.9076,-151.3135,11.9,1.6,ml,,,,0.4,ak,ak0234vbm754,2023-04-16T01:11:26.565Z,Southern Alaska,earthquake,,0.3,,,automatic,ak,ak
 2023-04-16T01:05:39.430Z,38.845665,-122.8171692,1.38,1.27,md,22.0,63.0,0.0102,0.04,nc,nc73874100,2023-04-16T01:52:15.692Z,"9km WNW of Cobb, CA",earthquake,0.21,0.43,0.21,22.0,automatic,nc,nc
 2023-04-16T00:21:57.778Z,31.6892,-104.1285,5.0,2.5,ml,30.0,105.0,0.172,0.67,us,us6000k4u2,2023-04-16T00:46:15.040Z,western Texas,earthquake,1.05,1.016,0.048,58.0,reviewed,us,us
+2023-04-16T02:16:22.200Z,33.1746667,-115.924,3.35,0.98,ml,20.0,109.0,0.04509,0.28,ci,ci40441368,2023-04-16T02:20:09.420Z,"14km SSE of Salton City, CA",earthquake,0.51,0.89,0.109,18.0,automatic,ci,ci
