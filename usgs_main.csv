@@ -2065,3 +2065,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-17T22:04:35.846Z,58.1818,-155.2973,1.2,1.4,ml,,,,0.77,ak,ak0234xbmls5,2023-04-17T22:08:18.536Z,"84 km NW of Karluk, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-04-17T21:36:31.235Z,-31.8303,-178.6872,10.0,5.0,mb,29.0,77.0,2.644,0.28,us,us6000k56l,2023-04-17T22:14:42.040Z,Kermadec Islands region,earthquake,11.65,1.865,0.151,14.0,reviewed,us,us
 2023-04-17T22:22:19.888Z,63.5865,-148.8466,7.4,1.5,ml,,,,0.44,ak,ak0234xbqffo,2023-04-17T22:24:18.125Z,"16 km SSE of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-04-17T08:58:40.083Z,37.2056,-116.3713,8.3,-0.3,ml,7.0,111.34,0.033,0.0906,nn,nn00858326,2023-04-17T22:31:52.670Z,"47 km NE of Beatty, Nevada",earthquake,,1.7,1.04,6.0,reviewed,nn,nn
