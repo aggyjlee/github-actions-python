@@ -1880,3 +1880,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-17T06:54:05.380Z,33.7203333,-116.8373333,15.02,0.56,ml,20.0,161.0,0.07936,0.17,ci,ci40441776,2023-04-17T06:57:36.129Z,"6km ESE of Valle Vista, CA",earthquake,0.64,0.44,0.174,10.0,automatic,ci,ci
 2023-04-17T06:51:57.230Z,38.8068352,-122.7708359,1.35,0.74,md,9.0,123.0,0.01002,0.01,nc,nc73874585,2023-04-17T06:53:35.019Z,"4km NNW of The Geysers, CA",earthquake,0.48,0.81,0.04,9.0,automatic,nc,nc
 2023-04-17T04:21:41.310Z,19.1596666666667,-155.487666666667,31.35,1.56,md,19.0,206.0,,0.1,hv,hv73366247,2023-04-17T07:02:09.850Z,"Island of Hawaii, Hawaii",earthquake,0.69,0.81,0.123675889859931,11.0,reviewed,hv,hv
+2023-04-17T07:20:29.130Z,33.262001,-116.1013336,6.45,1.0,ml,37.0,70.0,0.1198,0.26,ci,ci40441784,2023-04-17T07:22:34.759Z,"14km NNE of Ocotillo Wells, CA",earthquake,0.35,1.92,0.205,3.0,automatic,ci,ci
