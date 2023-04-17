@@ -212,4 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-16T17:10:29.470Z,19.39,-155.2775,1.2,0.45,md,10,85,,0.06,hv,hv73365777,2023-04-16T17:22:06.110Z,"Hawaii region, Hawaii",earthquake,0.33,0.25,0.193426630602455,2,reviewed,hv,hv
 2023-04-16T17:05:47.930Z,19.4123333333333,-155.311833333333,3.48,1.84,md,23,75,,0.11,hv,hv73365762,2023-04-16T18:01:29.880Z,"8 km WSW of Volcano, Hawaii",earthquake,0.28,0.4,0.0619338269854945,5,reviewed,hv,hv
 2023-04-16T16:55:53.890Z,33.0443333,-116.4223333,6.13,0.78,ml,20,62,0.07299,0.27,ci,ci40441576,2023-04-16T16:59:27.764Z,"17km ESE of Julian, CA",earthquake,0.45,1.41,0.232,9,automatic,ci,ci
-2023-04-16T16:45:43.640Z,48.5265,-122.02516666666666,3.21,1.43,ml,10,69,0.02758,0.15,uw,uw61918051,2023-04-17T02:38:20.010Z,"2 km WNW of Hamilton, Washington",earthquake,0.34,0.4,0.2476810458278198,7,reviewed,uw,uw
