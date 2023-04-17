@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-04-17T21:08:40.220Z,19.382999420166,-155.276504516602,3.6800000667572,1.80999994,md,20,67,,0.219999999,hv,hv73367452,2023-04-17T21:11:36.390Z,"7 km SW of Volcano, Hawaii",earthquake,0.42,0.49000001,1.10000002,11,automatic,hv,hv
 2023-04-17T20:55:52.733Z,61.2696,-145.4997,24.1,1.8,ml,,,,0.59,ak,ak0234xaqpe1,2023-04-17T20:57:40.219Z,"46 km SSW of Tonsina, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-04-17T20:55:01.285Z,31.65891069,-104.3600458,6.388647461,3.5,ml,22,69,0.06143631365,0.3,tx,tx2023hngs,2023-04-17T21:16:09.624Z,"57 km S of Whites City, New Mexico",earthquake,1.243308607,1.254367582,0.2,15,reviewed,tx,tx
+2023-04-17T20:55:01.285Z,31.65891069,-104.3600458,6.388647461,3.5,ml,22,69,0.06143631365,0.3,tx,tx2023hngs,2023-04-17T21:24:54.862Z,"57 km S of Whites City, New Mexico",earthquake,1.243308607,1.254367582,0.2,15,reviewed,tx,tx
 2023-04-17T20:47:22.689Z,31.67400592,-104.3714802,6.285815430000001,2.6,ml,18,68,0.05461755525,0.2,tx,tx2023hngm,2023-04-17T21:02:22.136Z,"55 km S of Whites City, New Mexico",earthquake,0.9381091238,1.056836282,0.2,11,reviewed,tx,tx
 2023-04-17T20:30:41.570Z,34.0171667,-117.4611667,0.33,1.07,ml,21,96,0.07501,0.4,ci,ci40442072,2023-04-17T20:34:31.174Z,"2km ENE of Glen Avon, CA",earthquake,0.89,31.61,0.176,29,automatic,ci,ci
 2023-04-17T20:06:29.461Z,-4.4649,143.2355,78.845,5,mb,58,30,6.265,1.08,us,us6000k55j,2023-04-17T20:54:54.705Z,"53 km ESE of Ambunti, Papua New Guinea",earthquake,10.23,5.563,0.069,67,reviewed,us,us
