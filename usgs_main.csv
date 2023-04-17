@@ -2064,3 +2064,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-17T00:36:37.490Z,44.365,-110.669,4.48,1.21,md,8.0,107.0,0.07303,0.12,uu,uu60537326,2023-04-17T22:01:42.080Z,"47 km SE of West Yellowstone, Montana",earthquake,0.4,0.66,0.013,3.0,reviewed,uu,uu
 2023-04-17T22:04:35.846Z,58.1818,-155.2973,1.2,1.4,ml,,,,0.77,ak,ak0234xbmls5,2023-04-17T22:08:18.536Z,"84 km NW of Karluk, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-04-17T21:36:31.235Z,-31.8303,-178.6872,10.0,5.0,mb,29.0,77.0,2.644,0.28,us,us6000k56l,2023-04-17T22:14:42.040Z,Kermadec Islands region,earthquake,11.65,1.865,0.151,14.0,reviewed,us,us
+2023-04-17T22:22:19.888Z,63.5865,-148.8466,7.4,1.5,ml,,,,0.44,ak,ak0234xbqffo,2023-04-17T22:24:18.125Z,"16 km SSE of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
