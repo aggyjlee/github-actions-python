@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-18T09:39:50.960Z,40.4173317,-124.2774963,22.56,2.3,md,9,264,0.0954,0.04,nc,nc73875025,2023-04-18T09:41:26.631Z,"10km N of Petrolia, CA",earthquake,1.78,0.96,0.05,5,automatic,nc,nc
 2023-04-18T08:59:20.520Z,33.235,-116.169,3.99,0.92,ml,25,45,0.0791,0.27,ci,ci40442296,2023-04-18T09:02:57.201Z,"11km NNW of Ocotillo Wells, CA",earthquake,0.42,1.72,0.13,20,automatic,ci,ci
 2023-04-18T08:55:00.610Z,38.8359985,-122.7991638,2.23,0.76,md,14,65,0.007297,0.01,nc,nc73875020,2023-04-18T08:56:35.903Z,"7km WNW of Cobb, CA",earthquake,0.28,0.76,0.38,14,automatic,nc,nc
 2023-04-18T08:29:10.290Z,17.9655,-66.9526666666667,15.41,2.26,md,8,191,0.07051,0.14,pr,pr71405683,2023-04-18T08:42:30.090Z,"4 km WSW of Fuig, Puerto Rico",earthquake,0.55,0.76,0.0557344315992216,4,reviewed,pr,pr
@@ -174,5 +175,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-17T09:54:58.350Z,36.5701675,-121.0709991,11.29,1.94,md,20,129,0.02663,0.11,nc,nc73874635,2023-04-17T11:52:12.733Z,"8km ENE of Pinnacles, CA",earthquake,0.55,0.81,0.15,21,automatic,nc,nc
 2023-04-17T09:43:48.340Z,19.2443332672119,-155.407836914062,33,2.23,ml,42,130,,0.150000006,hv,hv73366642,2023-04-17T09:51:33.602Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.55,0.680000007,2.79,10,automatic,hv,hv
 2023-04-17T09:43:33.900Z,18.7923336029053,-155.485504150391,2.07999992370605,2.78,ml,20,309,,0.310000002,hv,hv73366637,2023-04-17T09:49:05.030Z,"32 km SSE of Naalehu, Hawaii",earthquake,3.54,2.93000007,2.99,9,automatic,hv,hv
-2023-04-17T09:41:54.880Z,36.5496674,-121.0995026,7.17,1.83,md,19,98,0.05618,0.23,nc,nc73874630,2023-04-17T11:25:12.552Z,"4km ENE of Pinnacles, CA",earthquake,0.72,1.83,0.15,13,automatic,nc,nc
-2023-04-17T09:39:19.660Z,36.5416679,-121.0968323,8.38,2.76,md,51,58,0.05896,0.28,nc,nc73874625,2023-04-17T19:47:43.409Z,"4km ENE of Pinnacles, CA",earthquake,0.44,1.1,0.1,56,automatic,nc,nc
