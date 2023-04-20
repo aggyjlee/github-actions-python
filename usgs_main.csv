@@ -2751,3 +2751,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-20T15:08:22.357Z,59.9994,-151.4492,58.8,1.2,ml,,,,0.44,ak,ak0235263fuj,2023-04-20T15:10:08.232Z,"13 km ESE of Ninilchik, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-04-20T15:00:01.595Z,13.909,-91.2913,54.782,4.9,mb,40.0,151.0,1.468,0.75,us,us6000k5ss,2023-04-20T15:15:50.040Z,"32 km SW of La Gomera, Guatemala",earthquake,10.19,4.486,0.029,364.0,reviewed,us,us
 2023-04-20T14:50:24.689Z,30.6153,132.3872,10.0,4.6,mb,45.0,123.0,1.884,0.65,us,us6000k5sn,2023-04-20T15:21:55.040Z,"southeast of Shikoku, Japan",earthquake,6.67,1.876,0.079,50.0,reviewed,us,us
+2023-04-20T16:05:10.420Z,34.9846649,-118.9660034,16.24,1.7,ml,24.0,98.0,0.06614,0.19,ci,ci40443112,2023-04-20T16:07:26.045Z,"6km NW of Grapevine, CA",earthquake,0.43,0.94,0.216,8.0,automatic,ci,ci
+2023-04-20T08:43:28.490Z,33.703,-116.725,16.14,0.32,ml,18.0,132.0,0.01216,0.11,ci,ci40443024,2023-04-20T16:00:51.874Z,"4km S of Idyllwild, CA",earthquake,0.35,0.33,0.098,6.0,reviewed,ci,ci
