@@ -2712,3 +2712,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-20T12:22:55.870Z,19.3865,-155.280833333333,1.12,0.16,md,14.0,73.0,,0.08,hv,hv73370162,2023-04-20T12:38:50.840Z,"7 km SW of Volcano, Hawaii",earthquake,0.27,0.21,0.0222467017152278,3.0,reviewed,hv,hv
 2023-04-20T12:18:47.780Z,19.388,-155.279833333333,1.27,0.65,md,10.0,92.0,,0.06,hv,hv73370157,2023-04-20T12:30:17.750Z,"7 km SW of Volcano, Hawaii",earthquake,0.32,0.26,0.0086156657251073,2.0,reviewed,hv,hv
 2023-04-19T23:19:34.930Z,38.7545,-122.7131667,1.53,0.39,md,12.0,72.0,0.01157,0.04,nc,nc73875635,2023-04-20T12:10:44.734Z,"3km SW of Anderson Springs, CA",earthquake,0.35,0.4,0.337,7.0,reviewed,nc,nc
+2023-04-20T12:54:02.330Z,34.099,-116.6386667,3.24,1.32,ml,27.0,84.0,0.06082,0.17,ci,ci40443064,2023-04-20T12:57:37.028Z,"8km NW of Morongo Valley, CA",earthquake,0.28,0.65,0.23,27.0,automatic,ci,ci
+2023-04-20T12:47:12.459Z,60.3183,-151.8761,64.3,1.7,ml,,,,0.54,ak,ak023524jh71,2023-04-20T12:49:18.002Z,"28 km WNW of Clam Gulch, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-04-19T18:52:08.199Z,36.69966667,-98.78316667,7.93,1.62,ml,21.0,109.0,0.135873337,0.13,ok,ok2023hqtr,2023-04-20T12:45:08.926Z,"0 km E of Avard, Oklahoma",earthquake,,0.5,0.23,11.0,reviewed,ok,ok
