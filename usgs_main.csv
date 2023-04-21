@@ -3049,3 +3049,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-21T11:53:07.595Z,-22.7805,-68.7126,122.37,4.2,mb,21.0,76.0,0.521,0.55,us,us6000k621,2023-04-21T12:11:07.040Z,"41 km SSE of Calama, Chile",earthquake,2.03,6.148,0.216,6.0,reviewed,us,us
 2023-04-21T09:01:44.070Z,40.5085,-124.4146667,17.8,1.75,md,24.0,236.0,0.06743,0.1,nc,nc73876190,2023-04-21T12:31:10.405Z,"15km WSW of Ferndale, CA",earthquake,0.51,0.31,0.083,12.0,reviewed,nc,nc
 2023-04-21T08:30:10.800Z,37.2778333,-121.6455,7.33,0.95,md,21.0,42.0,0.02897,0.07,nc,nc73876180,2023-04-21T12:27:10.381Z,"16km N of Morgan Hill, CA",earthquake,0.19,0.31,0.218,21.0,reviewed,nc,nc
+2023-04-21T12:50:53.913Z,60.9394,-145.4009,30.0,1.4,ml,,,,1.07,ak,ak02353s3k1b,2023-04-21T12:53:23.463Z,Southern Alaska,earthquake,,0.3,,,automatic,ak,ak
+2023-04-21T12:39:06.171Z,-16.2594,-175.9821,361.38,4.5,mb,29.0,116.0,2.833,0.52,us,us6000k62b,2023-04-21T12:57:07.040Z,"236 km W of Hihifo, Tonga",earthquake,9.07,7.936,0.094,33.0,reviewed,us,us
+2023-04-21T12:21:09.118Z,2.8082,127.156,52.351,4.5,mb,30.0,137.0,2.034,0.6,us,us6000k628,2023-04-21T12:45:42.040Z,"152 km NW of Tobelo, Indonesia",earthquake,7.85,8.786,0.109,26.0,reviewed,us,us
