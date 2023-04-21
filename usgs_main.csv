@@ -2963,3 +2963,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-21T03:08:43.616Z,62.7696,-148.4552,54.8,1.5,ml,,,,0.55,ak,ak02353mhmq0,2023-04-21T03:12:12.973Z,"73 km SSE of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-04-21T03:08:02.976Z,61.9817,-148.494,41.4,1.1,ml,,,,1.32,ak,ak02353mhjlt,2023-04-21T03:10:56.283Z,"20 km N of Chickaloon, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-04-20T23:57:42.060Z,61.4751666666667,-151.982166666667,3.82,0.11,ml,8.0,178.0,,0.08,av,av91856276,2023-04-21T03:14:28.840Z,Southern Alaska,earthquake,0.67,0.73,0.299651316929473,8.0,reviewed,av,av
+2023-04-20T22:42:51.520Z,51.8541666666667,-178.053166666667,-1.8,0.59,ml,5.0,169.0,,0.14,av,av91856231,2023-04-21T03:31:31.540Z,"97 km W of Adak, Alaska",earthquake,0.46,1.08,0.473056832745623,5.0,reviewed,av,av
+2023-04-20T22:36:56.240Z,51.859,-178.0685,-1.8,0.7,ml,4.0,186.0,,0.19,av,av91856216,2023-04-21T03:27:24.450Z,"98 km W of Adak, Alaska",earthquake,0.54,1.42,0.1601778908852,4.0,reviewed,av,av
+2023-04-20T22:36:01.960Z,51.8566666666667,-178.065166666667,-1.8,1.47,ml,5.0,185.0,,0.14,av,av91856211,2023-04-21T03:21:56.210Z,"98 km W of Adak, Alaska",earthquake,0.44,1.09,0.235476962911175,5.0,reviewed,av,av
