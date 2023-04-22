@@ -3430,3 +3430,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-22T17:26:54.390Z,33.5133333,-116.452,7.25,0.68,ml,19.0,67.0,0.02416,0.16,ci,ci40444208,2023-04-22T17:30:21.257Z,"21km ESE of Anza, CA",earthquake,0.31,0.61,0.112,15.0,automatic,ci,ci
 2023-04-22T17:24:34.520Z,33.5073333,-116.4583333,4.46,1.8,ml,61.0,31.0,0.03162,0.2,ci,ci40444200,2023-04-22T17:28:14.270Z,"21km ESE of Anza, CA",earthquake,0.17,0.42,0.194,26.0,automatic,ci,ci
 2023-04-22T17:09:45.940Z,-0.7535,98.5882,29.321,5.7,mww,156.0,36.0,2.281,0.75,us,us6000k6eh,2023-04-22T17:29:44.040Z,"170 km SSE of Teluk Dalam, Indonesia",earthquake,6.78,4.425,0.063,24.0,reviewed,us,us
+2023-04-22T17:32:56.212Z,65.5609,-144.039,1.8,1.5,ml,,,,0.58,ak,ak02355ii7ud,2023-04-22T17:34:43.101Z,"29 km S of Circle, Alaska",earthquake,,0.4,,,automatic,ak,ak
