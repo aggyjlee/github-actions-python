@@ -3695,3 +3695,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-23T21:51:22.770Z,38.4141655,-122.7896652,4.26,1.32,md,6.0,227.0,0.18,0.09,nc,nc73877125,2023-04-23T22:03:55.697Z,"3km ENE of Sebastopol, CA",earthquake,3.14,8.33,0.19,3.0,automatic,nc,nc
 2023-04-23T22:05:32.539Z,61.9343,-151.2455,75.6,2.4,ml,,,,0.65,ak,ak023578uw79,2023-04-23T22:07:48.802Z,"10 km SE of Skwentna, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-04-23T20:05:55.120Z,46.93783333333333,-121.9575,12.74,0.4,ml,17.0,116.0,0.03358,0.11,uw,uw61919221,2023-04-23T22:17:46.410Z,"17 km SSE of Carbonado, Washington",earthquake,0.48,0.48,0.089448028703264,10.0,reviewed,uw,uw
+2023-04-23T22:29:45.460Z,35.536,-117.4438333,4.12,1.04,ml,11.0,85.0,0.05257,0.23,ci,ci40444632,2023-04-23T22:33:19.182Z,"23km ESE of Ridgecrest, CA",earthquake,0.5,1.05,0.115,6.0,automatic,ci,ci
