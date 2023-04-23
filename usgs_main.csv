@@ -3668,3 +3668,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-23T19:52:52.780Z,33.9068333,-116.932,12.14,0.85,ml,20.0,115.0,0.04293,0.23,ci,ci40444592,2023-04-23T19:56:25.598Z,"5km ESE of Beaumont, CA",earthquake,0.55,1.11,0.189,19.0,automatic,ci,ci
 2023-04-23T18:21:45.843Z,43.8644,-76.0011,6.101,1.5,ml,8.0,84.0,0.454,0.47,us,us6000k6l8,2023-04-23T20:05:05.040Z,"0 km NE of Adams Center, New York",earthquake,1.47,5.002,0.105,12.0,reviewed,us,us
 2023-04-23T03:48:36.960Z,40.315,-124.4415,16.31,1.66,md,18.0,251.0,0.08016,0.13,nc,nc73876810,2023-04-23T20:03:16.743Z,"13km W of Petrolia, CA",earthquake,0.62,0.52,0.133,11.0,reviewed,nc,nc
+2023-04-23T20:09:24.560Z,38.8253326,-122.8073349,7.73,0.2,md,6.0,173.0,0.002885,0.03,nc,nc73877055,2023-04-23T20:11:02.795Z,"7km NW of The Geysers, CA",earthquake,2.26,7.61,0.08,7.0,automatic,nc,nc
+2023-04-23T18:23:47.939Z,43.8493,-76.0197,9.622,1.5,ml,9.0,83.0,0.44,0.25,us,us6000k6lb,2023-04-23T20:11:59.533Z,"1 km SW of Adams Center, New York",earthquake,1.09,7.122,0.105,12.0,reviewed,us,us
+2023-04-23T07:40:41.720Z,33.0533333,-115.5726667,6.14,1.13,ml,12.0,61.0,0.01692,0.19,ci,ci37532284,2023-04-23T20:14:13.123Z,"5km ENE of Westmorland, CA",earthquake,0.34,0.74,0.288,9.0,reviewed,ci,ci
