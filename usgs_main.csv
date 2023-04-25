@@ -4210,3 +4210,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-25T20:06:39.310Z,35.7936667,-117.5903333,6.78,0.99,ml,18.0,87.0,0.02279,0.15,ci,ci40445536,2023-04-25T20:10:23.266Z,"17km W of Searles Valley, CA",earthquake,0.39,0.7,0.2,10.0,automatic,ci,ci
 2023-04-25T12:43:22.360Z,37.659,-122.4975,4.49,0.75,md,8.0,169.0,0.02286,0.05,nc,nc73877600,2023-04-25T20:06:59.922Z,"4km WSW of Colma, CA",earthquake,0.45,0.42,0.057,4.0,reviewed,nc,nc
 2023-04-25T08:49:34.606Z,31.68163958,-104.399542,6.851391602,2.1,ml,28.0,74.0,0.022508165,0.3,tx,tx2023iayv,2023-04-25T20:08:03.914Z,"54 km S of Whites City, New Mexico",earthquake,1.207619102,0.9407982176,0.1,11.0,reviewed,tx,tx
+2023-04-25T20:20:07.963Z,60.2794,-152.1289,85.4,1.4,ml,,,,0.2,ak,ak0235aitvto,2023-04-25T20:22:14.604Z,"36 km NW of Ninilchik, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2023-04-25T03:18:39.370Z,38.7623333,-122.7063333,1.56,0.76,md,17.0,60.0,0.008028,0.04,nc,nc73877480,2023-04-25T20:26:33.593Z,"2km SW of Anderson Springs, CA",earthquake,0.24,0.27,0.261,16.0,reviewed,nc,nc
