@@ -4060,3 +4060,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-25T09:05:00.540Z,62.3069,-151.3782,91.5,2.2,ml,,,,0.54,ak,ak0235ac6vts,2023-04-25T09:07:15.441Z,"35 km N of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-04-25T09:34:24.270Z,19.2199993133545,-155.388000488281,29.3999996185303,2.23000002,md,27.0,169.0,,0.0900000036,hv,hv73375777,2023-04-25T09:37:43.460Z,"9 km E of Pāhala, Hawaii",earthquake,0.76,1.71000004,1.48000002,3.0,automatic,hv,hv
 2023-04-25T09:19:42.530Z,19.4575,-65.8143,87.0,3.73,md,11.0,248.0,1.2669,0.45,pr,pr2023115000,2023-04-25T09:47:04.715Z,"113 km N of Suárez, Puerto Rico",earthquake,6.43,11.77,0.13,4.0,reviewed,pr,pr
+2023-04-25T09:58:59.330Z,33.764,-116.9343333,14.2,0.95,ml,30.0,53.0,0.07722,0.21,ci,ci40445200,2023-04-25T10:02:37.092Z,"3km SE of San Jacinto, CA",earthquake,0.31,0.65,0.151,29.0,automatic,ci,ci
