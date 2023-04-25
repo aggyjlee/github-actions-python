@@ -4164,3 +4164,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-25T17:21:03.860Z,64.2516,-147.3789,0.0,1.4,ml,,,,0.39,ak,ak0235ah1seq,2023-04-25T17:23:03.900Z,"38 km SW of Salcha, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-25T13:07:28.843Z,39.7976,-120.7193,10.5,1.0,ml,5.0,243.02,0.285,0.1223,nn,nn00858670,2023-04-25T17:19:42.290Z,Northern California,earthquake,,8.5,0.31,3.0,reviewed,nn,nn
 2023-04-25T00:51:54.620Z,44.4466667,-110.6,4.33,1.68,md,9.0,129.0,0.01293,0.14,uu,uu60538146,2023-04-25T17:23:43.160Z,"46 km ESE of West Yellowstone, Montana",earthquake,0.57,0.47,0.201,5.0,reviewed,uu,uu
+2023-04-25T17:17:42.750Z,18.0033333333333,-66.9348333333333,13.31,1.7,md,3.0,205.0,0.05991,0.23,pr,pr71406728,2023-04-25T17:28:53.190Z,Puerto Rico region,earthquake,6.8,2.63,0.119484935442804,3.0,reviewed,pr,pr
+2023-04-25T00:52:55.340Z,44.4488333,-110.5811667,2.46,1.83,md,5.0,233.0,0.05384,0.08,uu,uu60033264,2023-04-25T17:28:53.450Z,"47 km ESE of West Yellowstone, Montana",earthquake,0.96,31.61,0.783,3.0,reviewed,uu,uu
