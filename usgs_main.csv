@@ -4495,3 +4495,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-26T17:26:37.720Z,38.8131676,-122.7955017,1.8,1.08,md,18.0,39.0,0.005194,0.03,nc,nc73880631,2023-04-26T17:28:11.947Z,"5km NW of The Geysers, CA",earthquake,0.23,0.54,0.06,20.0,automatic,nc,nc
 2023-04-26T15:06:28.390Z,44.6161667,-110.7235,4.84,0.79,md,8.0,127.0,0.05839,0.08,uu,uu60538341,2023-04-26T17:28:07.580Z,"30 km E of West Yellowstone, Montana",earthquake,0.66,0.58,0.337,6.0,reviewed,uu,uu
 2023-04-26T09:41:12.959Z,38.7784,-118.6639,8.3,1.0,ml,9.0,87.53,0.515,0.1603,nn,nn00858720,2023-04-26T17:31:31.169Z,"16 km NNE of Walker Lake, Nevada",earthquake,,2.7,0.2,5.0,reviewed,nn,nn
+2023-04-26T12:13:04.167Z,36.6923,-116.3086,5.3,-0.1,ml,5.0,161.04,0.037,0.0567,nn,nn00858722,2023-04-26T17:40:53.085Z,"46 km ESE of Beatty, Nevada",earthquake,,4.7,0.0,1.0,reviewed,nn,nn
+2023-04-26T11:17:43.807Z,39.2647,-120.1206,7.7,0.1,ml,3.0,242.45,0.057,0.0059,nn,nn00858721,2023-04-26T17:37:46.815Z,"5 km NW of Carnelian Bay, California",earthquake,,8.0,0.0,1.0,reviewed,nn,nn
