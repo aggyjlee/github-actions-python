@@ -4346,3 +4346,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-26T04:37:45.625Z,60.4695,-150.9301,25.7,1.4,ml,,,,0.63,ak,ak0235bwy0pu,2023-04-26T04:39:56.260Z,"Kenai Peninsula, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-26T04:32:38.534Z,63.1779,-151.8768,6.2,1.4,ml,,,,0.63,ak,ak0235bwwxl9,2023-04-26T04:34:49.834Z,"41 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-26T04:20:26.603Z,13.9721,145.1109,118.644,4.5,mb,22.0,78.0,0.448,0.53,us,us7000jvy2,2023-04-26T04:49:23.888Z,"53 km NNE of Yigo Village, Guam",earthquake,10.18,6.608,0.055,98.0,reviewed,us,us
+2023-04-26T05:03:42.290Z,33.163166,-116.5203323,15.3,1.12,ml,23.0,102.0,0.1099,0.24,ci,ci40445720,2023-04-26T05:05:48.588Z,"12km NE of Julian, CA",earthquake,0.52,0.92,0.367,4.0,automatic,ci,ci
