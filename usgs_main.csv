@@ -4821,3 +4821,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-27T16:23:09.810Z,34.1351667,-116.9345,4.69,0.84,ml,16.0,97.0,0.04153,0.16,ci,ci40211511,2023-04-27T16:26:44.115Z,"12km S of Big Bear Lake, CA",earthquake,0.39,0.7,0.057,13.0,automatic,ci,ci
 2023-04-27T04:36:44.548Z,39.9577,-120.0107,12.9,0.3,ml,4.0,153.69,0.143,0.1799,nn,nn00858758,2023-04-27T16:31:30.893Z,"11 km SE of Doyle, California",earthquake,,7.6,0.02,3.0,reviewed,nn,nn
 2023-04-27T02:22:11.181Z,31.60463164,-104.2041208,7.262719727000001,2.3,ml,36.0,68.0,0.07188770957,0.2,tx,tx2023iedb,2023-04-27T16:26:25.629Z,"50 km NW of Toyah, Texas",earthquake,1.1855576139999997,1.051054348,0.1,18.0,reviewed,tx,tx
+2023-04-27T16:36:30.540Z,33.6463333,-116.7243333,13.3,1.56,ml,55.0,30.0,0.06211,0.18,ci,ci40211543,2023-04-27T16:40:19.394Z,"10km S of Idyllwild, CA",earthquake,0.19,0.34,0.216,26.0,automatic,ci,ci
