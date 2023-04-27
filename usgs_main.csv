@@ -4732,3 +4732,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-27T09:05:22.400Z,38.8274994,-122.8043365,2.57,0.38,md,8.0,105.0,0.006073,0.01,nc,nc73880841,2023-04-27T09:06:55.104Z,"7km NW of The Geysers, CA",earthquake,0.5,1.74,0.23,8.0,automatic,nc,nc
 2023-04-27T09:26:30.218Z,61.5327,-150.0134,21.9,1.2,ml,,,,0.41,ak,ak0235dne565,2023-04-27T09:28:44.376Z,"3 km WNW of Big Lake, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-27T09:24:19.020Z,19.1620006561279,-155.490325927734,32.4700012207031,1.84000003,md,33.0,164.0,,0.109999999,hv,hv73378577,2023-04-27T09:27:31.510Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.67,1.0,1.84000003,4.0,automatic,hv,hv
+2023-04-27T09:35:09.490Z,38.824501,-122.786499,1.67,1.27,md,12.0,64.0,0.01211,0.02,nc,nc73880846,2023-04-27T09:36:45.605Z,"6km W of Cobb, CA",earthquake,0.37,0.56,0.23,13.0,automatic,nc,nc
