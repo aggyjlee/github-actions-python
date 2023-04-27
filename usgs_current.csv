@@ -1,9 +1,13 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-04-27T08:09:20.500Z,19.3361663818359,-155.123168945312,4.8600001335144,2.96,ml,37,116,,0.140000001,hv,hv73378487,2023-04-27T08:21:12.060Z,"14 km S of Fern Forest, Hawaii",earthquake,0.45,0.620000005,1.87,25,automatic,hv,hv
+2023-04-27T08:28:33.870Z,33.1360016,-116.6493301,4.18,1.64,ml,79,24,0.063,0.21,ci,ci40446136,2023-04-27T08:30:47.777Z,"8km NW of Julian, CA",earthquake,0.19,0.68,0.245,25,automatic,ci,ci
+2023-04-27T08:26:24.010Z,34.033,-116.8488333,20.4,0.99,ml,33,68,0.03416,0.21,ci,ci40446128,2023-04-27T08:29:57.771Z,"12km NNE of Banning, CA",earthquake,0.34,0.69,0.217,25,automatic,ci,ci
+2023-04-27T08:24:48.170Z,57.4756,-157.0861,99.2,2,ml,,,,0.32,ak,ak0235dmsbip,2023-04-27T08:26:43.363Z,"19 km ESE of Ugashik, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-04-27T08:09:20.500Z,19.3361663818359,-155.123168945312,4.8600001335144,2.96,ml,37,116,,0.140000001,hv,hv73378487,2023-04-27T08:26:14.524Z,"14 km S of Fern Forest, Hawaii",earthquake,0.45,0.620000005,1.87,25,automatic,hv,hv
+2023-04-27T08:06:59.787Z,25.9991,128.5732,10,4.9,mb,53,72,0.876,0.97,us,us7000jw7k,2023-04-27T08:26:49.040Z,"79 km ESE of Katsuren-haebaru, Japan",earthquake,6.15,1.878,0.057,98,reviewed,us,us
 2023-04-27T08:01:19.641Z,61.4897,-146.5419,27.9,1.7,ml,,,,0.96,ak,ak0235dmnbuk,2023-04-27T08:04:08.268Z,"41 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-27T07:58:36.482Z,39.5093,-119.1533,10.3,1.9,ml,16,103.84,0.425,0.1853,nn,nn00858754,2023-04-27T08:00:47.378Z,"12 km NNE of Silver Springs, Nevada",earthquake,,1.4,0.23,8,automatic,nn,nn
 2023-04-27T07:45:10.451Z,61.141,-151.5945,72.2,2,ml,,,,0.25,ak,ak0235dmbb1h,2023-04-27T07:47:08.928Z,"25 km WNW of Tyonek, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-04-27T07:43:38.176Z,26.0762,128.5545,10,5.3,mww,105,48,0.798,1.01,us,us7000jw7e,2023-04-27T08:14:45.908Z,"73 km SE of Ginoza, Japan",earthquake,5.65,1.835,0.066,22,reviewed,us,us
+2023-04-27T07:43:38.176Z,26.0762,128.5545,10,5.3,mww,105,48,0.798,1.01,us,us7000jw7e,2023-04-27T08:28:10.666Z,"73 km SE of Ginoza, Japan",earthquake,5.65,1.835,0.066,22,reviewed,us,us
 2023-04-27T07:28:39.354Z,59.6207,-152.3025,66.6,1.4,ml,,,,0.42,ak,ak0235dm7q3j,2023-04-27T07:30:40.409Z,"31 km WSW of Anchor Point, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-04-27T07:27:11.821Z,62.8097,-150.7089,113.5,1.4,ml,,,,0.87,ak,ak0235dm7g9a,2023-04-27T07:29:14.985Z,"35 km N of Petersville, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-04-27T07:14:16.580Z,17.9883333333333,-66.8238333333333,12.58,2.39,md,6,188,0.05438,0.1,pr,pr71406848,2023-04-27T07:30:42.820Z,"0 km SW of Indios, Puerto Rico",earthquake,0.81,0.77,0.0788077116280643,3,reviewed,pr,pr
