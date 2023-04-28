@@ -5373,3 +5373,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-28T13:54:17.501Z,53.3125,-160.048,12.0,2.5,ml,,,,1.06,ak,ak0235fdh95g,2023-04-28T23:28:11.687Z,"227 km S of Sand Point, Alaska",earthquake,,0.0,,,reviewed,ak,ak
 2023-04-28T09:55:35.270Z,58.1786666666667,-155.3425,0.98,0.02,ml,8.0,170.0,,0.11,av,av91866516,2023-04-28T23:27:28.190Z,"85 km NW of Karluk, Alaska",earthquake,0.28,1.19,0.194080106421051,8.0,reviewed,av,av
 2023-04-28T09:34:49.790Z,54.7578333333333,-164.1015,5.9,0.4,ml,6.0,171.0,,0.25,av,av91098613,2023-04-28T23:31:15.160Z,"45 km WSW of False Pass, Alaska",earthquake,0.96,1.05,0.240201528963064,6.0,reviewed,av,av
+2023-04-28T23:38:03.090Z,32.6801682,-115.4943314,0.08,1.44,ml,11.0,180.0,0.1311,0.28,ci,ci40213623,2023-04-28T23:40:16.561Z,"0km ENE of Calexico, CA",earthquake,1.44,1.87,0.229,4.0,automatic,ci,ci
+2023-04-28T18:30:32.313Z,54.9876,-157.6757,33.4,2.5,ml,,,,0.81,ak,ak0235fgbam2,2023-04-28T23:38:32.583Z,"138 km SE of Perryville, Alaska",earthquake,,3.5,,,reviewed,ak,ak
+2023-04-28T10:29:55.570Z,58.1776666666667,-155.315166666667,0.72,-0.32,ml,5.0,165.0,,0.03,av,av91866546,2023-04-28T23:37:57.930Z,"84 km NW of Karluk, Alaska",earthquake,0.22,1.07,0.229433263068323,5.0,reviewed,av,av
+2023-04-28T10:11:37.900Z,58.192,-155.274166666667,2.88,0.7,ml,11.0,140.0,,0.08,av,av91866521,2023-04-28T23:35:42.300Z,"84 km NW of Karluk, Alaska",earthquake,0.22,0.51,0.401553871262773,11.0,reviewed,av,av
