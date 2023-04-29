@@ -5697,3 +5697,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-29T19:05:39.687Z,60.1265,-150.5213,236.2,0.7,ml,,,,1.09,ak,ak0235h4aubt,2023-04-29T19:08:52.194Z,"38 km NE of Fox River, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2023-04-29T19:04:20.600Z,38.7278328,-122.9171677,6.42,1.46,md,34.0,94.0,0.06873,0.05,nc,nc73881941,2023-04-29T19:07:12.573Z,"12km SE of Cloverdale, CA",earthquake,0.26,0.88,0.12,33.0,automatic,nc,nc
 2023-04-29T19:02:33.090Z,32.7443333,-115.5465,6.03,1.97,ml,21.0,115.0,0.06607,0.3,ci,ci40214823,2023-04-29T19:06:16.434Z,"2km NW of Heber, CA",earthquake,0.7,1.62,0.19,27.0,automatic,ci,ci
+2023-04-29T18:25:49.470Z,18.0213333333333,-66.7766666666667,18.98,2.75,md,15.0,151.0,0.1079,0.09,pr,pr71407228,2023-04-29T19:16:22.000Z,"0 km WNW of Magas Arriba, Puerto Rico",earthquake,0.37,0.57,0.187200799779181,4.0,reviewed,pr,pr
