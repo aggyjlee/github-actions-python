@@ -5766,3 +5766,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-29T23:08:08.506Z,37.2686,-114.8744,11.9,3.0,ml,23.0,182.85,0.197,0.3799,nn,nn00858896,2023-04-29T23:14:40.062Z,"27 km ESE of Alamo, Nevada",earthquake,,1.0,0.83,16.0,automatic,nn,nn
 2023-04-29T23:06:27.195Z,61.5234,-149.8909,46.2,1.1,ml,,,,0.34,ak,ak0235h6om2n,2023-04-29T23:08:20.114Z,Southern Alaska,earthquake,,0.9,,,automatic,ak,ak
 2023-04-29T22:37:57.156Z,-4.9285,133.8739,10.0,5.1,mb,62.0,42.0,2.571,0.93,us,us7000jx29,2023-04-29T23:02:55.040Z,"146 km ENE of Tual, Indonesia",earthquake,8.12,1.851,0.064,80.0,reviewed,us,us
+2023-04-29T23:29:58.331Z,63.2446,-145.3489,2.2,1.6,ml,,,,0.77,ak,ak0235h6tly1,2023-04-29T23:32:01.743Z,"21 km NE of Paxson, Alaska",earthquake,,0.2,,,automatic,ak,ak
