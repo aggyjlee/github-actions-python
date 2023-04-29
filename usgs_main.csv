@@ -5464,3 +5464,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-29T06:41:34.910Z,38.8059998,-122.8143311,3.09,1.09,md,25.0,61.0,0.01195,0.02,nc,nc73881666,2023-04-29T06:43:08.002Z,"6km WNW of The Geysers, CA",earthquake,0.23,0.47,0.13,25.0,automatic,nc,nc
 2023-04-29T06:00:37.920Z,-21.3964,-177.3208,293.992,4.3,mb,20.0,137.0,1.988,0.74,us,us7000jwwj,2023-04-29T06:56:03.040Z,"210 km W of Houma, Tonga",earthquake,17.57,12.171,0.137,15.0,reviewed,us,us
 2023-04-28T14:25:09.591Z,56.2046,-148.6122,10.0,3.1,ml,36.0,248.0,2.688,0.42,us,us7000jwnd,2023-04-29T06:56:37.040Z,"272 km SE of Chiniak, Alaska",earthquake,7.89,2.002,0.056,42.0,reviewed,us,us
+2023-04-29T07:16:01.460Z,32.7046661,-115.5583344,9.57,1.49,ml,12.0,121.0,0.05626,0.26,ci,ci40213967,2023-04-29T07:18:24.723Z,"4km SW of Heber, CA",earthquake,0.86,1.59,0.19,4.0,automatic,ci,ci
+2023-04-29T07:15:15.620Z,38.831665,-122.817337,1.65,1.05,md,16.0,55.0,0.01002,0.02,nc,nc73881676,2023-04-29T07:16:53.179Z,"8km NW of The Geysers, CA",earthquake,0.28,0.41,0.28,18.0,automatic,nc,nc
