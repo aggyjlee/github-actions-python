@@ -5431,3 +5431,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-29T03:11:56.630Z,32.7778333,-115.6253333,18.68,1.52,ml,7.0,208.0,0.01307,0.22,ci,ci40213823,2023-04-29T03:15:31.975Z,"6km W of El Centro, CA",earthquake,2.89,1.21,0.295,19.0,automatic,ci,ci
 2023-04-29T03:06:16.390Z,34.407,-119.838,3.49,1.41,ml,14.0,218.0,0.07127,0.26,ci,ci40213807,2023-04-29T03:09:52.889Z,"2km ESE of Isla Vista, CA",earthquake,1.15,1.9,0.185,16.0,automatic,ci,ci
 2023-04-29T03:04:23.709Z,59.7717,-150.7577,35.9,1.9,ml,,,,0.61,ak,ak0235guri9u,2023-04-29T03:06:21.246Z,"14 km SE of Fox River, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2023-04-29T03:27:12.429Z,59.3432,-144.991,13.8,3.8,ml,,,,0.69,ak,ak0235guwev3,2023-04-29T03:29:18.588Z,"140 km SSE of Cordova, Alaska",earthquake,,0.5,,,automatic,ak,ak
