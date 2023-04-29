@@ -302,6 +302,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-28T09:34:49.790Z,54.7578333333333,-164.1015,5.9,0.4,ml,6,171,,0.25,av,av91098613,2023-04-28T23:31:15.160Z,"45 km WSW of False Pass, Alaska",earthquake,0.96,1.05,0.240201528963064,6,reviewed,av,av
 2023-04-28T09:32:54.560Z,37.665,-118.8071667,3.21,0.19,md,9,218,0.01488,0.02,nc,nc73881351,2023-04-28T17:40:15.861Z,"15km ENE of Mammoth Lakes, CA",earthquake,0.8,0.8,0.238,10,reviewed,nc,nc
 2023-04-28T09:29:48.480Z,58.1825,-155.301666666667,2.07,-0.33,ml,7,157,,0.06,av,av91866481,2023-04-28T23:13:17.340Z,"84 km NW of Karluk, Alaska",earthquake,0.24,0.46,0.214436905681313,7,reviewed,av,av
-2023-04-28T09:21:40.310Z,36.0323333,-120.6033333,4.7,0.55,md,14,103,0.03685,0.08,nc,nc73881346,2023-04-28T10:30:16.335Z,"22km NW of Parkfield, CA",earthquake,0.34,0.64,0.488,7,reviewed,nc,nc
-2023-04-28T09:20:40.410Z,51.8576666666667,-178.0855,3.57,1.12,ml,5,207,,0.16,av,av91866466,2023-04-28T23:06:15.660Z,"99 km W of Adak, Alaska",earthquake,0.66,0.46,0.140256191788162,5,reviewed,av,av
-2023-04-28T09:19:52.753Z,-4.7649,133.8971,10,5.7,mww,76,43,2.463,0.52,us,us7000jwl9,2023-04-28T11:23:02.957Z,"158 km NE of Tual, Indonesia",earthquake,7.58,1.855,0.052,35,reviewed,us,us
