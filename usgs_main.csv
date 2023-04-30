@@ -6003,3 +6003,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-30T15:04:52.630Z,34.222,-117.9155,0.44,1.48,ml,8.0,99.0,0.3449,0.22,ci,ci40216087,2023-04-30T15:08:36.918Z,"10km NNE of Bradbury, CA",earthquake,0.93,31.61,0.26,23.0,automatic,ci,ci
 2023-04-30T15:21:22.800Z,34.993,-118.5315018,8.45,1.74,ml,11.0,89.0,0.1379,0.08,ci,ci40216111,2023-04-30T15:23:52.992Z,"17km SSW of Tehachapi, CA",earthquake,0.35,1.64,0.384,4.0,automatic,ci,ci
 2023-04-30T15:16:13.060Z,33.2121667,-115.5928333,2.27,1.17,ml,11.0,104.0,0.03821,0.19,ci,ci40216095,2023-04-30T15:19:48.728Z,"8km WSW of Niland, CA",earthquake,0.51,0.55,0.198,20.0,automatic,ci,ci
+2023-04-30T15:24:30.480Z,38.7676659,-122.7095032,7.46,0.81,md,8.0,95.0,0.008008,0.07,nc,nc73882286,2023-04-30T15:26:07.457Z,"2km WSW of Anderson Springs, CA",earthquake,1.14,0.9,0.08,6.0,automatic,nc,nc
