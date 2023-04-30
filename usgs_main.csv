@@ -5979,3 +5979,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-30T13:16:36.730Z,32.7034988,-115.5361633,8.65,1.88,ml,40.0,60.0,0.06917,0.27,ci,ci40216039,2023-04-30T13:18:44.389Z,"3km S of Heber, CA",earthquake,0.38,0.73,0.251,19.0,automatic,ci,ci
 2023-04-30T13:02:07.807Z,61.3829,-151.9026,88.0,1.4,ml,,,,0.52,ak,ak0235io8qli,2023-04-30T13:14:15.412Z,"51 km WNW of Beluga, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-29T18:57:25.460Z,45.4206666666667,-112.099666666667,5.92,1.87,ml,24.0,51.0,0.1919,0.21,mb,mb90011713,2023-04-30T13:28:51.620Z,"8 km ESE of Sheridan, Montana",earthquake,0.35,1.35,0.0890500639861868,8.0,reviewed,mb,mb
+2023-04-29T21:47:34.930Z,44.6436666666667,-112.148166666667,10.04,1.33,ml,16.0,82.0,0.1828,0.1,mb,mb90011723,2023-04-30T13:45:00.400Z,"31 km N of Spencer, Idaho",earthquake,0.33,1.63,0.198913865114779,9.0,reviewed,mb,mb
