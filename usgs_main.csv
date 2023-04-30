@@ -5827,3 +5827,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-30T04:13:55.273Z,61.3516,-151.2919,64.3,1.2,ml,,,,0.39,ak,ak0235iiya93,2023-04-30T04:15:34.989Z,"26 km NNW of Beluga, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-04-30T04:09:16.414Z,58.3725,-154.4823,20.2,1.1,ml,,,,1.31,ak,ak0235iixce1,2023-04-30T04:10:44.607Z,"89 km N of Karluk, Alaska",earthquake,,2.6,,,automatic,ak,ak
 2023-04-30T04:08:08.100Z,35.8456667,-117.702,4.83,1.22,ml,17.0,98.0,0.0631,0.19,ci,ci40215407,2023-04-30T04:11:37.115Z,"21km ESE of Little Lake, CA",earthquake,0.31,0.65,0.2,11.0,automatic,ci,ci
+2023-04-30T04:07:43.797Z,-10.7958,113.3698,25.735,4.5,mb,17.0,123.0,2.436,1.32,us,us7000jx3k,2023-04-30T04:24:09.040Z,"277 km S of Kencong, Indonesia",earthquake,8.84,2.632,0.22,7.0,reviewed,us,us
