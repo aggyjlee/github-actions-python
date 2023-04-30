@@ -5954,3 +5954,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-30T10:48:42.210Z,33.1798325,-115.5793304,1.68,1.62,ml,20.0,116.0,0.03054,0.41,ci,ci40215951,2023-04-30T10:50:55.623Z,"9km NW of Calipatria, CA",earthquake,0.68,1.07,0.785,7.0,automatic,ci,ci
 2023-04-30T10:47:50.620Z,33.2003326,-115.6048355,1.86,1.43,ml,13.0,107.0,0.0227,0.15,ci,ci40215943,2023-04-30T10:49:56.220Z,"9km WSW of Niland, CA",earthquake,0.45,0.69,0.317,4.0,automatic,ci,ci
 2023-04-30T10:42:47.280Z,33.196,-115.6125,2.7,1.2,ml,9.0,130.0,0.01867,0.18,ci,ci40215935,2023-04-30T10:46:26.113Z,"10km WSW of Niland, CA",earthquake,0.86,0.47,0.223,18.0,automatic,ci,ci
+2023-04-30T10:59:28.718Z,60.9651,-150.9707,59.2,1.5,ml,,,,0.31,ak,ak0235imsorr,2023-04-30T11:00:54.979Z,"14 km SE of Tyonek, Alaska",earthquake,,0.7,,,automatic,ak,ak
