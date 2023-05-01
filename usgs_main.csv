@@ -6207,3 +6207,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-01T10:10:46.525Z,64.6724,-146.9037,0.3,1.0,ml,,,,0.32,ak,ak0235ka1kjw,2023-05-01T10:12:43.332Z,Central Alaska,earthquake,,2.0,,,automatic,ak,ak
 2023-05-01T10:09:19.160Z,38.7290001,-122.9166641,6.23,2.38,md,49.0,48.0,0.06773,0.07,nc,nc73882661,2023-05-01T10:19:11.341Z,"12km SE of Cloverdale, CA",earthquake,0.19,0.58,0.18,60.0,automatic,nc,nc
 2023-05-01T10:06:22.810Z,38.7783318,-122.7568359,1.14,0.76,md,11.0,107.0,0.01031,0.04,nc,nc73882656,2023-05-01T10:19:11.202Z,"0km NNW of The Geysers, CA",earthquake,0.33,0.64,0.15,11.0,automatic,nc,nc
+2023-05-01T10:30:05.430Z,38.7978325,-122.7671661,3.88,0.79,md,7.0,124.0,0.01687,0.02,nc,nc73882671,2023-05-01T10:31:40.071Z,"2km NNW of The Geysers, CA",earthquake,0.68,2.73,0.13,9.0,automatic,nc,nc
