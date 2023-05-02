@@ -6463,3 +6463,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-02T15:54:42.380Z,19.3151664733887,-155.433837890625,5.88000011444092,1.92,ml,39.0,92.0,,0.219999999,hv,hv73386877,2023-05-02T16:00:14.160Z,"13 km NNE of Pāhala, Hawaii",earthquake,0.4,0.790000021,0.23,3.0,automatic,hv,hv
 2023-05-02T15:38:20.270Z,25.4479,99.3796,10.0,4.6,mb,54.0,110.0,4.148,0.74,us,us7000jxiz,2023-05-02T16:03:19.040Z,"15 km W of Bonan, China",earthquake,9.84,1.918,0.09,37.0,reviewed,us,us
 2023-05-02T15:36:33.867Z,-21.9275,174.1516,33.153,4.8,mb,43.0,132.0,5.549,0.67,us,us7000jxj0,2023-05-02T15:53:45.040Z,Vanuatu region,earthquake,10.06,6.61,0.105,32.0,reviewed,us,us
+2023-05-02T16:24:58.630Z,38.7701683,-122.7356644,0.84,0.96,md,10.0,70.0,0.01203,0.02,nc,nc73883031,2023-05-02T16:26:34.840Z,"2km ESE of The Geysers, CA",earthquake,0.24,0.53,0.21,9.0,automatic,nc,nc
+2023-05-02T16:13:30.870Z,62.1525,-153.2789,1.7,1.5,ml,,,,0.54,ak,ak0235m164nu,2023-05-02T16:16:05.397Z,"99 km W of Skwentna, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-05-02T08:08:29.646Z,37.2848,-114.9921,2.9,2.2,ml,18.0,89.07,0.131,0.1857,nn,nn00858956,2023-05-02T16:20:58.536Z,"17 km ESE of Alamo, Nevada",earthquake,,4.7,0.77,12.0,reviewed,nn,nn
