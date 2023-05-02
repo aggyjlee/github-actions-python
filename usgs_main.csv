@@ -6510,3 +6510,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-02T21:11:35.840Z,19.2428340911865,-155.386840820312,30.7800006866455,1.84000003,md,35.0,140.0,,0.119999997,hv,hv73387132,2023-05-02T21:14:55.850Z,"Island of Hawaii, Hawaii",earthquake,0.62,0.899999976,0.819999993,17.0,automatic,hv,hv
 2023-05-02T18:56:37.760Z,46.0895,-111.690666666667,4.99,0.41,ml,6.0,147.0,0.2835,0.13,mb,mb90012088,2023-05-02T21:15:34.650Z,"12 km SSW of Radersburg, Montana",earthquake,0.67,9.2,0.0300414410609906,2.0,reviewed,mb,mb
 2023-05-02T14:11:25.446Z,39.3909,-120.1747,12.7,0.1,ml,4.0,258.17,0.145,0.1766,nn,nn00858981,2023-05-02T21:15:05.626Z,"7 km N of Truckee, California",earthquake,,5.6,0.0,1.0,reviewed,nn,nn
+2023-05-02T21:14:56.037Z,37.1283,-117.4648,5.6,-0.1,ml,8.0,156.79,0.154,0.2557,nn,nn00858982,2023-05-02T21:17:23.658Z,"67 km WNW of Beatty, Nevada",earthquake,,2.9,0.82,4.0,automatic,nn,nn
