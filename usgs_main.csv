@@ -6710,3 +6710,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-03T13:02:09.440Z,38.8235016,-122.8503342,2.68,0.97,md,8.0,118.0,0.01196,0.01,nc,nc73883406,2023-05-03T13:14:11.116Z,"10km WNW of The Geysers, CA",earthquake,0.43,1.52,0.2,9.0,automatic,nc,nc
 2023-05-03T12:57:29.710Z,38.8305016,-122.8150024,2.22,0.77,md,13.0,57.0,0.008073,0.01,nc,nc73883401,2023-05-03T13:09:12.209Z,"8km NW of The Geysers, CA",earthquake,0.35,0.75,0.17,13.0,automatic,nc,nc
 2023-05-03T12:07:50.340Z,17.9871666666667,-66.8476666666667,12.06,2.15,md,10.0,173.0,0.03239,0.27,pr,pr71407648,2023-05-03T13:08:27.020Z,"3 km WSW of Indios, Puerto Rico",earthquake,0.99,0.81,0.153910568373528,5.0,reviewed,pr,pr
+2023-05-03T13:22:03.200Z,38.8176651,-122.8068314,3.11,0.75,md,15.0,54.0,0.006257,0.01,nc,nc73883416,2023-05-03T13:23:40.121Z,"6km NW of The Geysers, CA",earthquake,0.34,0.89,0.11,15.0,automatic,nc,nc
