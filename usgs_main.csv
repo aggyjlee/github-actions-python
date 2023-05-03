@@ -6745,3 +6745,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-03T02:51:53.661Z,31.62201139,-104.5146816,7.057055663999999,2.1,ml,20.0,77.0,0.0481528806,0.1,tx,tx2023ipdb,2023-05-03T16:48:55.663Z,"62 km SSW of Whites City, New Mexico",earthquake,1.078906302,0.5923339385,0.1,24.0,reviewed,tx,tx
 2023-05-03T17:00:57.160Z,33.189167,-115.6051636,3.4,1.78,ml,11.0,105.0,0.0146,0.16,ci,ci40218199,2023-05-03T17:03:19.901Z,"10km SW of Niland, CA",earthquake,0.6,0.33,0.255,15.0,automatic,ci,ci
 2023-05-03T16:52:41.665Z,53.4266,-164.5123,35.0,4.0,mb,29.0,165.0,1.031,0.92,us,us7000jxsj,2023-05-03T17:01:42.040Z,"114 km SE of Akutan, Alaska",earthquake,7.42,1.983,0.095,30.0,reviewed,us,us
+2023-05-03T17:13:59.762Z,59.941,-152.8966,101.4,1.6,ml,,,,0.13,ak,ak0235npayy0,2023-05-03T17:15:19.382Z,"62 km WNW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-05-03T16:09:59.120Z,17.9681666666667,-66.7953333333333,10.97,2.29,md,10.0,204.0,0.05168,0.09,pr,pr71407673,2023-05-03T17:15:23.740Z,"3 km SE of Indios, Puerto Rico",earthquake,0.46,0.44,0.17307174335521,9.0,reviewed,pr,pr
+2023-05-03T04:44:14.054Z,37.0971,-116.7273,4.2,-0.2,ml,3.0,237.66,0.047,0.0684,nn,nn00859019,2023-05-03T17:12:25.157Z,"21 km N of Beatty, Nevada",earthquake,,6.4,1.06,3.0,reviewed,nn,nn
+2023-05-03T04:33:46.952Z,39.7384,-120.1881,13.2,-0.2,ml,3.0,187.48,0.184,0.1188,nn,nn00859018,2023-05-03T17:09:18.739Z,"8 km NNE of Loyalton, California",earthquake,,8.5,0.31,2.0,reviewed,nn,nn
