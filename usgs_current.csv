@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-04T17:09:07.930Z,38.8116684,-122.8300018,1.74,0.75,md,9,97,0.002869,0.01,nc,nc73883841,2023-05-04T17:10:43.231Z,"7km WNW of The Geysers, CA",earthquake,0.34,0.75,0.23,10,automatic,nc,nc
+2023-05-04T17:09:07.930Z,38.8116684,-122.8300018,1.74,0.75,md,9,97,0.002869,0.01,nc,nc73883841,2023-05-04T17:25:13.603Z,"7km WNW of The Geysers, CA",earthquake,0.34,0.75,0.23,10,automatic,nc,nc
 2023-05-04T16:44:12.519Z,36.37516667,-97.653,9.44,1.17,ml,28,40,0.1502705118,0.07,ok,ok2023isaa,2023-05-04T16:57:59.942Z,"5 km ENE of Fairmont, Oklahoma",earthquake,,1.1,0.28,21,reviewed,ok,ok
 2023-05-04T16:44:07.550Z,32.7166667,-115.5425,2.76,1.57,ml,11,104,0.1197,0.2,ci,ci40218927,2023-05-04T16:47:55.361Z,"2km SW of Heber, CA",earthquake,0.69,0.9,0.196,16,automatic,ci,ci
 2023-05-04T16:27:32.600Z,38.7818336,-122.7251663,1.14,1.14,md,13,134,0.009142,0.04,nc,nc73883836,2023-05-04T17:03:15.443Z,"3km E of The Geysers, CA",earthquake,0.27,0.65,0.16,15,automatic,nc,nc
