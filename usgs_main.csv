@@ -6942,3 +6942,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-04T02:28:03.603Z,61.2366,-147.0527,15.2,1.4,ml,,,,0.47,ak,ak0235p3zwrs,2023-05-04T02:29:56.638Z,"39 km WNW of Valdez, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-04T02:21:58.841Z,61.6549,-141.9687,27.7,1.1,ml,,,,0.81,ak,ak0235p3yj0s,2023-05-04T02:24:46.089Z,"56 km ENE of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-04T02:15:32.280Z,28.1309,105.2414,38.068,5.0,mb,91.0,21.0,7.912,0.81,us,us6000k9dq,2023-05-04T02:32:39.040Z,"19 km WSW of Xuyong, China",earthquake,7.86,6.54,0.039,206.0,reviewed,us,us
+2023-05-04T02:59:13.272Z,61.1063,-149.8931,20.9,1.2,ml,,,,0.7,ak,ak0235p46kpk,2023-05-04T03:02:31.432Z,"12 km S of Anchorage, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-05-04T02:50:48.200Z,61.6952,-151.8053,94.6,1.4,ml,,,,0.25,ak,ak0235p44pys,2023-05-04T02:52:35.012Z,"39 km SSW of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
