@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-04T09:22:05.700Z,33.6853333,-116.7703323,18.54,1.07,ml,30,116,0.05345,0.12,ci,ci40218815,2023-05-04T09:24:16.356Z,"8km SW of Idyllwild, CA",earthquake,0.31,0.43,0.25,8,automatic,ci,ci
+2023-05-04T09:17:41.269Z,34.51089478,-97.20472717,2.218463659,2.14,ml,25,115.8791428,0.1372131854,0.6266462488,ok,ok2023irlh,2023-05-04T09:20:37.680Z,"7 km W of Davis, Oklahoma",earthquake,2.984034441,1.871463719,0.23,13,automatic,ok,ok
 2023-05-04T09:09:59.840Z,36.1428333,-117.8571667,1.64,1.55,ml,15,183,0.02527,0.16,ci,ci40218807,2023-05-04T09:13:42.023Z,"14km NE of Coso Junction, CA",earthquake,0.58,0.4,0.199,16,automatic,ci,ci
 2023-05-04T09:08:38.640Z,19.4063339233398,-155.287506103516,0.360000014305115,1.82,ml,16,67,,0.200000003,hv,hv73388862,2023-05-04T09:14:10.580Z,"6 km SW of Volcano, Hawaii",earthquake,0.28,0.230000004,0.16,4,automatic,hv,hv
 2023-05-04T08:52:11.910Z,38.8230019,-122.8024979,6.8,0.35,md,7,128,0.005931,0.02,nc,nc73883746,2023-05-04T09:05:11.556Z,"6km NW of The Geysers, CA",earthquake,1.17,1.58,0.18,7,automatic,nc,nc
@@ -261,4 +263,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-03T09:29:26.170Z,55.0521666666667,-162.248166666667,0.15,0.38,ml,5,144,,0.11,av,av91872366,2023-05-04T01:59:34.400Z,"4 km ESE of King Cove, Alaska",earthquake,0.36,31.61,0.248892446088913,4,reviewed,av,av
 2023-05-03T09:26:38.240Z,35.656,-117.5475,2.02,0.78,ml,12,130,0.1012,0.16,ci,ci40217911,2023-05-03T09:30:20.196Z,"12km ENE of Ridgecrest, CA",earthquake,0.73,0.48,0.1,4,automatic,ci,ci
 2023-05-03T09:26:05.380Z,61.2748,-150.4749,35.8,2.7,ml,,,,0.71,ak,ak0235nkm66n,2023-05-03T17:15:20.928Z,"Southern Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-05-03T09:23:45.360Z,58.2608333333333,-155.088666666667,4.69,-0.57,ml,6,101,,0.13,av,av91098883,2023-05-03T21:51:16.770Z,"85 km NNW of Karluk, Alaska",earthquake,0.33,0.69,0.212257730680739,6,reviewed,av,av
