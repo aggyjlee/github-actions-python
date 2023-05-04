@@ -6947,3 +6947,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-04T03:05:39.900Z,19.4305000305176,-155.324005126953,2.64000010490417,2.06,ml,25.0,87.0,,0.180000007,hv,hv73388612,2023-05-04T03:16:12.482Z,"9 km W of Volcano, Hawaii",earthquake,0.39,0.670000017,0.37,6.0,automatic,hv,hv
 2023-05-04T03:03:01.193Z,60.4806,-151.8161,72.0,1.2,ml,,,,0.5,ak,ak0235p4fzaf,2023-05-04T03:06:55.902Z,"29 km WNW of Kalifornsky, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-05-04T02:55:39.330Z,18.746,-64.5355,48.2,3.34,md,6.0,315.0,0.4693,0.09,pr,pr71407893,2023-05-04T03:06:59.550Z,"53 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,3.76,3.54,0.129652167507051,5.0,reviewed,pr,pr
+2023-05-04T04:03:30.012Z,65.4386,-148.0545,14.3,1.0,ml,,,,0.41,ak,ak0235p51h49,2023-05-04T04:05:13.143Z,"24 km ESE of Livengood, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-05-04T03:56:16.050Z,35.7981667,-117.5981667,1.99,1.01,ml,10.0,171.0,0.1359,0.22,ci,ci40218743,2023-05-04T03:59:58.367Z,"18km W of Searles Valley, CA",earthquake,0.79,1.0,0.098,8.0,automatic,ci,ci
+2023-05-04T03:53:13.879Z,62.1447,-147.5265,32.8,0.9,ml,,,,0.3,ak,ak0235p4qq2j,2023-05-04T03:54:54.019Z,"29 km NW of Eureka Roadhouse, Alaska",earthquake,,0.2,,,automatic,ak,ak
