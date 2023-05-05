@@ -7244,3 +7244,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-05T04:55:49.645Z,61.7882,-149.8912,33.0,1.4,ml,,,,0.5,ak,ak0235qsw0d0,2023-05-05T04:57:07.893Z,Southern Alaska,earthquake,,0.2,,,automatic,ak,ak
 2023-05-05T05:14:10.350Z,61.3987,-149.794,30.9,1.6,ml,,,,0.43,ak,ak0235qt8kkr,2023-05-05T05:15:52.715Z,"7 km SSW of Knik, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2023-05-05T05:03:46.410Z,19.4101657867432,-155.327163696289,3.45000004768372,2.29,ml,38.0,62.0,,0.209999993,hv,hv73389662,2023-05-05T05:09:16.670Z,"10 km WSW of Volcano, Hawaii",earthquake,0.39,0.860000014,0.39,12.0,automatic,hv,hv
+2023-05-05T05:20:45.111Z,61.873,-149.3422,0.7,2.0,ml,,,,0.83,ak,ak0235qt9xj8,2023-05-05T05:26:58.323Z,Southern Alaska,earthquake,,0.3,,,automatic,ak,ak
+2023-05-05T05:17:05.520Z,19.4118328094482,-155.327835083008,3.75,2.31,ml,35.0,74.0,,0.189999998,hv,hv73389677,2023-05-05T05:22:37.250Z,"10 km WSW of Volcano, Hawaii",earthquake,0.4,0.879999995,2.37,15.0,automatic,hv,hv
