@@ -7335,3 +7335,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-05T14:14:13.260Z,19.4099998474121,-155.327163696289,3.32999992370605,2.36999989,md,32.0,62.0,,0.150000006,hv,hv73390042,2023-05-05T14:17:25.340Z,"10 km WSW of Volcano, Hawaii",earthquake,0.36,1.01999998,0.980000019,21.0,automatic,hv,hv
 2023-05-05T14:10:56.900Z,19.234167098999,-155.466339111328,32.7099990844727,1.85000002,md,28.0,184.0,,0.119999997,hv,hv73390037,2023-05-05T14:14:10.310Z,"Island of Hawaii, Hawaii",earthquake,0.85,0.769999981,,4.0,automatic,hv,hv
 2023-05-05T14:05:36.515Z,60.9243,-152.5169,8.0,0.8,ml,,,,0.16,ak,ak0235qyjllf,2023-05-05T14:06:34.626Z,"71 km WNW of Nikiski, Alaska",earthquake,,4.2,,,automatic,ak,ak
+2023-05-05T14:24:18.956Z,61.7382,-149.9273,34.1,1.8,ml,,,,0.41,ak,ak0235qynmuf,2023-05-05T14:25:49.140Z,"5 km E of Willow, Alaska",earthquake,,0.2,,,automatic,ak,ak
