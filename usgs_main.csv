@@ -7380,3 +7380,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-05T16:59:35.181Z,6.8338,126.8444,35.0,4.5,mb,25.0,121.0,1.278,1.06,us,us6000k9u8,2023-05-05T17:17:49.040Z,"49 km ESE of Jovellar, Philippines",earthquake,8.66,1.935,0.128,18.0,reviewed,us,us
 2023-05-05T10:01:35.476Z,37.4386,-117.9015,5.5,0.3,ml,4.0,238.12,0.289,0.2173,nn,nn00859094,2023-05-05T17:23:21.931Z,"29 km SSE of Dyer, Nevada",earthquake,,2.9,0.81,3.0,reviewed,nn,nn
 2023-05-05T08:43:58.107Z,61.5396,-151.3474,-10.0,2.7,ml,,,,0.79,ak,ak0235qv7cpx,2023-05-05T17:17:32.623Z,"44 km W of Susitna, Alaska",earthquake,,1.2,,,reviewed,ak,ak
+2023-05-05T17:24:05.290Z,19.2625007629395,-155.362838745117,32.3499984741211,2.5999999,md,26.0,204.0,,0.109999999,hv,hv73390147,2023-05-05T17:27:25.450Z,"Island of Hawaii, Hawaii",earthquake,0.73,0.889999986,1.48000002,3.0,automatic,hv,hv
