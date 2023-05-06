@@ -7637,3 +7637,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-06T11:11:45.090Z,34.5130005,-118.7993317,10.32,1.49,ml,28.0,48.0,0.1026,0.18,ci,ci40219759,2023-05-06T11:13:52.900Z,"11km N of Piru, CA",earthquake,0.38,1.13,0.24,5.0,automatic,ci,ci
 2023-05-06T11:05:35.294Z,60.0508,-152.7437,95.1,0.4,ml,,,,0.23,ak,ak0235skan6u,2023-05-06T11:07:50.928Z,"57 km W of Happy Valley, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2023-05-06T11:01:48.990Z,38.7929993,-122.7614975,1.7,1.78,md,26.0,87.0,0.007741,0.05,nc,nc73884501,2023-05-06T11:13:11.791Z,"2km NNW of The Geysers, CA",earthquake,0.22,0.36,0.12,31.0,automatic,nc,nc
+2023-05-06T11:23:04.210Z,63.2561,-150.5905,4.7,1.1,ml,,,,0.56,ak,ak0235skefnx,2023-05-06T11:25:49.374Z,Central Alaska,earthquake,,0.3,,,automatic,ak,ak
