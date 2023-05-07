@@ -7856,3 +7856,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-07T09:01:53.990Z,33.6474991,-116.7158356,14.93,1.29,ml,34.0,56.0,0.04105,0.17,ci,ci40220287,2023-05-07T09:03:59.368Z,"10km S of Idyllwild, CA",earthquake,0.36,0.51,0.234,13.0,automatic,ci,ci
 2023-05-07T08:54:30.320Z,40.2818336,-123.8395004,24.77,1.75,md,14.0,114.0,0.03775,0.07,nc,nc73884881,2023-05-07T08:56:04.797Z,"18km N of Redway, CA",earthquake,0.5,0.95,0.07,6.0,automatic,nc,nc
 2023-05-07T08:31:14.628Z,2.4302,127.2941,94.779,4.5,mb,15.0,166.0,1.649,0.38,us,us6000ka6h,2023-05-07T09:08:48.040Z,"111 km NW of Tobelo, Indonesia",earthquake,11.06,6.719,0.171,12.0,reviewed,us,us
+2023-05-07T09:06:38.526Z,74.7762,112.8698,9.822,4.2,mb,36.0,62.0,5.595,0.58,us,us6000ka6q,2023-05-07T09:24:24.040Z,"Near the coast of northwestern Sakha, Russia",earthquake,10.26,5.38,0.102,27.0,reviewed,us,us
