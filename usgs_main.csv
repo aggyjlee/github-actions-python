@@ -7937,3 +7937,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-07T15:19:55.433Z,62.9367,-150.9242,23.8,1.1,ml,,,,0.8,ak,ak0235uaarfm,2023-05-07T15:22:16.795Z,"49 km N of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-07T15:18:52.813Z,60.1572,-153.2333,136.6,1.4,ml,,,,0.26,ak,ak0235uaajr5,2023-05-07T15:20:36.907Z,"60 km E of Port Alsworth, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-05-06T19:42:03.710Z,33.9561667,-118.4285,11.55,1.09,ml,21.0,143.0,0.009644,0.18,ci,ci40220063,2023-05-07T15:24:53.324Z,"3km SE of Marina del Rey, CA",earthquake,0.39,0.36,0.116,11.0,reviewed,ci,ci
+2023-05-07T15:36:19.490Z,60.2127,-152.2154,66.6,1.2,ml,,,,0.54,ak,ak0235uaec2l,2023-05-07T15:38:07.975Z,"35 km WNW of Ninilchik, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-05-07T15:32:59.249Z,60.0087,-152.6346,80.9,1.0,ml,,,,0.36,ak,ak0235uadk9w,2023-05-07T15:34:34.359Z,"50 km W of Happy Valley, Alaska",earthquake,,0.5,,,automatic,ak,ak
