@@ -7920,3 +7920,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-07T14:03:55.636Z,58.2879,-155.0344,0.4,0.2,ml,,,,0.6,ak,ak0235u9lwmj,2023-05-07T14:15:54.239Z,"87 km NNW of Karluk, Alaska",earthquake,,124.0,,,automatic,ak,ak
 2023-05-07T14:03:21.544Z,58.253,-155.0844,4.8,0.6,ml,,,,0.52,ak,ak0235u9ltzu,2023-05-07T14:05:02.760Z,"84 km NNW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-07T14:02:22.199Z,58.2506,-155.0997,9.8,0.3,ml,,,,0.14,ak,ak0235u9lmbv,2023-05-07T14:03:54.375Z,Alaska Peninsula,earthquake,,0.4,,,automatic,ak,ak
+2023-05-07T14:17:30.530Z,36.77427673,-98.06201935,1.249400496,2.38,ml,47.0,83.12036085,0.09299033135,0.6672361197,ok,ok2023ixhr,2023-05-07T14:21:38.890Z,"8 km ENE of Nescatunga, Oklahoma",earthquake,1.862613075,1.397431324,0.15,33.0,automatic,ok,ok
