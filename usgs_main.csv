@@ -7921,3 +7921,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-07T14:03:21.544Z,58.253,-155.0844,4.8,0.6,ml,,,,0.52,ak,ak0235u9ltzu,2023-05-07T14:05:02.760Z,"84 km NNW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-07T14:02:22.199Z,58.2506,-155.0997,9.8,0.3,ml,,,,0.14,ak,ak0235u9lmbv,2023-05-07T14:03:54.375Z,Alaska Peninsula,earthquake,,0.4,,,automatic,ak,ak
 2023-05-07T14:17:30.530Z,36.77427673,-98.06201935,1.249400496,2.38,ml,47.0,83.12036085,0.09299033135,0.6672361197,ok,ok2023ixhr,2023-05-07T14:21:38.890Z,"8 km ENE of Nescatunga, Oklahoma",earthquake,1.862613075,1.397431324,0.15,33.0,automatic,ok,ok
+2023-05-07T14:26:58.720Z,35.804,-117.6215,5.85,1.02,ml,13.0,133.0,0.1166,0.22,ci,ci40220399,2023-05-07T14:30:34.525Z,"20km WNW of Searles Valley, CA",earthquake,0.5,2.34,0.205,8.0,automatic,ci,ci
+2023-05-07T14:23:54.670Z,19.3836669921875,-155.27799987793,1.45000004768372,1.82000005,md,17.0,67.0,,0.150000006,hv,hv73391627,2023-05-07T14:27:00.230Z,"8 km SW of Volcano, Hawaii",earthquake,0.33,0.159999996,1.63,10.0,automatic,hv,hv
