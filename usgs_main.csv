@@ -7998,3 +7998,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-07T22:25:37.611Z,63.1182,-151.3502,0.2,1.4,ml,,,,0.65,ak,ak0235uei1tt,2023-05-07T22:28:20.908Z,"50 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-05-07T22:33:12.747Z,63.2025,-150.5379,123.1,1.5,ml,,,,0.3,ak,ak0235uejpmy,2023-05-07T22:35:38.714Z,"70 km ESE of Denali National Park, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-05-07T22:44:19.543Z,58.9139,-154.9957,250.0,1.3,ml,,,,0.79,ak,ak0235uem31e,2023-05-07T22:46:49.876Z,"59 km SSW of Kokhanok, Alaska",earthquake,,12.9,,,automatic,ak,ak
+2023-05-07T23:01:42.614Z,61.0567,-151.4157,63.6,1.6,ml,,,,0.33,ak,ak0235ueyayt,2023-05-07T23:03:22.050Z,"15 km W of Tyonek, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2023-05-07T23:00:54.350Z,36.008667,-117.3203354,8.69,1.73,ml,17.0,204.0,0.1212,0.2,ci,ci40220615,2023-05-07T23:03:00.411Z,"28km N of Trona, CA",earthquake,0.65,1.76,0.207,4.0,automatic,ci,ci
+2023-05-07T22:59:01.770Z,38.5178337,-122.6036682,7.34,2.18,md,43.0,58.0,0.09938,0.11,nc,nc73885146,2023-05-07T23:02:05.849Z,"7km SSW of Calistoga, CA",earthquake,0.28,0.87,0.14,46.0,automatic,nc,nc
+2023-05-07T22:58:41.352Z,59.7319,-153.0535,107.8,2.1,ml,,,,0.26,ak,ak0235uep4oz,2023-05-07T23:00:04.222Z,Southern Alaska,earthquake,,0.5,,,automatic,ak,ak
