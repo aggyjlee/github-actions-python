@@ -7849,3 +7849,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-07T08:18:07.841Z,58.1231,-155.5659,59.6,0.9,ml,,,,0.92,ak,ak0235u64f1s,2023-05-07T08:20:02.267Z,Alaska Peninsula,earthquake,,1.9,,,automatic,ak,ak
 2023-05-07T08:13:08.957Z,61.0034,-148.107,3.8,1.7,ml,,,,0.56,ak,ak0235u63cjz,2023-05-07T08:15:07.222Z,"40 km NE of Whittier, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-07T08:28:23.522Z,35.24398041,-98.04134369,5.0,2.98,ml,63.0,33.69895935,0.03822270781,0.4836945015,ok,ok2023iwwe,2023-05-07T08:30:03.525Z,"9 km NW of Pocasset, Oklahoma",earthquake,,0.0,0.33,23.0,automatic,ok,ok
+2023-05-07T08:31:38.012Z,61.7174,-148.4448,4.4,1.2,ml,,,,0.71,ak,ak0235u679op,2023-05-07T08:33:55.776Z,"8 km S of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-05-07T08:05:33.184Z,3.0743,-74.7779,184.391,4.6,ml,13.0,174.0,1.818,0.29,us,us6000ka69,2023-05-07T08:37:52.040Z,"31 km ESE of Baraya, Colombia",earthquake,7.64,11.065,0.074,24.0,reviewed,us,us
