@@ -8435,3 +8435,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-09T20:31:50.391Z,60.3532,-153.1544,147.5,1.2,ml,,,,0.66,ak,ak0235xof6yr,2023-05-09T20:34:00.967Z,"66 km ENE of Port Alsworth, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-05-09T20:28:18.120Z,35.8023333,-117.6081667,1.84,0.81,ml,9.0,169.0,0.1275,0.23,ci,ci40221823,2023-05-09T20:31:59.181Z,"19km WNW of Searles Valley, CA",earthquake,0.59,1.07,0.077,7.0,automatic,ci,ci
 2023-05-09T18:08:01.370Z,46.21233333333333,-122.20483333333334,7.92,0.01,ml,9.0,123.0,0.01099,0.08,uw,uw61923061,2023-05-09T20:33:45.790Z,"38 km NNE of Amboy, Washington",earthquake,1.04,0.45,0.1216082527188402,6.0,reviewed,uw,uw
+2023-05-09T21:01:53.393Z,58.1191,-154.6296,21.6,1.5,ml,,,,0.94,ak,ak0235xou78r,2023-05-09T21:03:34.659Z,"62 km N of Karluk, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2023-05-09T01:42:17.120Z,38.7798333,-122.7576667,1.08,0.31,md,17.0,63.0,0.01108,0.02,nc,nc73885511,2023-05-09T21:00:22.755Z,"0km NNW of The Geysers, CA",earthquake,0.18,0.28,0.163,11.0,reviewed,nc,nc
