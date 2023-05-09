@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-09T14:25:27.590Z,36.7011681,-121.3793335,0.74,1.68,md,13,76,0.02712,0.21,nc,nc73885676,2023-05-09T14:27:00.531Z,"11km SSW of Tres Pinos, CA",earthquake,0.52,1.25,0.23,12,automatic,nc,nc
+2023-05-09T14:10:44.451Z,53.7094,-167.4771,87.872,5,mb,102,87,0.366,0.78,us,us6000kamj,2023-05-09T14:30:51.932Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,9.42,4.772,0.027,431,reviewed,us,us
 2023-05-09T14:07:41.010Z,19.386833190918,-155.278503417969,1.52999997138977,1.70000005,md,11,106,,0.0900000036,hv,hv73393952,2023-05-09T14:13:13.150Z,"7 km SW of Volcano, Hawaii",earthquake,0.38,0.289999992,0.860000014,9,automatic,hv,hv
 2023-05-09T14:00:18.935Z,63.0249,-151.5365,0,1.6,ml,,,,1.12,ak,ak0235xknvm7,2023-05-09T14:02:42.256Z,"58 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-09T13:42:18.471Z,10.9654,92.0274,10,5.1,mb,108,73,0.982,1.26,us,us6000kalp,2023-05-09T14:09:09.040Z,"110 km SW of Port Blair, India",earthquake,5.9,1.798,0.058,95,reviewed,us,us
@@ -177,6 +179,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-08T14:48:48.877Z,62.1615,-149.5668,51.3,1.2,ml,,,,0.4,ak,ak0235vxevtj,2023-05-08T14:51:01.846Z,"Central Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-05-08T14:39:30.560Z,19.3945007324219,-155.258499145508,1.44000005722046,1.70000005,md,17,139,,0.300000012,hv,hv73392882,2023-05-08T14:45:00.280Z,"Hawaii region, Hawaii",earthquake,0.78,0.430000007,0.939999998,10,automatic,hv,hv
 2023-05-08T14:31:01.076Z,62.0043,-148.3951,31.5,2.5,ml,,,,0.32,ak,ak0235vxb4yj,2023-05-08T15:24:48.040Z,"23 km N of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-05-08T14:30:20.878Z,0.5189,124.5271,119.854,4.3,mb,26,57,2.342,0.84,us,us6000kadt,2023-05-08T15:15:59.040Z,"12 km NE of Modisi, Indonesia",earthquake,8.29,8.187,0.133,16,reviewed,us,us
-2023-05-08T14:29:34.840Z,17.9365,-66.9618333333333,7.84,2.32,md,10,225,0.08746,0.12,pr,pr71408558,2023-05-08T14:54:20.400Z,"Puerto Rico region",earthquake,0.62,0.39,0.0841782688550596,9,reviewed,pr,pr
-2023-05-08T14:22:35.690Z,36.8293343,-121.5793304,3.07,1.79,md,15,70,0.05594,0.19,nc,nc73885396,2023-05-08T15:24:13.596Z,"4km WSW of San Juan Bautista, CA",earthquake,0.47,1.13,0.16,9,automatic,nc,nc
