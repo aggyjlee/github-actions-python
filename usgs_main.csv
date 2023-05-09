@@ -8412,3 +8412,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-09T16:20:17.440Z,37.6581667,-118.8736667,2.47,0.26,md,7.0,163.0,0.02296,0.03,nc,nc73885721,2023-05-09T18:47:10.334Z,"10km ENE of Mammoth Lakes, CA",earthquake,0.58,1.15,0.087,6.0,reviewed,nc,nc
 2023-05-09T10:49:38.158Z,39.9879,-120.0901,4.6,0.5,ml,4.0,176.57,0.208,0.0648,nn,nn00859244,2023-05-09T18:45:44.908Z,"4 km SSE of Doyle, California",earthquake,,18.7,0.22,2.0,reviewed,nn,nn
 2023-05-09T18:02:54.951Z,39.969,142.144,53.826,4.4,mb,55.0,131.0,1.163,0.55,us,us6000kap2,2023-05-09T19:00:02.040Z,"31 km ESE of Noda, Japan",earthquake,6.68,7.512,0.091,40.0,reviewed,us,us
+2023-05-09T18:39:28.250Z,44.7611667,-111.2038333,9.69,0.65,md,11.0,162.0,0.01171,0.16,uu,uu60539496,2023-05-09T19:16:46.830Z,Idaho-Montana border region,earthquake,0.79,0.91,0.182,8.0,reviewed,uu,uu
+2023-05-09T18:09:47.720Z,44.6658333,-110.005,15.16,1.0,md,7.0,169.0,0.08866,0.07,uu,uu60539491,2023-05-09T19:20:56.870Z,"37 km S of Silver Gate, Montana",earthquake,0.8,1.03,0.395,4.0,reviewed,uu,uu
