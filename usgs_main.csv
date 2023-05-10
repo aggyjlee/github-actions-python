@@ -8559,3 +8559,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-10T07:22:31.830Z,33.7075,-116.8315,14.12,1.17,ml,46.0,59.0,0.07848,0.21,ci,ci40222079,2023-05-10T07:26:04.740Z,"7km SE of Valle Vista, CA",earthquake,0.3,0.44,0.171,28.0,automatic,ci,ci
 2023-05-10T07:21:12.080Z,33.7068333,-116.8285,15.3,1.03,ml,36.0,39.0,0.08187,0.24,ci,ci40222071,2023-05-10T07:24:48.297Z,"8km SE of Valle Vista, CA",earthquake,0.35,0.58,0.179,28.0,automatic,ci,ci
 2023-05-09T17:07:30.545Z,31.61101753,-103.9959764,8.136791992,2.7,ml,16.0,39.0,0.02055902824,0.1,tx,tx2023jbeh,2023-05-10T08:06:18.393Z,"38 km NNW of Toyah, Texas",earthquake,0.6497933014,0.8537914537,0.2,30.0,reviewed,tx,tx
+2023-05-10T08:16:42.060Z,34.0258333,-117.4953333,17.87,2.86,ml,118.0,17.0,0.05899,0.24,ci,ci40222087,2023-05-10T08:21:09.769Z,"2km NNW of Glen Avon, CA",earthquake,0.2,0.46,0.137,25.0,automatic,ci,ci
+2023-05-10T08:06:09.751Z,37.2038,-104.7596,2.811,2.3,ml,11.0,112.0,0.084,0.4,us,us6000kat7,2023-05-10T08:21:07.040Z,"8 km N of Segundo, Colorado",earthquake,1.51,3.49,0.105,12.0,reviewed,us,us
