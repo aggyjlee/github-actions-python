@@ -34,7 +34,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-10T05:53:50.750Z,34.782,-117.7158333,2.67,1.42,ml,24,77,0.1292,0.17,ci,ci40222031,2023-05-10T05:57:29.640Z,"22km NNE of Lake Los Angeles, CA",earthquake,0.33,1.04,0.213,28,automatic,ci,ci
 2023-05-10T05:38:47.650Z,38.8233337,-122.8046646,1.97,0.77,md,13,46,0.017,0.01,nc,nc73885981,2023-05-10T06:09:11.214Z,"7km NW of The Geysers, CA",earthquake,0.27,0.7,0.14,16,automatic,nc,nc
 2023-05-10T05:32:38.080Z,33.3006667,-116.7466667,6.57,0.72,ml,18,69,0.0653,0.16,ci,ci40222023,2023-05-10T05:36:09.841Z,"7km NNE of Lake Henshaw, CA",earthquake,0.36,0.7,0.093,13,automatic,ci,ci
-2023-05-10T05:30:21.740Z,38.8261681,-122.8085022,3,1.1,md,19,76,0.003029,0.01,nc,nc73885976,2023-05-10T10:05:12.613Z,"7km NW of The Geysers, CA",earthquake,0.28,0.55,0.17,19,automatic,nc,nc
+2023-05-10T05:30:21.740Z,38.8261681,-122.8085022,3,1.1,md,19,76,0.003029,0.01,nc,nc73885976,2023-05-10T10:07:14.625Z,"7km NW of The Geysers, CA",earthquake,0.28,0.55,0.17,19,automatic,nc,nc
 2023-05-10T05:22:49.210Z,37.3183327,-121.6891632,5.43,1.39,md,12,97,0.04383,0.04,nc,nc73885966,2023-05-10T09:40:11.471Z,"13km ESE of Alum Rock, CA",earthquake,0.32,0.61,0.07,10,automatic,nc,nc
 2023-05-10T05:19:34.480Z,17.9496666666667,-66.9168333333333,8.56,2.56,md,8,208,0.04378,0.23,pr,pr71408738,2023-05-10T06:21:32.630Z,"2 km SSW of Guánica, Puerto Rico",earthquake,0.79,1.08,0.0818312829298202,5,reviewed,pr,pr
 2023-05-10T05:14:13.580Z,38.9620018,-123.0163345,5.63,1.64,md,22,75,0.129,0.06,nc,nc73885956,2023-05-10T09:12:14.296Z,"12km SW of Lakeport, CA",earthquake,0.27,1.75,0.15,20,automatic,nc,nc
@@ -220,4 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-09T10:41:00.448Z,37.0785,-116.4753,4.5,-0.3,ml,6,79.6,0.093,0.0945,nn,nn00859241,2023-05-09T18:36:25.618Z,"31 km NE of Beatty, Nevada",earthquake,,10.9,0.95,5,reviewed,nn,nn
 2023-05-09T10:33:20.730Z,37.661499,-118.8536682,1.94,1.36,md,11,133,0.02742,0.03,nc,nc73885616,2023-05-09T12:44:13.586Z,"11km ENE of Mammoth Lakes, CA",earthquake,0.4,1.26,0.12,11,automatic,nc,nc
 2023-05-09T10:29:55.099Z,62.1289,-145.6572,20.9,2,ml,,,,0.94,ak,ak0235xigfrp,2023-05-09T10:31:50.583Z,"6 km WNW of Glennallen, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-05-09T10:11:28.328Z,26.8877,55.1396,10,4.4,mb,53,103,2.159,0.57,us,us6000kaki,2023-05-09T11:43:03.040Z,"southern Iran",earthquake,8.45,1.871,0.084,41,reviewed,us,us
