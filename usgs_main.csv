@@ -8504,3 +8504,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-09T13:26:02.040Z,37.505,-121.8358333,3.96,0.98,md,11.0,75.0,0.0105,0.07,nc,nc73885666,2023-05-10T00:40:43.117Z,"11km NE of Milpitas, CA",earthquake,0.3,0.23,0.273,10.0,reviewed,nc,nc
 2023-05-09T10:53:21.170Z,38.9836667,-123.2436667,7.52,1.32,md,20.0,58.0,0.05883,0.07,nc,nc73885626,2023-05-10T01:29:11.432Z,"11km ESE of Boonville, CA",earthquake,0.18,0.51,0.118,17.0,reviewed,nc,nc
 2023-05-09T07:41:45.830Z,36.5338333,-121.09,9.53,1.22,md,24.0,144.0,0.04388,0.08,nc,nc73885581,2023-05-10T01:37:13.471Z,"5km E of Pinnacles, CA",earthquake,0.53,0.4,0.202,16.0,reviewed,nc,nc
+2023-05-10T02:02:29.916Z,62.8131,-150.9447,92.8,1.9,ml,,,,0.6,ak,ak0235z12h5b,2023-05-10T02:04:49.256Z,"36 km NNW of Petersville, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2023-05-10T01:59:17.050Z,40.3546677,-123.8834991,22.33,1.56,md,6.0,253.0,0.1115,0.07,nc,nc73885876,2023-05-10T02:17:11.723Z,"25km SE of Rio Dell, CA",earthquake,3.41,3.9,0.07,3.0,automatic,nc,nc
+2023-05-10T01:57:40.920Z,38.7999992,-122.7531662,2.34,0.43,md,10.0,98.0,0.005153,0.02,nc,nc73885871,2023-05-10T02:13:10.696Z,"2km N of The Geysers, CA",earthquake,0.36,0.93,0.22,10.0,automatic,nc,nc
+2023-05-10T00:38:11.863Z,28.0678,105.0001,10.0,4.4,mb,37.0,88.0,4.504,0.7,us,us6000karq,2023-05-10T01:56:13.040Z,"27 km S of Bowangshan, China",earthquake,8.87,1.905,0.098,30.0,reviewed,us,us
