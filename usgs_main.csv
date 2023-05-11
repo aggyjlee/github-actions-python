@@ -8944,3 +8944,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-11T17:07:00.030Z,19.2858333587646,-155.405166625977,7.90000009536743,2.15,ml,9.0,187.0,,0.119999997,hv,hv73396772,2023-05-11T17:12:31.240Z,"Hawaii region, Hawaii",earthquake,1.39,2.99000001,0.19,5.0,automatic,hv,hv
 2023-05-11T17:03:25.270Z,35.8051667,-117.6265,2.53,1.87,ml,20.0,69.0,0.1125,0.2,ci,ci40222967,2023-05-11T17:07:04.571Z,"20km WNW of Searles Valley, CA",earthquake,0.3,0.7,0.141,26.0,automatic,ci,ci
 2023-05-11T02:04:35.279Z,36.9253,-115.9729,7.5,0.0,ml,6.0,195.46,0.018,0.1978,nn,nn00859339,2023-05-11T17:08:50.115Z,"47 km NW of Indian Springs, Nevada",earthquake,,3.2,0.24,5.0,reviewed,nn,nn
+2023-05-11T07:54:47.917Z,51.2007,-178.0139,13.3,2.5,ml,,,,0.83,ak,ak02360rw6gw,2023-05-11T17:33:27.335Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,,1.2,,,reviewed,ak,ak
