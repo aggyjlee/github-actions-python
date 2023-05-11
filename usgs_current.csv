@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-11T14:23:31.910Z,38.8235016,-122.8444977,2.09,0.9,md,13,83,0.007406,0.01,nc,nc73886526,2023-05-11T14:25:08.597Z,"9km NW of The Geysers, CA",earthquake,0.29,0.66,0.28,13,automatic,nc,nc
+2023-05-11T14:38:47.510Z,38.7871666,-122.7679977,2.59,0.79,md,12,100,0.01492,0.02,nc,nc73886541,2023-05-11T14:40:22.770Z,"2km NW of The Geysers, CA",earthquake,0.4,0.76,0.14,12,automatic,nc,nc
+2023-05-11T14:23:31.910Z,38.8235016,-122.8444977,2.09,0.9,md,13,83,0.007406,0.01,nc,nc73886526,2023-05-11T14:40:14.985Z,"9km NW of The Geysers, CA",earthquake,0.29,0.66,0.28,13,automatic,nc,nc
 2023-05-11T14:11:43.261Z,61.3989,-150.7057,50.9,1.7,ml,,,,0.38,ak,ak02360vszdi,2023-05-11T14:13:19.020Z,"19 km SSW of Susitna, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-05-11T14:02:28.710Z,44.9116666666667,-112.896833333333,4.28,0.84,ml,6,147,0.09067,0.18,mb,mb90013413,2023-05-11T14:32:44.860Z,"38 km NW of Lima, Montana",earthquake,0.69,2.05,0.377237774776553,4,reviewed,mb,mb
 2023-05-11T14:00:13.600Z,19.1746673583984,-155.405334472656,31.9899997711182,2,md,44,166,,0.129999995,hv,hv73396597,2023-05-11T14:05:44.430Z,"8 km ESE of Pāhala, Hawaii",earthquake,0.6,0.75999999,1.12,12,automatic,hv,hv
