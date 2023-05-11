@@ -8923,3 +8923,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-11T15:03:01.380Z,19.4061660766602,-155.279495239258,1.58000004291534,2.17,ml,22.0,55.0,,0.239999995,hv,hv73396667,2023-05-11T15:08:31.910Z,"6 km SW of Volcano, Hawaii",earthquake,0.44,0.330000013,0.25,8.0,automatic,hv,hv
 2023-05-11T15:21:10.702Z,60.9223,-151.0214,11.1,1.7,ml,,,,0.76,ak,ak02360wghmw,2023-05-11T15:24:04.108Z,"17 km SSE of Tyonek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-11T15:38:47.450Z,34.0041656,-116.8391647,18.4,1.1,ml,20.0,118.0,0.04043,0.1,ci,ci40222887,2023-05-11T15:40:52.873Z,"9km NNE of Banning, CA",earthquake,0.43,0.58,0.186,4.0,automatic,ci,ci
+2023-05-11T15:40:43.151Z,62.5581,-149.6675,2.4,1.5,ml,,,,0.62,ak,ak02360wkmqj,2023-05-11T15:42:30.207Z,Central Alaska,earthquake,,0.3,,,automatic,ak,ak
