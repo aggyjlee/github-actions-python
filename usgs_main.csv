@@ -8833,3 +8833,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-11T04:20:18.020Z,19.3428,-99.1602,5.907,3.1,ml,4.0,204.0,0.021,0.54,us,us6000kb13,2023-05-11T04:49:37.948Z,"0 km SSE of Coyoacán, Mexico",earthquake,5.59,4.075,0.128,8.0,reviewed,us,us
 2023-05-11T05:03:07.550Z,35.7916679,-117.6155014,6.21,1.42,ml,22.0,64.0,0.02812,0.15,ci,ci40222607,2023-05-11T05:05:16.527Z,"19km W of Searles Valley, CA",earthquake,0.34,0.74,0.203,6.0,automatic,ci,ci
 2023-05-11T04:16:37.300Z,19.0618,-67.7545,44.0,3.77,md,18.0,247.0,0.8326,0.61,pr,pr2023131001,2023-05-11T05:05:01.450Z,"86 km NE of Punta Cana, Dominican Republic",earthquake,3.24,11.47,0.04,10.0,reviewed,pr,pr
+2023-05-11T05:15:39.770Z,35.8971672,-117.7288361,10.58,1.08,ml,10.0,111.0,0.09314,0.07,ci,ci40222615,2023-05-11T05:17:44.915Z,"17km ESE of Little Lake, CA",earthquake,0.37,0.61,0.281,2.0,automatic,ci,ci
+2023-05-11T05:08:50.050Z,38.7468338,-122.6921692,0.5,1.22,md,9.0,140.0,0.02202,0.02,nc,nc73886426,2023-05-11T05:10:28.341Z,"3km S of Anderson Springs, CA",earthquake,0.33,0.67,0.08,8.0,automatic,nc,nc
+2023-05-11T05:03:36.869Z,60.4599,-152.1784,111.4,1.7,ml,,,,0.75,ak,ak02360qecpi,2023-05-11T05:05:56.721Z,"49 km WNW of Cohoe, Alaska",earthquake,,0.8,,,automatic,ak,ak
