@@ -8831,3 +8831,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-11T04:28:52.820Z,19.3731670379639,-155.288330078125,1.82000005245209,1.91,ml,15.0,100.0,,0.129999995,hv,hv73395977,2023-05-11T04:34:24.710Z,"9 km SW of Volcano, Hawaii",earthquake,0.28,0.379999995,0.08,3.0,automatic,hv,hv
 2023-05-11T04:40:30.944Z,58.0174,-155.8128,41.1,2.1,ml,,,,0.88,ak,ak02360q0u52,2023-05-11T04:42:49.691Z,Alaska Peninsula,earthquake,,4.5,,,automatic,ak,ak
 2023-05-11T04:20:18.020Z,19.3428,-99.1602,5.907,3.1,ml,4.0,204.0,0.021,0.54,us,us6000kb13,2023-05-11T04:49:37.948Z,"0 km SSE of Coyoacán, Mexico",earthquake,5.59,4.075,0.128,8.0,reviewed,us,us
+2023-05-11T05:03:07.550Z,35.7916679,-117.6155014,6.21,1.42,ml,22.0,64.0,0.02812,0.15,ci,ci40222607,2023-05-11T05:05:16.527Z,"19km W of Searles Valley, CA",earthquake,0.34,0.74,0.203,6.0,automatic,ci,ci
+2023-05-11T04:16:37.300Z,19.0618,-67.7545,44.0,3.77,md,18.0,247.0,0.8326,0.61,pr,pr2023131001,2023-05-11T05:05:01.450Z,"86 km NE of Punta Cana, Dominican Republic",earthquake,3.24,11.47,0.04,10.0,reviewed,pr,pr
