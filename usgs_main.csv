@@ -9153,3 +9153,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-12T04:43:14.310Z,38.8346672,-122.8168335,1.84,1.25,md,17.0,70.0,0.01243,0.01,nc,nc73886921,2023-05-12T04:44:49.782Z,"8km W of Cobb, CA",earthquake,0.21,0.48,0.2,16.0,automatic,nc,nc
 2023-05-12T04:39:23.722Z,37.2096,-116.4822,11.3,0.5,ml,8.0,198.27,0.121,0.1375,nn,nn00859403,2023-05-12T04:41:09.700Z,"41 km NE of Beatty, Nevada",earthquake,,1.8,1.11,5.0,automatic,nn,nn
 2023-05-12T04:52:39.629Z,60.1541,-154.0609,213.1,1.7,ml,,,,0.4,ak,ak02362dmrwx,2023-05-12T05:03:17.040Z,"15 km ESE of Port Alsworth, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-05-12T05:17:16.780Z,40.2061653,-121.1090012,-1.41,2.94,md,38.0,48.0,0.3142,0.34,nc,nc73886936,2023-05-12T05:18:51.389Z,"4km E of Prattville, CA",earthquake,0.54,2.04,0.13,24.0,automatic,nc,nc
+2023-05-12T05:09:54.650Z,38.8134995,-122.8270035,2.35,1.33,md,29.0,47.0,0.004927,0.02,nc,nc73886931,2023-05-12T05:12:53.634Z,"7km WNW of The Geysers, CA",earthquake,0.2,0.34,0.14,29.0,automatic,nc,nc
+2023-05-12T05:06:36.730Z,33.0291667,-115.9848333,4.47,0.74,ml,14.0,116.0,0.1426,0.23,ci,ci40223271,2023-05-12T05:10:16.868Z,"19km SE of Ocotillo Wells, CA",earthquake,0.73,2.36,0.106,6.0,automatic,ci,ci
+2023-05-12T04:10:44.310Z,19.09,-66.8005,34.0,3.8,md,13.0,207.0,0.6701,0.36,pr,pr2023132000,2023-05-12T05:04:58.242Z,Puerto Rico region,earthquake,1.24,7.0,0.13,11.0,reviewed,pr,pr
