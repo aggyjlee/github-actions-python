@@ -9356,3 +9356,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-12T17:30:21.311Z,23.1757,121.447,28.802,4.5,mb,62.0,102.0,0.256,0.83,us,us6000kbi2,2023-05-12T18:14:04.040Z,"90 km S of Hualien City, Taiwan",earthquake,3.03,4.913,0.082,51.0,reviewed,us,us
 2023-05-12T17:04:28.151Z,52.3662,-172.0427,91.8,3.3,ml,,,,0.74,ak,ak02362l33lz,2023-05-12T18:10:09.925Z,"148 km E of Atka, Alaska",earthquake,,1.6,,,reviewed,ak,ak
 2023-05-12T04:43:12.300Z,58.1653333333333,-155.378666666667,0.78,0.0,ml,6.0,194.0,,0.08,av,av91883451,2023-05-12T18:11:48.020Z,"86 km NW of Karluk, Alaska",earthquake,0.32,1.79,0.165966504560802,6.0,reviewed,av,av
+2023-05-12T18:26:41.540Z,33.997,-116.3925,7.07,0.86,ml,9.0,79.0,0.05778,0.32,ci,ci40223791,2023-05-12T18:30:16.140Z,"11km ENE of Desert Hot Springs, CA",earthquake,0.98,1.25,0.203,15.0,automatic,ci,ci
+2023-05-12T18:21:26.300Z,35.507,-118.39,8.31,1.28,ml,21.0,66.0,0.1699,0.15,ci,ci40223783,2023-05-12T18:25:08.707Z,"13km SE of Bodfish, CA",earthquake,0.24,1.19,0.17,15.0,automatic,ci,ci
+2023-05-12T04:46:15.490Z,51.8536666666667,-178.056333333333,-1.8,0.48,ml,4.0,176.0,,0.24,av,av91099613,2023-05-12T18:28:05.630Z,"98 km W of Adak, Alaska",earthquake,0.75,1.92,0.217930587112743,4.0,reviewed,av,av
