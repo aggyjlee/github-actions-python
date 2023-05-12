@@ -9429,3 +9429,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-12T10:28:20.812Z,40.1635,-121.0829,12.5,2.1,ml,4.0,241.31,0.629,0.1168,nn,nn00859418,2023-05-12T22:12:50.627Z,"1 km SW of Canyondam, California",earthquake,,3.9,0.24,3.0,reviewed,nn,nn
 2023-05-12T09:59:04.480Z,46.73883333333333,-121.86466666666666,8.46,0.34,ml,20.0,109.0,0.009931,0.1,uw,uw61923786,2023-05-12T22:12:16.180Z,"12 km E of Ashford, Washington",earthquake,0.29,0.21,0.1288869200485541,12.0,reviewed,uw,uw
 2023-05-12T09:31:37.290Z,46.7325,-121.8695,8.26,0.53,ml,21.0,97.0,0.008631,0.09,uw,uw61923781,2023-05-12T22:05:40.580Z,Washington,earthquake,0.33,0.24,0.145097422881346,15.0,reviewed,uw,uw
+2023-05-12T22:29:13.980Z,38.401,-118.911,15.0,2.5,ml,14.0,66.77,0.352,0.1705,nn,nn00859459,2023-05-12T22:31:29.445Z,"28 km WSW of Hawthorne, Nevada",earthquake,,0.7,0.18,10.0,automatic,nn,nn
+2023-05-12T22:27:43.320Z,35.899,-117.7641667,8.24,1.06,ml,13.0,108.0,0.09025,0.18,ci,ci40223983,2023-05-12T22:31:15.622Z,"14km ESE of Little Lake, CA",earthquake,0.4,0.92,0.279,10.0,automatic,ci,ci
+2023-05-12T22:09:34.630Z,44.7636667,-110.9638333,3.58,1.38,md,7.0,132.0,0.03046,0.15,uu,uu60033384,2023-05-12T22:30:10.290Z,"15 km NE of West Yellowstone, Montana",earthquake,0.38,1.06,0.207,5.0,reviewed,uu,uu
