@@ -9130,3 +9130,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-12T02:54:30.468Z,31.5143,-104.1359,5.0,2.8,ml,24.0,75.0,0.214,0.37,us,us6000kbaq,2023-05-12T03:07:54.040Z,"39 km NW of Toyah, Texas",earthquake,1.81,1.524,0.085,62.0,reviewed,us,us
 2023-05-12T02:51:10.450Z,51.8516666666667,-178.078,3.37,1.13,ml,5.0,207.0,,0.15,av,av91883341,2023-05-12T03:10:04.970Z,"99 km W of Adak, Alaska",earthquake,0.64,0.44,0.251773896118274,5.0,reviewed,av,av
 2023-05-12T03:20:34.080Z,35.9005013,-121.2385025,11.98,1.51,md,7.0,205.0,0.1206,0.02,nc,nc73886871,2023-05-12T03:22:09.961Z,"29km N of San Simeon, CA",earthquake,0.65,1.14,0.03,5.0,automatic,nc,nc
+2023-05-12T03:29:36.790Z,38.8451653,-122.815834,0.76,0.78,md,18.0,59.0,0.01115,0.04,nc,nc73886876,2023-05-12T03:31:10.324Z,"8km WNW of Cobb, CA",earthquake,0.22,0.44,0.13,18.0,automatic,nc,nc
