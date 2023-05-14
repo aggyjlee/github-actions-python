@@ -9852,3 +9852,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-14T19:33:43.246Z,65.4085,-144.3305,20.9,1.4,ml,,,,1.2,ak,ak02365xiwms,2023-05-14T19:36:41.398Z,"28 km SE of Central, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2023-05-14T19:44:25.340Z,36.5478325,-121.1316681,7.06,2.02,md,20.0,114.0,0.04939,0.08,nc,nc73888141,2023-05-14T19:46:01.012Z,"2km NNE of Pinnacles, CA",earthquake,0.4,1.02,0.21,21.0,automatic,nc,nc
 2023-05-14T19:40:40.930Z,36.5466652,-121.1316681,7.12,2.01,md,23.0,113.0,0.04996,0.09,nc,nc73888136,2023-05-14T19:42:17.139Z,"2km NNE of Pinnacles, CA",earthquake,0.38,0.97,0.17,22.0,automatic,nc,nc
+2023-05-14T19:53:17.850Z,38.8175011,-122.8259964,1.66,0.62,md,7.0,115.0,0.008972,0.02,nc,nc73888146,2023-05-14T19:54:50.975Z,"8km NW of The Geysers, CA",earthquake,0.62,1.29,0.28,9.0,automatic,nc,nc
