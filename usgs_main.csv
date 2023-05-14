@@ -9715,3 +9715,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-14T06:10:08.330Z,38.8040009,-122.8079987,0.97,0.79,md,11.0,79.0,0.01068,0.02,nc,nc73887891,2023-05-14T06:11:42.288Z,"5km WNW of The Geysers, CA",earthquake,0.27,0.7,0.2,12.0,automatic,nc,nc
 2023-05-14T06:07:39.690Z,38.7996674,-122.8001633,1.45,0.87,md,14.0,56.0,0.009117,0.02,nc,nc73887886,2023-05-14T06:09:17.372Z,"4km WNW of The Geysers, CA",earthquake,0.25,0.53,0.15,16.0,automatic,nc,nc
 2023-05-14T05:57:33.876Z,55.5489,161.651,75.117,4.8,mb,87.0,101.0,3.082,1.19,us,us6000kbsc,2023-05-14T06:21:11.040Z,"91 km SW of Ust’-Kamchatsk Staryy, Russia",earthquake,9.34,7.55,0.03,335.0,reviewed,us,us
+2023-05-14T06:24:45.950Z,32.9371667,-115.7388333,3.08,1.0,ml,7.0,156.0,0.05194,0.24,ci,ci40224823,2023-05-14T06:28:24.290Z,"16km SW of Westmorland, CA",earthquake,1.04,0.8,0.16,7.0,automatic,ci,ci
+2023-05-14T06:21:12.340Z,19.4111671447754,-155.320831298828,3.07999992370605,2.06,ml,29.0,71.0,,0.230000004,hv,hv73401477,2023-05-14T06:26:50.240Z,"9 km WSW of Volcano, Hawaii",earthquake,0.44,0.610000014,0.14,5.0,automatic,hv,hv
+2023-05-14T06:13:52.615Z,-7.2339,124.6073,556.211,5.2,mww,73.0,68.0,2.528,0.69,us,us6000kbsi,2023-05-14T06:28:58.040Z,Banda Sea,earthquake,9.98,6.945,0.098,10.0,reviewed,us,us
