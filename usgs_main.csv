@@ -9712,3 +9712,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-14T05:59:15.510Z,38.8251648,-122.796669,2.72,1.09,md,20.0,40.0,0.01062,0.01,nc,nc73887881,2023-05-14T06:00:52.234Z,"6km NNW of The Geysers, CA",earthquake,0.24,0.51,0.15,22.0,automatic,nc,nc
 2023-05-14T05:56:38.710Z,38.821167,-122.8041687,3.2,0.57,md,11.0,83.0,0.005121,0.02,nc,nc73887876,2023-05-14T05:58:11.967Z,"6km NW of The Geysers, CA",earthquake,0.44,1.27,0.29,13.0,automatic,nc,nc
 2023-05-14T05:17:47.002Z,-9.2337,111.3659,35.0,4.5,mb,17.0,173.0,2.356,0.4,us,us6000kbs1,2023-05-14T06:03:59.040Z,"133 km SSW of Trenggalek, Indonesia",earthquake,10.25,1.935,0.118,22.0,reviewed,us,us
+2023-05-14T06:10:08.330Z,38.8040009,-122.8079987,0.97,0.79,md,11.0,79.0,0.01068,0.02,nc,nc73887891,2023-05-14T06:11:42.288Z,"5km WNW of The Geysers, CA",earthquake,0.27,0.7,0.2,12.0,automatic,nc,nc
+2023-05-14T06:07:39.690Z,38.7996674,-122.8001633,1.45,0.87,md,14.0,56.0,0.009117,0.02,nc,nc73887886,2023-05-14T06:09:17.372Z,"4km WNW of The Geysers, CA",earthquake,0.25,0.53,0.15,16.0,automatic,nc,nc
+2023-05-14T05:57:33.876Z,55.5489,161.651,75.117,4.8,mb,87.0,101.0,3.082,1.19,us,us6000kbsc,2023-05-14T06:21:11.040Z,"91 km SW of Ust’-Kamchatsk Staryy, Russia",earthquake,9.34,7.55,0.03,335.0,reviewed,us,us
