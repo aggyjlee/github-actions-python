@@ -9845,3 +9845,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-14T18:57:05.050Z,34.1113333,-117.5828333,17.73,1.35,ml,10.0,140.0,0.1385,0.1,ci,ci40225119,2023-05-14T19:00:42.966Z,"1km SSW of Rancho Cucamonga, CA",earthquake,0.6,0.92,0.331,21.0,automatic,ci,ci
 2023-05-14T19:17:52.500Z,38.8201675,-122.822998,2.03,0.76,md,9.0,83.0,0.009849,0.01,nc,nc73888111,2023-05-14T19:19:30.176Z,"8km NW of The Geysers, CA",earthquake,0.42,0.99,0.38,9.0,automatic,nc,nc
 2023-05-14T19:13:30.880Z,35.6183333,-117.5955,0.9,0.83,ml,10.0,102.0,0.1132,0.13,ci,ci40225127,2023-05-14T19:16:58.135Z,"7km E of Ridgecrest, CA",earthquake,0.32,0.63,0.277,6.0,automatic,ci,ci
+2023-05-14T19:29:23.460Z,38.7900009,-122.7666702,3.14,0.75,md,6.0,128.0,0.01192,0.02,nc,nc73888121,2023-05-14T19:30:59.868Z,"2km NNW of The Geysers, CA",earthquake,0.81,2.42,0.25,9.0,automatic,nc,nc
