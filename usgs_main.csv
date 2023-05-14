@@ -9726,3 +9726,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-14T05:55:48.000Z,19.0276,-67.9136,90.0,3.82,md,16.0,250.0,0.6948,0.59,pr,pr2023134004,2023-05-14T06:47:06.319Z,Mona Passage,earthquake,5.08,6.46,0.11,9.0,reviewed,pr,pr
 2023-05-13T17:11:57.824Z,60.5753,-152.8832,28.4,0.1,ml,,,,0.3,ak,ak023648o0au,2023-05-14T06:44:08.747Z,"85 km W of Salamatof, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2023-05-13T16:03:59.523Z,60.2852,-151.1852,32.6,1.4,ml,,,,0.28,ak,ak0236480v3k,2023-05-14T06:43:02.739Z,"7 km SE of Kasilof, Alaska",earthquake,,9.8,,,automatic,ak,ak
+2023-05-14T05:14:34.763Z,58.1759,-154.9716,34.8,1.3,ml,,,,0.94,ak,ak02365p2qwk,2023-05-14T07:16:09.950Z,"74 km NNW of Karluk, Alaska",earthquake,,0.2,,,automatic,ak,ak
