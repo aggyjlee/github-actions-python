@@ -9776,3 +9776,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-14T12:08:25.190Z,34.01,-117.235,16.98,0.89,ml,32.0,43.0,0.08108,0.2,ci,ci40224927,2023-05-14T12:11:59.321Z,"5km SSE of Loma Linda, CA",earthquake,0.26,0.67,0.185,24.0,automatic,ci,ci
 2023-05-14T12:07:43.951Z,58.1137,-155.4705,26.9,1.1,ml,,,,0.61,ak,ak02365t7au3,2023-05-14T12:09:12.804Z,"85 km NW of Karluk, Alaska",earthquake,,2.0,,,automatic,ak,ak
 2023-05-14T12:06:08.858Z,37.9,36.1805,8.423,4.1,mb,46.0,34.0,0.345,0.5,us,us6000kbui,2023-05-14T12:24:10.040Z,"12 km SE of Saimbeyli, Turkey",earthquake,3.96,3.9,0.123,18.0,reviewed,us,us
+2023-05-14T12:48:48.820Z,35.7101669,-117.5666656,7.67,0.96,ml,17.0,113.0,0.1234,0.12,ci,ci40224951,2023-05-14T12:50:55.550Z,"14km NE of Ridgecrest, CA",earthquake,0.42,1.66,0.21,4.0,automatic,ci,ci
+2023-05-14T12:44:47.080Z,33.6603333,-116.7383333,15.09,0.72,ml,20.0,89.0,0.05456,0.16,ci,ci40224943,2023-05-14T12:48:25.246Z,"9km SSW of Idyllwild, CA",earthquake,0.39,0.58,0.156,17.0,automatic,ci,ci
+2023-05-14T12:40:42.060Z,38.7856674,-122.7785034,3.86,0.79,md,8.0,135.0,0.01051,0.02,nc,nc73887981,2023-05-14T12:42:19.265Z,"2km WNW of The Geysers, CA",earthquake,1.33,1.61,0.33,7.0,automatic,nc,nc
+2023-05-14T12:38:17.190Z,38.7818336,-122.7805023,2.28,1.48,md,22.0,91.0,0.01273,0.05,nc,nc73887976,2023-05-14T12:39:54.314Z,"2km WNW of The Geysers, CA",earthquake,0.27,0.5,0.18,24.0,automatic,nc,nc
