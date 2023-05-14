@@ -9761,3 +9761,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-14T10:21:47.604Z,57.7198,-154.8932,40.7,2.5,ml,,,,0.83,ak,ak02365s3fxk,2023-05-14T10:24:07.102Z,"31 km WNW of Karluk, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2023-05-14T10:19:37.846Z,62.0765,-149.2672,30.8,1.4,ml,,,,0.42,ak,ak02365s2zqw,2023-05-14T10:21:25.759Z,"31 km ESE of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-14T10:11:35.410Z,33.4067,139.3165,14.045,5.6,mww,116.0,38.0,0.508,0.69,us,us6000kbtz,2023-05-14T10:29:42.040Z,"144 km SSE of Shimoda, Japan",earthquake,4.13,3.254,0.047,44.0,reviewed,us,us
+2023-05-14T10:46:55.050Z,17.928,-66.9676666666667,16.51,2.33,md,12.0,229.0,0.08372,0.08,pr,pr71409393,2023-05-14T11:05:51.270Z,"7 km SW of Guánica, Puerto Rico",earthquake,0.45,0.43,0.0859217763482774,6.0,reviewed,pr,pr
