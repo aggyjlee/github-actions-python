@@ -9853,3 +9853,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-14T19:44:25.340Z,36.5478325,-121.1316681,7.06,2.02,md,20.0,114.0,0.04939,0.08,nc,nc73888141,2023-05-14T19:46:01.012Z,"2km NNE of Pinnacles, CA",earthquake,0.4,1.02,0.21,21.0,automatic,nc,nc
 2023-05-14T19:40:40.930Z,36.5466652,-121.1316681,7.12,2.01,md,23.0,113.0,0.04996,0.09,nc,nc73888136,2023-05-14T19:42:17.139Z,"2km NNE of Pinnacles, CA",earthquake,0.38,0.97,0.17,22.0,automatic,nc,nc
 2023-05-14T19:53:17.850Z,38.8175011,-122.8259964,1.66,0.62,md,7.0,115.0,0.008972,0.02,nc,nc73888146,2023-05-14T19:54:50.975Z,"8km NW of The Geysers, CA",earthquake,0.62,1.29,0.28,9.0,automatic,nc,nc
+2023-05-14T20:03:26.553Z,61.1866,-150.3928,29.2,1.4,ml,,,,0.25,ak,ak02365xxvgv,2023-05-14T20:05:43.175Z,"26 km W of Anchorage, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-05-14T18:42:48.134Z,-17.9791,-178.2536,565.664,4.5,mb,45.0,136.0,3.525,0.89,us,us6000kbwi,2023-05-14T20:18:10.040Z,"257 km E of Levuka, Fiji",earthquake,7.86,9.222,0.098,31.0,reviewed,us,us
