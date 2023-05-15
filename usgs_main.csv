@@ -10029,3 +10029,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-15T00:14:09.311Z,40.1803,-119.812,0.0,0.2,ml,3.0,277.0,0.062,0.1066,nn,nn00859545,2023-05-15T17:18:50.560Z,"27 km E of Herlong, California",earthquake,,0.0,0.05,2.0,reviewed,nn,nn
 2023-05-14T19:44:46.380Z,42.943333333333335,-122.1075,4.7,1.76,ml,5.0,195.0,0.03197,0.1,uw,uw61915437,2023-05-15T17:19:17.350Z,"37 km NE of Prospect, Oregon",earthquake,0.78,0.57,0.1051527791123665,2.0,reviewed,uw,uw
 2023-05-15T01:14:12.475Z,40.1794,-121.0653,9.5,1.8,ml,5.0,273.57,0.625,0.1133,nn,nn00859547,2023-05-15T17:28:09.010Z,"1 km NE of Canyondam, California",earthquake,,5.0,0.27,5.0,reviewed,nn,nn
+2023-05-15T04:59:30.948Z,40.1677,-121.0749,5.9,1.5,ml,4.0,326.54,0.625,0.0292,nn,nn00859548,2023-05-15T17:34:20.540Z,"0 km SSW of Canyondam, California",earthquake,,23.5,0.16,3.0,reviewed,nn,nn
+2023-05-14T19:14:43.210Z,44.7888333,-111.0873333,8.53,0.43,md,8.0,137.0,0.01549,0.19,uu,uu60539971,2023-05-15T17:35:11.770Z,"8 km ENE of Hebgen Lake Estates, Montana",earthquake,0.96,1.53,0.466,6.0,reviewed,uu,uu
