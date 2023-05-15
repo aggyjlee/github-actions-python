@@ -10010,3 +10010,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-15T13:59:07.740Z,44.7161667,-111.108,9.81,1.4,ml,17.0,81.0,0.07177,0.15,uu,uu60540066,2023-05-15T16:07:32.940Z,"6 km N of West Yellowstone, Montana",earthquake,0.43,0.97,0.367,3.0,reviewed,uu,uu
 2023-05-15T16:33:33.110Z,38.7929993,-122.7580032,2.24,0.76,md,11.0,80.0,0.007731,0.02,nc,nc73888476,2023-05-15T16:35:09.402Z,"2km N of The Geysers, CA",earthquake,0.3,1.05,0.05,11.0,automatic,nc,nc
 2023-05-15T16:10:03.128Z,-0.1117,124.9663,62.331,4.8,mb,76.0,41.0,2.381,1.19,us,us6000kc33,2023-05-15T16:39:07.040Z,Molucca Sea,earthquake,7.67,5.923,0.073,59.0,reviewed,us,us
+2023-05-15T16:47:19.750Z,19.3206672668457,-155.191497802734,1.12000000476837,1.97000003,md,35.0,195.0,,0.289999992,hv,hv73403477,2023-05-15T16:50:20.330Z,"14 km SSE of Volcano, Hawaii",earthquake,0.55,0.660000026,1.17999995,16.0,automatic,hv,hv
+2023-05-15T13:32:40.656Z,51.0552,179.6758,16.4,2.7,ml,,,,0.3,ak,ak02367hhee7,2023-05-15T16:47:05.066Z,"272 km WSW of Adak, Alaska",earthquake,,0.8,,,reviewed,ak,ak
+2023-05-15T08:49:10.033Z,37.5508,72.2305,188.669,4.1,mb,20.0,113.0,1.953,0.48,us,us6000kbzx,2023-05-15T16:49:39.040Z,"60 km E of Khorugh, Tajikistan",earthquake,6.14,9.03,0.262,4.0,reviewed,us,us
