@@ -10065,3 +10065,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-15T20:24:55.420Z,19.1628341674805,-155.408004760742,38.4099998474121,2.56999993,md,33.0,172.0,,0.310000002,hv,hv73403767,2023-05-15T20:28:14.420Z,"8 km ESE of Pāhala, Hawaii",earthquake,1.08,1.59000003,2.56999993,4.0,automatic,hv,hv
 2023-05-15T17:38:58.740Z,40.2321667,-121.1428333,6.76,2.6,md,36.0,44.0,0.01564,0.18,nc,nc73888511,2023-05-15T20:30:14.355Z,"3km NNE of Prattville, CA",earthquake,0.29,0.43,0.152,52.0,reviewed,nc,nc
 2023-05-15T11:11:08.473Z,36.8788,-116.219,3.0,-0.3,ml,17.0,79.23,0.036,0.1416,nn,nn00859559,2023-05-15T20:30:17.934Z,"48 km E of Beatty, Nevada",earthquake,,1.8,1.08,6.0,reviewed,nn,nn
+2023-05-15T19:05:12.695Z,15.0872,39.4015,9.996,4.7,mb,79.0,73.0,4.872,0.69,us,us6000kc4a,2023-05-15T20:38:11.666Z,"26 km N of Adi Keyh, Eritrea",earthquake,6.36,4.859,0.059,87.0,reviewed,us,us
