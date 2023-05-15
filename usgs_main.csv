@@ -10100,3 +10100,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-15T22:17:01.546Z,36.3792,-115.8068,1.6,1.1,ml,8.0,278.53,0.309,0.3505,nn,nn00859564,2023-05-15T22:19:36.485Z,"20 km NW of Mount Charleston, Nevada",earthquake,,29.3,0.98,7.0,automatic,nn,nn
 2023-05-15T14:22:29.693Z,37.2807,-115.709,11.8,0.7,ml,9.0,310.83,0.254,0.0642,nn,nn00859565,2023-05-15T22:24:49.309Z,Nevada,earthquake,,13.3,0.2,7.0,reviewed,nn,nn
 2023-05-15T16:50:32.657Z,40.2394,-121.0905,0.0,1.2,ml,4.0,327.63,0.672,0.0992,nn,nn00859566,2023-05-15T22:27:56.232Z,"1 km WNW of East Shore, California",earthquake,,0.0,0.26,4.0,reviewed,nn,nn
+2023-05-15T22:32:55.794Z,36.69615555,-97.66493988,0.6864370704,2.34,ml,30.0,86.08535767,0.3499478996,0.6880627094,ok,ok2023jmob,2023-05-15T22:36:15.115Z,"9 km W of Lamont, Oklahoma",earthquake,2.40933117,2.059578226,0.28,21.0,automatic,ok,ok
