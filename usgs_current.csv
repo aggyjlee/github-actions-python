@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-15T20:19:16.060Z,19.1106662750244,-155.482330322266,39.4900016784668,2.28999996,md,28,182,,0.239999995,hv,hv73403752,2023-05-15T20:22:28.100Z,"Hawaii region, Hawaii",earthquake,1.09,1.50999999,1.30999994,9,automatic,hv,hv
 2023-05-15T20:05:10.970Z,33.0346667,-114.9521667,2.46,1.03,ml,9,75,0.06598,0.2,ci,ci40225735,2023-05-15T20:08:50.445Z,"42km NNW of Los Algodones, B.C., MX",earthquake,0.46,0.78,0.097,3,automatic,ci,ci
 2023-05-15T19:56:12.700Z,19.2320003509521,-155.396667480469,30.3700008392334,2.14,ml,24,159,,0.150000006,hv,hv73403717,2023-05-15T20:01:58.640Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.61,1,0.22,3,automatic,hv,hv
 2023-05-15T19:53:56.320Z,19.2425,-155.396,30.96,2.76,ml,43,117,,0.12,hv,hv73403707,2023-05-15T20:17:12.960Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.43,0.53,0.114817449244783,23,reviewed,hv,hv
@@ -82,7 +83,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-15T08:52:21.180Z,38.8351669,-122.7901688,1.51,0.88,md,10,69,0.01307,0.02,nc,nc73888346,2023-05-15T09:19:13.312Z,"6km WNW of Cobb, CA",earthquake,0.43,1.54,0.23,10,automatic,nc,nc
 2023-05-15T08:49:10.033Z,37.5508,72.2305,188.669,4.1,mb,20,113,1.953,0.48,us,us6000kbzx,2023-05-15T16:49:39.040Z,"60 km E of Khorugh, Tajikistan",earthquake,6.14,9.03,0.262,4,reviewed,us,us
 2023-05-15T08:38:30.280Z,33.4691667,-116.5685,4.88,1.51,ml,55,66,0.03797,0.28,ci,ci40225367,2023-05-15T08:48:57.400Z,"14km SE of Anza, CA",earthquake,0.26,0.94,0.201,26,automatic,ci,ci
-2023-05-15T08:34:11.230Z,40.2431679,-121.1631699,-0.91,2.65,md,19,64,0.3244,0.28,nc,nc73888336,2023-05-15T18:02:13.280Z,"3km NNE of Almanor, CA",earthquake,0.74,13.73,0.08,13,automatic,nc,nc
+2023-05-15T08:34:11.720Z,40.2366667,-121.161,6.68,2.53,md,35,42,0.01625,0.15,nc,nc73888336,2023-05-15T20:24:13.322Z,"3km NNE of Almanor, CA",earthquake,0.27,0.27,0.138,52,reviewed,nc,nc
 2023-05-15T08:33:33.341Z,36.326,-116.3253,6.1,1.2,ml,32,83.53,0.132,0.1121,nn,nn00859539,2023-05-15T16:07:51.964Z,"33 km WNW of Pahrump, Nevada",earthquake,,1.6,0.92,16,reviewed,nn,nn
 2023-05-15T08:30:05.965Z,63.2238,-150.9958,138.2,1.7,ml,,,,0.19,ak,ak02367ehrg4,2023-05-15T08:32:12.567Z,"Central Alaska",earthquake,,4.9,,,automatic,ak,ak
 2023-05-15T08:21:09.790Z,33.4715004,-116.5636673,8.21,1.54,ml,57,52,0.03965,0.19,ci,ci40225359,2023-05-15T08:31:43.400Z,"14km SE of Anza, CA",earthquake,0.22,0.68,0.235,14,automatic,ci,ci
