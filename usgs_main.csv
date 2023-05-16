@@ -10172,3 +10172,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-16T06:05:23.114Z,31.5961,-104.4105,5.0,2.5,ml,25.0,76.0,0.106,0.31,us,us6000kc85,2023-05-16T06:14:01.040Z,"64 km S of Whites City, New Mexico",earthquake,1.93,1.955,0.081,54.0,reviewed,us,us
 2023-05-16T02:08:48.600Z,37.4613333,-121.786,2.32,1.27,md,22.0,44.0,0.01584,0.09,nc,nc73888621,2023-05-16T06:08:43.980Z,"11km NNE of Alum Rock, CA",earthquake,0.26,0.4,0.279,19.0,reviewed,nc,nc
 2023-05-16T06:30:26.274Z,63.2593,-150.6252,127.1,1.5,ml,,,,0.23,ak,ak023690uaar,2023-05-16T06:32:16.043Z,"63 km ESE of Denali National Park, Alaska",earthquake,,2.1,,,automatic,ak,ak
+2023-05-16T06:34:28.710Z,36.7167,-116.2535,2.7,-0.1,ml,9.0,165.17,0.035,0.1176,nn,nn00859584,2023-05-16T06:36:16.784Z,California-Nevada border region,earthquake,,1.0,0.12,4.0,automatic,nn,nn
