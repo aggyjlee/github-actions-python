@@ -10246,3 +10246,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-16T13:52:33.050Z,33.9318333,-117.0883333,14.34,1.27,ml,37.0,65.0,0.0902,0.22,ci,ci40226031,2023-05-16T14:03:26.120Z,"7km SSW of Calimesa, CA",earthquake,0.27,0.7,0.196,26.0,automatic,ci,ci
 2023-05-16T13:49:55.040Z,17.968,-66.8336666666667,12.26,2.24,md,7.0,201.0,0.04396,0.07,pr,pr71409603,2023-05-16T14:03:41.630Z,"3 km SSW of Indios, Puerto Rico",earthquake,0.59,0.5,0.0272314511807712,4.0,reviewed,pr,pr
 2023-05-16T07:15:52.950Z,44.7963333,-110.8298333,4.68,0.36,md,10.0,108.0,0.01675,0.16,uu,uu60540156,2023-05-16T13:55:16.160Z,"Yellowstone National Park, Wyoming",earthquake,0.47,0.39,0.197,6.0,reviewed,uu,uu
+2023-05-16T13:53:16.495Z,-20.4096,-173.7758,10.0,4.9,mb,24.0,101.0,1.535,0.6,us,us6000kca2,2023-05-16T14:18:07.040Z,"89 km SE of Pangai, Tonga",earthquake,9.69,1.913,0.11,26.0,reviewed,us,us
+2023-05-16T10:33:13.380Z,44.769,-110.9703333,5.45,0.98,ml,11.0,138.0,0.02729,0.11,uu,uu60540166,2023-05-16T14:14:59.330Z,"15 km NE of West Yellowstone, Montana",earthquake,0.42,0.8,0.137,3.0,reviewed,uu,uu
+2023-05-16T10:32:35.990Z,44.7638333,-110.9685,5.22,0.19,md,9.0,133.0,0.0272,0.17,uu,uu60540161,2023-05-16T14:05:02.870Z,Wyoming,earthquake,0.45,0.81,0.229,6.0,reviewed,uu,uu
