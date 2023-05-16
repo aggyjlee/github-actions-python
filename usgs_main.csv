@@ -10284,3 +10284,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-16T17:38:15.710Z,40.2391663,-121.1546631,0.98,2.33,md,10.0,89.0,0.3212,0.16,nc,nc73888836,2023-05-16T17:39:47.869Z,"3km NE of Almanor, CA",earthquake,0.56,11.65,0.12,7.0,automatic,nc,nc
 2023-05-16T17:19:16.221Z,-4.5229,143.1157,94.724,5.0,mb,115.0,34.0,6.295,0.74,us,us6000kcbz,2023-05-16T17:37:40.040Z,"47 km SE of Ambunti, Papua New Guinea",earthquake,8.26,6.603,0.058,99.0,reviewed,us,us
 2023-05-16T17:39:12.193Z,62.1308,-145.3297,22.3,1.3,ml,,,,0.46,ak,ak023697fyb7,2023-05-16T17:41:05.951Z,Central Alaska,earthquake,,0.2,,,automatic,ak,ak
+2023-05-16T18:03:17.810Z,32.8118333,-115.5783333,11.09,1.62,ml,19.0,87.0,0.05865,0.28,ci,ci40226191,2023-05-16T18:06:56.616Z,"3km NW of El Centro, CA",earthquake,0.63,1.1,0.296,23.0,automatic,ci,ci
+2023-05-16T18:00:57.160Z,35.6351667,-117.55,12.41,0.85,ml,9.0,127.0,0.08647,0.22,ci,ci40226183,2023-05-16T18:04:34.855Z,"12km E of Ridgecrest, CA",earthquake,0.8,1.76,0.118,6.0,automatic,ci,ci
+2023-05-16T17:59:49.620Z,38.8134995,-122.8239975,2.31,1.12,md,24.0,56.0,0.006146,0.02,nc,nc73888841,2023-05-16T18:01:23.494Z,"7km NW of The Geysers, CA",earthquake,0.24,0.39,0.16,26.0,automatic,nc,nc
+2023-05-16T17:57:08.013Z,62.3258,-149.5912,38.4,1.7,ml,,,,0.5,ak,ak023697jsvl,2023-05-16T17:58:56.891Z,"22 km NE of Susitna North, Alaska",earthquake,,1.7,,,automatic,ak,ak
+2023-05-16T17:52:34.590Z,19.4073333740234,-155.233505249023,3.39000010490417,1.99,ml,25.0,70.0,,0.25999999,hv,hv73405067,2023-05-16T17:58:05.990Z,"3 km S of Volcano, Hawaii",earthquake,0.43,1.27999997,0.28,9.0,automatic,hv,hv
+2023-05-16T17:50:39.926Z,62.5981,-151.3172,77.6,1.5,ml,,,,0.69,ak,ak023697idbs,2023-05-16T17:53:25.969Z,"30 km WNW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-05-16T17:43:31.670Z,17.919,-66.9518333333333,9.92,2.6,md,17.0,226.0,0.06701,0.11,pr,pr71409623,2023-05-16T17:56:01.370Z,"7 km SW of Guánica, Puerto Rico",earthquake,0.57,0.42,0.347729004988166,10.0,reviewed,pr,pr
+2023-05-16T11:07:45.783Z,37.6986,71.6032,10.0,4.1,mwr,57.0,75.0,1.783,0.52,us,us6000kc99,2023-05-16T18:05:21.040Z,"23 km N of Khorugh, Tajikistan",earthquake,6.24,1.894,0.098,10.0,reviewed,us,us
