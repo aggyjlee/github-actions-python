@@ -10273,3 +10273,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-16T16:38:04.265Z,61.3502,-150.1059,35.5,1.6,ml,,,,0.51,ak,ak023696uadm,2023-05-16T16:39:59.809Z,"6 km W of Point MacKenzie, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2023-05-15T22:20:40.179Z,36.699,-97.677,7.26,1.87,ml,28.0,60.0,0.2114585046,0.15,ok,ok2023jmnr,2023-05-16T16:42:32.025Z,Oklahoma,earthquake,,0.5,0.32,5.0,reviewed,ok,ok
 2023-05-16T16:46:47.945Z,61.3868,-150.1307,65.6,1.2,ml,,,,0.15,ak,ak023696w3h6,2023-05-16T16:48:53.048Z,"8 km WNW of Point MacKenzie, Alaska",earthquake,,1.6,,,automatic,ak,ak
+2023-05-16T16:26:20.855Z,53.6211,-166.7311,74.0,3.4,ml,,,,0.59,ak,ak023696rr58,2023-05-16T17:01:35.861Z,"31 km SSW of Unalaska, Alaska",earthquake,,0.7,,,reviewed,ak,ak
