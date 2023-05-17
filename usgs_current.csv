@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-17T06:09:37.000Z,19.246000289917,-155.392501831055,32.1500015258789,3.17,ml,49,137,,0.140000001,hv,hv73405822,2023-05-17T06:21:16.367Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.54,0.579999983,1.76,25,automatic,hv,hv
+2023-05-17T06:27:28.458Z,62.2325,-150.4977,22.4,1.2,ml,,,,0.4,ak,ak0236aoczt9,2023-05-17T06:29:24.076Z,"16 km SW of Trapper Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-05-17T06:09:36.980Z,19.2421666666667,-155.389,32.83,3.39,ml,51,140,,0.12,hv,hv73405822,2023-05-17T06:26:56.084Z,"Island of Hawaii, Hawaii",earthquake,0.46,0.41,0.173561758417342,32,reviewed,hv,hv
+2023-05-17T06:04:57.450Z,17.9698333333333,-66.9828333333333,8.47,3.1,md,27,181,0.05843,0.2,pr,pr71409693,2023-05-17T06:30:36.260Z,"Puerto Rico region",earthquake,0.34,0.83,0.0575237416895578,8,reviewed,pr,pr
 2023-05-17T05:53:56.510Z,37.4893,-115.1926,4.6,1.5,ml,11,233.13,0.139,0.287,nn,nn00859614,2023-05-17T05:56:22.877Z,"12 km SSE of Hiko, Nevada",earthquake,,9.6,1.22,6,automatic,nn,nn
 2023-05-17T05:34:51.361Z,57.3636,-150.1259,0,3.7,ml,,,,0.62,ak,ak0236ant441,2023-05-17T05:43:24.657Z,"132 km ESE of Chiniak, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-05-17T05:30:46.139Z,62.4679,-149.3087,14.7,0.9,ml,,,,0.16,ak,ak0236ans8py,2023-05-17T05:33:10.234Z,"40 km E of Chase, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -207,5 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-16T06:42:11.950Z,33.533,-116.6806667,10.15,0.58,ml,33,41,0.05365,0.11,ci,ci40225911,2023-05-16T18:09:36.089Z,"2km SSW of Anza, CA",earthquake,0.14,0.29,0.162,16,reviewed,ci,ci
 2023-05-16T06:41:05.300Z,44.7146667,-111.1146667,8.56,1.34,ml,14,117,0.06843,0.18,uu,uu60540151,2023-05-16T13:29:33.710Z,"Idaho-Montana border region",earthquake,0.44,1.2,0.357,3,reviewed,uu,uu
 2023-05-16T06:34:29.023Z,36.7021,-116.2669,4.4,0,ml,18,124.49,0.037,0.1373,nn,nn00859584,2023-05-16T18:06:58.937Z,"California-Nevada border region",earthquake,,1.2,1.39,5,reviewed,nn,nn
-2023-05-16T06:30:26.274Z,63.2593,-150.6252,127.1,1.5,ml,,,,0.23,ak,ak023690uaar,2023-05-16T06:32:16.043Z,"63 km ESE of Denali National Park, Alaska",earthquake,,2.1,,,automatic,ak,ak
-2023-05-16T06:28:39.373Z,16.7255,-86.2019,10,4.2,mb,58,138,3.831,0.37,us,us6000kc89,2023-05-16T12:48:10.433Z,"44 km NW of Guanaja, Honduras",earthquake,8.39,1.962,0.058,85,reviewed,us,us
