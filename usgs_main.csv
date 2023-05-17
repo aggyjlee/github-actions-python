@@ -10566,3 +10566,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-17T20:54:19.229Z,60.9306,-151.5497,69.1,1.1,ml,,,,0.26,ak,ak0236awutwi,2023-05-17T20:56:31.554Z,"Kenai Peninsula, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-05-17T20:51:50.650Z,38.7868347,-122.765831,1.79,0.75,md,12.0,94.0,0.01458,0.03,nc,nc73889326,2023-05-17T20:53:24.848Z,"1km NW of The Geysers, CA",earthquake,0.35,0.88,0.04,11.0,automatic,nc,nc
 2023-05-17T19:55:53.756Z,34.9177,24.8541,10.0,4.4,mb,77.0,177.0,0.371,0.98,us,us6000kclg,2023-05-17T21:01:53.040Z,"14 km S of Moíres, Greece",earthquake,5.55,1.38,0.063,73.0,reviewed,us,us
+2023-05-17T21:10:53.819Z,59.8473,-152.5149,77.6,1.1,ml,,,,0.57,ak,ak0236ax6wo5,2023-05-17T21:13:01.892Z,"39 km WNW of Anchor Point, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-05-17T21:06:44.535Z,61.5812,-152.0337,101.3,0.6,ml,,,,0.53,ak,ak0236ax61ec,2023-05-17T21:09:13.130Z,"56 km SW of Skwentna, Alaska",earthquake,,2.4,,,automatic,ak,ak
+2023-05-17T21:06:00.744Z,63.7844,-147.7011,0.0,1.1,ml,,,,0.85,ak,ak0236ax5xpm,2023-05-17T21:08:19.317Z,"60 km E of Denali Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-05-17T20:10:12.720Z,19.3933333333333,-155.2485,0.92,0.45,md,11.0,98.0,,0.07,hv,hv73406662,2023-05-17T21:06:32.700Z,"5 km SSW of Volcano, Hawaii",earthquake,0.21,0.29,0.0192423302032968,2.0,reviewed,hv,hv
+2023-05-17T19:38:47.969Z,36.695,-96.70916667,0.0,1.49,ml,32.0,98.0,0.1466712181,0.51,ok,ok2023jpzh,2023-05-17T21:14:12.526Z,Oklahoma,quarry blast,,0.4,0.21,9.0,reviewed,ok,ok
