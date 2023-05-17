@@ -10438,3 +10438,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-17T09:06:14.900Z,38.8206673,-122.8209991,1.85,0.39,md,9.0,74.0,0.008958,0.02,nc,nc73889051,2023-05-17T09:07:51.468Z,"7km NW of The Geysers, CA",earthquake,0.35,1.05,0.29,9.0,automatic,nc,nc
 2023-05-17T09:09:59.298Z,52.8005,-168.2188,46.172,3.8,mb,26.0,166.0,0.422,1.18,us,us6000kch4,2023-05-17T09:24:04.040Z,"45 km ESE of Nikolski, Alaska",earthquake,5.19,3.54,0.094,29.0,reviewed,us,us
 2023-05-17T09:38:05.056Z,36.70271301,-97.6609726,2.33016777,2.19,ml,46.0,55.37182808,0.2179056555,0.4268369131,ok,ok2023jpfm,2023-05-17T09:40:08.590Z,"9 km W of Lamont, Oklahoma",earthquake,1.847813513,1.51018523,0.26,37.0,automatic,ok,ok
+2023-05-17T08:25:42.740Z,38.8441667,-122.8256667,2.31,0.28,md,5.0,135.0,0.009478,0.01,nc,nc73889041,2023-05-17T09:41:37.381Z,"9km WNW of Cobb, CA",earthquake,0.53,1.1,0.515,5.0,reviewed,nc,nc
