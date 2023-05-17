@@ -10450,3 +10450,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-17T11:46:29.070Z,38.7630005,-122.7089996,1.52,1.63,md,15.0,90.0,0.00919,0.05,nc,nc73889091,2023-05-17T11:48:03.187Z,"2km SW of Anderson Springs, CA",earthquake,0.27,0.38,0.13,19.0,automatic,nc,nc
 2023-05-17T11:46:11.740Z,38.7630005,-122.7088318,1.51,1.14,md,8.0,196.0,0.02973,0.02,nc,nc73889086,2023-05-17T11:47:47.876Z,"2km SW of Anderson Springs, CA",earthquake,0.46,0.94,0.13,9.0,automatic,nc,nc
 2023-05-17T11:39:09.037Z,64.951,-149.0376,17.8,1.0,ml,,,,0.66,ak,ak0236areoxj,2023-05-17T11:41:33.049Z,"26 km SSE of Minto, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-05-17T12:07:06.170Z,33.3419991,-116.9156647,7.94,1.7,ml,71.0,23.0,0.04586,0.21,ci,ci40226575,2023-05-17T12:09:22.701Z,"5km WSW of Palomar Observatory, CA",earthquake,0.2,1.23,0.136,26.0,automatic,ci,ci
+2023-05-17T12:04:26.313Z,61.1228,-152.3102,29.3,0.4,ml,,,,0.41,ak,ak0236arsnt3,2023-05-17T12:06:06.084Z,"63 km W of Tyonek, Alaska",earthquake,,0.3,,,automatic,ak,ak
