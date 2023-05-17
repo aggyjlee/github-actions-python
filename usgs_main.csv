@@ -10591,3 +10591,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-17T07:56:44.240Z,46.87466666666667,-121.72633333333332,-2.75,0.16,ml,10.0,96.0,0.005617,0.22,uw,uw61916337,2023-05-17T22:18:46.080Z,"26 km ENE of Ashford, Washington",earthquake,0.59,1.13,0.0907207623219132,7.0,reviewed,uw,uw
 2023-05-17T03:24:38.076Z,36.7922,-116.066,4.3,-0.2,ml,8.0,105.84,0.028,0.139,nn,nn00859635,2023-05-17T22:12:16.836Z,"43 km NW of Indian Springs, Nevada",earthquake,,2.4,0.11,4.0,reviewed,nn,nn
 2023-05-17T22:22:47.604Z,60.2759,-152.2702,89.9,1.2,ml,,,,0.32,ak,ak0236axuwe0,2023-05-17T22:24:53.282Z,"41 km NW of Ninilchik, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-05-17T04:19:14.431Z,37.4969,-116.5991,15.7,0.6,ml,7.0,288.96,0.241,0.1938,nn,nn00859636,2023-05-17T22:40:09.903Z,Nevada,earthquake,,12.6,0.38,5.0,reviewed,nn,nn
