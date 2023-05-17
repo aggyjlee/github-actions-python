@@ -10487,3 +10487,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-17T15:04:42.190Z,38.8106651,-122.7863312,1.41,0.94,md,8.0,70.0,0.005115,0.02,nc,nc73889181,2023-05-17T15:19:10.237Z,"4km NW of The Geysers, CA",earthquake,0.44,1.05,0.19,9.0,automatic,nc,nc
 2023-05-17T14:58:04.750Z,17.941,-66.9508333333333,8.11,2.38,md,12.0,216.0,0.07609,0.08,pr,pr71409723,2023-05-17T15:15:06.520Z,"5 km SW of Guánica, Puerto Rico",earthquake,0.39,0.65,0.0870811593645526,9.0,reviewed,pr,pr
 2023-05-17T14:37:07.669Z,35.919,-95.14633333,0.0,1.48,ml,60.0,107.0,0.2663477335,0.48,ok,ok2023jppf,2023-05-17T15:17:12.381Z,"1 km SSW of Hulbert, Oklahoma",quarry blast,,0.5,0.17,14.0,reviewed,ok,ok
+2023-05-17T15:18:50.710Z,35.7016667,-117.5083333,1.46,1.07,ml,11.0,106.0,0.07795,0.19,ci,ci40226735,2023-05-17T15:22:27.018Z,"12km SW of Searles Valley, CA",earthquake,0.51,1.4,0.121,7.0,automatic,ci,ci
