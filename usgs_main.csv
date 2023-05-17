@@ -10592,3 +10592,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-17T03:24:38.076Z,36.7922,-116.066,4.3,-0.2,ml,8.0,105.84,0.028,0.139,nn,nn00859635,2023-05-17T22:12:16.836Z,"43 km NW of Indian Springs, Nevada",earthquake,,2.4,0.11,4.0,reviewed,nn,nn
 2023-05-17T22:22:47.604Z,60.2759,-152.2702,89.9,1.2,ml,,,,0.32,ak,ak0236axuwe0,2023-05-17T22:24:53.282Z,"41 km NW of Ninilchik, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-05-17T04:19:14.431Z,37.4969,-116.5991,15.7,0.6,ml,7.0,288.96,0.241,0.1938,nn,nn00859636,2023-05-17T22:40:09.903Z,Nevada,earthquake,,12.6,0.38,5.0,reviewed,nn,nn
+2023-05-17T22:39:08.343Z,57.5442,-156.3282,107.5,2.5,ml,,,,0.29,ak,ak0236axygio,2023-05-17T22:41:17.591Z,"64 km E of Ugashik, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-05-17T10:33:25.075Z,36.7165,-115.8622,5.0,-0.1,ml,5.0,249.74,0.097,0.1507,nn,nn00859637,2023-05-17T22:49:30.639Z,"23 km NW of Indian Springs, Nevada",earthquake,,10.6,0.0,1.0,reviewed,nn,nn
