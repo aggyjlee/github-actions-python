@@ -10496,3 +10496,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-17T16:10:50.600Z,40.5231667,-124.7598343,1.67,2.84,md,30.0,263.0,0.4803,0.24,nc,nc73889196,2023-05-17T16:22:11.638Z,"42km W of Ferndale, CA",earthquake,2.04,3.19,0.11,12.0,automatic,nc,nc
 2023-05-17T16:09:37.990Z,61.7707,-151.9584,94.2,0.9,ml,,,,0.22,ak,ak0236au7hqg,2023-05-17T16:12:35.226Z,Southern Alaska,earthquake,,1.6,,,automatic,ak,ak
 2023-05-17T16:01:03.319Z,36.2215,-95.8535,0.0,1.19,ml,60.0,183.0,0.3599293696,0.43,ok,ok2023jpsd,2023-05-17T16:09:32.126Z,"5 km S of Owasso, Oklahoma",quarry blast,,0.5,0.21,25.0,reviewed,ok,ok
+2023-05-17T16:47:12.290Z,38.8356667,-122.7845001,2.09,1.01,md,16.0,69.0,0.005322,0.02,nc,nc73889206,2023-05-17T16:48:47.689Z,"6km WNW of Cobb, CA",earthquake,0.26,0.52,0.1,16.0,automatic,nc,nc
+2023-05-17T16:30:34.075Z,-6.596,147.1225,52.094,4.9,mb,83.0,73.0,2.791,0.68,us,us6000kck9,2023-05-17T16:49:53.676Z,"19 km NE of Lae, Papua New Guinea",earthquake,10.0,7.155,0.051,123.0,reviewed,us,us
+2023-05-17T01:16:50.447Z,64.7556,-149.2,11.9,0.4,ml,,,,0.44,ak,ak0236albhvi,2023-05-17T16:45:56.289Z,"17 km NNW of Four Mile Road, Alaska",earthquake,,1.0,,,reviewed,ak,ak
