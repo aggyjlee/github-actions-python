@@ -10490,3 +10490,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-17T15:18:50.710Z,35.7016667,-117.5083333,1.46,1.07,ml,11.0,106.0,0.07795,0.19,ci,ci40226735,2023-05-17T15:22:27.018Z,"12km SW of Searles Valley, CA",earthquake,0.51,1.4,0.121,7.0,automatic,ci,ci
 2023-05-17T15:24:41.444Z,63.395,-150.4426,6.0,1.3,ml,,,,0.49,ak,ak0236atpa40,2023-05-17T15:26:32.507Z,Central Alaska,earthquake,,0.3,,,automatic,ak,ak
 2023-05-17T15:44:42.920Z,38.8181648,-122.8218307,2.25,1.08,md,22.0,59.0,0.01056,0.02,nc,nc73889191,2023-05-17T15:46:18.093Z,"7km NW of The Geysers, CA",earthquake,0.22,0.41,0.11,23.0,automatic,nc,nc
+2023-05-17T16:01:46.469Z,58.1144,-151.7581,31.4,2.6,ml,,,,0.32,ak,ak0236au5smu,2023-05-17T16:04:14.853Z,"48 km ENE of Ouzinkie, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2023-05-17T16:00:31.927Z,58.9067,-152.1493,58.4,1.6,ml,,,,0.45,ak,ak0236au5jso,2023-05-17T16:02:27.078Z,"51 km SSW of Nanwalek, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2023-05-17T01:31:47.760Z,32.8383333,-115.5831667,12.73,0.92,ml,13.0,118.0,0.06574,0.18,ci,ci37540444,2023-05-17T16:06:51.608Z,"2km SW of Imperial, CA",earthquake,0.58,0.71,0.376,5.0,reviewed,ci,ci
