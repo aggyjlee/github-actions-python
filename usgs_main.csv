@@ -10671,3 +10671,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-17T15:33:14.141Z,55.313,163.0385,41.75,4.2,mb,38.0,147.0,3.452,0.82,us,us6000kcip,2023-05-18T05:18:38.040Z,"107 km SSE of Ust’-Kamchatsk Staryy, Russia",earthquake,8.82,9.463,0.09,34.0,reviewed,us,us
 2023-05-18T05:09:59.880Z,17.9676,-67.0106,11.0,2.05,md,4.0,188.0,0.0337,0.04,pr,pr2023138001,2023-05-18T05:24:39.982Z,"3 km ESE of La Parguera, Puerto Rico",earthquake,0.62,0.75,0.11,4.0,reviewed,pr,pr
 2023-05-18T01:53:52.160Z,9.5591,57.8804,10.0,4.8,mb,16.0,124.0,23.037,0.49,us,us6000kcqx,2023-05-18T05:22:57.040Z,Carlsberg Ridge,earthquake,7.34,1.922,0.196,8.0,reviewed,us,us
+2023-05-18T05:28:39.970Z,38.7804985,-122.7555008,1.09,0.79,md,8.0,92.0,0.01263,0.01,nc,nc73889461,2023-05-18T05:30:15.189Z,"0km NNE of The Geysers, CA",earthquake,0.44,0.81,0.34,9.0,automatic,nc,nc
+2023-05-18T05:27:38.101Z,65.2523,-151.2665,3.0,1.2,ml,,,,0.14,ak,ak0236cbaxg2,2023-05-18T05:29:35.586Z,"39 km ENE of Tanana, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-05-18T05:26:02.222Z,58.6539,-152.3269,0.1,1.4,ml,,,,1.66,ak,ak0236cban5x,2023-05-18T05:31:45.656Z,"74 km NNE of Aleneva, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2023-05-18T05:25:38.690Z,38.8260002,-122.8550034,2.75,0.86,md,20.0,94.0,0.002124,0.02,nc,nc73889456,2023-05-18T05:27:16.707Z,"10km WNW of The Geysers, CA",earthquake,0.25,0.5,0.23,21.0,automatic,nc,nc
