@@ -10639,3 +10639,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-17T03:49:07.464Z,-24.4137,-67.4891,201.812,4.0,mb,18.0,107.0,1.586,0.46,us,us6000kcg6,2023-05-18T02:39:03.040Z,"120 km W of San Antonio de los Cobres, Argentina",earthquake,9.91,12.37,0.52,1.0,reviewed,us,us
 2023-05-18T02:52:11.240Z,61.9849,-150.7393,11.7,1.9,ml,,,,0.31,ak,ak0236c9nxgk,2023-05-18T02:53:46.679Z,"34 km E of Skwentna, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-18T00:48:11.070Z,19.4458333333333,-155.281666666667,1.55,0.4,md,11.0,165.0,,0.31,hv,hv73406922,2023-05-18T02:53:55.670Z,"5 km W of Volcano, Hawaii",earthquake,0.98,0.93,0.072001174295027,2.0,reviewed,hv,hv
+2023-05-18T03:16:23.397Z,60.4503,-150.1965,36.4,1.4,ml,,,,0.45,ak,ak0236ca1o83,2023-05-18T03:17:48.533Z,"20 km WSW of Cooper Landing, Alaska",earthquake,,6.5,,,automatic,ak,ak
+2023-05-18T03:15:39.901Z,58.5795,-154.3021,20.0,1.8,ml,,,,1.43,ak,ak0236ca1hs6,2023-05-18T03:18:02.247Z,"99 km SSE of Kokhanok, Alaska",earthquake,,7.7,,,automatic,ak,ak
+2023-05-18T03:10:26.410Z,19.3924999237061,-155.277160644531,0.899999976158142,2.01,ml,22.0,49.0,,0.200000003,hv,hv73407127,2023-05-18T03:15:56.960Z,"7 km SW of Volcano, Hawaii",earthquake,0.25,0.189999998,0.12,6.0,automatic,hv,hv
+2023-05-18T03:07:00.406Z,58.255,-155.0949,1.7,0.8,ml,,,,0.54,ak,ak0236c9zp08,2023-05-18T03:08:44.744Z,"85 km NNW of Karluk, Alaska",earthquake,,1.0,,,automatic,ak,ak
