@@ -10703,3 +10703,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-18T06:52:23.706Z,58.9831,-151.8531,88.8,1.5,ml,,,,0.89,ak,ak0236cc1oua,2023-05-18T06:54:41.265Z,"41 km S of Port Graham, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-05-18T06:50:40.593Z,58.2075,-155.2152,1.4,0.2,ml,,,,0.15,ak,ak0236cc1apn,2023-05-18T06:52:17.194Z,"84 km NNW of Karluk, Alaska",earthquake,,2.8,,,automatic,ak,ak
 2023-05-18T07:13:14.400Z,33.6893349,-116.6924973,17.44,1.0,ml,19.0,129.0,0.02829,0.15,ci,ci40227199,2023-05-18T07:15:20.186Z,"6km SSE of Idyllwild, CA",earthquake,0.61,0.92,0.307,7.0,automatic,ci,ci
+2023-05-18T07:15:24.080Z,34.0931667,-117.3086667,9.48,1.81,ml,59.0,26.0,0.006815,0.2,ci,ci40227207,2023-05-18T07:19:08.265Z,"2km NNE of Colton, CA",earthquake,0.2,0.43,0.163,25.0,automatic,ci,ci
+2023-05-18T07:12:48.750Z,17.9206666666667,-66.9906666666667,9.7,2.29,md,7.0,236.0,0.07036,0.08,pr,pr71409828,2023-05-18T07:22:10.470Z,"8 km SE of La Parguera, Puerto Rico",earthquake,0.64,0.74,0.0032385503144296,4.0,reviewed,pr,pr
