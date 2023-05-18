@@ -10702,3 +10702,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-18T06:55:15.890Z,38.8380013,-122.8251648,1.71,0.77,md,20.0,67.0,0.008083,0.03,nc,nc73889491,2023-05-18T06:56:51.034Z,"9km NW of The Geysers, CA",earthquake,0.21,0.59,0.2,20.0,automatic,nc,nc
 2023-05-18T06:52:23.706Z,58.9831,-151.8531,88.8,1.5,ml,,,,0.89,ak,ak0236cc1oua,2023-05-18T06:54:41.265Z,"41 km S of Port Graham, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-05-18T06:50:40.593Z,58.2075,-155.2152,1.4,0.2,ml,,,,0.15,ak,ak0236cc1apn,2023-05-18T06:52:17.194Z,"84 km NNW of Karluk, Alaska",earthquake,,2.8,,,automatic,ak,ak
+2023-05-18T07:13:14.400Z,33.6893349,-116.6924973,17.44,1.0,ml,19.0,129.0,0.02829,0.15,ci,ci40227199,2023-05-18T07:15:20.186Z,"6km SSE of Idyllwild, CA",earthquake,0.61,0.92,0.307,7.0,automatic,ci,ci
