@@ -10760,3 +10760,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-18T12:18:04.392Z,58.2077,-155.1058,43.0,0.4,ml,,,,0.23,ak,ak0236cfeymv,2023-05-18T12:19:43.752Z,"80 km NNW of Karluk, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2023-05-18T11:56:16.738Z,-55.7057,-27.0123,37.415,5.1,mb,45.0,90.0,5.638,0.62,us,us6000kcss,2023-05-18T12:12:58.040Z,South Sandwich Islands region,earthquake,11.97,7.897,0.092,39.0,reviewed,us,us
 2023-05-18T10:44:33.780Z,18.3918,-64.1173,4.0,3.79,md,20.0,219.0,0.8401,0.94,pr,pr2023138002,2023-05-18T12:30:58.861Z,"71 km E of Cruz Bay, U.S. Virgin Islands",earthquake,11.82,3.86,0.02,3.0,reviewed,pr,pr
+2023-05-18T12:54:48.986Z,58.1922,-155.2687,2.6,1.9,ml,,,,0.57,ak,ak0236cfmruq,2023-05-18T12:57:07.352Z,"84 km NW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-05-18T12:33:19.321Z,-23.401,-179.9965,523.612,4.5,mb,62.0,65.0,4.963,0.67,us,us6000kcsz,2023-05-18T12:52:01.040Z,south of the Fiji Islands,earthquake,14.42,9.404,0.075,53.0,reviewed,us,us
