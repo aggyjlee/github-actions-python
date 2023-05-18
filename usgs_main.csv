@@ -10789,3 +10789,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-18T13:54:31.079Z,58.3759,-155.2173,0.0,0.4,ml,,,,1.37,ak,ak0236cg8624,2023-05-18T13:57:19.316Z,"91 km ESE of King Salmon, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-05-18T13:51:15.650Z,19.2514991760254,-155.408340454102,32.2200012207031,2.22,ml,48.0,126.0,,0.129999995,hv,hv73407682,2023-05-18T13:56:47.700Z,"9 km NE of Pāhala, Hawaii",earthquake,0.58,0.790000021,3.61,6.0,automatic,hv,hv
 2023-05-18T08:34:28.159Z,-33.9578,-71.5572,43.294,3.3,ml,24.0,164.0,0.271,0.35,us,us6000kcrk,2023-05-18T14:01:28.744Z,near the coast of central Chile,earthquake,3.79,4.235,0.056,42.0,reviewed,us,us
+2023-05-18T14:25:46.095Z,58.5575,-154.3286,62.8,0.6,ml,,,,0.9,ak,ak0236cgnf99,2023-05-18T14:27:58.153Z,"99 km WNW of Aleneva, Alaska",earthquake,,0.8,,,automatic,ak,ak
