@@ -10817,3 +10817,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-18T16:22:01.750Z,60.1244,-152.898,98.5,0.5,ml,,,,0.16,ak,ak0236chtjpr,2023-05-18T16:23:20.392Z,"67 km WNW of Happy Valley, Alaska",earthquake,,2.8,,,automatic,ak,ak
 2023-05-18T16:11:31.721Z,59.9561,-152.7516,107.1,2.8,ml,,,,0.28,ak,ak0236chr95g,2023-05-18T16:13:12.682Z,"55 km WNW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-18T01:35:41.850Z,44.4993333333333,-113.013833333333,2.35,1.19,ml,8.0,142.0,0.1768,0.08,mb,mb90014443,2023-05-18T16:12:34.190Z,"33 km SE of Leadore, Idaho",earthquake,0.36,1.16,0.178140679365221,9.0,reviewed,mb,mb
+2023-05-18T16:33:39.260Z,32.9770012,-115.98983,7.97,1.31,ml,37.0,67.0,0.09159,0.21,ci,ci40227487,2023-05-18T16:35:52.059Z,"23km SE of Ocotillo Wells, CA",earthquake,0.3,1.39,0.229,5.0,automatic,ci,ci
