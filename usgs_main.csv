@@ -10896,3 +10896,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-18T21:41:43.820Z,19.3876666666667,-155.280166666667,1.26,0.57,md,18.0,61.0,,0.09,hv,hv73408282,2023-05-18T22:11:35.150Z,"Island of Hawaii, Hawaii",earthquake,0.21,0.15,0.335472049162911,3.0,reviewed,hv,hv
 2023-05-18T03:29:07.527Z,38.591,-119.4333,7.4,1.0,ml,5.0,197.07,0.068,0.0773,nn,nn00859676,2023-05-18T22:10:35.357Z,"6 km ENE of Coleville, California",earthquake,,3.8,0.02,2.0,reviewed,nn,nn
 2023-05-18T00:17:24.908Z,39.758,-120.4214,14.8,0.8,ml,4.0,216.54,0.119,0.1138,nn,nn00859675,2023-05-18T22:04:22.712Z,"7 km SE of Portola, California",earthquake,,3.1,0.1,2.0,reviewed,nn,nn
+2023-05-18T22:19:30.413Z,59.9409,-152.0118,72.8,1.5,ml,,,,0.31,ak,ak0236cldkep,2023-05-18T22:20:58.151Z,"15 km W of Happy Valley, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-05-18T10:28:10.820Z,19.179,-155.022833333333,39.32,1.82,md,35.0,239.0,,0.12,hv,hv73407527,2023-05-18T22:23:09.010Z,"33 km SSE of Fern Forest, Hawaii",earthquake,0.99,0.75,0.131662961058242,13.0,reviewed,hv,hv
