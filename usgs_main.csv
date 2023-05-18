@@ -10708,3 +10708,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-18T07:23:56.340Z,33.1926667,-116.7206667,11.33,0.97,ml,40.0,26.0,0.05372,0.2,ci,ci40227223,2023-05-18T07:27:34.944Z,"7km SE of Lake Henshaw, CA",earthquake,0.26,0.68,0.113,24.0,automatic,ci,ci
 2023-05-18T07:23:31.930Z,34.0885,-117.3006667,10.19,1.01,ml,20.0,91.0,0.01413,0.22,ci,ci40227215,2023-05-18T07:27:15.279Z,"2km NE of Colton, CA",earthquake,0.36,0.93,0.19,27.0,automatic,ci,ci
 2023-05-18T07:22:43.120Z,38.8146667,-122.8219986,2.29,1.09,md,26.0,50.0,0.008061,0.02,nc,nc73889496,2023-05-18T07:24:15.573Z,"7km NW of The Geysers, CA",earthquake,0.2,0.35,0.14,26.0,automatic,nc,nc
+2023-05-18T08:05:55.000Z,38.8240013,-122.8438339,1.66,0.82,md,19.0,102.0,0.006934,0.01,nc,nc73889506,2023-05-18T08:07:31.246Z,"9km NW of The Geysers, CA",earthquake,0.2,0.4,0.24,19.0,automatic,nc,nc
+2023-05-18T08:02:16.212Z,64.0518,-147.1951,0.9,1.6,ml,,,,0.5,ak,ak0236ccxto5,2023-05-18T08:04:14.198Z,"45 km SW of Harding-Birch Lakes, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-05-18T07:55:07.281Z,58.1949,-155.2664,0.0,0.9,ml,,,,0.67,ak,ak0236ccnqbs,2023-05-18T07:56:59.509Z,"84 km NW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
