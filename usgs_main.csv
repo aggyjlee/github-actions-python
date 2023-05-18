@@ -10777,3 +10777,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-18T13:19:34.180Z,19.2329998016357,-155.393173217773,29.5799999237061,1.72000003,md,42.0,143.0,,0.119999997,hv,hv73407657,2023-05-18T13:22:52.830Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.58,0.819999993,1.60000002,11.0,automatic,hv,hv
 2023-05-18T13:16:28.781Z,61.2074,-152.0118,90.8,1.6,ml,,,,0.69,ak,ak0236cfzzzj,2023-05-18T13:18:44.947Z,"49 km WNW of Tyonek, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-05-17T23:06:53.960Z,37.4876667,-113.803,1.87,0.71,md,7.0,152.0,0.05006,0.08,uu,uu60540241,2023-05-18T13:23:12.460Z,"12 km SW of Enterprise, Utah",earthquake,0.76,1.73,0.332,3.0,reviewed,uu,uu
+2023-05-18T13:13:19.699Z,52.5504,-176.2485,195.269,4.6,mb,46.0,79.0,0.471,0.75,us,us6000kct6,2023-05-18T13:29:48.040Z,"79 km NNE of Adak, Alaska",earthquake,10.25,7.214,0.029,357.0,reviewed,us,us
