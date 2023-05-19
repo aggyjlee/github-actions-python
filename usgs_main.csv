@@ -11086,3 +11086,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-19T13:59:39.060Z,19.1751670837402,-155.485504150391,34.6500015258789,1.97000003,md,41.0,91.0,,0.119999997,hv,hv73409522,2023-05-19T14:02:49.520Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.56,0.810000002,1.07000005,15.0,automatic,hv,hv
 2023-05-19T13:56:33.020Z,35.952,-117.6905,1.98,2.05,ml,22.0,87.0,0.1007,0.16,ci,ci40228191,2023-05-19T14:00:16.621Z,"20km E of Little Lake, CA",earthquake,0.25,0.6,0.133,25.0,automatic,ci,ci
 2023-05-19T09:59:24.640Z,44.9756666666667,-111.961333333333,5.0,2.6,ml,43.0,53.0,0.2637,0.2,mb,mb90014578,2023-05-19T14:03:22.970Z,"35 km S of Virginia City, Montana",earthquake,0.22,31.61,0.204529264923508,31.0,reviewed,mb,mb
+2023-05-19T14:13:00.432Z,59.8786,-154.1313,183.8,1.3,ml,,,,0.17,ak,ak0236e443gb,2023-05-19T14:15:07.468Z,"10 km N of Pedro Bay, Alaska",earthquake,,1.3,,,automatic,ak,ak
+2023-05-19T14:11:34.440Z,33.5338333,-116.6796667,9.1,0.74,ml,33.0,40.0,0.05248,0.15,ci,ci40228199,2023-05-19T14:15:15.774Z,"2km SSW of Anza, CA",earthquake,0.2,0.44,0.224,23.0,automatic,ci,ci
+2023-05-19T14:02:40.532Z,63.5622,-150.7494,2.5,1.2,ml,,,,0.39,ak,ak0236e41to5,2023-05-19T14:05:44.453Z,"48 km E of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-05-19T00:52:37.655Z,36.7382,-116.1321,4.3,-0.5,ml,6.0,142.66,0.017,0.0431,nn,nn00859711,2023-05-19T14:06:40.139Z,"45 km WNW of Indian Springs, Nevada",earthquake,,1.9,0.05,3.0,reviewed,nn,nn
