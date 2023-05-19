@@ -10952,3 +10952,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-19T03:08:30.750Z,38.7813339,-122.7573318,1.33,0.55,md,7.0,85.0,0.01247,0.01,nc,nc73889761,2023-05-19T03:10:06.688Z,"0km N of The Geysers, CA",earthquake,0.33,0.74,0.27,9.0,automatic,nc,nc
 2023-05-19T03:06:58.868Z,58.104,-155.555,21.3,0.7,ml,,,,0.64,ak,ak0236dxiyam,2023-05-19T03:08:21.537Z,"88 km NW of Karluk, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-05-19T02:57:06.722Z,-23.2286,170.6936,37.748,7.7,mww,110.0,31.0,3.056,1.19,us,us6000kd0n,2023-05-19T03:19:51.386Z,southeast of the Loyalty Islands,earthquake,7.26,5.069,0.047,44.0,reviewed,us,us
+2023-05-19T03:09:40.074Z,38.6791,-97.5475,2.112,2.9,mb_lg,32.0,45.0,0.711,0.77,us,us6000kd0t,2023-05-19T03:26:13.208Z,"4 km E of Assaria, Kansas",earthquake,3.65,7.741,0.054,91.0,reviewed,us,us
