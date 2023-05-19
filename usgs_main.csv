@@ -10994,3 +10994,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-19T05:54:17.874Z,-23.3152,170.9667,34.273,4.8,mb,26.0,111.0,3.319,0.69,us,us6000kd2f,2023-05-19T06:13:12.040Z,southeast of the Loyalty Islands,earthquake,6.06,6.426,0.121,21.0,reviewed,us,us
 2023-05-19T05:53:43.820Z,40.9726,-73.8855,9.813,2.2,ml,26.0,82.0,0.112,0.28,us,us6000kd2b,2023-05-19T06:23:40.071Z,"2 km SSW of Hastings-on-Hudson, New York",earthquake,2.09,5.293,0.105,12.0,reviewed,us,us
 2023-05-18T15:56:23.350Z,38.8206667,-122.8235,2.28,-0.18,md,17.0,50.0,0.009333,0.02,nc,nc71130479,2023-05-19T06:13:12.709Z,"8km NW of The Geysers, CA",earthquake,0.26,0.51,0.202,15.0,reviewed,nc,nc
+2023-05-19T06:08:21.358Z,-23.2658,171.0062,10.0,5.1,mb,47.0,88.0,3.345,0.75,us,us6000kd2j,2023-05-19T06:26:31.040Z,southeast of the Loyalty Islands,earthquake,9.91,1.881,0.112,26.0,reviewed,us,us
