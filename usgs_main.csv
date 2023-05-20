@@ -11432,3 +11432,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-20T19:51:12.770Z,38.831501,-122.7898331,1.54,0.27,md,8.0,91.0,0.01526,0.01,nc,nc73890466,2023-05-20T20:03:11.477Z,"6km W of Cobb, CA",earthquake,0.52,1.87,0.13,8.0,automatic,nc,nc
 2023-05-20T19:50:10.300Z,35.6456667,-118.3176667,7.51,1.64,ml,26.0,67.0,0.05666,0.14,ci,ci40229775,2023-05-20T20:00:57.290Z,"14km ESE of Wofford Heights, CA",earthquake,0.21,0.63,0.271,24.0,automatic,ci,ci
 2023-05-20T18:07:41.159Z,-22.7476,170.8165,10.0,5.0,mb,51.0,105.0,3.115,0.61,us,us6000kdh8,2023-05-20T19:55:04.040Z,southeast of the Loyalty Islands,earthquake,9.75,1.883,0.083,50.0,reviewed,us,us
+2023-05-20T20:00:49.030Z,19.4204998016357,-155.318832397461,2.11999988555908,1.88,ml,24.0,85.0,,0.289999992,hv,hv73412087,2023-05-20T20:06:20.720Z,"9 km WSW of Volcano, Hawaii",earthquake,0.46,0.610000014,0.28,6.0,automatic,hv,hv
+2023-05-20T15:22:46.234Z,36.7173,-116.2931,10.9,-0.3,ml,8.0,99.55,0.026,0.0491,nn,nn00859798,2023-05-20T20:17:55.448Z,California-Nevada border region,earthquake,,1.4,0.25,2.0,reviewed,nn,nn
