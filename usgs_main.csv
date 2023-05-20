@@ -11266,3 +11266,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-19T19:42:42.623Z,38.9896,-118.3403,0.0,0.5,ml,3.0,198.11,0.195,0.0605,nn,nn00859765,2023-05-20T01:01:30.464Z,"38 km WNW of Gabbs, Nevada",earthquake,,0.0,0.32,3.0,reviewed,nn,nn
 2023-05-19T19:14:38.784Z,40.0918,-119.7192,14.0,0.1,ml,3.0,215.98,0.079,0.1521,nn,nn00859764,2023-05-20T00:55:19.051Z,"18 km NNW of Sutcliffe, Nevada",earthquake,,4.0,0.37,3.0,reviewed,nn,nn
 2023-05-19T06:05:43.087Z,-23.1699,170.5757,10.0,4.8,mb,22.0,90.0,2.938,0.87,us,us6000kdbw,2023-05-20T00:45:27.040Z,southeast of the Loyalty Islands,earthquake,6.24,1.91,0.135,17.0,reviewed,us,us
+2023-05-20T02:00:56.606Z,64.896,-148.9339,15.0,0.8,ml,,,,0.48,ak,ak0236fkfkon,2023-05-20T02:03:14.687Z,"33 km NNE of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-05-20T01:57:52.820Z,19.2388324737549,-155.406173706055,28.8799991607666,1.76999998,md,29.0,150.0,,0.100000001,hv,hv73410587,2023-05-20T02:01:04.840Z,"Hawaii region, Hawaii",earthquake,0.61,1.01999998,0.579999983,7.0,automatic,hv,hv
+2023-05-20T01:51:01.088Z,-23.0622,170.4562,35.981,7.1,mww,98.0,56.0,2.812,1.14,us,us6000kdce,2023-05-20T02:21:56.531Z,southeast of the Loyalty Islands,earthquake,7.08,5.314,0.058,29.0,reviewed,us,us
+2023-05-20T01:48:40.550Z,38.7886658,-122.7693329,2.86,0.43,md,9.0,97.0,0.01411,0.01,nc,nc73890136,2023-05-20T02:08:15.525Z,"2km NW of The Geysers, CA",earthquake,0.4,0.99,0.28,10.0,automatic,nc,nc
+2023-05-20T01:37:35.109Z,-18.0395,167.6606,49.948,4.9,mb,24.0,69.0,4.049,1.33,us,us6000kdcd,2023-05-20T01:56:18.040Z,"76 km WSW of Port-Vila, Vanuatu",earthquake,8.11,7.888,0.083,46.0,reviewed,us,us
