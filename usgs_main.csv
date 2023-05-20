@@ -11406,3 +11406,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-20T16:24:10.080Z,38.8348351,-122.8266678,4.09,0.74,md,7.0,149.0,0.007842,0.04,nc,nc73890391,2023-05-20T16:25:46.355Z,"9km NW of The Geysers, CA",earthquake,0.96,1.46,0.26,8.0,automatic,nc,nc
 2023-05-20T16:42:31.090Z,33.278,-116.3283333,11.5,1.58,ml,60.0,28.0,0.07505,0.23,ci,ci40229591,2023-05-20T16:46:08.180Z,"5km ENE of Borrego Springs, CA",earthquake,0.24,0.77,0.114,28.0,automatic,ci,ci
 2023-05-20T16:49:08.200Z,35.6188333,-117.4443333,6.26,1.83,ml,26.0,77.0,0.0354,0.17,ci,ci40229599,2023-05-20T16:52:43.201Z,"17km SSW of Searles Valley, CA",earthquake,0.28,0.54,0.191,26.0,automatic,ci,ci
+2023-05-20T16:13:59.191Z,-23.3339,171.2183,23.798,4.8,mb,27.0,122.0,3.549,0.79,us,us6000kdgr,2023-05-20T17:04:57.040Z,southeast of the Loyalty Islands,earthquake,11.25,5.484,0.089,39.0,reviewed,us,us
+2023-05-20T15:35:21.724Z,-34.0031,56.1322,10.0,4.8,mb,22.0,97.0,12.014,0.57,us,us6000kdgp,2023-05-20T17:09:35.040Z,South Indian Ocean,earthquake,6.79,1.901,0.127,19.0,reviewed,us,us
+2023-05-20T14:11:22.652Z,34.9139,140.1024,83.664,4.6,mb,32.0,136.0,1.597,0.63,us,us6000kdgi,2023-05-20T17:14:03.040Z,"15 km SSE of Wada, Japan",earthquake,7.98,8.824,0.109,25.0,reviewed,us,us
