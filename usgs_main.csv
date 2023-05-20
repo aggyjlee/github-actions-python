@@ -11434,3 +11434,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-20T18:07:41.159Z,-22.7476,170.8165,10.0,5.0,mb,51.0,105.0,3.115,0.61,us,us6000kdh8,2023-05-20T19:55:04.040Z,southeast of the Loyalty Islands,earthquake,9.75,1.883,0.083,50.0,reviewed,us,us
 2023-05-20T20:00:49.030Z,19.4204998016357,-155.318832397461,2.11999988555908,1.88,ml,24.0,85.0,,0.289999992,hv,hv73412087,2023-05-20T20:06:20.720Z,"9 km WSW of Volcano, Hawaii",earthquake,0.46,0.610000014,0.28,6.0,automatic,hv,hv
 2023-05-20T15:22:46.234Z,36.7173,-116.2931,10.9,-0.3,ml,8.0,99.55,0.026,0.0491,nn,nn00859798,2023-05-20T20:17:55.448Z,California-Nevada border region,earthquake,,1.4,0.25,2.0,reviewed,nn,nn
+2023-05-20T20:21:30.880Z,38.7615013,-122.7061691,1.09,1.06,md,8.0,181.0,0.00857,0.02,nc,nc73890481,2023-05-20T20:23:03.349Z,"2km SW of Anderson Springs, CA",earthquake,1.13,0.57,0.11,8.0,automatic,nc,nc
+2023-05-20T16:27:27.433Z,40.3168,-119.8206,10.0,0.9,ml,3.0,292.57,0.162,0.0579,nn,nn00859800,2023-05-20T20:24:09.881Z,"32 km NE of Herlong, California",earthquake,,7.6,0.38,3.0,reviewed,nn,nn
+2023-05-20T16:24:06.186Z,39.6534,-117.9813,0.0,1.1,ml,6.0,170.36,0.168,0.212,nn,nn00859799,2023-05-20T20:21:03.370Z,"68 km ENE of Fallon Station, Nevada",earthquake,,0.0,0.2,3.0,reviewed,nn,nn
