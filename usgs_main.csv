@@ -11773,3 +11773,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-21T17:04:50.590Z,35.952,-117.701,6.29,0.43,ml,14.0,121.0,0.09263,0.17,ci,ci40230607,2023-05-21T20:19:53.530Z,"19km E of Little Lake, CA",earthquake,0.31,1.04,0.102,3.0,reviewed,ci,ci
 2023-05-21T20:22:44.348Z,62.9061,-148.3578,12.5,1.4,ml,,,,1.04,ak,ak0236hitewi,2023-05-21T20:26:29.670Z,"61 km SSE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-21T20:30:16.990Z,19.4103336334229,-155.267669677734,-0.0599999986588955,2.32,ml,23.0,112.0,,0.200000003,hv,hv73414342,2023-05-21T20:35:47.910Z,"5 km SW of Volcano, Hawaii",earthquake,0.21,0.25,0.31,10.0,automatic,hv,hv
+2023-05-21T20:54:30.110Z,38.8466682,-122.815834,1.41,0.71,md,7.0,111.0,0.009905,0.01,nc,nc73890966,2023-05-21T20:56:06.908Z,"8km WNW of Cobb, CA",earthquake,0.37,1.07,0.28,8.0,automatic,nc,nc
