@@ -11633,3 +11633,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-21T10:46:13.010Z,33.997,-116.8713333,7.09,0.51,ml,8.0,192.0,0.1742,0.23,ci,ci40230311,2023-05-21T10:49:48.944Z,"8km N of Banning, CA",earthquake,1.64,31.61,0.052,6.0,automatic,ci,ci
 2023-05-21T10:44:56.418Z,62.967,-150.9777,112.5,1.8,ml,,,,0.37,ak,ak0236hcztjd,2023-05-21T10:47:17.839Z,Central Alaska,earthquake,,1.0,,,automatic,ak,ak
 2023-05-21T10:42:38.730Z,33.1365,-115.9616667,3.31,1.49,ml,42.0,47.0,0.03928,0.22,ci,ci40230303,2023-05-21T10:46:25.716Z,"16km E of Ocotillo Wells, CA",earthquake,0.26,0.63,0.201,27.0,automatic,ci,ci
+2023-05-21T10:58:23.020Z,38.8046684,-122.7913361,-0.37,1.09,md,21.0,45.0,0.004523,0.04,nc,nc73890746,2023-05-21T11:00:00.123Z,"4km NW of The Geysers, CA",earthquake,0.15,0.39,0.11,21.0,automatic,nc,nc
+2023-05-21T10:55:20.950Z,34.0018333,-116.6216667,15.5,0.78,ml,23.0,42.0,0.04261,0.17,ci,ci40230319,2023-05-21T10:59:01.184Z,"6km SW of Morongo Valley, CA",earthquake,0.29,0.63,0.188,19.0,automatic,ci,ci
