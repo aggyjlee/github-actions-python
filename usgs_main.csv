@@ -11759,3 +11759,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-21T18:05:17.420Z,17.9823333333333,-66.8446666666667,16.77,2.15,md,7.0,183.0,0.03371,0.13,pr,pr71410243,2023-05-21T19:11:22.180Z,"2 km WSW of Indios, Puerto Rico",earthquake,0.59,0.9,0.0593063490544594,6.0,reviewed,pr,pr
 2023-05-21T19:16:08.434Z,62.9181,-148.3441,11.9,1.0,ml,,,,0.94,ak,ak0236hi6m8b,2023-05-21T19:18:00.833Z,"61 km SSE of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-21T17:31:05.633Z,-1.1026,120.3447,46.683,4.8,mb,44.0,81.0,3.439,0.57,us,us6000kdq2,2023-05-21T19:26:49.040Z,"55 km NW of Poso, Indonesia",earthquake,8.6,3.577,0.097,33.0,reviewed,us,us
+2023-05-21T19:29:33.550Z,34.5904999,-117.7103348,15.47,1.46,ml,15.0,137.0,0.1727,0.26,ci,ci40230727,2023-05-21T19:33:16.312Z,"11km ESE of Lake Los Angeles, CA",earthquake,2.27,3.98,0.674,7.0,automatic,ci,ci
