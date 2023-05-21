@@ -11791,3 +11791,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-21T21:45:44.570Z,35.9954,60.5859,10.0,4.4,mb,29.0,160.0,2.763,0.75,us,us6000kdrl,2023-05-21T21:57:58.040Z,Northeastern Iran,earthquake,5.65,1.945,0.12,20.0,reviewed,us,us
 2023-05-21T22:21:54.757Z,62.0371,-151.1444,64.5,1.5,ml,,,,0.35,ak,ak0236hk0377,2023-05-21T22:24:03.971Z,"14 km ENE of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-21T22:20:30.800Z,35.6621667,-117.4881667,4.89,1.18,ml,16.0,69.0,0.05257,0.15,ci,ci40230783,2023-05-21T22:24:08.908Z,"14km SSW of Searles Valley, CA",earthquake,0.34,0.93,0.234,11.0,automatic,ci,ci
+2023-05-21T22:28:47.114Z,37.2733,-117.5918,4.5,2.7,ml,30.0,111.62,0.059,0.2646,nn,nn00860038,2023-05-21T22:32:28.772Z,"53 km S of Silver Peak, Nevada",earthquake,,1.1,0.71,20.0,automatic,nn,nn
+2023-05-21T22:28:36.320Z,38.7739983,-122.73983,0.32,1.54,md,26.0,60.0,0.009539,0.04,nc,nc73891001,2023-05-21T22:30:11.747Z,"2km ESE of The Geysers, CA",earthquake,0.2,0.35,0.16,26.0,automatic,nc,nc
+2023-05-21T22:26:47.530Z,60.6193,-141.9539,1.0,1.2,ml,,,,0.82,ak,ak0236hk1581,2023-05-21T22:28:23.801Z,"104 km SSE of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-05-21T22:25:00.190Z,34.0308333,-116.336,13.23,0.82,ml,16.0,70.0,0.05897,0.28,ci,ci40230791,2023-05-21T22:28:31.524Z,"12km S of Joshua Tree, CA",earthquake,0.61,1.07,0.187,9.0,automatic,ci,ci
+2023-05-21T22:20:05.361Z,29.8307,129.1834,189.392,5.5,mww,72.0,53.0,1.999,1.02,us,us6000kdrq,2023-05-21T22:31:50.040Z,"129 km WSW of Kurio, Japan",earthquake,7.43,7.21,0.071,19.0,reviewed,us,us
