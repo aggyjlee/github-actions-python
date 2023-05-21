@@ -11623,3 +11623,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-21T09:51:57.480Z,17.82,-66.8638333333333,11.34,2.42,md,12.0,253.0,0.1549,0.12,pr,pr71410188,2023-05-21T10:04:40.770Z,"17 km SSE of Guánica, Puerto Rico",earthquake,0.68,0.49,0.0556495731334077,6.0,reviewed,pr,pr
 2023-05-21T10:20:03.470Z,37.2772,-117.5807,2.6,1.0,ml,11.0,123.26,0.068,0.2292,nn,nn00859930,2023-05-21T10:22:38.880Z,"53 km S of Silver Peak, Nevada",earthquake,,2.9,0.94,7.0,automatic,nn,nn
 2023-05-21T10:18:39.310Z,35.9491667,-117.6951667,2.85,0.73,ml,12.0,132.0,0.09804,0.16,ci,ci40230263,2023-05-21T10:22:12.979Z,"19km E of Little Lake, CA",earthquake,0.41,1.4,0.066,5.0,automatic,ci,ci
+2023-05-21T10:38:30.430Z,35.9474983,-117.6866684,2.26,1.72,ml,24.0,86.0,0.1051,0.17,ci,ci40230295,2023-05-21T10:40:40.679Z,"20km E of Little Lake, CA",earthquake,0.29,0.65,0.209,7.0,automatic,ci,ci
+2023-05-21T10:37:27.910Z,35.9518318,-117.6968307,1.94,1.55,ml,23.0,63.0,0.09588,0.2,ci,ci40230287,2023-05-21T10:40:59.697Z,"19km E of Little Lake, CA",earthquake,0.35,0.72,0.024,3.0,automatic,ci,ci
+2023-05-21T10:34:55.300Z,35.9463333,-117.6953333,3.28,1.26,ml,13.0,131.0,0.09891,0.15,ci,ci40230279,2023-05-21T10:38:30.539Z,"19km E of Little Lake, CA",earthquake,0.38,1.04,0.155,11.0,automatic,ci,ci
+2023-05-21T10:32:53.956Z,37.2948,-117.606,3.1,0.6,ml,11.0,247.18,0.07,0.2816,nn,nn00859932,2023-05-21T10:35:18.902Z,California-Nevada border region,earthquake,,11.0,0.74,7.0,automatic,nn,nn
+2023-05-21T10:32:10.523Z,63.4926,-152.8678,0.0,1.8,ml,,,,0.79,ak,ak0236hcx5ek,2023-05-21T10:34:19.070Z,Central Alaska,earthquake,,0.5,,,automatic,ak,ak
+2023-05-21T10:24:11.466Z,52.8577,-166.8963,39.31,4.1,mb,44.0,173.0,0.825,0.67,us,us6000kdl5,2023-05-21T10:38:04.040Z,"115 km SSW of Unalaska, Alaska",earthquake,6.31,9.839,0.101,27.0,reviewed,us,us
