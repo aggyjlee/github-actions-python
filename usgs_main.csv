@@ -11639,3 +11639,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-21T11:00:45.340Z,19.4098339080811,-155.287506103516,0.860000014305115,1.88,ml,28.0,43.0,,0.219999999,hv,hv73413567,2023-05-21T11:06:15.890Z,"6 km WSW of Volcano, Hawaii",earthquake,0.25,0.189999998,0.32,8.0,automatic,hv,hv
 2023-05-21T11:13:39.612Z,37.2772,-117.5865,2.7,1.2,ml,16.0,126.27,0.065,0.2242,nn,nn00859938,2023-05-21T11:16:10.647Z,"53 km S of Silver Peak, Nevada",earthquake,,3.7,0.87,10.0,automatic,nn,nn
 2023-05-21T11:11:03.538Z,37.2996,-117.5781,0.0,1.8,ml,25.0,103.71,0.086,0.2111,nn,nn00859936,2023-05-21T11:14:02.476Z,"50 km S of Silver Peak, Nevada",earthquake,,15.3,0.74,19.0,automatic,nn,nn
+2023-05-21T11:27:37.421Z,37.2941,-117.5671,1.9,1.4,ml,17.0,196.28,0.528,0.2984,nn,nn00859943,2023-05-21T11:29:51.404Z,"51 km S of Silver Peak, Nevada",earthquake,,17.0,0.73,11.0,automatic,nn,nn
+2023-05-21T11:23:38.227Z,37.2792,-117.6369,7.3,0.8,ml,8.0,264.57,0.047,0.4033,nn,nn00859942,2023-05-21T11:25:59.530Z,California-Nevada border region,earthquake,,2.4,0.79,4.0,automatic,nn,nn
