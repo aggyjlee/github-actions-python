@@ -11621,3 +11621,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-21T10:05:26.204Z,57.9296,-154.1581,250.0,1.9,ml,,,,0.91,ak,ak0236hcrea4,2023-05-21T10:08:15.473Z,"43 km NNE of Karluk, Alaska",earthquake,,11.2,,,automatic,ak,ak
 2023-05-21T10:04:18.211Z,37.2848,-117.5662,4.1,1.8,ml,26.0,171.74,0.33,0.1684,nn,nn00859925,2023-05-21T10:06:50.889Z,"52 km S of Silver Peak, Nevada",earthquake,,2.0,0.77,18.0,automatic,nn,nn
 2023-05-21T09:51:57.480Z,17.82,-66.8638333333333,11.34,2.42,md,12.0,253.0,0.1549,0.12,pr,pr71410188,2023-05-21T10:04:40.770Z,"17 km SSE of Guánica, Puerto Rico",earthquake,0.68,0.49,0.0556495731334077,6.0,reviewed,pr,pr
+2023-05-21T10:20:03.470Z,37.2772,-117.5807,2.6,1.0,ml,11.0,123.26,0.068,0.2292,nn,nn00859930,2023-05-21T10:22:38.880Z,"53 km S of Silver Peak, Nevada",earthquake,,2.9,0.94,7.0,automatic,nn,nn
+2023-05-21T10:18:39.310Z,35.9491667,-117.6951667,2.85,0.73,ml,12.0,132.0,0.09804,0.16,ci,ci40230263,2023-05-21T10:22:12.979Z,"19km E of Little Lake, CA",earthquake,0.41,1.4,0.066,5.0,automatic,ci,ci
