@@ -11800,3 +11800,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-21T22:34:36.070Z,35.5038333,-118.3925,3.87,1.27,ml,20.0,64.0,0.1937,0.15,ci,ci40230807,2023-05-21T22:38:13.957Z,"13km SE of Bodfish, CA",earthquake,0.24,0.82,0.1,15.0,automatic,ci,ci
 2023-05-21T22:48:46.800Z,35.6818352,-117.5156631,11.0,1.7,ml,27.0,49.0,0.07671,0.17,ci,ci40230815,2023-05-21T22:50:52.260Z,"14km SW of Searles Valley, CA",earthquake,0.38,0.6,0.228,10.0,automatic,ci,ci
 2023-05-21T22:42:00.430Z,59.5123,-152.9009,86.3,1.7,ml,,,,0.57,ak,ak0236hk4h1n,2023-05-21T22:44:28.178Z,"58 km WNW of Nanwalek, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-05-21T22:53:33.368Z,61.4874,-150.9453,62.4,2.2,ml,,,,0.38,ak,ak0236hk6wgo,2023-05-21T22:55:14.030Z,Southern Alaska,earthquake,,0.7,,,automatic,ak,ak
+2023-05-21T22:52:28.113Z,61.2189,-149.1365,17.4,0.7,ml,,,,0.29,ak,ak0236hk6nd1,2023-05-21T23:04:55.176Z,"25 km ESE of Eagle River, Alaska",earthquake,,1.0,,,reviewed,ak,ak
+2023-05-21T22:49:39.160Z,33.3216667,-116.196,11.21,0.69,ml,16.0,119.0,0.1034,0.19,ci,ci40230823,2023-05-21T22:53:10.280Z,"18km ENE of Borrego Springs, CA",earthquake,0.42,0.99,0.104,13.0,automatic,ci,ci
+2023-05-21T22:38:39.690Z,18.8406666666667,-65.4393333333333,45.31,3.25,md,11.0,237.0,0.5508,0.22,pr,pr71410283,2023-05-21T23:01:08.960Z,"59 km NNE of Luquillo, Puerto Rico",earthquake,2.07,4.49,0.031627933713394,3.0,reviewed,pr,pr
