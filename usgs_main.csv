@@ -11779,3 +11779,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-21T21:07:54.732Z,61.8515,-151.6043,80.0,1.5,ml,,,,0.44,ak,ak0236hjbnkh,2023-05-21T21:10:02.830Z,"18 km SW of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-21T19:56:44.276Z,28.4543,104.8517,10.0,4.7,mb,78.0,77.0,7.15,0.62,us,us6000kdqt,2023-05-21T21:07:42.040Z,"13 km E of Xunchang, China",earthquake,7.21,1.768,0.056,96.0,reviewed,us,us
 2023-05-21T00:49:50.050Z,46.596833333333336,-121.70416666666668,5.16,0.64,ml,18.0,122.0,0.1701,0.09,uw,uw61926661,2023-05-21T21:10:43.300Z,"2 km WSW of Packwood, Washington",earthquake,0.86,2.06,0.112125598759093,11.0,reviewed,uw,uw
+2023-05-21T21:29:16.913Z,59.7093,-152.618,16.6,1.2,ml,,,,0.51,ak,ak0236hjgaej,2023-05-21T21:30:55.781Z,"44 km W of Anchor Point, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2023-05-21T21:11:40.585Z,-52.1388,139.5176,10.0,5.1,mb,28.0,104.0,10.627,0.86,us,us6000kdrc,2023-05-21T21:29:22.040Z,west of Macquarie Island,earthquake,8.19,1.808,0.112,26.0,reviewed,us,us
+2023-05-21T20:16:22.079Z,37.9241,36.2626,10.0,4.1,mb,38.0,37.0,0.35,0.77,us,us6000kdr0,2023-05-21T21:23:59.040Z,"16 km ESE of Saimbeyli, Turkey",earthquake,1.67,1.933,0.184,8.0,reviewed,us,us
+2023-05-21T10:04:46.180Z,47.38216666666667,-123.2815,13.87,0.88,ml,12.0,94.0,0.06372,0.14,uw,uw61926791,2023-05-21T21:29:05.060Z,"10 km WNW of Skokomish, Washington",earthquake,0.37,0.55,0.2235390446537083,8.0,reviewed,uw,uw
