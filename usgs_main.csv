@@ -11529,3 +11529,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-21T04:11:58.889Z,37.3532,-117.4877,0.1,0.7,ml,13.0,153.7,0.37,0.4682,nn,nn00859841,2023-05-21T04:14:25.247Z,"45 km SSW of Goldfield, Nevada",earthquake,,48.0,0.83,8.0,automatic,nn,nn
 2023-05-21T03:53:31.284Z,37.2793,-117.5839,10.0,2.7,ml,41.0,82.0,0.068,0.54,us,us6000kdjy,2023-05-21T04:17:56.040Z,"52 km S of Silver Peak, Nevada",earthquake,0.95,2.006,0.035,108.0,reviewed,us,us
 2023-05-21T03:35:54.553Z,37.2732,-117.5841,5.473,3.1,ml,32.0,56.0,0.064,0.33,us,us6000kdjv,2023-05-21T04:12:14.040Z,"53 km S of Silver Peak, Nevada",earthquake,0.7,1.905,0.057,40.0,reviewed,us,us
+2023-05-21T04:24:19.381Z,37.3075,-117.5731,0.0,1.5,ml,22.0,170.29,0.352,0.3328,nn,nn00859845,2023-05-21T04:26:55.676Z,"49 km S of Silver Peak, Nevada",earthquake,,30.9,0.8,15.0,automatic,nn,nn
