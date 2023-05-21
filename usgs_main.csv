@@ -11723,3 +11723,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-21T16:37:04.570Z,38.8371658,-122.7949982,2.05,1.09,md,22.0,74.0,0.003841,0.02,nc,nc73890851,2023-05-21T16:38:40.984Z,"6km WNW of Cobb, CA",earthquake,0.21,0.4,0.12,24.0,automatic,nc,nc
 2023-05-21T16:35:20.561Z,62.7584,-150.3637,97.5,2.0,ml,,,,1.09,ak,ak0236hgieyg,2023-05-21T16:37:18.320Z,"35 km NE of Petersville, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-05-21T09:12:51.670Z,33.5845,-116.8065,8.34,0.03,ml,19.0,65.0,0.03656,0.13,ci,ci40230215,2023-05-21T16:34:21.294Z,"13km WNW of Anza, CA",earthquake,0.24,0.54,0.148,3.0,reviewed,ci,ci
+2023-05-21T16:49:20.270Z,61.5107,-151.6575,15.9,1.6,ml,,,,0.73,ak,ak0236hgleyj,2023-05-21T16:50:54.173Z,"51 km NW of Beluga, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-05-21T16:48:32.190Z,34.0001678,-117.2070007,16.81,1.51,ml,27.0,116.0,0.05984,0.12,ci,ci40230591,2023-05-21T16:50:39.184Z,"7km SSW of Redlands, CA",earthquake,0.36,0.7,0.244,3.0,automatic,ci,ci
+2023-05-21T16:46:54.590Z,38.7583351,-122.8069992,15.03,0.92,md,10.0,158.0,0.0301,0.06,nc,nc73890866,2023-05-21T16:48:30.969Z,"5km WSW of The Geysers, CA",earthquake,2.22,1.9,,1.0,automatic,nc,nc
+2023-05-21T16:39:53.280Z,35.8019981,-120.3948364,-0.14,0.59,md,7.0,194.0,0.04391,0.04,nc,nc73890856,2023-05-21T16:41:30.681Z,"11km SSE of Parkfield, CA",earthquake,0.79,5.36,0.24,2.0,automatic,nc,nc
+2023-05-21T13:07:11.040Z,33.8498333,-117.7103333,12.56,0.07,ml,6.0,232.0,0.01893,0.12,ci,ci40230399,2023-05-21T16:43:49.054Z,"10km ENE of Villa Park, CA",earthquake,1.15,1.38,0.034,2.0,reviewed,ci,ci
