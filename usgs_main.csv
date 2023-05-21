@@ -11696,3 +11696,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-21T14:57:57.110Z,19.4171657562256,-155.317840576172,3.05999994277954,2.53,ml,39.0,58.0,,0.389999986,hv,hv73413887,2023-05-21T15:03:28.820Z,"9 km WSW of Volcano, Hawaii",earthquake,0.56,1.01999998,2.58,24.0,automatic,hv,hv
 2023-05-21T14:54:06.393Z,61.1615,-154.0673,3.6,1.8,ml,,,,1.53,ak,ak0236hffl9b,2023-05-21T14:55:55.806Z,Southern Alaska,earthquake,,1.3,,,automatic,ak,ak
 2023-05-21T14:53:09.670Z,32.9588333,-115.5301667,3.1,1.2,ml,16.0,116.0,0.06271,0.32,ci,ci40230535,2023-05-21T14:56:40.275Z,"2km S of Brawley, CA",earthquake,0.63,0.89,0.166,15.0,automatic,ci,ci
+2023-05-21T15:21:13.499Z,61.3828,-150.1735,32.4,2.5,ml,,,,0.53,ak,ak0236hftys5,2023-05-21T15:23:07.983Z,"10 km WNW of Point MacKenzie, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-05-21T14:56:45.352Z,-43.4362,39.3676,10.0,6.8,mww,62.0,33.0,9.353,0.97,us,us6000kdmq,2023-05-21T15:22:06.988Z,Prince Edward Islands region,earthquake,9.81,1.831,0.071,19.0,reviewed,us,us
