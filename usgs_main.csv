@@ -11698,3 +11698,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-21T14:53:09.670Z,32.9588333,-115.5301667,3.1,1.2,ml,16.0,116.0,0.06271,0.32,ci,ci40230535,2023-05-21T14:56:40.275Z,"2km S of Brawley, CA",earthquake,0.63,0.89,0.166,15.0,automatic,ci,ci
 2023-05-21T15:21:13.499Z,61.3828,-150.1735,32.4,2.5,ml,,,,0.53,ak,ak0236hftys5,2023-05-21T15:23:07.983Z,"10 km WNW of Point MacKenzie, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-21T14:56:45.352Z,-43.4362,39.3676,10.0,6.8,mww,62.0,33.0,9.353,0.97,us,us6000kdmq,2023-05-21T15:22:06.988Z,Prince Edward Islands region,earthquake,9.81,1.831,0.071,19.0,reviewed,us,us
+2023-05-21T15:26:36.140Z,60.9828,-150.8563,35.5,1.9,ml,,,,0.76,ak,ak0236hfv33y,2023-05-21T15:28:22.261Z,"11 km NW of Point Possession, Alaska",earthquake,,3.2,,,automatic,ak,ak
