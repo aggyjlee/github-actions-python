@@ -11838,3 +11838,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-22T02:03:41.672Z,60.4244,-150.2865,126.6,1.4,ml,,,,1.03,ak,ak0236ivivp3,2023-05-22T02:05:31.971Z,"26 km WSW of Cooper Landing, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-05-22T02:02:26.090Z,19.1963329315186,-155.429840087891,31.1200008392334,2.12,ml,19.0,206.0,,0.109999999,hv,hv73414887,2023-05-22T02:07:55.840Z,"5 km E of Pāhala, Hawaii",earthquake,0.91,1.50999999,1.17,3.0,automatic,hv,hv
 2023-05-22T01:56:48.639Z,60.106,-152.0161,64.0,1.4,ml,,,,0.44,ak,ak0236iv8tkv,2023-05-22T01:58:53.239Z,Southern Alaska,earthquake,,1.0,,,automatic,ak,ak
+2023-05-22T02:39:42.450Z,34.046,-117.1951667,7.0,1.17,ml,52.0,31.0,0.06952,0.21,ci,ci40230935,2023-05-22T02:43:16.329Z,"2km SW of Redlands, CA",earthquake,0.23,0.62,0.214,28.0,automatic,ci,ci
+2023-05-22T02:32:17.032Z,58.5697,-151.0819,10.9,2.3,ml,,,,0.61,ak,ak0236ivp1k7,2023-05-22T02:35:22.435Z,"97 km SSE of Port Graham, Alaska",earthquake,,2.6,,,automatic,ak,ak
