@@ -11910,3 +11910,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-22T08:54:29.590Z,38.7828331,-122.7566681,1.35,0.76,md,7.0,101.0,0.01402,0.01,nc,nc73891176,2023-05-22T08:56:06.406Z,"1km N of The Geysers, CA",earthquake,0.32,0.85,0.24,6.0,automatic,nc,nc
 2023-05-22T08:52:43.570Z,33.7043333,-116.7513333,17.14,0.54,ml,17.0,72.0,0.03172,0.21,ci,ci40231079,2023-05-22T08:56:13.246Z,"5km SW of Idyllwild, CA",earthquake,0.51,0.72,0.146,9.0,automatic,ci,ci
 2023-05-22T08:36:25.077Z,29.12017822,-97.6506204,5.062133789,3.1,ml,11.0,69.0,0.04160608185,0.2,tx,tx2023jygz,2023-05-22T08:52:56.946Z,"16 km S of Smiley, Texas",earthquake,1.077694952,1.83435783,0.1,7.0,reviewed,tx,tx
+2023-05-22T09:14:09.822Z,63.6077,-147.5128,20.9,0.8,ml,,,,0.35,ak,ak0236izr7cm,2023-05-22T09:16:20.685Z,"70 km ESE of Denali Park, Alaska",earthquake,,1.4,,,automatic,ak,ak
