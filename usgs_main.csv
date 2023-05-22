@@ -11911,3 +11911,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-22T08:52:43.570Z,33.7043333,-116.7513333,17.14,0.54,ml,17.0,72.0,0.03172,0.21,ci,ci40231079,2023-05-22T08:56:13.246Z,"5km SW of Idyllwild, CA",earthquake,0.51,0.72,0.146,9.0,automatic,ci,ci
 2023-05-22T08:36:25.077Z,29.12017822,-97.6506204,5.062133789,3.1,ml,11.0,69.0,0.04160608185,0.2,tx,tx2023jygz,2023-05-22T08:52:56.946Z,"16 km S of Smiley, Texas",earthquake,1.077694952,1.83435783,0.1,7.0,reviewed,tx,tx
 2023-05-22T09:14:09.822Z,63.6077,-147.5128,20.9,0.8,ml,,,,0.35,ak,ak0236izr7cm,2023-05-22T09:16:20.685Z,"70 km ESE of Denali Park, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2023-05-22T09:29:14.070Z,34.0306664,-117.0868301,15.23,1.33,ml,51.0,37.0,0.0762,0.19,ci,ci40231095,2023-05-22T09:31:23.385Z,"4km W of Yucaipa, CA",earthquake,0.26,0.51,0.255,8.0,automatic,ci,ci
+2023-05-22T08:58:03.930Z,19.6816,-65.7376,12.0,4.12,md,16.0,241.0,1.4475,0.71,pr,pr2023142002,2023-05-22T09:29:56.806Z,Puerto Rico region,earthquake,3.28,5.74,0.06,8.0,reviewed,pr,pr
