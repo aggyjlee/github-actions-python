@@ -12263,3 +12263,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-23T10:47:11.610Z,17.9796666666667,-66.9501666666667,9.83,2.37,md,3.0,173.0,0.06765,0.09,pr,pr71410628,2023-05-23T11:07:46.210Z,"3 km WSW of Fuig, Puerto Rico",earthquake,3.39,1.22,0.0972286883360516,3.0,reviewed,pr,pr
 2023-05-22T14:17:55.880Z,31.18056359,-103.7144572,1.144213867,2.1,ml,16.0,57.0,0.01299111869,0.2,tx,tx2023jysg,2023-05-23T11:11:55.657Z,"16 km SSE of Toyah, Texas",earthquake,0.7100195731,1.236000484,0.1,12.0,reviewed,tx,tx
 2023-05-23T11:17:51.540Z,60.8036,-152.2477,84.8,1.0,ml,,,,0.26,ak,ak0236koi5f6,2023-05-23T11:19:50.249Z,Southern Alaska,earthquake,,1.3,,,automatic,ak,ak
+2023-05-23T09:26:43.241Z,-22.8565,170.8394,42.876,5.0,mb,32.0,87.0,3.142,0.54,us,us7000k38e,2023-05-23T11:30:43.040Z,southeast of the Loyalty Islands,earthquake,8.29,7.973,0.103,30.0,reviewed,us,us
