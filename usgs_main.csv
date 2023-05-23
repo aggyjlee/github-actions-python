@@ -12222,3 +12222,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-23T07:40:07.980Z,33.2891667,-116.749,15.33,0.58,ml,19.0,100.0,0.05367,0.22,ci,ci40232087,2023-05-23T07:43:47.886Z,"5km NNE of Lake Henshaw, CA",earthquake,0.58,0.96,0.175,11.0,automatic,ci,ci
 2023-05-23T07:34:12.550Z,18.903,-64.3606666666667,18.51,3.39,md,6.0,316.0,0.6893,0.23,pr,pr71410608,2023-05-23T07:50:50.900Z,Virgin Islands,earthquake,7.94,15.72,0.016435066791177,4.0,reviewed,pr,pr
 2023-05-23T07:14:02.160Z,19.114,-65.7136,136.0,3.93,md,9.0,257.0,0.9145,0.56,pr,pr2023143000,2023-05-23T07:46:08.762Z,Puerto Rico region,earthquake,10.78,8.89,0.0,3.0,reviewed,pr,pr
+2023-05-23T07:57:18.430Z,38.7891655,-122.769165,1.71,0.27,md,9.0,138.0,0.01362,0.02,nc,nc73891566,2023-05-23T07:58:54.058Z,"2km NW of The Geysers, CA",earthquake,0.47,0.95,0.08,10.0,automatic,nc,nc
