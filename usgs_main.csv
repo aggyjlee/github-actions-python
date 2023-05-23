@@ -12344,3 +12344,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-22T23:08:16.827Z,31.62463578,-104.5015263,7.699755859,2.1,ml,19.0,70.0,0.06717321899,0.3,tx,tx2023jzjw,2023-05-23T17:04:49.237Z,"62 km S of Whites City, New Mexico",earthquake,1.626655779,1.009563387,0.1,12.0,reviewed,tx,tx
 2023-05-23T17:18:42.450Z,33.3885,-116.8971667,13.25,1.0,ml,36.0,37.0,0.04522,0.19,ci,ci40232367,2023-05-23T17:22:27.479Z,"5km NW of Palomar Observatory, CA",earthquake,0.26,0.73,0.238,24.0,automatic,ci,ci
 2023-05-23T06:07:19.750Z,58.1816666666667,-155.318166666667,0.92,0.4,ml,7.0,230.0,,0.04,av,av91769977,2023-05-23T17:22:36.630Z,"85 km NW of Karluk, Alaska",earthquake,0.39,0.74,0.217109129719301,7.0,reviewed,av,av
+2023-05-23T07:17:42.150Z,58.179,-155.3355,2.33,0.93,ml,10.0,149.0,,0.08,av,av91770002,2023-05-23T17:31:39.170Z,"85 km NW of Karluk, Alaska",earthquake,0.27,0.31,0.404815772462019,10.0,reviewed,av,av
