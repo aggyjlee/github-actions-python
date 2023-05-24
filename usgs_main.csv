@@ -12516,3 +12516,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-24T06:37:21.387Z,60.8494,-138.0308,8.291,2.9,ml,28.0,103.0,0.257,0.59,us,us7000k3eq,2023-05-24T07:07:44.040Z,"162 km W of Whitehorse, Canada",earthquake,3.4,6.303,0.047,60.0,reviewed,us,us
 2023-05-24T07:22:21.530Z,34.412,-119.3626667,7.35,1.58,ml,28.0,78.0,0.04676,0.29,ci,ci40232735,2023-05-24T07:26:05.349Z,"12km WSW of Ojai, CA",earthquake,0.53,1.0,0.134,27.0,automatic,ci,ci
 2023-05-24T07:18:09.250Z,17.9971666666667,-66.7275,15.03,2.49,md,19.0,170.0,0.06503,0.21,pr,pr71410723,2023-05-24T07:36:44.270Z,"1 km WNW of Tallaboa, Puerto Rico",earthquake,0.42,0.54,0.064049493941031,9.0,reviewed,pr,pr
+2023-05-24T07:48:46.940Z,36.5676651,-121.0521698,7.2,1.98,md,25.0,73.0,0.01482,0.16,nc,nc73889290,2023-05-24T07:50:26.237Z,"9km ENE of Pinnacles, CA",earthquake,0.68,0.96,0.15,22.0,automatic,nc,nc
