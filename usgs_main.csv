@@ -12578,3 +12578,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-24T03:50:45.200Z,33.5913333,-116.6135,13.24,0.52,ml,25.0,60.0,0.01612,0.1,ci,ci40232695,2023-05-24T14:10:30.518Z,"7km NE of Anza, CA",earthquake,0.2,0.41,0.182,9.0,reviewed,ci,ci
 2023-05-24T14:17:35.825Z,37.7826,-117.5692,2.3,0.7,ml,10.0,293.47,0.553,0.376,nn,nn00860253,2023-05-24T14:20:04.763Z,"6 km ENE of Silver Peak, Nevada",earthquake,,12.8,0.93,8.0,automatic,nn,nn
 2023-05-24T14:27:34.570Z,38.8120003,-122.7835007,1.79,1.07,md,16.0,62.0,0.002534,0.02,nc,nc73889420,2023-05-24T14:29:10.675Z,"4km NNW of The Geysers, CA",earthquake,0.25,0.58,0.23,18.0,automatic,nc,nc
+2023-05-24T14:47:52.585Z,63.1239,-151.5246,0.0,2.1,ml,,,,0.7,ak,ak0236me08ai,2023-05-24T14:50:07.371Z,"47 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-05-24T14:22:25.150Z,17.9825,-66.9723333333333,10.07,2.34,md,5.0,166.0,0.06965,0.06,pr,pr71410808,2023-05-24T14:46:16.500Z,"5 km W of Fuig, Puerto Rico",earthquake,0.61,1.1,0.0089077462196205,4.0,reviewed,pr,pr
