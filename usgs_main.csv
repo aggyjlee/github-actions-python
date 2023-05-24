@@ -12641,3 +12641,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-24T20:19:35.710Z,19.2240009307861,-155.245162963867,28.5200004577637,2.02999997,md,41.0,203.0,,0.109999999,hv,hv73419517,2023-05-24T20:24:04.240Z,"24 km S of Volcano, Hawaii",earthquake,0.75,0.639999986,1.12,19.0,automatic,hv,hv
 2023-05-24T19:38:49.311Z,39.3706,-99.0031,8.876,3.2,mb_lg,27.0,47.0,0.797,0.77,us,us7000k3l2,2023-05-24T20:22:28.040Z,"12 km SSW of Alton, Kansas",earthquake,2.5,7.271,0.043,141.0,reviewed,us,us
 2023-05-24T10:48:08.050Z,58.2788333333333,-155.122166666667,34.78,0.15,ml,5.0,189.0,,0.1,av,av91099808,2023-05-24T20:25:18.920Z,"88 km NNW of Karluk, Alaska",earthquake,1.86,0.87,0.0444391485405582,4.0,reviewed,av,av
+2023-05-24T20:30:09.485Z,63.5685,-147.5517,0.4,1.4,ml,,,,0.9,ak,ak0236mhh3f8,2023-05-24T20:31:45.601Z,"69 km ESE of Denali Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
