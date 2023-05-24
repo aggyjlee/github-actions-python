@@ -12642,3 +12642,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-24T19:38:49.311Z,39.3706,-99.0031,8.876,3.2,mb_lg,27.0,47.0,0.797,0.77,us,us7000k3l2,2023-05-24T20:22:28.040Z,"12 km SSW of Alton, Kansas",earthquake,2.5,7.271,0.043,141.0,reviewed,us,us
 2023-05-24T10:48:08.050Z,58.2788333333333,-155.122166666667,34.78,0.15,ml,5.0,189.0,,0.1,av,av91099808,2023-05-24T20:25:18.920Z,"88 km NNW of Karluk, Alaska",earthquake,1.86,0.87,0.0444391485405582,4.0,reviewed,av,av
 2023-05-24T20:30:09.485Z,63.5685,-147.5517,0.4,1.4,ml,,,,0.9,ak,ak0236mhh3f8,2023-05-24T20:31:45.601Z,"69 km ESE of Denali Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-05-24T10:49:09.170Z,58.2623333333333,-155.152833333333,32.6,-0.16,ml,7.0,94.0,,0.05,av,av91099813,2023-05-24T20:34:16.850Z,"87 km NNW of Karluk, Alaska",earthquake,1.28,0.63,0.260384625561783,6.0,reviewed,av,av
+2023-05-24T00:05:47.254Z,37.2729,-117.6188,10.9,0.6,ml,3.0,251.58,0.046,0.1934,nn,nn00860262,2023-05-24T20:39:54.836Z,"53 km S of Silver Peak, Nevada",earthquake,,7.1,0.72,3.0,reviewed,nn,nn
