@@ -12968,3 +12968,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-25T20:19:55.507Z,58.167,-155.2745,0.0,0.2,ml,,,,0.57,ak,ak0236o4y6la,2023-05-25T20:21:41.725Z,"82 km NW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-05-25T20:18:32.058Z,58.018,-154.9145,54.6,1.0,ml,,,,1.49,ak,ak0236o4xv9q,2023-05-25T20:23:34.230Z,"56 km NNW of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-05-25T04:13:23.451Z,37.2769,-117.5707,0.0,0.4,ml,5.0,227.2,0.075,0.2065,nn,nn00860301,2023-05-25T20:25:06.619Z,"53 km S of Silver Peak, Nevada",earthquake,,0.0,0.72,5.0,reviewed,nn,nn
+2023-05-25T20:29:32.180Z,35.7538338,-117.5859985,4.46,1.12,ml,8.0,131.0,0.06248,0.12,ci,ci40233655,2023-05-25T20:31:37.667Z,"16km W of Searles Valley, CA",earthquake,0.81,1.31,0.198,4.0,automatic,ci,ci
+2023-05-25T20:25:26.299Z,60.0434,-140.3705,0.0,1.9,ml,,,,0.65,ak,ak0236o4zemt,2023-05-25T20:27:22.513Z,"66 km NNW of Yakutat, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-05-25T19:02:44.810Z,44.2252,38.9507,10.0,4.2,mb,65.0,28.0,2.705,0.64,us,us7000k42a,2023-05-25T20:25:59.040Z,"Caucasus region, Russia",earthquake,4.38,1.942,0.141,16.0,reviewed,us,us
+2023-05-25T18:32:19.860Z,37.1496667,-121.5365,5.64,0.73,md,11.0,87.0,0.0663,0.06,nc,nc73889825,2023-05-25T20:28:21.158Z,"10km NE of San Martin, CA",earthquake,0.3,0.89,0.383,10.0,reviewed,nc,nc
+2023-05-25T04:35:46.836Z,37.2839,-117.5929,5.9,0.7,ml,6.0,234.15,0.066,0.0683,nn,nn00860302,2023-05-25T20:31:18.498Z,"52 km S of Silver Peak, Nevada",earthquake,,11.8,0.8,5.0,reviewed,nn,nn
