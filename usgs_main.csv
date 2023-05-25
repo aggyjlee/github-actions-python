@@ -12869,3 +12869,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-25T08:59:16.730Z,39.6658333,-111.8743333,4.91,1.46,ml,19.0,54.0,0.1657,0.14,uu,uu60540866,2023-05-25T13:25:01.170Z,"5 km SSW of Nephi, Utah",earthquake,0.4,1.99,0.099,6.0,reviewed,uu,uu
 2023-05-25T05:50:04.080Z,39.6398333,-111.2586667,-2.99,1.41,ml,11.0,169.0,0.04234,0.09,uu,uu60540861,2023-05-25T13:25:34.940Z,"9 km W of Clear Creek, Utah",earthquake,0.69,0.44,0.084,2.0,reviewed,uu,uu
 2023-05-25T00:09:00.530Z,37.2083333,-112.833,13.57,1.92,ml,14.0,90.0,0.1916,0.15,uu,uu60540846,2023-05-25T13:13:38.650Z,"14 km E of Springdale, Utah",earthquake,0.38,0.64,0.113,5.0,reviewed,uu,uu
+2023-05-25T12:51:07.120Z,19.6658,-65.761,38.0,3.47,md,9.0,286.0,1.4155,0.29,pr,pr2023145002,2023-05-25T13:37:31.989Z,"137 km N of Suárez, Puerto Rico",earthquake,2.49,18.5,0.1,4.0,reviewed,pr,pr
+2023-05-24T19:57:24.368Z,-9.3638,114.9283,80.751,4.6,mb,38.0,87.0,1.173,1.02,us,us7000k3l5,2023-05-25T13:38:53.399Z,"south of Bali, Indonesia",earthquake,7.37,6.973,0.101,29.0,reviewed,us,us
+2023-05-24T19:45:30.789Z,34.51183333,-97.2035,0.0,1.7,ml,30.0,78.0,0.1376729839,0.51,ok,ok2023kcub,2023-05-25T13:35:08.695Z,"7 km W of Davis, Oklahoma",quarry blast,,0.9,0.21,5.0,reviewed,ok,ok
