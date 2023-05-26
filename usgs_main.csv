@@ -13191,3 +13191,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-26T14:04:00.290Z,33.7206667,-116.8403333,15.75,1.36,ml,45.0,69.0,0.07724,0.18,ci,ci40234167,2023-05-26T14:07:35.248Z,"6km ESE of Valle Vista, CA",earthquake,0.23,0.41,0.17,27.0,automatic,ci,ci
 2023-05-26T14:03:57.208Z,58.1958,-155.2792,0.0,2.0,ml,,,,0.37,ak,ak0236poti4o,2023-05-26T14:05:32.329Z,"85 km NW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-25T17:32:02.520Z,34.26766667,-96.368,0.0,1.27,ml,30.0,198.0,0.4193177156,0.45,ok,ok2023keld,2023-05-26T14:18:31.435Z,"12 km SSE of Wapanucka, Oklahoma",quarry blast,,0.8,0.19,8.0,reviewed,ok,ok
+2023-05-26T14:27:15.406Z,39.3613,-119.973,4.3,0.8,ml,8.0,122.14,0.084,0.1015,nn,nn00860361,2023-05-26T14:29:28.531Z,Nevada,earthquake,,6.3,0.25,6.0,automatic,nn,nn
+2023-05-25T17:03:41.920Z,36.46933333,-96.79216667,0.0,1.26,ml,22.0,129.0,0.0413918775,0.22,ok,ok2023kekf,2023-05-26T14:30:25.458Z,"6 km SW of Ralston, Oklahoma",quarry blast,,0.4,0.18,4.0,reviewed,ok,ok
