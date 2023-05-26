@@ -13095,3 +13095,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-25T22:55:41.070Z,58.247,-155.144333333333,4.25,-0.25,ml,10.0,75.0,,0.1,av,av91772032,2023-05-26T04:13:13.550Z,"85 km NNW of Karluk, Alaska",earthquake,0.32,0.54,0.293979343524141,10.0,reviewed,av,av
 2023-05-25T22:54:10.000Z,58.1725,-155.344333333333,0.85,-0.14,ml,7.0,120.0,,0.07,av,av91772027,2023-05-26T04:10:50.350Z,"85 km NW of Karluk, Alaska",earthquake,0.25,1.22,0.205651467929733,7.0,reviewed,av,av
 2023-05-25T22:53:05.980Z,58.1855,-155.299833333333,1.82,-0.29,ml,9.0,97.0,,0.05,av,av91772022,2023-05-26T04:08:18.420Z,"85 km NW of Karluk, Alaska",earthquake,0.19,0.39,0.296503514093116,9.0,reviewed,av,av
+2023-05-26T04:24:30.210Z,38.8181648,-122.8246689,1.66,0.88,md,6.0,137.0,0.009484,0.02,nc,nc73890040,2023-05-26T04:26:08.475Z,"8km NW of The Geysers, CA",earthquake,0.52,1.59,0.28,9.0,automatic,nc,nc
+2023-05-26T04:21:23.267Z,59.1572,-152.2661,71.6,1.6,ml,,,,0.35,ak,ak0236piyww7,2023-05-26T04:24:13.286Z,"29 km SW of Nanwalek, Alaska",earthquake,,0.9,,,automatic,ak,ak
