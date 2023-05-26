@@ -13120,3 +13120,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-26T05:48:40.483Z,18.6649,-68.8421,84.042,2.5,ml,15.0,163.0,0.462,0.57,us,us7000k45z,2023-05-26T06:02:13.040Z,"15 km WNW of Salvaleón de Higüey, Dominican Republic",earthquake,6.49,11.442,0.069,28.0,reviewed,us,us
 2023-05-26T05:34:58.237Z,31.6062,-103.9472,5.0,2.6,ml,33.0,53.0,0.037,0.71,us,us7000k45x,2023-05-26T05:58:12.040Z,western Texas,earthquake,1.04,1.952,0.065,54.0,reviewed,us,us
 2023-05-26T04:03:15.990Z,38.7501667,-122.7088333,2.65,0.44,md,10.0,136.0,0.009664,0.01,nc,nc73890015,2023-05-26T05:56:27.029Z,"3km SSW of Anderson Springs, CA",earthquake,0.61,1.35,0.095,5.0,reviewed,nc,nc
+2023-05-26T06:22:03.230Z,34.4925003,-118.7026672,19.08,1.43,ml,18.0,57.0,0.1555,0.25,ci,ci40233895,2023-05-26T06:24:10.205Z,"7km W of Castaic, CA",earthquake,0.43,1.13,0.188,5.0,automatic,ci,ci
+2023-05-26T06:21:11.390Z,38.8294983,-122.8604965,1.26,0.38,md,7.0,115.0,0.01225,0.1,nc,nc73890070,2023-05-26T06:22:48.779Z,"11km WNW of The Geysers, CA",earthquake,0.62,1.77,0.19,8.0,automatic,nc,nc
+2023-05-26T06:14:11.670Z,61.4045,-150.9306,63.5,1.7,ml,,,,0.29,ak,ak0236pk4anj,2023-05-26T06:15:34.279Z,Southern Alaska,earthquake,,0.7,,,automatic,ak,ak
+2023-05-26T06:08:09.905Z,37.2961,-117.5787,4.2,1.9,ml,26.0,102.56,0.083,0.2432,nn,nn00860338,2023-05-26T06:10:26.143Z,"51 km S of Silver Peak, Nevada",earthquake,,1.8,0.73,19.0,automatic,nn,nn
