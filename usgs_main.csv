@@ -13421,3 +13421,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-27T05:41:25.562Z,65.3533,-144.802,0.8,1.4,ml,,,,0.77,ak,ak0236r780y4,2023-05-27T05:43:40.862Z,"24 km S of Central, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-05-27T06:04:40.750Z,33.9514999,-116.8333359,18.34,1.3,ml,50.0,54.0,0.05563,0.16,ci,ci40234879,2023-05-27T06:06:47.182Z,"5km NE of Banning, CA",earthquake,0.25,0.48,0.211,9.0,automatic,ci,ci
 2023-05-27T05:57:52.240Z,34.0496667,-117.1615,4.68,0.84,ml,20.0,120.0,0.04315,0.17,ci,ci40234871,2023-05-27T06:01:38.535Z,"2km ESE of Redlands, CA",earthquake,0.31,0.51,0.134,19.0,automatic,ci,ci
+2023-05-27T06:01:11.727Z,9.2629,-75.3459,40.015,4.5,mb,58.0,103.0,0.651,0.69,us,us7000k4ez,2023-05-27T06:19:22.040Z,"7 km SE of Sincelejo, Colombia",earthquake,5.55,8.944,0.063,74.0,reviewed,us,us
+2023-05-27T05:52:47.559Z,8.4483,126.5777,79.752,4.5,mb,39.0,125.0,1.69,0.93,us,us7000k4ex,2023-05-27T06:10:13.040Z,"Mindanao, Philippines",earthquake,11.16,8.454,0.102,28.0,reviewed,us,us
+2023-05-27T05:24:48.460Z,19.536,-66.2878,28.0,3.89,md,20.0,245.0,1.0861,0.4,pr,pr2023147002,2023-05-27T06:12:49.223Z,"118 km N of Brenas, Puerto Rico",earthquake,1.62,25.23,0.06,9.0,reviewed,pr,pr
+2023-05-27T04:51:40.700Z,19.6198,-66.3206,30.0,3.69,md,15.0,276.0,1.1616,0.31,pr,pr2023147001,2023-05-27T06:12:29.870Z,"127 km N of Brenas, Puerto Rico",earthquake,1.65,19.96,0.03,7.0,reviewed,pr,pr
