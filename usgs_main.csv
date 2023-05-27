@@ -13471,3 +13471,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-27T09:19:51.040Z,19.652,-65.7881,29.0,3.76,md,12.0,246.0,1.4364,0.29,pr,pr2023147003,2023-05-27T10:17:07.221Z,"135 km N of Suárez, Puerto Rico",earthquake,1.33,22.16,0.06,7.0,reviewed,pr,pr
 2023-05-27T11:11:04.820Z,33.9415016,-117.1413345,7.63,1.15,ml,22.0,151.0,0.09579,0.27,ci,ci40234975,2023-05-27T11:13:10.468Z,"8km ENE of Moreno Valley, CA",earthquake,0.63,1.37,0.235,3.0,automatic,ci,ci
 2023-05-27T10:59:55.900Z,68.6951,-146.7726,0.0,1.9,ml,,,,0.77,ak,ak0236rab47z,2023-05-27T11:12:44.817Z,"81 km NW of Arctic Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-05-27T11:35:51.600Z,38.8354988,-122.7894974,1.82,0.67,md,9.0,82.0,0.00298,0.01,nc,nc73890580,2023-05-27T11:37:26.330Z,"6km WNW of Cobb, CA",earthquake,0.4,0.71,0.41,10.0,automatic,nc,nc
