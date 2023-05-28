@@ -13743,3 +13743,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-28T15:29:20.620Z,33.5211667,-116.4461667,10.58,0.64,ml,19.0,92.0,0.01724,0.27,ci,ci40236071,2023-05-28T15:33:02.087Z,"20km SW of La Quinta, CA",earthquake,0.44,0.72,0.142,14.0,automatic,ci,ci
 2023-05-28T15:43:57.648Z,58.1806,-155.2452,38.2,0.8,ml,,,,0.68,ak,ak0236t0qaur,2023-05-28T15:45:59.341Z,Alaska Peninsula,earthquake,,0.6,,,automatic,ak,ak
 2023-05-28T15:42:19.501Z,60.1472,-153.0986,124.3,1.7,ml,,,,0.26,ak,ak0236t0pwqm,2023-05-28T15:44:01.228Z,"67 km E of Port Alsworth, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-05-28T15:45:56.635Z,6.7237,-73.0184,157.836,5.3,mww,63.0,55.0,0.828,0.9,us,us7000k4mu,2023-05-28T16:03:44.040Z,northern Colombia,earthquake,6.0,4.623,0.098,10.0,reviewed,us,us
