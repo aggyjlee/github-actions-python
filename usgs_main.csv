@@ -13761,3 +13761,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-28T18:32:47.588Z,58.252,-155.0809,1.1,1.1,ml,,,,0.56,ak,ak0236t2g4k6,2023-05-28T18:33:52.556Z,"84 km NNW of Karluk, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-05-28T18:32:19.160Z,19.2036666870117,-155.505493164062,33.4500007629395,1.79999995,md,44.0,125.0,,0.119999997,hv,hv73426922,2023-05-28T18:35:32.830Z,"Island of Hawaii, Hawaii",earthquake,0.64,0.810000002,0.610000014,11.0,automatic,hv,hv
 2023-05-28T18:28:43.439Z,58.8017,-153.6663,0.6,1.8,ml,,,,1.14,ak,ak0236t2f9dj,2023-05-28T18:31:24.682Z,"Kodiak Island region, Alaska",earthquake,,2.8,,,automatic,ak,ak
+2023-05-28T18:48:34.440Z,38.8238335,-122.7910004,1.18,0.78,md,7.0,91.0,0.01328,0.01,nc,nc73890980,2023-05-28T18:50:12.629Z,"6km W of Cobb, CA",earthquake,0.41,1.89,0.14,8.0,automatic,nc,nc
+2023-05-28T11:16:13.170Z,47.811,-122.79566666666666,20.48,1.25,ml,22.0,46.0,0.0462,0.28,uw,uw61919812,2023-05-28T18:45:28.880Z,"6 km ESE of Quilcene, Washington",earthquake,0.6,0.88,0.1047992901228582,8.0,reviewed,uw,uw
