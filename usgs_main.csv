@@ -13620,3 +13620,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-28T02:12:44.110Z,35.87,-117.6885,10.45,1.35,ml,16.0,120.0,0.08724,0.18,ci,ci40235775,2023-05-28T02:23:24.640Z,"21km ESE of Little Lake, CA",earthquake,0.34,0.65,0.102,13.0,automatic,ci,ci
 2023-05-28T02:08:19.763Z,59.8794,-152.8113,95.5,2.2,ml,,,,0.41,ak,ak0236ssrzik,2023-05-28T02:10:29.986Z,"56 km WNW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-28T02:06:19.111Z,-23.4194,-70.0663,36.412,4.6,mwr,45.0,128.0,0.844,0.63,us,us7000k4jl,2023-05-28T02:34:29.087Z,"42 km NE of Antofagasta, Chile",earthquake,4.9,3.068,,,reviewed,us,guc
+2023-05-28T02:47:31.430Z,33.4945,-116.7785,3.75,0.47,ml,20.0,69.0,0.02551,0.14,ci,ci40235799,2023-05-28T02:51:10.803Z,"10km NE of Aguanga, CA",earthquake,0.26,0.44,0.123,15.0,automatic,ci,ci
+2023-05-28T02:47:11.992Z,61.9984,-147.1344,38.8,1.9,ml,,,,0.69,ak,ak0236st0bvj,2023-05-28T02:48:42.098Z,"6 km NNE of Eureka Roadhouse, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-05-28T02:45:07.320Z,35.6628333,-117.5348333,4.64,1.18,ml,10.0,122.0,0.09052,0.18,ci,ci40235791,2023-05-28T02:48:48.186Z,"14km ENE of Ridgecrest, CA",earthquake,0.72,1.19,0.154,10.0,automatic,ci,ci
