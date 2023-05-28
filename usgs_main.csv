@@ -13796,3 +13796,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-28T22:05:43.919Z,60.892,-149.6723,32.9,1.7,ml,,,,0.43,ak,ak0236t4o2d3,2023-05-28T22:07:43.120Z,"3 km SSW of Hope, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-28T22:21:24.960Z,19.4151668548584,-155.257171630859,0.579999983310699,2.3900001,md,32.0,57.0,,0.180000007,hv,hv73427372,2023-05-28T22:24:41.890Z,"3 km SW of Volcano, Hawaii",earthquake,0.19,0.219999999,1.83000004,22.0,automatic,hv,hv
 2023-05-28T22:16:37.940Z,33.2466667,-116.0418333,9.75,0.86,ml,17.0,78.0,0.09062,0.31,ci,ci40236359,2023-05-28T22:20:13.468Z,"10km SW of Salton City, CA",earthquake,0.75,1.65,0.085,12.0,automatic,ci,ci
+2023-05-28T22:53:51.197Z,60.6568,-152.1566,92.6,1.1,ml,,,,0.4,ak,ak0236t4ydan,2023-05-28T22:56:00.196Z,Southern Alaska,earthquake,,1.4,,,automatic,ak,ak
+2023-05-28T22:53:03.695Z,58.188,-155.301,1.1,0.6,ml,,,,0.61,ak,ak0236t4y9np,2023-05-28T22:55:54.605Z,Alaska Peninsula,earthquake,,1.0,,,automatic,ak,ak
+2023-05-28T22:31:15.890Z,19.6435,-65.7378333333333,69.44,3.44,md,8.0,287.0,1.367,0.43,pr,pr71411578,2023-05-28T23:03:16.850Z,"134 km N of Suárez, Puerto Rico",earthquake,7.22,19.06,0.0124033040180525,3.0,reviewed,pr,pr
