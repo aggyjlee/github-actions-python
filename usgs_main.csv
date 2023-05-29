@@ -13898,3 +13898,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-29T08:31:46.090Z,40.6728325,-121.8841629,14.74,2.85,md,23.0,88.0,0.1692,0.14,nc,nc73891250,2023-05-29T08:38:13.309Z,"15km SSE of Round Mountain, CA",earthquake,0.36,1.61,0.11,17.0,automatic,nc,nc
 2023-05-29T08:45:06.720Z,38.821167,-122.796669,2.46,0.74,md,18.0,39.0,0.0107,0.03,nc,nc73891260,2023-05-29T08:46:42.985Z,"6km NW of The Geysers, CA",earthquake,0.27,0.65,0.28,18.0,automatic,nc,nc
 2023-05-29T08:43:39.006Z,65.2306,-152.2935,18.5,0.9,ml,,,,0.42,ak,ak0236uk3h7w,2023-05-29T08:45:19.642Z,northern Alaska,earthquake,,0.2,,,automatic,ak,ak
+2023-05-29T08:58:53.380Z,38.7828331,-122.7570038,1.23,1.33,md,17.0,120.0,0.01389,0.04,nc,nc73891265,2023-05-29T09:00:32.989Z,"1km N of The Geysers, CA",earthquake,0.28,0.42,0.14,17.0,automatic,nc,nc
