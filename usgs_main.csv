@@ -13905,3 +13905,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-29T09:26:59.603Z,35.31833649,-98.03886414,15.56533146,1.89,ml,13.0,83.91996765,0.1047603041,1.020592682,ok,ok2023klde,2023-05-29T09:29:45.216Z,"8 km W of Minco, Oklahoma",earthquake,4.27531687,3.900358563,0.38,10.0,automatic,ok,ok
 2023-05-29T08:54:41.230Z,17.9345,-67.0921666666667,11.48,1.4,md,4.0,269.0,0.05736,0.06,pr,pr71411633,2023-05-29T09:25:20.760Z,"6 km SW of La Parguera, Puerto Rico",earthquake,0.92,0.62,0.0110834010116434,3.0,reviewed,pr,pr
 2023-05-29T09:34:36.659Z,64.6787,-149.5106,15.1,1.5,ml,,,,0.57,ak,ak0236ukmz6q,2023-05-29T09:36:48.895Z,"20 km WNW of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-05-29T09:38:15.512Z,18.7654,-68.0619,41.659,3.6,ml,19.0,171.0,0.392,0.55,us,us7000k4rs,2023-05-29T09:45:20.040Z,"41 km ENE of Punta Cana, Dominican Republic",earthquake,7.23,23.207,0.062,34.0,reviewed,us,us
+2023-05-29T09:36:02.290Z,18.9367,-68.4611,43.065,3.9,ml,17.0,142.0,0.427,1.12,us,us7000k4rp,2023-05-29T09:47:42.040Z,"38 km NE of Otra Banda, Dominican Republic",earthquake,8.49,25.673,0.062,34.0,reviewed,us,us
