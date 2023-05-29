@@ -13926,3 +13926,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-29T11:50:31.692Z,60.2797,-152.5797,84.8,0.8,ml,,,,0.48,ak,ak0236ulx9hd,2023-05-29T11:52:52.155Z,"56 km WNW of Ninilchik, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-05-29T11:48:31.720Z,19.4061660766602,-155.306335449219,2.16000008583069,1.72,ml,21.0,68.0,,0.129999995,hv,hv73428337,2023-05-29T11:54:02.030Z,"Hawaii region, Hawaii",earthquake,0.23,0.230000004,0.28,3.0,automatic,hv,hv
 2023-05-29T09:36:02.380Z,19.0801,-68.3638,60.0,3.9,md,22.0,279.0,0.5665,0.96,pr,pr2023149000,2023-05-29T11:58:56.326Z,Dominican Republic region,earthquake,7.2,10.54,0.07,15.0,reviewed,pr,pr
+2023-05-29T12:39:53.270Z,33.9780006,-116.7646637,18.56,1.0,ml,17.0,178.0,0.1142,0.14,ci,ci40236727,2023-05-29T12:41:58.824Z,"7km NNE of Cabazon, CA",earthquake,0.61,0.88,0.238,8.0,automatic,ci,ci
