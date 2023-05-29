@@ -13866,3 +13866,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-29T05:28:05.920Z,34.2524986,-116.8789978,8.91,1.07,ml,32.0,90.0,0.03594,0.14,ci,ci40236599,2023-05-29T05:30:11.111Z,"3km ENE of Big Bear Lake, CA",earthquake,0.34,0.53,0.238,5.0,automatic,ci,ci
 2023-05-29T05:18:46.190Z,38.8250008,-122.8498306,2.16,1.17,md,22.0,60.0,0.006059,0.01,nc,nc73891210,2023-05-29T05:20:21.636Z,"10km WNW of The Geysers, CA",earthquake,0.21,0.41,0.14,21.0,automatic,nc,nc
 2023-05-29T05:18:35.020Z,35.6486667,-118.3185,7.48,1.32,ml,21.0,68.0,0.05372,0.15,ci,ci40236591,2023-05-29T05:22:19.479Z,"14km ESE of Wofford Heights, CA",earthquake,0.26,0.58,0.177,16.0,automatic,ci,ci
+2023-05-29T05:36:39.250Z,33.2396667,-116.0961667,7.44,1.27,ml,37.0,56.0,0.1031,0.26,ci,ci40236607,2023-05-29T05:40:11.871Z,"11km NNE of Ocotillo Wells, CA",earthquake,0.3,1.09,0.163,26.0,automatic,ci,ci
