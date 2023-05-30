@@ -14178,3 +14178,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-30T16:09:28.385Z,58.1682,-155.3843,1.1,0.7,ml,,,,0.62,ak,ak0236wc6zdy,2023-05-30T16:10:50.481Z,"86 km NW of Karluk, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2023-05-30T16:08:28.760Z,33.2233333,-115.63,3.29,1.56,ml,28.0,67.0,0.04058,0.17,ci,ci40237903,2023-05-30T16:12:12.474Z,"10km W of Niland, CA",earthquake,0.29,0.4,0.123,27.0,automatic,ci,ci
 2023-05-29T17:57:27.300Z,44.7896667,-110.805,3.73,0.63,md,6.0,221.0,0.03243,0.05,uu,uu60541141,2023-05-30T16:12:20.700Z,Wyoming,earthquake,0.76,1.12,0.266,4.0,reviewed,uu,uu
+2023-05-30T16:21:46.936Z,58.2555,-155.0919,0.3,0.4,ml,,,,0.21,ak,ak0236wc9let,2023-05-30T16:24:02.180Z,Alaska Peninsula,earthquake,,76.7,,,automatic,ak,ak
