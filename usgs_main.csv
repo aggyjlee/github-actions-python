@@ -14090,3 +14090,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-30T07:38:48.830Z,34.1641667,-116.4215,10.52,1.42,ml,24.0,93.0,0.03502,0.18,ci,ci40237375,2023-05-30T07:42:21.679Z,"6km N of Yucca Valley, CA",earthquake,0.29,0.59,0.236,31.0,automatic,ci,ci
 2023-05-30T08:05:17.907Z,62.1088,-149.4154,18.5,1.2,ml,,,,0.43,ak,ak0236w7emvi,2023-05-30T08:07:05.637Z,"23 km ESE of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-30T07:58:10.500Z,38.760334,-122.7408371,1.51,1.51,md,20.0,133.0,0.02206,0.04,nc,nc73891565,2023-05-30T07:59:45.907Z,"2km SE of The Geysers, CA",earthquake,0.35,0.56,0.16,21.0,automatic,nc,nc
+2023-05-30T08:09:58.020Z,32.3791667,-115.2191667,6.43,2.27,ml,20.0,62.0,0.083,0.25,ci,ci40237415,2023-05-30T08:21:12.210Z,"4km NW of Delta, B.C., MX",earthquake,0.43,1.43,0.199,26.0,automatic,ci,ci
+2023-05-30T08:07:40.880Z,19.2311668395996,-155.38932800293,30.5200004577637,1.73000002,md,33.0,163.0,,0.129999995,hv,hv73429837,2023-05-30T08:10:43.730Z,"Island of Hawaii, Hawaii",earthquake,0.79,0.610000014,0.74000001,3.0,automatic,hv,hv
