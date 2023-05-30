@@ -14046,3 +14046,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-30T02:59:05.136Z,58.2038,-155.0359,10.0,0.8,ml,,,,0.74,ak,ak0236w45kzs,2023-05-30T03:02:10.757Z,Alaska Peninsula,earthquake,,0.3,,,automatic,ak,ak
 2023-05-30T02:58:02.340Z,38.8213348,-122.8046646,2.96,1.08,md,22.0,38.0,0.0047,0.01,nc,nc73891520,2023-05-30T02:59:40.861Z,"6km NW of The Geysers, CA",earthquake,0.23,0.47,0.18,23.0,automatic,nc,nc
 2023-05-30T03:10:06.270Z,34.3766667,-119.9005,12.08,1.24,ml,9.0,250.0,0.1309,0.26,ci,ci40237223,2023-05-30T03:13:39.096Z,"6km SW of Isla Vista, CA",earthquake,1.29,1.84,0.164,6.0,automatic,ci,ci
+2023-05-30T03:28:13.143Z,63.131,-151.4528,3.9,2.1,ml,,,,0.56,ak,ak0236w4kdya,2023-05-30T03:29:57.471Z,"47 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-05-30T03:18:40.140Z,32.9235,-117.066,14.85,1.38,ml,10.0,120.0,0.1286,0.24,ci,ci40237231,2023-05-30T03:22:20.894Z,"5km SSW of Poway, CA",earthquake,0.85,1.73,0.262,26.0,automatic,ci,ci
