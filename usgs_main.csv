@@ -14292,3 +14292,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-31T03:06:07.074Z,61.2252,-150.5542,34.7,1.4,ml,,,,0.68,ak,ak0236xrz083,2023-05-31T03:08:19.462Z,"29 km ENE of Beluga, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-31T03:00:52.200Z,36.4108315,-118.2511673,4.29,3.16,ml,39.0,63.0,0.2439,0.17,ci,ci40238455,2023-05-31T03:13:08.180Z,"25km SW of Lone Pine, CA",earthquake,0.21,1.72,0.341,24.0,automatic,ci,ci
 2023-05-31T02:21:43.420Z,17.9501666666667,-66.9481666666667,10.09,2.46,md,11.0,212.0,0.04354,0.08,pr,pr71411828,2023-05-31T03:05:56.060Z,Puerto Rico region,earthquake,0.41,0.35,0.047575439992213,5.0,reviewed,pr,pr
+2023-05-31T03:21:31.820Z,61.349,-149.8152,34.1,2.2,ml,,,,0.37,ak,ak0236xs29vi,2023-05-31T03:23:25.800Z,"8 km E of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
