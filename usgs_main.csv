@@ -14313,3 +14313,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-31T04:33:26.840Z,33.6935,-116.7355,14.54,1.48,ml,14.0,67.0,0.02504,0.14,ci,ci40238487,2023-05-31T04:37:10.397Z,"5km SSW of Idyllwild, CA",earthquake,0.45,0.49,0.188,13.0,automatic,ci,ci
 2023-05-30T23:21:49.070Z,37.624,-118.9588333,3.91,0.09,md,6.0,148.0,0.03656,0.06,nc,nc73891820,2023-05-31T04:35:05.425Z,"2km SE of Mammoth Lakes, CA",earthquake,0.79,1.63,0.162,5.0,reviewed,nc,nc
 2023-05-30T23:12:29.040Z,37.6498333,-122.5116667,9.03,1.42,md,20.0,105.0,0.03665,0.03,nc,nc73891810,2023-05-31T04:33:34.983Z,"5km NNW of Pacifica, CA",earthquake,0.3,0.36,0.062,14.0,reviewed,nc,nc
+2023-05-31T05:11:58.970Z,40.2353325,-121.1401672,1.15,2.36,md,10.0,107.0,0.3143,0.2,nc,nc73891900,2023-05-31T05:18:12.030Z,"3km NNE of Prattville, CA",earthquake,0.79,13.91,0.13,6.0,automatic,nc,nc
+2023-05-31T05:04:21.718Z,61.7273,-147.984,37.2,1.0,ml,,,,0.47,ak,ak0236xt5h4r,2023-05-31T05:06:19.224Z,"19 km WSW of Glacier View, Alaska",earthquake,,0.6,,,automatic,ak,ak
