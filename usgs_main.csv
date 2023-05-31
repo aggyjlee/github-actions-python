@@ -14554,3 +14554,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-31T22:36:36.602Z,63.4255,-146.9787,26.8,0.9,ml,,,,0.43,ak,ak0236y3gqh8,2023-05-31T22:38:27.566Z,Central Alaska,earthquake,,0.4,,,automatic,ak,ak
 2023-05-31T22:31:07.360Z,33.5004997,-116.4039993,8.04,1.0,ml,18.0,87.0,0.1191,0.12,ci,ci40239303,2023-05-31T22:33:12.345Z,"20km SSW of La Quinta, CA",earthquake,0.34,1.56,0.197,6.0,automatic,ci,ci
 2023-05-31T07:50:45.570Z,47.55233333333334,-122.33216666666668,29.53,1.24,ml,30.0,48.0,0.05632,0.33,uw,uw61929431,2023-05-31T22:40:43.460Z,"4 km NNE of White Center, Washington",earthquake,0.47,1.03,0.1663599116399317,13.0,reviewed,uw,uw
+2023-05-31T23:00:43.697Z,58.2457,-155.0936,3.1,0.5,ml,,,,1.22,ak,ak0236y3ugup,2023-05-31T23:02:34.680Z,"84 km NNW of Karluk, Alaska",earthquake,,1.0,,,automatic,ak,ak
