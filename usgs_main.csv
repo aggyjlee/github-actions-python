@@ -14280,3 +14280,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-31T01:30:22.880Z,33.5988333,-116.81,15.94,0.66,ml,24.0,42.0,0.04429,0.31,ci,ci40238399,2023-05-31T01:33:55.777Z,"14km WNW of Anza, CA",earthquake,0.57,0.84,0.159,13.0,automatic,ci,ci
 2023-05-31T00:58:41.233Z,-1.0052,98.5529,20.164,5.0,mb,43.0,180.0,5.518,0.8,us,us7000k54v,2023-05-31T01:15:33.040Z,"Kepulauan Mentawai region, Indonesia",earthquake,9.29,5.836,0.067,72.0,reviewed,us,us
 2023-05-31T00:56:43.218Z,55.9155,-157.837,25.9,2.4,ml,,,,0.61,ak,ak0236xqhi01,2023-05-31T00:58:59.666Z,"54 km SE of Chignik, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-05-31T02:53:55.444Z,58.1237,-155.5519,21.4,0.4,ml,,,,0.67,ak,ak0236xrnr08,2023-05-31T02:55:18.972Z,"89 km NW of Karluk, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2023-05-31T02:36:08.703Z,37.2845,-117.5829,0.7,1.2,ml,10.0,128.7,0.072,0.3341,nn,nn00860543,2023-05-31T02:38:44.817Z,California-Nevada border region,earthquake,,12.9,0.8,6.0,automatic,nn,nn
+2023-05-31T02:23:03.170Z,33.169,-116.661,16.58,1.62,ml,50.0,30.0,0.0322,0.23,ci,ci40238439,2023-05-31T02:33:55.230Z,"11km NNW of Julian, CA",earthquake,0.27,0.61,0.173,26.0,automatic,ci,ci
+2023-05-31T02:21:47.680Z,38.7815018,-122.7565002,1.17,0.78,md,12.0,113.0,0.01297,0.03,nc,nc73891850,2023-05-31T02:48:14.112Z,"0km N of The Geysers, CA",earthquake,0.36,0.61,0.27,12.0,automatic,nc,nc
+2023-05-31T02:21:21.216Z,-49.5951,163.9168,0.0,6.2,mwb,33.0,94.0,3.902,1.42,us,us7000k54z,2023-05-31T02:52:55.563Z,"Auckland Islands, New Zealand region",earthquake,12.53,5.064,0.053,34.0,reviewed,us,us
+2023-05-31T02:21:10.180Z,38.8221664,-122.8519974,2.63,1.53,md,32.0,56.0,0.006584,0.03,nc,nc73891845,2023-05-31T02:38:15.048Z,"10km WNW of The Geysers, CA",earthquake,0.2,0.37,0.16,33.0,automatic,nc,nc
+2023-05-31T01:58:06.022Z,-23.2468,170.7668,10.0,4.7,mb,27.0,122.0,3.125,0.56,us,us7000k550,2023-05-31T02:42:43.040Z,southeast of the Loyalty Islands,earthquake,6.89,1.784,0.126,19.0,reviewed,us,us
+2023-05-31T01:30:58.837Z,40.2025,-119.7973,5.5,0.6,ml,3.0,250.81,0.06,0.0908,nn,nn00860548,2023-05-31T02:57:08.713Z,"29 km ENE of Herlong, California",earthquake,,6.1,0.23,2.0,reviewed,nn,nn
