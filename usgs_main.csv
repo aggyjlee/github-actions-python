@@ -14487,3 +14487,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-31T17:54:04.873Z,58.7217,-154.4954,247.5,1.2,ml,,,,0.91,ak,ak0236y0lcw7,2023-05-31T17:57:30.280Z,"81 km SSE of Kokhanok, Alaska",earthquake,,2.6,,,automatic,ak,ak
 2023-05-31T15:36:58.300Z,19.4168333333333,-155.302333333333,2.15,0.57,md,18.0,76.0,,0.1,hv,hv73432302,2023-05-31T17:56:06.570Z,"Island of Hawaii, Hawaii",earthquake,0.22,0.2,0.0379137396171559,2.0,reviewed,hv,hv
 2023-05-31T15:24:39.670Z,19.41,-155.279166666667,0.97,0.53,md,18.0,50.0,,0.08,hv,hv73432282,2023-05-31T18:04:09.430Z,"5 km SW of Volcano, Hawaii",earthquake,0.15,0.21,0.240623817124323,3.0,reviewed,hv,hv
+2023-05-31T17:55:06.223Z,65.3586,-144.518,12.1,1.6,ml,,,,0.87,ak,ak0236y0lkpq,2023-05-31T18:06:55.482Z,"27 km SSE of Central, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-05-31T17:22:45.820Z,19.4248333333333,-155.324666666667,4.19,0.8,md,20.0,130.0,,0.08,hv,hv73432537,2023-05-31T18:13:28.710Z,"9 km WSW of Volcano, Hawaii",earthquake,0.28,0.56,0.0537694478921652,4.0,reviewed,hv,hv
+2023-05-31T15:24:09.380Z,19.4171666666667,-155.264333333333,1.3,0.7,md,21.0,67.0,,0.1,hv,hv73432277,2023-05-31T18:12:42.180Z,"4 km SW of Volcano, Hawaii",earthquake,0.18,0.2,0.178336113281861,6.0,reviewed,hv,hv
