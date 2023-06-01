@@ -14745,3 +14745,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-01T16:30:11.030Z,33.9918333,-116.8928333,9.32,1.15,ml,35.0,53.0,0.08281,0.18,ci,ci40474856,2023-06-01T16:39:47.060Z,"8km NNW of Banning, CA",earthquake,0.24,0.7,0.187,27.0,reviewed,ci,ci
 2023-06-01T15:54:09.730Z,33.4541667,-116.5796667,10.3,-0.01,ml,10.0,138.0,0.0446,0.06,ci,ci40474816,2023-06-01T16:34:08.414Z,"14km SE of Anza, CA",earthquake,0.27,0.54,0.174,7.0,reviewed,ci,ci
 2023-06-01T15:29:44.440Z,52.6759,-163.0396,10.0,3.1,ml,31.0,246.0,2.078,0.38,us,us7000k5j2,2023-06-01T16:36:53.040Z,"243 km S of False Pass, Alaska",earthquake,4.3,2.0,0.097,14.0,reviewed,us,us
+2023-06-01T16:58:11.630Z,35.6443333,-118.3206667,7.47,2.23,ml,32.0,64.0,0.05668,0.13,ci,ci40474936,2023-06-01T17:02:08.899Z,"14km ESE of Wofford Heights, CA",earthquake,0.18,0.56,0.179,26.0,automatic,ci,ci
+2023-06-01T16:49:59.845Z,57.3714,-155.5164,66.3,1.6,ml,,,,0.17,ak,ak0236znibg0,2023-06-01T16:52:22.995Z,Alaska Peninsula,earthquake,,1.9,,,automatic,ak,ak
