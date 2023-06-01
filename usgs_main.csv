@@ -14824,3 +14824,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-01T04:12:31.700Z,46.85616666666667,-121.75516666666668,1.66,0.19,ml,16.0,76.0,0.02147,0.06,uw,uw61929656,2023-06-01T21:51:14.930Z,"23 km ENE of Ashford, Washington",earthquake,0.26,0.43,0.2488273891633359,7.0,reviewed,uw,uw
 2023-06-01T21:44:19.670Z,17.9713333333333,-66.8305,10.53,2.93,md,13.0,200.0,0.04656,0.12,pr,pr71411988,2023-06-01T22:13:54.510Z,"2 km SSW of Indios, Puerto Rico",earthquake,0.44,0.32,0.108181959389652,4.0,reviewed,pr,pr
 2023-06-01T19:04:39.199Z,37.276,-117.5941,8.1,1.1,ml,7.0,229.56,0.06,0.1419,nn,nn00860633,2023-06-01T22:20:26.016Z,California-Nevada border region,earthquake,,2.8,0.94,6.0,reviewed,nn,nn
+2023-06-01T22:26:43.360Z,34.2298333,-117.4925,8.45,1.17,ml,21.0,59.0,0.02284,0.18,ci,ci40475296,2023-06-01T22:30:20.511Z,"3km S of Lytle Creek, CA",earthquake,0.34,0.51,0.162,30.0,automatic,ci,ci
+2023-06-01T22:26:26.174Z,58.1901,-155.289,0.8,1.8,ml,,,,0.57,ak,ak0236zqxx09,2023-06-01T22:28:24.891Z,"85 km NW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
