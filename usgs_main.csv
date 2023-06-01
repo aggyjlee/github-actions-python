@@ -14680,3 +14680,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-01T09:41:08.937Z,59.4952,-151.9094,74.3,2.8,ml,,,,0.2,ak,ak0236zjagjx,2023-06-01T09:42:22.398Z,"Kenai Peninsula, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-06-01T10:03:08.500Z,38.8025017,-122.7798309,1.47,0.92,md,19.0,66.0,0.01076,0.02,nc,nc73895021,2023-06-01T10:04:45.594Z,"4km NW of The Geysers, CA",earthquake,0.23,0.35,0.19,20.0,automatic,nc,nc
 2023-06-01T09:48:31.590Z,19.2228336334229,-155.390335083008,33.0900001525879,1.98,ml,51.0,151.0,,0.140000001,hv,hv73433707,2023-06-01T09:54:04.440Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.52,0.699999988,3.9,5.0,automatic,hv,hv
+2023-06-01T10:21:14.840Z,33.953,-116.9368333,10.1,0.56,ml,15.0,67.0,0.1349,0.12,ci,ci40239663,2023-06-01T10:24:50.679Z,"4km NE of Beaumont, CA",earthquake,0.38,0.99,0.04,6.0,automatic,ci,ci
+2023-06-01T10:10:43.720Z,32.7185,-116.6196667,11.55,1.07,ml,17.0,107.0,0.05855,0.12,ci,ci40239655,2023-06-01T10:14:26.682Z,"14km SW of Pine Valley, CA",earthquake,0.28,0.56,0.254,8.0,automatic,ci,ci
+2023-06-01T10:07:32.771Z,61.3676,-150.1013,36.6,1.2,ml,,,,0.47,ak,ak0236zjonnh,2023-06-01T10:09:14.566Z,"6 km W of Point MacKenzie, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-06-01T10:05:28.931Z,63.5329,-150.8744,0.0,1.7,ml,,,,0.42,ak,ak0236zjo7x9,2023-06-01T10:07:17.916Z,"42 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-06-01T10:00:10.295Z,-5.7721,152.0588,38.723,4.9,mb,38.0,129.0,6.05,0.7,us,us7000k5gj,2023-06-01T10:23:46.040Z,"159 km S of Kokopo, Papua New Guinea",earthquake,14.75,7.964,0.064,118.0,reviewed,us,us
+2023-06-01T02:30:24.880Z,37.5706667,-118.8421667,4.46,0.99,md,17.0,151.0,0.02193,0.02,nc,nc73894896,2023-06-01T10:20:56.984Z,"14km ESE of Mammoth Lakes, CA",earthquake,0.52,0.54,0.126,16.0,reviewed,nc,nc
