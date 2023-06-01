@@ -14678,3 +14678,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-01T09:32:24.000Z,33.026,-116.0075,1.58,1.53,ml,41.0,30.0,0.1425,0.28,ci,ci40239639,2023-06-01T09:35:52.597Z,"17km SE of Ocotillo Wells, CA",earthquake,0.3,0.76,0.156,28.0,automatic,ci,ci
 2023-06-01T09:42:24.630Z,33.358,-116.3811667,9.1,0.69,ml,27.0,113.0,0.09449,0.19,ci,ci40239647,2023-06-01T09:45:46.653Z,"11km N of Borrego Springs, CA",earthquake,0.38,0.86,0.18,14.0,automatic,ci,ci
 2023-06-01T09:41:08.937Z,59.4952,-151.9094,74.3,2.8,ml,,,,0.2,ak,ak0236zjagjx,2023-06-01T09:42:22.398Z,"Kenai Peninsula, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2023-06-01T10:03:08.500Z,38.8025017,-122.7798309,1.47,0.92,md,19.0,66.0,0.01076,0.02,nc,nc73895021,2023-06-01T10:04:45.594Z,"4km NW of The Geysers, CA",earthquake,0.23,0.35,0.19,20.0,automatic,nc,nc
+2023-06-01T09:48:31.590Z,19.2228336334229,-155.390335083008,33.0900001525879,1.98,ml,51.0,151.0,,0.140000001,hv,hv73433707,2023-06-01T09:54:04.440Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.52,0.699999988,3.9,5.0,automatic,hv,hv
