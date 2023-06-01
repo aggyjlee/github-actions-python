@@ -14638,3 +14638,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-01T06:10:10.570Z,34.0203333,-117.2258333,10.04,1.39,ml,47.0,71.0,0.08508,0.17,ci,ci40239511,2023-06-01T06:21:17.030Z,"4km SE of Loma Linda, CA",earthquake,0.2,0.48,0.196,25.0,automatic,ci,ci
 2023-06-01T06:08:42.220Z,34.0181667,-117.2255,10.97,1.0,ml,29.0,90.0,0.08309,0.18,ci,ci40239495,2023-06-01T06:12:27.985Z,"5km SE of Loma Linda, CA",earthquake,0.29,0.59,0.167,28.0,automatic,ci,ci
 2023-05-31T08:27:22.382Z,50.7816,176.8894,10.0,3.0,ml,14.0,247.0,1.549,0.23,us,us7000k5dt,2023-06-01T06:11:11.040Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,4.59,2.006,0.091,16.0,reviewed,us,us
+2023-06-01T06:26:21.680Z,34.0191667,-117.224,8.91,1.96,ml,84.0,28.0,0.0833,0.23,ci,ci40239535,2023-06-01T06:30:50.938Z,"5km SE of Loma Linda, CA",earthquake,0.21,0.62,0.178,25.0,automatic,ci,ci
