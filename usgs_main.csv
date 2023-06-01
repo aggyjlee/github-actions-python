@@ -14656,3 +14656,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-01T08:21:49.520Z,32.6479988,-115.9759979,10.36,1.55,ml,22.0,90.0,0.04533,0.15,ci,ci40239599,2023-06-01T08:23:59.864Z,"10km S of Ocotillo, CA",earthquake,0.32,0.37,0.493,4.0,automatic,ci,ci
 2023-06-01T08:08:25.217Z,58.0435,-155.413,22.3,0.9,ml,,,,0.4,ak,ak0236zihzjq,2023-06-01T08:10:39.243Z,Alaska Peninsula,earthquake,,0.3,,,automatic,ak,ak
 2023-06-01T07:42:30.038Z,-6.9475,129.4563,176.116,4.4,mb,31.0,60.0,2.45,0.55,us,us7000k5g4,2023-06-01T08:10:43.040Z,Banda Sea,earthquake,8.75,7.59,0.104,27.0,reviewed,us,us
+2023-06-01T08:27:18.890Z,33.845,-116.9306667,13.07,0.82,ml,21.0,216.0,0.1487,0.09,ci,ci40239607,2023-06-01T08:30:53.154Z,"7km NNE of San Jacinto, CA",earthquake,0.88,0.9,0.142,21.0,automatic,ci,ci
