@@ -14624,3 +14624,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-01T05:31:24.370Z,38.8195,-122.8221664,2.05,0.51,md,12.0,86.0,0.01022,0.01,nc,nc73894926,2023-06-01T05:33:00.471Z,"7km NW of The Geysers, CA",earthquake,0.35,0.91,0.36,14.0,automatic,nc,nc
 2023-06-01T05:30:33.819Z,57.135,-155.0507,43.6,1.6,ml,,,,0.18,ak,ak0236zguf6d,2023-06-01T05:32:19.286Z,"57 km WNW of Akhiok, Alaska",earthquake,,4.0,,,automatic,ak,ak
 2023-06-01T05:46:45.370Z,33.3881667,-116.4448333,7.51,0.56,ml,11.0,157.0,0.1042,0.25,ci,ci40239471,2023-06-01T05:50:31.143Z,"16km NNW of Borrego Springs, CA",earthquake,0.81,2.89,0.142,11.0,automatic,ci,ci
+2023-06-01T06:04:06.300Z,34.0233333,-117.2308333,10.44,1.0,ml,31.0,92.0,0.08981,0.21,ci,ci40239487,2023-06-01T06:07:49.209Z,"4km SE of Loma Linda, CA",earthquake,0.33,0.69,0.203,27.0,automatic,ci,ci
+2023-06-01T06:03:15.800Z,36.5676651,-121.0373306,10.72,1.93,md,15.0,198.0,0.01095,0.08,nc,nc73894931,2023-06-01T06:04:50.940Z,"10km ENE of Pinnacles, CA",earthquake,1.25,1.12,0.19,16.0,automatic,nc,nc
+2023-06-01T05:50:32.793Z,61.1527,-146.937,24.6,1.5,ml,,,,0.82,ak,ak0236zgypf3,2023-06-01T05:51:59.612Z,Southern Alaska,earthquake,,1.0,,,automatic,ak,ak
+2023-06-01T05:48:49.005Z,61.6572,-150.0612,30.3,1.1,ml,,,,0.56,ak,ak0236zgyb8k,2023-06-01T05:51:02.125Z,"10 km S of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-06-01T05:48:35.360Z,19.404167175293,-155.287338256836,2.14000010490417,1.87,md,23.0,46.0,,0.0900000036,hv,hv73433427,2023-06-01T05:51:32.760Z,"7 km SW of Volcano, Hawaii",earthquake,0.29,0.219999999,0.860000014,16.0,automatic,hv,hv
