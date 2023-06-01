@@ -14639,3 +14639,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-01T06:08:42.220Z,34.0181667,-117.2255,10.97,1.0,ml,29.0,90.0,0.08309,0.18,ci,ci40239495,2023-06-01T06:12:27.985Z,"5km SE of Loma Linda, CA",earthquake,0.29,0.59,0.167,28.0,automatic,ci,ci
 2023-05-31T08:27:22.382Z,50.7816,176.8894,10.0,3.0,ml,14.0,247.0,1.549,0.23,us,us7000k5dt,2023-06-01T06:11:11.040Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,4.59,2.006,0.091,16.0,reviewed,us,us
 2023-06-01T06:26:21.680Z,34.0191667,-117.224,8.91,1.96,ml,84.0,28.0,0.0833,0.23,ci,ci40239535,2023-06-01T06:30:50.938Z,"5km SE of Loma Linda, CA",earthquake,0.21,0.62,0.178,25.0,automatic,ci,ci
+2023-06-01T06:46:13.262Z,60.3048,-152.2292,82.3,1.2,ml,,,,0.22,ak,ak0236zhj8ni,2023-06-01T06:47:42.163Z,"42 km NW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-06-01T06:44:36.090Z,38.8163338,-122.8079987,3.17,1.74,md,37.0,41.0,0.007235,0.03,nc,nc73894951,2023-06-01T06:47:55.279Z,"6km NW of The Geysers, CA",earthquake,0.19,0.33,0.12,37.0,automatic,nc,nc
+2023-06-01T06:39:36.400Z,19.1681671142578,-155.504501342773,33.7299995422363,2.01999998,md,45.0,102.0,,0.140000001,hv,hv73433487,2023-06-01T06:42:47.360Z,"4 km SW of Pāhala, Hawaii",earthquake,0.56,0.939999998,1.58000004,10.0,automatic,hv,hv
