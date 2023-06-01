@@ -14649,3 +14649,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-01T07:05:25.460Z,33.3086667,-116.328,10.55,1.48,ml,56.0,24.0,0.08489,0.21,ci,ci40239559,2023-06-01T07:16:16.220Z,"7km NE of Borrego Springs, CA",earthquake,0.24,0.49,0.167,27.0,automatic,ci,ci
 2023-06-01T07:16:50.040Z,34.1571667,-117.4258333,4.0,1.68,ml,76.0,27.0,0.03537,0.23,ci,ci40239583,2023-06-01T07:21:17.680Z,"7km NNE of Fontana, CA",earthquake,0.2,0.61,0.156,25.0,automatic,ci,ci
 2023-06-01T07:16:46.780Z,34.1661667,-117.41,5.55,0.47,ml,17.0,167.0,0.03007,0.14,ci,ci40239575,2023-06-01T07:20:40.421Z,"6km WNW of Muscoy, CA",earthquake,0.58,1.02,0.028,4.0,automatic,ci,ci
+2023-06-01T07:45:23.800Z,38.784668,-122.7401657,0.86,0.76,md,8.0,118.0,0.003045,0.02,nc,nc73894966,2023-06-01T07:46:58.386Z,"2km ENE of The Geysers, CA",earthquake,0.6,1.39,0.04,8.0,automatic,nc,nc
+2023-06-01T07:45:21.149Z,60.0244,-152.2903,71.5,1.3,ml,,,,0.34,ak,ak0236zi4h5e,2023-06-01T07:47:51.942Z,"32 km WNW of Happy Valley, Alaska",earthquake,,0.5,,,automatic,ak,ak
