@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-01T07:16:50.040Z,34.1571667,-117.4258333,4,1.68,ml,76,27,0.03537,0.23,ci,ci40239583,2023-06-01T07:21:17.680Z,"7km NNE of Fontana, CA",earthquake,0.2,0.61,0.156,25,automatic,ci,ci
+2023-06-01T07:16:46.780Z,34.1661667,-117.41,5.55,0.47,ml,17,167,0.03007,0.14,ci,ci40239575,2023-06-01T07:20:40.421Z,"6km WNW of Muscoy, CA",earthquake,0.58,1.02,0.028,4,automatic,ci,ci
 2023-06-01T07:11:10.420Z,19.3961658477783,-155.269500732422,1.53999996185303,1.93,ml,24,41,,0.219999999,hv,hv73433522,2023-06-01T07:16:41.880Z,"6 km SW of Volcano, Hawaii",earthquake,0.27,0.310000002,0.36,10,automatic,hv,hv
 2023-06-01T07:05:26.328Z,35.11248398,-97.5684433,1.727217913,2.18,ml,41,40.27532196,0.05495516956,0.8336584763,ok,ok2023kqkz,2023-06-01T07:18:05.784Z,"1 km NNE of Cole, Oklahoma",earthquake,1.823124934,1.369369141,0.24,32,automatic,ok,ok
 2023-06-01T07:05:25.460Z,33.3086667,-116.328,10.55,1.48,ml,56,24,0.08489,0.21,ci,ci40239559,2023-06-01T07:16:16.220Z,"7km NE of Borrego Springs, CA",earthquake,0.24,0.49,0.167,27,automatic,ci,ci
