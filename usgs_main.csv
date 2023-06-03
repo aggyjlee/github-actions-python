@@ -15262,3 +15262,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-03T07:06:54.298Z,41.4054,-106.7699,10.496,3.2,ml,35.0,60.0,0.806,0.68,us,us7000k619,2023-06-03T07:12:41.040Z,"6 km SSE of Saratoga, Wyoming",earthquake,3.55,8.516,0.036,102.0,reviewed,us,us
 2023-06-03T07:06:22.250Z,38.7921677,-122.7363358,0.32,0.77,md,10.0,93.0,0.008923,0.01,nc,nc73895711,2023-06-03T07:07:55.972Z,"2km NE of The Geysers, CA",earthquake,0.21,1.85,0.19,9.0,automatic,nc,nc
 2023-06-03T06:49:04.078Z,12.1933,48.1408,10.0,4.6,mb,73.0,157.0,5.224,0.41,us,us7000k618,2023-06-03T07:08:28.040Z,"114 km N of Las Khorey, Somalia",earthquake,12.37,1.961,0.07,61.0,reviewed,us,us
+2023-06-03T07:18:00.899Z,64.8421,-147.3067,7.1,2.2,ml,,,,0.95,ak,ak02372t1c8p,2023-06-03T07:19:53.757Z,"10 km NNE of North Pole, Alaska",earthquake,,0.2,,,automatic,ak,ak
