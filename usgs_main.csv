@@ -15525,3 +15525,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-03T23:34:50.250Z,35.8691667,-117.6821667,11.03,0.96,ml,12.0,133.0,0.09041,0.15,ci,ci40477464,2023-06-03T23:39:11.517Z,"22km ESE of Little Lake, CA",earthquake,0.44,0.75,0.243,9.0,automatic,ci,ci
 2023-06-03T23:01:48.667Z,-18.3443,168.063,35.0,4.8,mb,30.0,72.0,4.185,0.6,us,us7000k664,2023-06-03T23:39:31.536Z,"72 km SSW of Port-Vila, Vanuatu",earthquake,9.24,1.931,0.096,33.0,reviewed,us,us
 2023-06-03T22:49:25.687Z,53.566,-163.3437,22.749,4.6,mb,93.0,167.0,1.235,0.83,us,us7000k661,2023-06-03T23:31:09.040Z,"143 km S of False Pass, Alaska",earthquake,5.52,2.473,0.051,118.0,reviewed,us,us
+2023-06-03T23:43:33.292Z,39.6035,-119.4059,11.8,1.5,ml,11.0,77.91,0.108,0.2297,nn,nn00860805,2023-06-03T23:45:55.475Z,"10 km WSW of Wadsworth, Nevada",earthquake,,0.8,0.13,8.0,automatic,nn,nn
