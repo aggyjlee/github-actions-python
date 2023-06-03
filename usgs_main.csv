@@ -15459,3 +15459,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-03T09:02:16.210Z,46.9185,-121.9425,14.26,0.47,ml,27.0,92.0,0.0155,0.2,uw,uw61930256,2023-06-03T18:09:09.940Z,"19 km NNE of Ashford, Washington",earthquake,0.54,0.59,0.1239045899915841,13.0,reviewed,uw,uw
 2023-06-03T18:35:15.120Z,38.8419991,-122.8799973,2.54,0.2,md,11.0,97.0,0.004637,0.03,nc,nc73896516,2023-06-03T18:36:48.776Z,"13km ENE of Cloverdale, CA",earthquake,0.39,0.47,0.09,10.0,automatic,nc,nc
 2023-06-03T18:32:47.240Z,19.3991661071777,-155.273330688477,0.930000007152557,1.95,ml,19.0,38.0,,0.219999999,hv,hv73438302,2023-06-03T18:38:19.250Z,"6 km SW of Volcano, Hawaii",earthquake,0.26,0.25999999,0.47,10.0,automatic,hv,hv
+2023-06-03T18:45:11.183Z,58.2967,-155.0998,44.0,0.4,ml,,,,0.46,ak,ak02372zqx0u,2023-06-03T18:47:08.336Z,"89 km NNW of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2023-06-03T18:41:13.520Z,35.6543333,-118.3183333,8.08,0.73,ml,10.0,166.0,0.049,0.1,ci,ci40477264,2023-06-03T18:45:28.361Z,"14km ESE of Wofford Heights, CA",earthquake,0.41,0.49,0.372,4.0,automatic,ci,ci
+2023-06-03T15:37:21.710Z,53.5001,-163.2189,25.6,3.6,ml,,,,0.85,ak,ak02372xwxf8,2023-06-03T18:49:48.425Z,"151 km S of False Pass, Alaska",earthquake,,3.2,,,reviewed,ak,ak
+2023-06-03T04:16:39.230Z,48.1965,-122.17916666666666,12.75,0.91,md,4.0,197.0,0.1684,0.02,uw,uw61930231,2023-06-03T18:50:25.820Z,"4 km W of Arlington, Washington",earthquake,1.0,3.27,0.1145528061915965,4.0,reviewed,uw,uw
