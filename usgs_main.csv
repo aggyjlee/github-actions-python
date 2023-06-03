@@ -15241,3 +15241,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-03T04:51:11.780Z,52.2484,-178.678,188.751,4.1,mb,58.0,56.0,0.437,0.67,us,us7000k60p,2023-06-03T05:14:43.040Z,"146 km WNW of Adak, Alaska",earthquake,11.53,8.228,0.058,81.0,reviewed,us,us
 2023-06-03T05:17:01.860Z,38.8241653,-122.7979965,2.66,1.37,md,28.0,31.0,0.009465,0.03,nc,nc73895696,2023-06-03T05:18:35.174Z,"6km NW of The Geysers, CA",earthquake,0.2,0.4,0.15,28.0,automatic,nc,nc
 2023-06-03T05:17:33.464Z,75.8967,7.2534,10.0,4.3,mb,40.0,57.0,3.078,0.32,us,us7000k60u,2023-06-03T05:35:51.040Z,Greenland Sea,earthquake,7.43,1.897,0.103,27.0,reviewed,us,us
+2023-06-03T06:01:55.995Z,58.1788,-155.4169,0.0,0.6,ml,,,,0.72,ak,ak02372scdpr,2023-06-03T06:03:43.495Z,Alaska Peninsula,earthquake,,5.0,,,automatic,ak,ak
+2023-06-03T06:00:51.878Z,57.3165,-156.4503,11.7,1.8,ml,,,,0.69,ak,ak02372sc5oj,2023-06-03T06:02:21.134Z,Alaska Peninsula,earthquake,,0.3,,,automatic,ak,ak
+2023-06-03T06:00:51.692Z,60.924,-151.6326,93.5,1.5,ml,,,,0.67,ak,ak02372sc5o1,2023-06-03T06:02:42.882Z,"Kenai Peninsula, Alaska",earthquake,,1.8,,,automatic,ak,ak
