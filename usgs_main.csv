@@ -15276,3 +15276,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-03T08:02:10.660Z,35.6461667,-118.3188333,7.3,2.38,ml,33.0,66.0,0.05576,0.15,ci,ci40476776,2023-06-03T08:05:56.392Z,"14km ESE of Wofford Heights, CA",earthquake,0.2,0.62,0.198,26.0,automatic,ci,ci
 2023-06-03T07:52:32.284Z,60.8906,-152.462,127.3,1.9,ml,,,,0.62,ak,ak02372t8p0c,2023-06-03T07:54:43.691Z,"67 km WNW of Nikiski, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-06-03T07:17:42.750Z,-16.0394,-71.9904,10.0,4.7,mb,66.0,130.0,2.803,0.84,us,us7000k61d,2023-06-03T08:02:19.040Z,"3 km SE of Lluta, Peru",earthquake,7.45,1.848,0.062,79.0,reviewed,us,us
+2023-06-03T07:48:45.429Z,36.8392,61.6096,9.981,4.5,mb,66.0,153.0,2.987,0.68,us,us7000k61n,2023-06-03T08:07:58.040Z,"51 km NE of Sarakhs, Iran",earthquake,8.66,4.321,0.069,62.0,reviewed,us,us
