@@ -15756,3 +15756,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-04T07:49:04.710Z,47.632333333333335,-121.95316666666666,24.01,0.47,md,6.0,188.0,0.03657,0.04,uw,uw61930416,2023-06-04T18:11:14.210Z,"0 km E of Ames Lake, Washington",earthquake,0.72,0.74,0.0295356580180723,4.0,reviewed,uw,uw
 2023-06-04T18:26:46.172Z,36.4505,-115.9229,0.4,1.6,ml,10.0,279.03,0.214,0.0677,nn,nn00860833,2023-06-04T18:28:38.944Z,Nevada,earthquake,,0.1,0.19,9.0,automatic,nn,nn
 2023-06-04T18:24:20.689Z,58.2302,-155.123,1.4,0.5,ml,,,,0.06,ak,ak02374n5s7o,2023-06-04T18:25:39.559Z,"83 km NNW of Karluk, Alaska",earthquake,,2.9,,,automatic,ak,ak
+2023-06-04T18:09:02.400Z,-20.4953,-69.2453,113.72,4.1,mb,10.0,118.0,0.363,0.34,us,us7000k6a1,2023-06-04T18:39:57.040Z,"46 km ESE of La Tirana, Chile",earthquake,4.68,6.075,0.37,2.0,reviewed,us,us
