@@ -15795,3 +15795,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-04T23:06:01.620Z,64.7713,-150.8911,13.3,1.2,ml,,,,0.97,ak,ak02374q11vm,2023-06-04T23:09:01.773Z,Central Alaska,earthquake,,0.3,,,automatic,ak,ak
 2023-06-04T23:20:58.810Z,33.4503326,-116.5770035,10.05,1.1,ml,32.0,45.0,0.04901,0.16,ci,ci40478336,2023-06-04T23:23:05.269Z,"15km SE of Anza, CA",earthquake,0.3,0.77,0.089,6.0,automatic,ci,ci
 2023-06-04T23:12:20.920Z,18.843,-67.3251666666667,9.88,3.35,md,13.0,278.0,0.3861,0.21,pr,pr71412353,2023-06-04T23:24:09.490Z,"45 km NNW of San Antonio, Puerto Rico",earthquake,0.8,0.44,0.0740890665816987,7.0,reviewed,pr,pr
+2023-06-04T23:37:12.830Z,33.6361656,-116.7005005,13.78,1.19,ml,44.0,46.0,0.03952,0.14,ci,ci40478352,2023-06-04T23:39:18.605Z,"9km NNW of Anza, CA",earthquake,0.25,0.48,0.254,13.0,automatic,ci,ci
+2023-06-04T23:30:25.900Z,33.492,-116.54,9.27,0.89,ml,33.0,51.0,0.05205,0.17,ci,ci40478344,2023-06-04T23:34:06.030Z,"14km ESE of Anza, CA",earthquake,0.23,0.55,0.13,24.0,automatic,ci,ci
