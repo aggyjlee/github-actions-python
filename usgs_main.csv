@@ -15595,3 +15595,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-04T04:50:27.129Z,58.4495,-155.5242,47.1,1.2,ml,,,,1.4,ak,ak02374ezbeh,2023-06-04T04:53:06.854Z,"71 km ESE of King Salmon, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-06-03T22:38:28.420Z,43.717666666666666,-121.25416666666666,-1.25,0.1,ml,4.0,197.0,0.01582,0.09,uw,uw61930366,2023-06-04T04:55:56.020Z,Oregon,earthquake,0.32,0.34,0.1121336524766021,2.0,reviewed,uw,uw
 2023-06-03T12:26:10.750Z,38.7993333,-122.7983333,0.1,0.46,md,17.0,60.0,0.008941,0.02,nc,nc73896031,2023-06-04T04:57:31.533Z,"4km NW of The Geysers, CA",earthquake,0.19,0.43,0.145,16.0,reviewed,nc,nc
+2023-06-04T05:13:39.144Z,58.0487,-153.1183,47.4,2.3,ml,,,,0.52,ak,ak02374fctwa,2023-06-04T05:15:30.284Z,"12 km W of Aleneva, Alaska",earthquake,,2.3,,,automatic,ak,ak
+2023-06-04T05:10:26.020Z,34.0016667,-116.8388333,18.97,1.39,ml,48.0,36.0,0.0422,0.2,ci,ci40477648,2023-06-04T05:14:01.996Z,"9km NNE of Banning, CA",earthquake,0.22,0.54,0.221,27.0,automatic,ci,ci
+2023-06-04T05:07:34.150Z,36.0418333,-117.7711667,1.64,2.41,ml,21.0,106.0,0.06664,0.18,ci,ci40477640,2023-06-04T05:18:26.880Z,"16km E of Coso Junction, CA",earthquake,0.32,0.56,0.175,25.0,automatic,ci,ci
