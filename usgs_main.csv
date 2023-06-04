@@ -15615,3 +15615,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-04T05:41:30.620Z,38.7895012,-122.7661667,2.47,0.82,md,16.0,74.0,0.0122,0.02,nc,nc73896741,2023-06-04T05:43:04.952Z,"2km NNW of The Geysers, CA",earthquake,0.34,0.59,0.16,17.0,automatic,nc,nc
 2023-06-04T06:00:23.800Z,38.8554993,-122.8481674,1.73,0.63,md,9.0,148.0,0.0194,0.01,nc,nc73896746,2023-06-04T06:01:59.308Z,"12km WNW of Cobb, CA",earthquake,0.34,0.78,0.14,10.0,automatic,nc,nc
 2023-06-04T05:53:40.207Z,64.4993,-147.3776,13.0,0.8,ml,,,,0.62,ak,ak02374flemc,2023-06-04T05:55:47.596Z,"23 km W of Salcha, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-06-04T06:19:45.647Z,61.0768,-151.3534,92.4,0.9,ml,,,,0.52,ak,ak02374fzkas,2023-06-04T06:21:56.149Z,Southern Alaska,earthquake,,2.5,,,automatic,ak,ak
+2023-06-04T06:14:52.669Z,62.1067,-148.1416,31.5,1.7,ml,,,,0.9,ak,ak02374fygg1,2023-06-04T06:17:15.064Z,"38 km NNE of Chickaloon, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-06-04T05:52:03.710Z,-3.0459,137.3141,48.84,5.0,mb,76.0,50.0,3.426,0.79,us,us7000k67k,2023-06-04T06:12:44.040Z,"204 km E of Nabire, Indonesia",earthquake,7.58,6.755,0.046,152.0,reviewed,us,us
