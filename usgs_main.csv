@@ -16026,3 +16026,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-05T23:29:14.280Z,35.0341682,-117.6524963,1.2,1.62,ml,19.0,118.0,0.1058,0.21,ci,ci40479160,2023-06-05T23:31:20.661Z,"4km N of Boron, CA",earthquake,0.58,1.08,0.126,7.0,automatic,ci,ci
 2023-06-05T23:24:33.144Z,59.9439,-151.7766,51.7,3.5,ml,,,,0.29,ak,ak02376doboy,2023-06-05T23:29:21.950Z,"2 km W of Happy Valley, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-06-05T23:23:58.170Z,38.8238335,-122.7945023,2.72,0.93,md,24.0,33.0,0.01217,0.02,nc,nc73897481,2023-06-05T23:25:31.208Z,"6km NNW of The Geysers, CA",earthquake,0.22,0.47,0.21,24.0,automatic,nc,nc
+2023-06-05T23:08:38.730Z,60.0338333333333,-153.068833333333,1.85,0.54,ml,4.0,149.0,,0.11,av,av91913151,2023-06-05T23:33:14.120Z,"64 km ENE of Pedro Bay, Alaska",earthquake,0.78,1.98,0.201538605141801,4.0,reviewed,av,av
+2023-06-05T00:44:23.850Z,58.178,-155.295833333333,1.75,0.44,ml,11.0,60.0,,0.09,av,av91780347,2023-06-05T23:35:45.850Z,"84 km NW of Karluk, Alaska",earthquake,0.18,0.62,0.370468723571646,11.0,reviewed,av,av
