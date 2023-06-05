@@ -15971,3 +15971,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-05T18:28:13.110Z,17.9275,-66.8408333333333,10.04,2.41,md,18.0,214.0,0.05979,0.21,pr,pr71412443,2023-06-05T18:47:23.380Z,"7 km SE of Maria Antonia, Puerto Rico",earthquake,0.75,0.6,0.149267204387155,6.0,reviewed,pr,pr
 2023-06-05T17:34:10.657Z,18.4615,145.5893,163.784,4.4,mb,48.0,99.0,3.208,0.76,us,us7000k6gp,2023-06-05T18:42:15.040Z,"Pagan region, Northern Mariana Islands",earthquake,12.16,8.767,0.062,75.0,reviewed,us,us
 2023-06-05T12:33:30.320Z,39.7453,-120.1326,8.8,0.3,ml,4.0,168.69,0.191,0.0822,nn,nn00860877,2023-06-05T18:43:06.501Z,Northern California,earthquake,,4.9,0.09,2.0,reviewed,nn,nn
+2023-06-05T18:56:19.540Z,34.9908333,-118.19,0.17,1.27,ml,13.0,62.0,0.1162,0.21,ci,ci40479016,2023-06-05T19:00:15.285Z,"7km SSW of Mojave, CA",earthquake,0.45,31.61,0.197,20.0,automatic,ci,ci
+2023-06-05T18:51:47.354Z,66.1141,-143.3582,8.8,2.3,ml,,,,1.19,ak,ak02376auz3j,2023-06-05T18:54:31.289Z,"45 km NE of Circle, Alaska",earthquake,,1.0,,,automatic,ak,ak
