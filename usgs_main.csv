@@ -15973,3 +15973,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-05T12:33:30.320Z,39.7453,-120.1326,8.8,0.3,ml,4.0,168.69,0.191,0.0822,nn,nn00860877,2023-06-05T18:43:06.501Z,Northern California,earthquake,,4.9,0.09,2.0,reviewed,nn,nn
 2023-06-05T18:56:19.540Z,34.9908333,-118.19,0.17,1.27,ml,13.0,62.0,0.1162,0.21,ci,ci40479016,2023-06-05T19:00:15.285Z,"7km SSW of Mojave, CA",earthquake,0.45,31.61,0.197,20.0,automatic,ci,ci
 2023-06-05T18:51:47.354Z,66.1141,-143.3582,8.8,2.3,ml,,,,1.19,ak,ak02376auz3j,2023-06-05T18:54:31.289Z,"45 km NE of Circle, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2023-06-05T18:01:06.169Z,23.1783,-100.1556,10.0,4.2,mb,78.0,95.0,2.259,1.19,us,us7000k6gw,2023-06-05T19:05:53.040Z,"25 km NNW of Lázaro Cárdenas, Mexico",earthquake,7.01,1.894,0.032,276.0,reviewed,us,us
