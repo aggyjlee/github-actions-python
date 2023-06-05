@@ -15987,3 +15987,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-05T20:04:19.899Z,39.6099,-119.9667,7.1,1.9,ml,12.0,93.86,0.005,0.2095,nn,nn00860881,2023-06-05T20:06:16.426Z,Nevada,earthquake,,0.5,0.25,7.0,automatic,nn,nn
 2023-06-05T20:22:52.013Z,58.1891,-155.2812,0.0,1.2,ml,,,,0.42,ak,ak02376bvmwh,2023-06-05T20:24:11.142Z,"84 km NW of Karluk, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-06-05T20:21:22.514Z,58.2026,-155.2978,1.1,2.4,ml,,,,0.33,ak,ak02376bvcwr,2023-06-05T20:22:55.992Z,"86 km NW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-06-05T20:25:15.100Z,57.9719,-155.3994,22.7,1.8,ml,,,,1.09,ak,ak02376bw77a,2023-06-05T20:27:27.620Z,"71 km NW of Karluk, Alaska",earthquake,,0.8,,,automatic,ak,ak
