@@ -15951,3 +15951,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-05T17:25:36.120Z,38.8153343,-122.828331,1.91,1.08,md,15.0,78.0,0.006491,0.02,nc,nc73897331,2023-06-05T17:27:10.248Z,"8km NW of The Geysers, CA",earthquake,0.27,0.62,0.36,18.0,automatic,nc,nc
 2023-06-05T17:31:20.295Z,61.6151,-150.0924,35.2,1.6,ml,,,,0.63,ak,ak02376a5731,2023-06-05T17:33:23.816Z,"12 km NW of Big Lake, Alaska",earthquake,,3.5,,,automatic,ak,ak
 2023-06-04T23:57:57.700Z,49.02316666666667,-122.517,12.18,2.06,ml,22.0,200.0,0.09491,0.22,uw,uw61930541,2023-06-05T17:39:59.420Z,"5 km SW of Aldergrove, Canada",earthquake,0.59,0.87,0.1346818725031866,20.0,reviewed,uw,uw
+2023-06-05T18:03:57.823Z,62.8624,-149.8035,65.6,1.2,ml,,,,0.4,ak,ak02376akpja,2023-06-05T18:06:15.470Z,"48 km NNE of Chase, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-06-05T07:59:39.050Z,46.85416666666666,-121.7565,1.24,0.08,ml,17.0,94.0,0.02352,0.07,uw,uw61930571,2023-06-05T17:56:18.550Z,"23 km ENE of Ashford, Washington",earthquake,0.21,0.43,0.14762187809472,6.0,reviewed,uw,uw
