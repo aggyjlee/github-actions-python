@@ -15820,3 +15820,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-05T02:19:30.633Z,59.9636,-151.0631,28.1,1.0,ml,,,,0.39,ak,ak023761557r,2023-06-05T02:21:15.291Z,"13 km NNW of Fox River, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-06-05T02:15:02.670Z,19.3974990844727,-155.324829101562,3.88000011444092,1.87,ml,33.0,64.0,,0.159999996,hv,hv73440177,2023-06-05T02:20:33.300Z,"10 km WSW of Volcano, Hawaii",earthquake,0.29,0.730000019,0.45,11.0,automatic,hv,hv
 2023-06-05T02:09:45.108Z,12.7887,95.5011,10.0,4.6,mb,35.0,105.0,3.865,1.05,us,us7000k6bt,2023-06-05T02:35:05.040Z,"Andaman Islands, India region",earthquake,10.01,1.922,0.105,27.0,reviewed,us,us
+2023-06-05T02:59:43.762Z,58.2444,-155.0331,34.5,0.3,ml,,,,0.6,ak,ak023761dr7j,2023-06-05T03:02:24.780Z,"82 km NNW of Karluk, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-06-05T02:58:17.079Z,58.2609,-154.8329,33.3,0.8,ml,,,,1.06,ak,ak023761dhgk,2023-06-05T03:01:13.755Z,"80 km NNW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-06-05T02:45:58.419Z,-62.3246,155.4265,10.0,5.8,mww,56.0,102.0,15.408,0.62,us,us7000k6bx,2023-06-05T03:07:52.133Z,Balleny Islands region,earthquake,12.5,1.882,0.073,18.0,reviewed,us,us
