@@ -16289,3 +16289,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-06T21:43:48.662Z,-23.1012,170.1804,10.0,4.9,mb,29.0,107.0,2.568,0.86,us,usd000jtzp,2023-06-06T23:02:11.040Z,"279 km E of Vao, New Caledonia",earthquake,10.89,1.922,0.112,25.0,reviewed,us,us
 2023-06-06T17:20:55.040Z,45.921,-111.475,-2.0,1.08,ml,5.0,161.0,0.2935,0.05,mb,mb90016943,2023-06-06T23:14:40.730Z,"5 km NW of Logan, Montana",quarry blast,0.72,31.61,0.0907387872415704,7.0,reviewed,mb,mb
 2023-06-06T09:55:15.650Z,45.6193333333333,-111.747,1.56,0.53,ml,9.0,96.0,0.08534,0.07,mb,mb90016938,2023-06-06T23:09:10.040Z,"9 km SSE of Harrison, Montana",earthquake,0.29,0.8,0.0820393745300263,4.0,reviewed,mb,mb
+2023-06-06T23:18:44.689Z,62.7329,-150.5062,0.0,2.5,ml,,,,0.79,ak,ak0237816es4,2023-06-06T23:21:02.422Z,"29 km NNE of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-06-06T23:16:11.406Z,63.4265,-154.9813,0.0,1.4,ml,,,,0.92,ak,ak0237815ws1,2023-06-06T23:19:03.595Z,Central Alaska,earthquake,,0.6,,,automatic,ak,ak
+2023-06-06T21:42:23.770Z,45.36516666666667,-121.70166666666668,2.2,0.65,ml,8.0,144.0,0.007135,0.08,uw,uw61930971,2023-06-06T23:21:41.000Z,"7 km NNE of Government Camp, Oregon",earthquake,0.41,0.58,0.1627375024988355,4.0,reviewed,uw,uw
