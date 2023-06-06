@@ -16284,3 +16284,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-06T21:36:03.470Z,45.36833333333333,-121.7005,2.0,2.82,md,9.0,95.0,0.01039,0.1,uw,uw61502608,2023-06-06T22:31:57.160Z,"8 km NNE of Government Camp, Oregon",earthquake,0.32,0.75,0.2278998253339668,8.0,reviewed,uw,uw
 2023-06-06T21:36:06.750Z,45.35866666666666,-121.71266666666666,3.09,2.56,mh,5.0,185.0,0.005028,0.09,uw,uw61502613,2023-06-06T22:39:20.160Z,Washington-Oregon border region,earthquake,1.14,0.59,,0.0,reviewed,uw,uw
 2023-06-06T22:47:13.830Z,33.6656667,-116.7531667,13.39,1.05,ml,38.0,59.0,0.05583,0.19,ci,ci40479640,2023-06-06T22:50:48.130Z,"9km SSW of Idyllwild, CA",earthquake,0.27,0.39,0.227,29.0,automatic,ci,ci
+2023-06-06T22:52:38.989Z,59.8352,-140.9632,0.0,1.5,ml,,,,0.75,ak,ak023780s92y,2023-06-06T22:54:50.963Z,"76 km WNW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-06-06T22:48:51.050Z,19.2001667022705,-155.387329101562,30.8400001525879,2.09,ml,45.0,174.0,,0.129999995,hv,hv73443007,2023-06-06T22:54:22.070Z,"9 km E of Pāhala, Hawaii",earthquake,0.53,0.680000007,3.35,7.0,automatic,hv,hv
+2023-06-06T21:43:48.662Z,-23.1012,170.1804,10.0,4.9,mb,29.0,107.0,2.568,0.86,us,usd000jtzp,2023-06-06T23:02:11.040Z,"279 km E of Vao, New Caledonia",earthquake,10.89,1.922,0.112,25.0,reviewed,us,us
