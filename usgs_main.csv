@@ -16407,3 +16407,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-07T05:01:49.960Z,39.4146667,-123.3115,7.3,1.25,md,14.0,75.0,0.03435,0.05,nc,nc73898011,2023-06-07T07:03:48.620Z,"4km E of Willits, CA",earthquake,0.21,0.6,0.36,13.0,reviewed,nc,nc
 2023-06-07T03:50:38.600Z,37.4898333,-121.5378333,8.98,0.92,md,17.0,106.0,0.0484,0.08,nc,nc73897981,2023-06-07T07:00:48.250Z,"29km ENE of Alum Rock, CA",earthquake,0.24,0.45,0.099,15.0,reviewed,nc,nc
 2023-06-07T02:51:21.110Z,37.5425,-118.8793333,6.58,0.84,md,17.0,174.0,0.062,0.04,nc,nc73897976,2023-06-07T06:56:48.679Z,"14km SE of Mammoth Lakes, CA",earthquake,0.56,0.98,0.214,17.0,reviewed,nc,nc
+2023-06-07T05:03:49.230Z,37.6703333,-122.4908333,10.26,0.69,md,15.0,157.0,0.06495,0.08,nc,nc73898016,2023-06-07T07:06:49.078Z,"3km WSW of Colma, CA",earthquake,0.4,0.61,0.289,10.0,reviewed,nc,nc
