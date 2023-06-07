@@ -16361,3 +16361,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-07T04:30:23.310Z,38.7591667,-122.7056656,1.12,1.61,md,19.0,61.0,0.01029,0.04,nc,nc73897991,2023-06-07T04:40:10.242Z,"2km SW of Anderson Springs, CA",earthquake,0.24,0.27,0.12,18.0,automatic,nc,nc
 2023-06-07T04:46:53.820Z,38.8396683,-122.810997,1.9,1.03,md,14.0,55.0,0.01618,0.01,nc,nc73898001,2023-06-07T04:48:28.724Z,"8km WNW of Cobb, CA",earthquake,0.27,0.76,0.24,15.0,automatic,nc,nc
 2023-06-07T04:42:39.690Z,38.8286667,-122.8141632,1.68,1.09,md,22.0,58.0,0.006157,0.02,nc,nc73897996,2023-06-07T04:44:16.003Z,"8km NW of The Geysers, CA",earthquake,0.19,0.44,0.18,22.0,automatic,nc,nc
+2023-06-07T04:57:02.880Z,33.9768333,-117.1743333,15.7,0.94,ml,33.0,109.0,0.02941,0.26,ci,ci40479744,2023-06-07T05:00:49.965Z,"8km NE of Moreno Valley, CA",earthquake,0.52,0.86,0.196,24.0,automatic,ci,ci
