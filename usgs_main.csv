@@ -16347,3 +16347,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-07T02:23:22.360Z,33.6971667,-116.8056667,14.04,1.26,ml,47.0,27.0,0.07565,0.2,ci,ci40479720,2023-06-07T02:34:20.280Z,"9km WSW of Idyllwild, CA",earthquake,0.23,0.41,0.171,26.0,automatic,ci,ci
 2023-06-07T02:13:04.461Z,37.2879,-117.5963,7.0,2.6,ml,17.0,92.26,0.068,0.1689,nn,nn00860952,2023-06-07T02:29:08.693Z,Central California,earthquake,,1.3,0.93,11.0,reviewed,nn,nn
 2023-06-07T00:31:31.060Z,45.363166666666665,-121.71533333333332,2.67,0.41,mh,6.0,111.0,0.008295,0.08,uw,uw61502633,2023-06-07T02:28:12.980Z,"7 km NNE of Government Camp, Oregon",earthquake,0.37,0.43,,0.0,reviewed,uw,uw
+2023-06-07T03:21:55.274Z,63.6284,-149.6951,119.5,1.5,ml,,,,0.43,ak,ak02379ctqva,2023-06-07T03:23:37.718Z,"40 km WSW of Denali Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
