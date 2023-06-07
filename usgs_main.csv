@@ -16585,3 +16585,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-07T18:36:55.280Z,35.8791667,-117.6838333,8.87,1.35,ml,12.0,161.0,0.09447,0.22,ci,ci40480056,2023-06-07T18:40:24.772Z,"21km ESE of Little Lake, CA",earthquake,0.71,0.92,0.145,10.0,automatic,ci,ci
 2023-06-07T18:35:59.326Z,60.2562,-152.009,76.6,1.7,ml,,,,0.29,ak,ak02379lu9jw,2023-06-07T18:38:25.816Z,"29 km NW of Ninilchik, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2023-06-07T02:09:18.160Z,59.3741666666667,-153.419,-0.28,0.41,ml,3.0,308.0,,0.01,av,av91915176,2023-06-07T18:39:53.430Z,Southern Alaska,earthquake,0.82,0.47,0.101514226835961,4.0,reviewed,av,av
+2023-06-07T14:56:36.540Z,36.8506667,-113.5506667,8.77,1.69,ml,10.0,223.0,0.4233,0.21,uu,uu60541791,2023-06-07T18:41:54.960Z,"28 km S of Saint George, Utah",earthquake,1.15,1.87,0.097,3.0,reviewed,uu,uu
