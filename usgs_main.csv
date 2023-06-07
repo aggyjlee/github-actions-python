@@ -16561,3 +16561,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-06T22:44:18.600Z,36.2313333333333,-89.4108333333333,6.9,1.55,md,19.0,64.0,0.007819,0.04,nm,nm60527926,2023-06-07T17:06:44.070Z,"7 km ESE of Ridgely, Tennessee",earthquake,0.4,0.36,0.0944403692973126,14.0,reviewed,nm,nm
 2023-06-07T17:04:55.860Z,-9.2198,110.6926,30.9,5.6,mww,80.0,131.0,2.171,2.02,us,us7000k6xu,2023-06-07T17:26:17.616Z,"139 km S of Wonosari, Indonesia",earthquake,8.12,5.443,0.086,13.0,reviewed,us,us
 2023-06-06T20:24:38.189Z,-23.2668,-68.5301,118.831,4.3,mb,26.0,79.0,0.45,0.91,us,us7000k6q0,2023-06-07T17:36:24.040Z,"51 km SW of San Pedro de Atacama, Chile",earthquake,8.11,7.065,0.177,12.0,reviewed,us,us
+2023-06-07T17:49:02.724Z,39.6134,-119.9704,13.4,1.3,ml,8.0,93.71,0.147,0.0977,nn,nn00860977,2023-06-07T17:50:55.019Z,"7 km S of Cold Springs, Nevada",earthquake,,1.4,0.4,4.0,automatic,nn,nn
+2023-06-07T17:48:10.030Z,38.7806664,-122.7556686,1.31,0.99,md,9.0,115.0,0.01268,0.02,nc,nc73898256,2023-06-07T17:49:43.779Z,"0km N of The Geysers, CA",earthquake,0.34,0.79,0.18,9.0,automatic,nc,nc
+2023-06-07T17:46:49.000Z,59.2322,-138.7184,5.6,1.9,ml,,,,0.74,ak,ak02379lb610,2023-06-07T17:48:46.463Z,"67 km ESE of Yakutat, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-06-07T17:46:25.740Z,33.4786667,-116.8345,-0.13,0.5,ml,16.0,121.0,0.1186,0.35,ci,ci40480016,2023-06-07T17:50:06.667Z,"5km NE of Aguanga, CA",earthquake,0.79,31.61,0.202,12.0,automatic,ci,ci
+2023-06-07T15:31:52.066Z,36.7297,-116.3081,8.6,-0.3,ml,8.0,84.6,0.013,0.0724,nn,nn00860975,2023-06-07T17:48:35.331Z,"44 km ESE of Beatty, Nevada",earthquake,,1.8,0.0,1.0,reviewed,nn,nn
+2023-06-07T14:58:37.570Z,19.3771666666667,-155.283,1.09,0.92,md,14.0,91.0,,0.1,hv,hv73445012,2023-06-07T17:42:42.690Z,"8 km SW of Volcano, Hawaii",earthquake,0.18,0.15,0.241848549996305,2.0,reviewed,hv,hv
