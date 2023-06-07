@@ -16559,3 +16559,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-07T17:09:43.140Z,38.8334999,-122.8115005,2.04,0.79,md,13.0,74.0,0.01015,0.02,nc,nc73898246,2023-06-07T17:11:19.305Z,"8km W of Cobb, CA",earthquake,0.29,0.69,0.14,18.0,automatic,nc,nc
 2023-06-07T17:05:58.390Z,40.2335014,-121.1343307,1.36,2.16,md,6.0,108.0,0.3118,0.14,nc,nc73898241,2023-06-07T17:12:10.677Z,"3km NNE of Prattville, CA",earthquake,0.82,13.06,0.08,2.0,automatic,nc,nc
 2023-06-06T22:44:18.600Z,36.2313333333333,-89.4108333333333,6.9,1.55,md,19.0,64.0,0.007819,0.04,nm,nm60527926,2023-06-07T17:06:44.070Z,"7 km ESE of Ridgely, Tennessee",earthquake,0.4,0.36,0.0944403692973126,14.0,reviewed,nm,nm
+2023-06-07T17:04:55.860Z,-9.2198,110.6926,30.9,5.6,mww,80.0,131.0,2.171,2.02,us,us7000k6xu,2023-06-07T17:26:17.616Z,"139 km S of Wonosari, Indonesia",earthquake,8.12,5.443,0.086,13.0,reviewed,us,us
