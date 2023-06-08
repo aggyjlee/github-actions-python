@@ -16745,3 +16745,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-08T07:49:11.107Z,-29.112,-178.5036,211.252,4.6,mb,20.0,73.0,0.532,1.22,us,us7000k72k,2023-06-08T08:07:25.040Z,"Kermadec Islands, New Zealand",earthquake,10.88,5.798,0.136,16.0,reviewed,us,us
 2023-06-08T08:29:21.710Z,38.840168,-122.8099976,1.97,1.04,md,19.0,55.0,0.01545,0.03,nc,nc73898586,2023-06-08T08:30:57.282Z,"8km WNW of Cobb, CA",earthquake,0.22,0.62,0.2,22.0,automatic,nc,nc
 2023-06-08T08:29:11.350Z,33.8450012,-117.8635025,5.86,1.39,ml,45.0,49.0,0.009628,0.24,ci,ci40480408,2023-06-08T08:31:16.929Z,"3km ENE of Anaheim, CA",earthquake,0.31,0.52,0.369,7.0,automatic,ci,ci
+2023-06-08T08:42:26.399Z,69.2191,-144.3366,18.2,2.8,ml,,,,0.85,ak,ak0237b3gpgv,2023-06-08T08:46:36.186Z,"105 km SSW of Kaktovik, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-06-08T08:38:39.096Z,59.0864,-152.8968,24.2,2.2,ml,,,,0.44,ak,ak0237b3fvl1,2023-06-08T08:41:17.087Z,"63 km WSW of Nanwalek, Alaska",earthquake,,1.9,,,automatic,ak,ak
