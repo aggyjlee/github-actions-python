@@ -16945,3 +16945,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-08T22:57:15.071Z,53.5717,108.482,10.0,4.4,mb,30.0,79.0,3.504,0.73,us,us7000k78z,2023-06-08T23:19:12.040Z,"40 km WNW of Ust’-Barguzin, Russia",earthquake,6.04,1.915,0.117,21.0,reviewed,us,us
 2023-06-08T20:08:28.430Z,46.91,-119.11433333333332,-0.31,1.08,ml,13.0,162.0,0.06369,0.08,uw,uw61931536,2023-06-08T23:20:45.590Z,"8 km SW of Warden, Washington",explosion,0.37,31.61,0.0970034587024831,10.0,reviewed,uw,uw
 2023-06-08T19:41:20.170Z,40.3875,-125.3641667,23.98,2.8,md,30.0,272.0,0.7871,0.31,nc,nc73898801,2023-06-08T23:31:26.127Z,"92km W of Petrolia, CA",earthquake,2.48,31.61,0.239,37.0,reviewed,nc,nc
+2023-06-08T23:16:50.110Z,44.2738333333333,-115.1865,17.92,1.83,ml,13.0,68.0,0.8311,0.4,mb,mb90017463,2023-06-08T23:37:12.540Z,"20 km WNW of Stanley, Idaho",earthquake,0.67,2.51,0.324531401817884,16.0,reviewed,mb,mb
