@@ -16770,3 +16770,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-08T10:53:39.552Z,56.2203,-149.1973,10.0,4.3,mb,83.0,144.0,2.426,0.36,us,us7000k740,2023-06-08T11:14:21.557Z,"243 km SE of Chiniak, Alaska",earthquake,7.79,1.953,0.065,68.0,reviewed,us,us
 2023-06-08T11:26:18.370Z,19.2611675262451,-155.369506835938,30.7700004577637,2.47000003,md,51.0,137.0,,0.150000006,hv,hv73445592,2023-06-08T11:29:31.850Z,"Hawaii region, Hawaii",earthquake,0.52,0.589999974,1.99000001,31.0,automatic,hv,hv
 2023-06-08T11:38:00.370Z,33.3530006,-116.3675003,12.33,1.37,ml,55.0,67.0,0.09424,0.21,ci,ci40480480,2023-06-08T11:40:06.433Z,"11km N of Borrego Springs, CA",earthquake,0.29,0.92,0.197,10.0,automatic,ci,ci
+2023-06-08T11:46:35.562Z,61.6989,-149.8742,33.4,1.1,ml,,,,0.34,ak,ak0237b59vus,2023-06-08T11:48:24.433Z,"8 km NNW of Houston, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-06-08T11:41:15.380Z,38.836834,-122.8059998,2.02,0.77,md,13.0,60.0,0.01233,0.01,nc,nc73898636,2023-06-08T11:42:52.308Z,"7km WNW of Cobb, CA",earthquake,0.32,0.66,0.16,16.0,automatic,nc,nc
