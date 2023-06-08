@@ -16691,3 +16691,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-08T02:40:05.608Z,61.5677,-146.4186,20.0,1.7,ml,,,,0.76,ak,ak0237azvmsw,2023-06-08T02:42:01.348Z,"48 km N of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-08T02:13:45.130Z,38.8134995,-122.822998,2.37,1.09,md,26.0,50.0,0.006686,0.04,nc,nc73898476,2023-06-08T02:15:22.236Z,"7km NW of The Geysers, CA",earthquake,0.2,0.36,0.13,26.0,automatic,nc,nc
 2023-06-08T02:12:00.610Z,37.5628319,-118.862999,3.01,1.78,md,16.0,222.0,0.03824,0.03,nc,nc73898471,2023-06-08T02:56:14.539Z,"13km SE of Mammoth Lakes, CA",earthquake,0.94,0.95,0.09,18.0,automatic,nc,nc
+2023-06-08T03:11:26.564Z,62.9041,-149.7526,63.3,1.5,ml,,,,0.47,ak,ak0237b0aw9c,2023-06-08T03:13:51.183Z,"53 km NNE of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-06-08T03:07:41.700Z,62.2793,-149.711,14.8,1.4,ml,,,,0.22,ak,ak0237b0a2ka,2023-06-08T03:09:33.124Z,"15 km NNE of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
