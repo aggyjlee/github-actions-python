@@ -17088,3 +17088,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-08T17:32:52.970Z,58.2545,-155.1095,-2.2,-0.56,ml,5.0,111.0,,0.2,av,av91916946,2023-06-09T17:06:29.680Z,"85 km NNW of Karluk, Alaska",earthquake,0.46,4.39,0.238883124640972,5.0,reviewed,av,av
 2023-06-09T17:48:20.027Z,34.36106491,-96.86347198,4.237698078,2.02,ml,12.0,154.6900139,0.3719391227,0.9775731396,ok,ok2023lfwf,2023-06-09T17:50:39.791Z,"5 km SW of Mill Creek, Oklahoma",earthquake,7.343485406,5.225747611,0.21,4.0,automatic,ok,ok
 2023-06-09T17:45:40.070Z,38.8214989,-122.8531647,2.6,1.03,md,15.0,91.0,0.006696,0.01,nc,nc73899181,2023-06-09T17:47:13.694Z,"10km WNW of The Geysers, CA",earthquake,0.32,0.56,0.33,15.0,automatic,nc,nc
+2023-06-09T18:02:57.877Z,60.3872,-143.4263,7.3,2.0,ml,,,,0.44,ak,ak0237cwpvsr,2023-06-09T18:04:35.916Z,"119 km SSW of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-06-09T17:58:38.500Z,38.8186684,-122.8218307,2.23,1.08,md,22.0,48.0,0.01033,0.02,nc,nc73899186,2023-06-09T18:00:13.842Z,"7km NW of The Geysers, CA",earthquake,0.21,0.37,0.15,23.0,automatic,nc,nc
