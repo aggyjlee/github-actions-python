@@ -17133,3 +17133,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-09T20:43:28.771Z,-47.3232,-12.7038,10.0,5.5,mb,111.0,60.0,16.518,0.65,us,us7000k7id,2023-06-09T21:02:07.040Z,southern Mid-Atlantic Ridge,earthquake,10.34,1.852,0.05,137.0,reviewed,us,us
 2023-06-09T16:23:45.800Z,58.1881666666667,-155.3415,5.0,-0.24,ml,5.0,247.0,,0.11,av,av91918181,2023-06-09T21:02:45.460Z,"86 km NW of Karluk, Alaska",earthquake,0.79,1.53,0.111445492548891,5.0,reviewed,av,av
 2023-06-09T12:52:49.400Z,31.786,-116.0356667,5.37,2.1,ml,23.0,64.0,0.2305,0.35,ci,ci40481392,2023-06-09T20:56:36.129Z,"51km E of Maneadero, B.C., MX",earthquake,0.35,31.61,0.234,18.0,reviewed,ci,ci
+2023-06-09T20:53:51.759Z,34.273,-96.39816667,0.0,1.36,ml,43.0,87.0,0.2231562091,0.37,ok,ok2023lgcj,2023-06-09T21:15:55.112Z,"11 km SSE of Wapanucka, Oklahoma",quarry blast,,0.4,0.18,9.0,reviewed,ok,ok
+2023-06-09T16:51:35.160Z,58.185,-155.326,7.33,0.41,ml,7.0,244.0,,0.13,av,av91918211,2023-06-09T21:13:49.480Z,"85 km NW of Karluk, Alaska",earthquake,1.2,0.91,0.197279133724823,7.0,reviewed,av,av
+2023-06-09T16:47:35.700Z,51.8516666666667,-177.812166666667,2.18,0.54,ml,4.0,249.0,,0.09,av,av91918206,2023-06-09T21:09:54.710Z,"81 km W of Adak, Alaska",earthquake,0.62,1.2,0.150339855792459,5.0,reviewed,av,av
