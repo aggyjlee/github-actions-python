@@ -17116,3 +17116,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-09T20:03:22.699Z,65.4444,-144.6681,10.0,1.1,ml,,,,0.78,ak,ak0237cxww0d,2023-06-09T20:09:57.331Z,"15 km SSE of Central, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-06-09T12:37:32.150Z,40.719,-122.2693333,16.22,1.55,md,10.0,86.0,0.09957,0.09,nc,nc71130599,2023-06-09T20:12:59.528Z,"9km NNW of Bella Vista, CA",earthquake,0.35,0.7,0.225,10.0,reviewed,nc,nc
 2023-06-09T12:37:30.280Z,40.7173333,-122.2678333,17.92,1.38,md,7.0,107.0,0.09756,0.1,nc,nc73899096,2023-06-09T20:19:00.518Z,"9km NNW of Bella Vista, CA",earthquake,0.5,1.02,0.142,2.0,reviewed,nc,nc
+2023-06-09T13:49:12.700Z,36.1785,-121.5733333,13.03,0.68,md,9.0,148.0,0.05515,0.13,nc,nc73899116,2023-06-09T20:23:00.774Z,"18km N of Lopez Point, CA",earthquake,0.56,1.32,0.09,6.0,reviewed,nc,nc
