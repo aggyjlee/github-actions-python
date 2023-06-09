@@ -17163,3 +17163,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-09T19:58:24.060Z,58.2451666666667,-155.109,2.98,-0.35,ml,5.0,237.0,,0.1,av,av91918376,2023-06-09T22:13:49.500Z,"84 km NNW of Karluk, Alaska",earthquake,1.35,1.36,0.0860265665574895,5.0,reviewed,av,av
 2023-06-09T19:57:33.100Z,58.2533333333333,-155.118333333333,2.99,-0.01,ml,6.0,104.0,,0.04,av,av91918371,2023-06-09T22:11:35.090Z,Alaska Peninsula,earthquake,0.25,0.69,0.168952845086852,6.0,reviewed,av,av
 2023-06-09T19:51:18.524Z,36.7317,-115.9569,0.3,-0.1,ml,10.0,174.24,0.023,0.1311,nn,nn00861065,2023-06-09T22:07:24.289Z,"31 km NW of Indian Springs, Nevada",earthquake,,3.9,0.14,4.0,reviewed,nn,nn
+2023-06-09T22:36:32.109Z,63.3044,-149.1256,77.4,1.5,ml,,,,0.55,ak,ak0237czaukq,2023-06-09T22:38:42.832Z,"13 km SW of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
