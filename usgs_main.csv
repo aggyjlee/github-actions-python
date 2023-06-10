@@ -17331,3 +17331,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-10T18:04:51.530Z,35.2811667,-118.5631667,6.23,1.22,ml,23.0,71.0,0.1143,0.16,ci,ci40482824,2023-06-10T18:15:55.370Z,"20km NNW of Tehachapi, CA",earthquake,0.23,0.93,0.185,15.0,automatic,ci,ci
 2023-06-10T16:20:53.779Z,33.8004,135.2069,46.716,4.6,mb,23.0,76.0,1.111,0.57,us,us7000k7nk,2023-06-10T18:14:52.040Z,"1 km SW of Inami, Japan",earthquake,4.52,8.141,0.193,8.0,reviewed,us,us
 2023-06-10T03:48:23.160Z,58.257,-155.141666666667,31.04,0.23,ml,10.0,95.0,,0.2,av,av91918826,2023-06-10T18:20:16.240Z,Alaska Peninsula,earthquake,0.88,1.13,0.286029876742113,9.0,reviewed,av,av
+2023-06-10T03:48:42.140Z,58.2435,-155.141166666667,32.53,0.46,ml,12.0,104.0,,0.2,av,av91107218,2023-06-10T18:30:20.490Z,"85 km NNW of Karluk, Alaska",earthquake,0.75,0.98,0.274845369712424,11.0,reviewed,av,av
