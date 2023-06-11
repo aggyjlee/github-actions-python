@@ -17427,3 +17427,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-11T04:06:13.400Z,33.143,-116.5178333,4.03,0.84,ml,26.0,99.0,0.09111,0.22,ci,ci40483144,2023-06-11T04:09:41.323Z,"11km NE of Julian, CA",earthquake,0.39,1.02,0.162,18.0,automatic,ci,ci
 2023-06-11T03:56:59.210Z,-5.6977,152.0778,10.0,4.8,mb,31.0,90.0,6.11,1.01,us,us7000k7rd,2023-06-11T04:18:48.040Z,"151 km S of Kokopo, Papua New Guinea",earthquake,4.42,1.872,0.074,59.0,reviewed,us,us
 2023-06-11T03:54:47.690Z,19.2096666666667,-67.9695,29.15,3.32,md,12.0,332.0,1.098,0.27,pr,pr71412978,2023-06-11T04:20:30.920Z,"83 km NNE of Punta Cana, Dominican Republic",earthquake,2.04,18.18,0.108446252317686,6.0,reviewed,pr,pr
+2023-06-11T04:22:48.880Z,38.8185005,-122.8190002,2.61,0.77,md,7.0,86.0,0.008515,0.01,nc,nc73899811,2023-06-11T04:24:21.499Z,"7km NW of The Geysers, CA",earthquake,0.6,1.39,0.22,10.0,automatic,nc,nc
