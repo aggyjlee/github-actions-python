@@ -17481,3 +17481,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-11T11:49:49.530Z,33.9495,-117.9343333,7.58,0.91,ml,21.0,113.0,0.009729,0.3,ci,ci40483264,2023-06-11T11:53:20.052Z,"2km SE of La Habra Heights, CA",earthquake,0.55,1.0,0.286,25.0,automatic,ci,ci
 2023-06-11T11:36:59.630Z,42.2595,104.6619,10.0,4.6,mb,43.0,45.0,5.708,0.49,us,us7000k7tj,2023-06-11T11:59:10.040Z,"146 km S of Dalandzadgad, Mongolia",earthquake,6.12,1.862,0.082,44.0,reviewed,us,us
 2023-06-11T11:34:53.294Z,-6.2008,150.6882,10.0,5.2,mb,44.0,67.0,4.728,0.61,us,us7000k7ti,2023-06-11T11:54:39.040Z,"94 km SE of Kimbe, Papua New Guinea",earthquake,7.78,1.732,0.043,180.0,reviewed,us,us
+2023-06-11T12:35:40.500Z,33.9925,-116.8178333,21.93,1.02,ml,28.0,37.0,0.1406,0.28,ci,ci40483280,2023-06-11T12:39:15.328Z,"9km NNW of Cabazon, CA",earthquake,0.46,1.02,0.182,25.0,automatic,ci,ci
+2023-06-11T12:17:24.110Z,38.8149986,-122.8131638,3.11,1.09,md,24.0,47.0,0.008725,0.05,nc,nc73899936,2023-06-11T12:18:59.261Z,"6km NW of The Geysers, CA",earthquake,0.24,0.49,0.19,26.0,automatic,nc,nc
+2023-06-11T12:13:49.429Z,62.2524,-153.3453,3.8,1.4,ml,,,,0.69,ak,ak0237g4abdq,2023-06-11T12:16:47.270Z,"99 km SSE of Nikolai, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-06-11T12:09:56.667Z,60.2772,-151.1564,48.0,2.9,ml,,,,0.47,ak,ak0237g49h2q,2023-06-11T12:16:43.040Z,"9 km SE of Kasilof, Alaska",earthquake,,1.1,,,automatic,ak,ak
