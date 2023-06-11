@@ -17417,3 +17417,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-11T02:41:49.627Z,58.1894,-155.2391,14.6,1.4,ml,,,,1.52,ak,ak0237fyhzea,2023-06-11T03:01:28.680Z,Alaska Peninsula,earthquake,,0.5,,,automatic,ak,ak
 2023-06-11T02:38:25.290Z,33.604,-116.628,13.45,1.12,ml,36.0,45.0,0.02733,0.15,ci,ci40483112,2023-06-11T02:49:14.360Z,"7km NE of Anza, CA",earthquake,0.2,0.33,0.186,26.0,automatic,ci,ci
 2023-06-11T02:11:27.150Z,58.1768333333333,-155.311833333333,2.55,0.26,ml,4.0,243.0,,0.07,av,av91919891,2023-06-11T02:48:44.110Z,Alaska Peninsula,earthquake,0.75,0.57,0.193636606393033,4.0,reviewed,av,av
+2023-06-11T02:58:01.652Z,46.2006,153.1275,10.0,5.2,mww,86.0,133.0,7.186,0.86,us,us7000k7qx,2023-06-11T03:17:45.040Z,Kuril Islands,earthquake,9.58,1.885,0.098,10.0,reviewed,us,us
