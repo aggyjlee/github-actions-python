@@ -17655,3 +17655,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-12T13:14:45.844Z,64.4881,-150.6089,0.0,1.8,ml,,,,1.1,ak,ak0237hsfax4,2023-06-12T13:17:08.849Z,"57 km S of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-12T13:27:36.030Z,33.2128333,-116.0671667,2.9,0.73,ml,13.0,72.0,0.08463,0.18,ci,ci40483888,2023-06-12T13:31:02.924Z,"10km NE of Ocotillo Wells, CA",earthquake,0.71,1.32,0.091,9.0,automatic,ci,ci
 2023-06-12T09:48:21.960Z,34.0663333,-116.7481667,14.29,0.67,ml,28.0,125.0,0.08771,0.14,ci,ci40483736,2023-06-12T13:33:06.936Z,"16km W of Morongo Valley, CA",earthquake,0.23,0.4,0.227,8.0,reviewed,ci,ci
+2023-06-12T13:47:54.140Z,36.9603348,-121.6070023,9.17,2.61,md,60.0,33.0,0.05288,0.19,nc,nc73900336,2023-06-12T13:49:30.123Z,"6km SW of Gilroy, CA",earthquake,0.29,0.66,0.1,69.0,automatic,nc,nc
+2023-06-12T13:47:36.070Z,35.9298325,-117.6848297,1.95,1.67,ml,25.0,64.0,0.1374,0.18,ci,ci40483928,2023-06-12T13:50:19.194Z,"20km E of Little Lake, CA",earthquake,0.29,0.7,0.152,5.0,automatic,ci,ci
+2023-06-12T13:39:36.330Z,35.7001667,-117.4438333,3.85,1.34,ml,15.0,150.0,0.03863,0.19,ci,ci40483912,2023-06-12T13:43:11.618Z,"8km SSW of Searles Valley, CA",earthquake,0.55,1.18,0.168,12.0,automatic,ci,ci
