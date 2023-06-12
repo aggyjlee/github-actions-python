@@ -17653,3 +17653,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-12T04:45:57.800Z,44.7998333,-110.9986667,6.91,0.63,ml,11.0,164.0,0.04085,0.09,uu,uu60542016,2023-06-12T13:14:26.380Z,"15 km ENE of Hebgen Lake Estates, Montana",earthquake,0.49,0.83,0.252,2.0,reviewed,uu,uu
 2023-06-12T13:19:14.300Z,64.4454,-150.4793,2.7,1.4,ml,,,,1.0,ak,ak0237hsgbjk,2023-06-12T13:21:48.869Z,"62 km S of Manley Hot Springs, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-12T13:14:45.844Z,64.4881,-150.6089,0.0,1.8,ml,,,,1.1,ak,ak0237hsfax4,2023-06-12T13:17:08.849Z,"57 km S of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-06-12T13:27:36.030Z,33.2128333,-116.0671667,2.9,0.73,ml,13.0,72.0,0.08463,0.18,ci,ci40483888,2023-06-12T13:31:02.924Z,"10km NE of Ocotillo Wells, CA",earthquake,0.71,1.32,0.091,9.0,automatic,ci,ci
+2023-06-12T09:48:21.960Z,34.0663333,-116.7481667,14.29,0.67,ml,28.0,125.0,0.08771,0.14,ci,ci40483736,2023-06-12T13:33:06.936Z,"16km W of Morongo Valley, CA",earthquake,0.23,0.4,0.227,8.0,reviewed,ci,ci
