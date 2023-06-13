@@ -17864,3 +17864,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-13T14:08:21.540Z,38.8088341,-122.8259964,1.69,0.77,md,6.0,159.0,0.002486,0.01,nc,nc73900686,2023-06-13T14:09:55.828Z,"7km WNW of The Geysers, CA",earthquake,0.66,1.07,0.15,7.0,automatic,nc,nc
 2023-06-13T14:06:39.490Z,38.769001,-122.7378311,0.78,1.19,md,12.0,92.0,0.01255,0.03,nc,nc73900681,2023-06-13T14:18:10.414Z,"2km ESE of The Geysers, CA",earthquake,0.35,0.5,0.25,12.0,automatic,nc,nc
 2023-06-13T13:59:12.482Z,-16.5438,-69.9993,188.671,4.2,mb,18.0,243.0,1.152,0.61,us,us7000k85z,2023-06-13T14:27:22.040Z,"37 km NW of Mazo Cruz, Peru",earthquake,10.99,8.274,0.2,7.0,reviewed,us,us
+2023-06-13T14:30:29.000Z,38.796833,-122.7363358,0.69,0.81,md,9.0,101.0,0.01358,0.04,nc,nc73900691,2023-06-13T14:32:06.163Z,"3km NE of The Geysers, CA",earthquake,0.27,1.05,0.11,10.0,automatic,nc,nc
+2023-06-13T05:24:25.530Z,45.4335,-111.7965,4.8,0.79,ml,6.0,186.0,0.2012,0.13,mb,mb90017983,2023-06-13T14:32:14.210Z,Western Montana,earthquake,0.73,8.61,0.205846287916957,5.0,reviewed,mb,mb
