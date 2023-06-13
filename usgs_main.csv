@@ -17959,3 +17959,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-13T21:54:52.550Z,18.2933333333333,-66.457,47.15,2.69,md,13.0,94.0,0.09292,0.15,pr,pr71413293,2023-06-13T22:09:25.820Z,Puerto Rico,earthquake,0.59,0.75,0.0516652006836236,6.0,reviewed,pr,pr
 2023-06-13T22:22:30.557Z,63.0566,-150.8927,14.1,1.4,ml,,,,1.04,ak,ak0237jld8en,2023-06-13T22:24:50.066Z,"62 km N of Petersville, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-13T22:21:39.150Z,39.6951,-119.754,0.0,1.1,ml,8.0,82.69,0.182,0.2512,nn,nn00861192,2023-06-13T22:23:43.480Z,"6 km NW of Spanish Springs, Nevada",earthquake,,14.2,0.29,5.0,automatic,nn,nn
+2023-06-13T22:33:42.107Z,36.6332,-116.0402,11.0,2.1,ml,30.0,75.48,0.069,0.2513,nn,nn00861193,2023-06-13T22:37:39.433Z,California-Nevada border region,earthquake,,0.4,0.75,19.0,automatic,nn,nn
