@@ -17982,3 +17982,19 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-13T23:39:10.080Z,-30.0798,-177.7162,35.51,4.9,mb,26.0,127.0,0.834,0.57,us,us7000k8a8,2023-06-13T23:57:01.040Z,"Kermadec Islands, New Zealand",earthquake,11.74,8.158,0.122,21.0,reviewed,us,us
 2023-06-13T21:30:37.990Z,58.1861666666667,-155.331666666667,3.47,0.31,ml,9.0,200.0,,0.14,av,av91925146,2023-06-14T00:23:29.650Z,"86 km NW of Karluk, Alaska",earthquake,0.71,1.53,0.326357956270538,9.0,reviewed,av,av
 2023-06-13T01:42:40.410Z,36.5898333,-121.1898333,6.42,1.11,md,13.0,141.0,0.01844,0.04,nc,nc73900546,2023-06-14T00:28:18.648Z,"8km NNW of Pinnacles, CA",earthquake,0.43,0.33,0.283,11.0,reviewed,nc,nc
+2023-06-14T01:49:39.690Z,33.9885,-116.8341667,15.87,0.87,ml,19.0,70.0,0.05144,0.23,ci,ci40485200,2023-06-14T01:53:10.995Z,"8km NNE of Banning, CA",earthquake,0.57,1.07,0.176,17.0,automatic,ci,ci
+2023-06-14T01:48:22.812Z,59.3682,-153.1992,91.1,1.5,ml,,,,0.62,ak,ak0237kwk17t,2023-06-14T01:50:31.134Z,Southern Alaska,earthquake,,0.4,,,automatic,ak,ak
+2023-06-14T01:33:58.538Z,65.0271,-149.9294,16.3,2.7,ml,,,,0.6,ak,ak0237kwgw8d,2023-06-14T01:41:55.583Z,"30 km WSW of Minto, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-06-14T01:31:56.328Z,62.584,-151.2624,87.7,2.0,ml,,,,0.43,ak,ak0237kwggn9,2023-06-14T01:33:48.276Z,"27 km WNW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-06-14T01:29:31.984Z,58.2506,-155.2033,0.0,0.1,ml,,,,0.42,ak,ak0237kwfzbi,2023-06-14T01:31:32.191Z,"87 km NNW of Karluk, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2023-06-14T01:27:52.538Z,61.4455,-149.8911,32.3,1.2,ml,,,,0.19,ak,ak0237kwflh1,2023-06-14T01:29:14.746Z,Southern Alaska,earthquake,,0.2,,,automatic,ak,ak
+2023-06-14T01:24:24.002Z,36.2515,-115.291,0.0,1.4,ml,9.0,189.26,0.275,0.408,nn,nn00861195,2023-06-14T01:28:11.250Z,Nevada,earthquake,,69.1,0.22,7.0,automatic,nn,nn
+2023-06-14T01:22:47.690Z,34.3728333,-119.3705,1.01,1.32,ml,15.0,105.0,0.1591,0.31,ci,ci40485184,2023-06-14T01:26:20.546Z,"14km ESE of Carpinteria, CA",earthquake,0.69,1.07,0.11,12.0,automatic,ci,ci
+2023-06-14T01:19:25.890Z,36.1495,-118.1795,1.79,2.36,ml,21.0,126.0,0.2647,0.14,ci,ci40485176,2023-06-14T01:23:00.042Z,"22km SW of Olancha, CA",earthquake,0.28,1.29,0.201,26.0,automatic,ci,ci
+2023-06-14T01:11:55.422Z,60.0541,-152.2961,100.0,1.6,ml,,,,0.95,ak,ak0237kwc68l,2023-06-14T01:14:36.873Z,Southern Alaska,earthquake,,1.4,,,automatic,ak,ak
+2023-06-14T00:55:11.730Z,19.3713340759277,-155.01383972168,2.92000007629395,1.86,ml,29.0,160.0,,0.25,hv,hv73450472,2023-06-14T01:00:55.930Z,"14 km SW of Leilani Estates, Hawaii",earthquake,0.74,1.41999996,0.42,4.0,automatic,hv,hv
+2023-06-14T00:48:49.760Z,38.7898331,-122.7064972,2.05,1.26,md,10.0,128.0,0.02235,0.01,nc,nc73900881,2023-06-14T01:47:14.969Z,"2km NW of Anderson Springs, CA",earthquake,0.38,0.97,0.2,10.0,automatic,nc,nc
+2023-06-14T00:41:41.050Z,33.4605,-116.4331667,3.2,0.74,ml,24.0,63.0,0.06304,0.19,ci,ci40485168,2023-06-14T00:45:15.538Z,"23km NNW of Borrego Springs, CA",earthquake,0.33,0.97,0.118,20.0,automatic,ci,ci
+2023-06-14T00:37:58.969Z,56.4997,-148.61,10.0,4.1,mb,29.0,148.0,2.519,0.88,us,us7000k8am,2023-06-14T00:52:32.040Z,"254 km ESE of Chiniak, Alaska",earthquake,7.54,1.985,0.198,7.0,reviewed,us,us
+2023-06-14T00:30:07.590Z,19.6085,-65.7691,11.0,3.65,md,22.0,245.0,1.337,0.39,pr,pr2023165000,2023-06-14T01:13:12.602Z,"130 km N of Suárez, Puerto Rico",earthquake,2.31,3.6,0.08,18.0,reviewed,pr,pr
+2023-06-14T00:26:46.010Z,19.4413,-65.7201,94.0,4.02,md,13.0,273.0,1.2153,0.6,pr,pr2023165001,2023-06-14T01:51:27.040Z,"112 km N of Suárez, Puerto Rico",earthquake,6.42,10.7,0.06,10.0,reviewed,pr,pr
