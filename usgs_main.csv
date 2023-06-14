@@ -18145,3 +18145,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-14T14:49:41.340Z,32.9353333,-116.2848333,9.89,2.37,ml,59.0,56.0,0.02475,0.19,ci,ci40485608,2023-06-14T14:53:32.664Z,"26km ENE of Pine Valley, CA",earthquake,0.19,0.56,0.125,25.0,automatic,ci,ci
 2023-06-14T13:29:14.173Z,62.3862,-149.0841,15.0,0.6,ml,,,,0.44,ak,ak0237l3l5l1,2023-06-14T14:58:13.887Z,"47 km ENE of Susitna North, Alaska",earthquake,,0.9,,,reviewed,ak,ak
 2023-06-14T12:29:31.308Z,60.7699,-151.2393,65.9,1.1,ml,,,,0.3,ak,ak0237l2zqg7,2023-06-14T14:55:03.214Z,"9 km NNE of Nikiski, Alaska",earthquake,,0.8,,,reviewed,ak,ak
+2023-06-14T15:06:05.271Z,64.964,-147.4947,0.0,0.9,ml,,,,0.65,ak,ak0237l4n281,2023-06-14T15:08:20.516Z,"5 km E of Fox, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-06-14T14:23:05.830Z,18.0025,-66.9911666666667,8.14,2.51,md,14.0,126.0,0.06026,0.19,pr,pr71413463,2023-06-14T15:10:15.370Z,"6 km ENE of La Parguera, Puerto Rico",earthquake,0.36,1.19,0.176601771812668,10.0,reviewed,pr,pr
