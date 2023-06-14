@@ -18057,3 +18057,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-14T06:07:05.800Z,19.1611671447754,-155.48616027832,32.9799995422363,2.0,md,39.0,160.0,,0.140000001,hv,hv73450592,2023-06-14T06:10:16.970Z,"Island of Hawaii, Hawaii",earthquake,0.71,1.08000004,1.64999998,10.0,automatic,hv,hv
 2023-06-14T06:06:34.290Z,40.2423325,-121.1559982,1.8,2.24,md,6.0,124.0,0.3203,0.1,nc,nc73900966,2023-06-14T06:13:09.572Z,"3km NNE of Almanor, CA",earthquake,0.68,11.15,0.05,3.0,automatic,nc,nc
 2023-06-14T06:32:50.979Z,58.1682,-155.3062,0.0,0.5,ml,,,,0.3,ak,ak0237kzftyh,2023-06-14T06:34:48.068Z,"83 km NW of Karluk, Alaska",earthquake,,4.2,,,automatic,ak,ak
+2023-06-14T06:40:45.240Z,38.8346672,-122.7978363,2.04,1.08,md,18.0,57.0,0.006943,0.06,nc,nc73900971,2023-06-14T06:42:18.859Z,"7km WNW of Cobb, CA",earthquake,0.26,0.52,0.13,20.0,automatic,nc,nc
