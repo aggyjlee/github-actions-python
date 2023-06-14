@@ -18026,3 +18026,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-14T04:08:33.510Z,40.2451668,-121.1585007,1.37,2.11,md,6.0,108.0,0.3203,0.17,nc,nc73900926,2023-06-14T04:15:12.905Z,"4km NNE of Almanor, CA",earthquake,0.99,15.31,0.04,3.0,automatic,nc,nc
 2023-06-14T03:51:57.600Z,18.1301666666667,-66.939,17.19,2.59,md,17.0,64.0,0.06777,0.2,pr,pr71413388,2023-06-14T04:10:17.180Z,"6 km NNE of Sabana Grande, Puerto Rico",earthquake,0.39,0.73,0.107363853066945,9.0,reviewed,pr,pr
 2023-06-13T08:00:29.880Z,37.3728333,-121.7203333,9.49,0.76,md,15.0,78.0,0.06935,0.08,nc,nc73900616,2023-06-14T04:40:24.467Z,"10km E of Alum Rock, CA",earthquake,0.43,0.54,0.292,12.0,reviewed,nc,nc
+2023-06-14T04:45:59.890Z,33.9563333,-117.7075,10.66,0.99,ml,31.0,58.0,0.04951,0.19,ci,ci40485296,2023-06-14T04:49:32.588Z,"6km SE of Chino Hills, CA",earthquake,0.4,0.6,0.187,23.0,automatic,ci,ci
+2023-06-14T04:44:49.263Z,63.342,-147.4853,37.8,1.1,ml,,,,0.47,ak,ak0237kybj7i,2023-06-14T04:46:19.864Z,"73 km E of Cantwell, Alaska",earthquake,,2.1,,,automatic,ak,ak
+2023-06-14T04:42:26.082Z,61.5659,-146.4869,27.0,1.5,ml,,,,0.57,ak,ak0237kyb1zk,2023-06-14T04:44:14.357Z,"49 km N of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-06-13T08:43:55.690Z,38.4948333,-122.2533333,6.37,1.29,md,23.0,65.0,0.07707,0.12,nc,nc73900626,2023-06-14T04:46:25.333Z,"14km NE of Yountville, CA",earthquake,0.23,0.8,0.302,16.0,reviewed,nc,nc
