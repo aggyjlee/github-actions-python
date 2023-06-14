@@ -18012,3 +18012,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-14T03:11:03.030Z,33.4761667,-116.9796667,4.04,0.56,ml,15.0,64.0,0.1449,0.32,ci,ci40485264,2023-06-14T03:14:51.159Z,"11km WNW of Aguanga, CA",earthquake,0.87,3.12,0.21,9.0,automatic,ci,ci
 2023-06-14T03:10:58.910Z,33.4626667,-116.8853333,11.03,0.34,ml,28.0,54.0,0.076,0.21,ci,ci40485256,2023-06-14T03:14:39.046Z,"3km NW of Aguanga, CA",earthquake,0.33,0.94,0.013,2.0,automatic,ci,ci
 2023-06-14T03:05:58.308Z,58.1825,-155.4024,0.0,1.9,ml,,,,0.35,ak,ak0237kxhrdo,2023-06-14T03:08:02.526Z,"88 km NW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-06-14T03:37:24.640Z,19.4108333587646,-155.404327392578,7.34000015258789,2.33999991,md,39.0,40.0,,0.140000001,hv,hv73450532,2023-06-14T03:40:36.250Z,"18 km W of Volcano, Hawaii",earthquake,0.32,0.810000002,0.460000008,32.0,automatic,hv,hv
