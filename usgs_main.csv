@@ -18411,3 +18411,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-15T20:34:17.410Z,36.887001,-121.6223297,0.52,1.74,md,16.0,75.0,0.02448,0.21,nc,nc73901511,2023-06-15T20:37:21.191Z,"2km E of Aromas, CA",earthquake,0.38,1.08,0.09,4.0,automatic,nc,nc
 2023-06-15T03:07:23.800Z,58.2478333333333,-155.146,33.52,0.35,ml,10.0,132.0,,0.17,av,av91107523,2023-06-15T20:40:47.720Z,"85 km NNW of Karluk, Alaska",earthquake,0.58,0.74,0.2655902731669,9.0,reviewed,av,av
 2023-06-15T05:37:33.350Z,33.6693333,-116.7575,13.47,0.3,ml,19.0,103.0,0.05519,0.13,ci,ci40486328,2023-06-15T20:44:25.441Z,"9km SSW of Idyllwild, CA",earthquake,0.32,0.47,0.189,3.0,reviewed,ci,ci
+2023-06-15T20:20:58.120Z,19.354,-63.9545,33.0,3.69,md,10.0,301.0,1.4167,0.27,pr,pr2023166001,2023-06-15T21:03:06.729Z,Leeward Islands,earthquake,1.87,18.01,0.15,4.0,reviewed,pr,pr
