@@ -18237,3 +18237,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-15T00:57:20.404Z,60.261,-151.154,52.4,3.1,ml,,,,0.53,ak,ak0237mjjvde,2023-06-15T01:04:33.040Z,"Kenai Peninsula, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-06-15T00:43:28.010Z,19.3304996490479,-155.227493286133,25.5599994659424,2.02999997,md,40.0,61.0,,0.109999999,hv,hv73451352,2023-06-15T00:46:36.630Z,"12 km S of Volcano, Hawaii",earthquake,0.55,0.529999971,0.560000002,19.0,automatic,hv,hv
 2023-06-15T00:36:31.403Z,63.2206,-150.5906,126.2,1.9,ml,,,,0.27,ak,ak0237mjfe6c,2023-06-15T00:38:58.709Z,Central Alaska,earthquake,,0.9,,,automatic,ak,ak
+2023-06-15T02:22:21.870Z,33.3365,-116.3535,7.72,0.72,ml,16.0,134.0,0.0865,0.18,ci,ci40486232,2023-06-15T02:25:55.889Z,"9km NNE of Borrego Springs, CA",earthquake,0.44,1.8,0.14,13.0,automatic,ci,ci
+2023-06-15T02:19:25.261Z,13.7952,120.713,124.241,6.2,mww,83.0,41.0,8.981,0.84,us,us7000k8jz,2023-06-15T02:38:49.313Z,"Mindoro, Philippines",earthquake,8.82,4.621,0.041,57.0,reviewed,us,us
+2023-06-15T01:46:32.797Z,-29.2983,-176.9735,35.0,5.1,mb,47.0,121.0,0.828,0.86,us,us7000k8ju,2023-06-15T02:11:45.040Z,Kermadec Islands region,earthquake,9.89,1.777,0.05,129.0,reviewed,us,us
+2023-06-14T13:53:28.520Z,51.8561666666667,-178.058333333333,-1.8,2.1,ml,7.0,108.0,,0.3,av,av91925836,2023-06-15T02:40:27.990Z,"98 km W of Adak, Alaska",earthquake,0.69,1.74,0.280792425154616,7.0,reviewed,av,av
