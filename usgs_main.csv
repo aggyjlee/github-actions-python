@@ -18562,3 +18562,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-16T04:45:25.200Z,51.863,-177.941166666667,5.59,0.69,ml,4.0,158.0,,0.12,av,av91927081,2023-06-16T15:10:39.630Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.5,1.41,0.176653649435387,4.0,reviewed,av,av
 2023-06-16T03:48:03.740Z,53.8723333333333,-166.653833333333,4.38,0.81,md,5.0,231.0,,0.19,av,av91927056,2023-06-16T15:06:03.420Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,0.99,0.97,0.153448624458663,4.0,reviewed,av,av
 2023-06-16T12:58:30.180Z,44.162,-110.2591667,7.03,1.21,md,13.0,167.0,0.2185,0.12,uu,uu60542316,2023-06-16T15:23:09.990Z,"66 km NNE of Kelly, Wyoming",earthquake,0.61,1.37,0.225,8.0,reviewed,uu,uu
+2023-06-16T15:38:17.200Z,38.8188324,-122.8219986,2.23,0.72,md,10.0,107.0,0.01037,0.02,nc,nc73901756,2023-06-16T15:39:52.469Z,"7km NW of The Geysers, CA",earthquake,0.38,1.11,0.23,11.0,automatic,nc,nc
+2023-06-16T15:30:54.414Z,61.0808,-152.3911,112.4,1.6,ml,,,,0.78,ak,ak0237ofv081,2023-06-16T15:33:25.147Z,"67 km W of Tyonek, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2023-06-16T06:57:18.030Z,61.2216666666667,-152.319666666667,18.05,-0.12,ml,5.0,198.0,,0.16,av,av91927176,2023-06-16T15:33:40.890Z,"65 km WNW of Tyonek, Alaska",earthquake,2.91,2.82,0.412396552737362,5.0,reviewed,av,av
