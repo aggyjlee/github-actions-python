@@ -18537,3 +18537,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-16T12:24:09.336Z,35.6261,140.7662,44.189,4.9,mwr,91.0,113.0,2.264,0.77,us,us7000k8ws,2023-06-16T12:56:28.090Z,"13 km SSW of Hasaki, Japan",earthquake,6.75,5.605,0.068,21.0,reviewed,us,us
 2023-06-16T12:14:02.673Z,35.713,140.1985,71.049,4.4,mb,32.0,155.0,1.811,0.63,us,us7000k8wp,2023-06-16T12:57:59.445Z,"3 km W of Sakura, Japan",earthquake,4.84,9.131,0.149,14.0,reviewed,us,us
 2023-06-16T09:07:49.823Z,-30.4029,-72.208,13.962,4.4,mb,32.0,150.0,0.563,0.49,us,us7000k8w0,2023-06-16T12:52:29.040Z,"97 km WSW of Coquimbo, Chile",earthquake,2.52,4.634,0.19,8.0,reviewed,us,us
+2023-06-16T13:13:06.362Z,64.7716,-148.2566,2.1,1.8,ml,,,,0.69,ak,ak0237oeke4s,2023-06-16T13:15:50.808Z,Central Alaska,earthquake,,0.3,,,automatic,ak,ak
+2023-06-16T12:58:24.533Z,-24.1617,-67.126,180.964,4.7,mb,61.0,43.0,1.544,0.74,us,us7000k8x2,2023-06-16T13:14:47.040Z,"82 km W of San Antonio de los Cobres, Argentina",earthquake,7.39,6.509,0.036,238.0,reviewed,us,us
+2023-06-16T04:52:13.120Z,35.5743333333333,-82.8496666666667,0.16,2.05,md,13.0,116.0,0.0996,0.24,se,se60500848,2023-06-16T13:03:35.707Z,"4 km N of West Canton, North Carolina",earthquake,0.72,2.98,0.0750374753586955,11.0,reviewed,se,se
