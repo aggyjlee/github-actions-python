@@ -18616,3 +18616,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-16T17:03:15.980Z,44.7915,-111.0078333,10.02,0.58,ml,10.0,197.0,0.03219,0.09,uu,uu60542351,2023-06-16T18:14:43.880Z,"14 km E of Hebgen Lake Estates, Montana",earthquake,0.54,0.72,0.219,2.0,reviewed,uu,uu
 2023-06-16T12:49:21.171Z,31.66606708,-104.3165066,6.697143555000001,2.4,ml,48.0,67.0,0.0443440842,0.2,tx,tx2023lsgx,2023-06-16T18:07:18.319Z,"56 km S of Whites City, New Mexico",earthquake,0.5825731324999999,0.6893051041,0.0,6.0,reviewed,tx,tx
 2023-06-16T04:43:08.560Z,37.6235,-118.8665,4.3,0.74,md,11.0,116.0,0.005309,0.05,nc,nc73901641,2023-06-16T18:21:21.080Z,"10km E of Mammoth Lakes, CA",earthquake,0.45,0.67,0.189,11.0,reviewed,nc,nc
+2023-06-16T16:46:00.960Z,44.7855,-111.0065,8.68,0.37,md,9.0,247.0,0.02617,0.13,uu,uu60542331,2023-06-16T18:28:06.980Z,"14 km E of Hebgen Lake Estates, Montana",earthquake,1.54,1.29,0.24,4.0,reviewed,uu,uu
