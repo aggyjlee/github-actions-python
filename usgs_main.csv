@@ -18679,3 +18679,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-16T22:37:38.430Z,34.0306664,-117.1090012,9.14,1.69,ml,75.0,33.0,0.005565,0.21,ci,ci40487472,2023-06-16T22:39:44.568Z,"5km SSE of Mentone, CA",earthquake,0.21,0.52,0.191,27.0,automatic,ci,ci
 2023-06-16T21:48:16.110Z,18.3488,-68.0818,111.0,3.46,md,14.0,152.0,0.3108,0.47,pr,pr2023167002,2023-06-16T22:35:23.253Z,"Mona Passage, Dominican Republic",earthquake,4.17,2.62,0.18,10.0,reviewed,pr,pr
 2023-06-16T22:46:46.200Z,19.4333324432373,-155.404830932617,5.5,1.75,md,16.0,61.0,,0.119999997,hv,hv73453172,2023-06-16T22:49:52.500Z,"Island of Hawaii, Hawaii",earthquake,0.38,1.46000004,0.519999981,9.0,automatic,hv,hv
+2023-06-16T23:11:08.622Z,58.1648,-155.2556,0.0,0.8,ml,,,,0.19,ak,ak0237okiaxa,2023-06-16T23:12:35.301Z,"81 km NW of Karluk, Alaska",earthquake,,7.4,,,automatic,ak,ak
+2023-06-16T23:06:31.409Z,62.5837,-149.6304,5.8,1.6,ml,,,,0.45,ak,ak0237okha3o,2023-06-16T23:08:18.191Z,"28 km ENE of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
