@@ -18675,3 +18675,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-16T22:21:40.311Z,58.2064,-155.2639,2.3,1.0,ml,,,,0.23,ak,ak0237ojz2xb,2023-06-16T22:23:39.789Z,"85 km NW of Karluk, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-06-16T22:18:58.911Z,36.7513,-116.2466,7.0,0.0,ml,13.0,84.12,0.036,0.1403,nn,nn00861313,2023-06-16T22:20:50.784Z,"48 km ESE of Beatty, Nevada",earthquake,,0.6,0.19,8.0,automatic,nn,nn
 2023-06-16T21:48:15.269Z,19.3012,-67.9507,35.0,2.8,ml,11.0,330.0,1.149,0.57,us,us7000k934,2023-06-16T22:20:06.040Z,Mona Passage,earthquake,5.75,2.028,0.077,22.0,reviewed,us,us
+2023-06-16T22:29:28.990Z,36.5615005,-121.1241684,4.69,1.33,md,7.0,147.0,0.05034,0.02,nc,nc73901856,2023-06-16T22:32:18.027Z,"4km NNE of Pinnacles, CA",earthquake,0.52,1.07,0.11,4.0,automatic,nc,nc
