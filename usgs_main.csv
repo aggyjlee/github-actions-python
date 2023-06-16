@@ -18566,3 +18566,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-16T15:30:54.414Z,61.0808,-152.3911,112.4,1.6,ml,,,,0.78,ak,ak0237ofv081,2023-06-16T15:33:25.147Z,"67 km W of Tyonek, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-06-16T06:57:18.030Z,61.2216666666667,-152.319666666667,18.05,-0.12,ml,5.0,198.0,,0.16,av,av91927176,2023-06-16T15:33:40.890Z,"65 km WNW of Tyonek, Alaska",earthquake,2.91,2.82,0.412396552737362,5.0,reviewed,av,av
 2023-06-16T15:40:08.320Z,33.705,-116.8251667,15.27,0.94,ml,28.0,99.0,0.07715,0.22,ci,ci40487216,2023-06-16T15:43:46.423Z,"8km SE of Valle Vista, CA",earthquake,0.5,0.71,0.201,20.0,automatic,ci,ci
+2023-06-16T16:01:27.653Z,62.1035,-149.4691,34.0,1.7,ml,,,,0.65,ak,ak0237oga5zx,2023-06-16T16:03:19.461Z,"20 km ESE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-06-16T15:57:01.890Z,34.339,-116.9095,3.63,1.09,ml,10.0,126.0,0.07708,0.16,ci,ci40487240,2023-06-16T16:00:43.686Z,"10km NW of Big Bear City, CA",earthquake,0.66,1.02,0.252,17.0,automatic,ci,ci
+2023-06-16T15:55:15.180Z,33.5685,-116.4206667,13.41,0.58,ml,13.0,88.0,0.05228,0.18,ci,ci40487232,2023-06-16T15:58:56.282Z,"15km SW of La Quinta, CA",earthquake,0.53,0.77,0.225,7.0,automatic,ci,ci
+2023-06-16T14:58:52.520Z,44.7865,-111.0108333,9.59,1.03,ml,13.0,122.0,0.02737,0.12,uu,uu60542321,2023-06-16T15:57:34.850Z,"14 km E of Hebgen Lake Estates, Montana",earthquake,0.51,0.83,0.195,3.0,reviewed,uu,uu
