@@ -18581,3 +18581,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-16T09:06:39.596Z,-8.0956,122.8833,207.307,4.5,mb,25.0,62.0,0.834,1.25,us,us7000k8w2,2023-06-16T16:30:13.040Z,"Flores region, Indonesia",earthquake,6.03,8.102,0.163,11.0,reviewed,us,us
 2023-06-16T16:39:48.520Z,32.9228325,-116.2336655,12.67,1.0,ml,26.0,49.0,0.06664,0.23,ci,ci40487264,2023-06-16T16:41:53.867Z,"26km SSW of Ocotillo Wells, CA",earthquake,0.42,0.87,0.189,2.0,automatic,ci,ci
 2023-06-15T23:18:22.460Z,44.741,-112.714666666667,5.42,0.71,ml,6.0,115.0,0.129,0.06,mb,mb90018488,2023-06-16T16:38:09.870Z,"15 km NW of Lima, Montana",earthquake,0.53,1.51,0.161368595150958,8.0,reviewed,mb,mb
+2023-06-16T12:12:53.550Z,53.8711666666667,-166.6195,4.17,0.4,ml,4.0,251.0,,0.25,av,av91927351,2023-06-16T16:46:11.450Z,"5 km WSW of Dutch Harbor, Alaska",earthquake,2.99,2.25,0.200761023600194,4.0,reviewed,av,av
+2023-06-16T03:32:12.310Z,45.4365,-111.804,5.01,0.03,ml,5.0,183.0,0.2019,0.03,mb,mb90018493,2023-06-16T16:42:16.690Z,"11 km NNW of Ennis, Montana",earthquake,0.52,6.12,0.431153857153602,2.0,reviewed,mb,mb
