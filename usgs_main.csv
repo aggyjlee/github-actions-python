@@ -18676,3 +18676,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-16T22:18:58.911Z,36.7513,-116.2466,7.0,0.0,ml,13.0,84.12,0.036,0.1403,nn,nn00861313,2023-06-16T22:20:50.784Z,"48 km ESE of Beatty, Nevada",earthquake,,0.6,0.19,8.0,automatic,nn,nn
 2023-06-16T21:48:15.269Z,19.3012,-67.9507,35.0,2.8,ml,11.0,330.0,1.149,0.57,us,us7000k934,2023-06-16T22:20:06.040Z,Mona Passage,earthquake,5.75,2.028,0.077,22.0,reviewed,us,us
 2023-06-16T22:29:28.990Z,36.5615005,-121.1241684,4.69,1.33,md,7.0,147.0,0.05034,0.02,nc,nc73901856,2023-06-16T22:32:18.027Z,"4km NNE of Pinnacles, CA",earthquake,0.52,1.07,0.11,4.0,automatic,nc,nc
+2023-06-16T22:37:38.430Z,34.0306664,-117.1090012,9.14,1.69,ml,75.0,33.0,0.005565,0.21,ci,ci40487472,2023-06-16T22:39:44.568Z,"5km SSE of Mentone, CA",earthquake,0.21,0.52,0.191,27.0,automatic,ci,ci
+2023-06-16T21:48:16.110Z,18.3488,-68.0818,111.0,3.46,md,14.0,152.0,0.3108,0.47,pr,pr2023167002,2023-06-16T22:35:23.253Z,"Mona Passage, Dominican Republic",earthquake,4.17,2.62,0.18,10.0,reviewed,pr,pr
