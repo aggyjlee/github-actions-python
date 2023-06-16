@@ -18541,3 +18541,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-16T12:58:24.533Z,-24.1617,-67.126,180.964,4.7,mb,61.0,43.0,1.544,0.74,us,us7000k8x2,2023-06-16T13:14:47.040Z,"82 km W of San Antonio de los Cobres, Argentina",earthquake,7.39,6.509,0.036,238.0,reviewed,us,us
 2023-06-16T04:52:13.120Z,35.5743333333333,-82.8496666666667,0.16,2.05,md,13.0,116.0,0.0996,0.24,se,se60500848,2023-06-16T13:03:35.707Z,"4 km N of West Canton, North Carolina",earthquake,0.72,2.98,0.0750374753586955,11.0,reviewed,se,se
 2023-06-16T13:54:21.990Z,35.5629997,-120.7973328,5.2,1.2,md,12.0,112.0,0.09377,0.03,nc,nc73901721,2023-06-16T14:04:10.717Z,"8km W of Templeton, CA",earthquake,0.84,1.87,0.04,3.0,automatic,nc,nc
+2023-06-16T14:05:00.214Z,61.5705,-149.7983,33.2,1.4,ml,,,,0.86,ak,ak0237of43j9,2023-06-16T14:06:26.282Z,"6 km S of Houston, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-06-16T14:02:28.282Z,63.2101,-151.3432,0.0,1.5,ml,,,,0.43,ak,ak0237of3ijw,2023-06-16T14:04:13.555Z,"41 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-06-15T20:41:36.505Z,2.8577,122.5893,532.394,4.1,mb,44.0,121.0,3.878,0.71,us,us7000k8sj,2023-06-16T14:14:11.040Z,"261 km NNW of Gorontalo, Indonesia",earthquake,12.84,11.086,0.094,31.0,reviewed,us,us
