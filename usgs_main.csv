@@ -18861,3 +18861,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-17T23:14:40.370Z,34.0714989,-117.2821655,10.14,1.34,ml,41.0,77.0,0.1098,0.17,ci,ci40487936,2023-06-17T23:16:47.970Z,"3km E of Colton, CA",earthquake,0.26,0.64,0.185,8.0,automatic,ci,ci
 2023-06-17T23:04:20.560Z,38.8310013,-122.814003,1.47,0.76,md,11.0,69.0,0.008192,0.01,nc,nc73902271,2023-06-17T23:05:53.524Z,"8km NW of The Geysers, CA",earthquake,0.28,0.87,0.33,14.0,automatic,nc,nc
 2023-06-17T23:04:19.520Z,61.3894,-151.8349,88.5,2.1,ml,,,,0.32,ak,ak0237q8068w,2023-06-17T23:05:57.197Z,Southern Alaska,earthquake,,0.4,,,automatic,ak,ak
+2023-06-17T22:31:37.314Z,-34.8795,-70.9495,104.904,4.8,mwr,81.0,54.0,0.499,0.63,us,us7000k99e,2023-06-17T23:21:08.974Z,"19 km E of Teno, Chile",earthquake,3.75,4.117,0.045,48.0,reviewed,us,us
