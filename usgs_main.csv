@@ -18741,3 +18741,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-17T07:17:28.120Z,33.5383333,-116.4456667,6.76,0.83,ml,24.0,53.0,0.02236,0.16,ci,ci40487632,2023-06-17T07:21:18.546Z,"19km SW of La Quinta, CA",earthquake,0.24,0.57,0.155,18.0,automatic,ci,ci
 2023-06-17T07:16:01.242Z,37.2571,-117.6225,8.6,0.6,ml,8.0,160.33,0.031,0.2103,nn,nn00861326,2023-06-17T07:18:48.004Z,California-Nevada border region,earthquake,,0.9,0.74,6.0,automatic,nn,nn
 2023-06-17T07:23:11.280Z,33.2613333,-116.3225,10.44,0.56,ml,21.0,146.0,0.0796,0.2,ci,ci40487640,2023-06-17T07:26:45.993Z,"5km E of Borrego Springs, CA",earthquake,0.5,0.67,0.118,7.0,automatic,ci,ci
+2023-06-17T08:01:36.215Z,63.3066,-151.0828,0.0,1.6,ml,,,,0.85,ak,ak0237pz22b9,2023-06-17T08:04:16.384Z,"41 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
