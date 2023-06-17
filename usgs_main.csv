@@ -18806,3 +18806,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-17T14:52:28.000Z,33.2476667,-116.0858333,8.35,0.97,ml,36.0,45.0,0.0898,0.28,ci,ci40487736,2023-06-17T14:55:56.436Z,"12km NNE of Ocotillo Wells, CA",earthquake,0.35,1.43,0.153,18.0,automatic,ci,ci
 2023-06-17T11:03:55.430Z,44.857,-111.508,12.7,1.23,ml,23.0,63.0,0.06142,0.2,mb,mb90018683,2023-06-17T14:55:20.190Z,"26 km WNW of Hebgen Lake Estates, Montana",earthquake,0.44,0.78,0.207936001606908,16.0,reviewed,mb,mb
 2023-06-17T08:19:17.980Z,47.733,-113.777833333333,7.83,1.16,ml,15.0,139.0,0.2045,0.2,mb,mb90018678,2023-06-17T15:00:53.820Z,"21 km E of Finley Point, Montana",earthquake,0.96,2.36,0.330756323941035,4.0,reviewed,mb,mb
+2023-06-17T15:11:59.260Z,33.0336667,-116.4346667,7.77,1.64,ml,56.0,26.0,0.06491,0.21,ci,ci40487744,2023-06-17T15:15:40.554Z,"16km ESE of Julian, CA",earthquake,0.21,1.02,0.222,26.0,automatic,ci,ci
+2023-06-17T15:04:39.579Z,38.5462,-119.5359,4.2,1.4,ml,12.0,167.17,0.042,0.153,nn,nn00861338,2023-06-17T15:07:22.148Z,"3 km SW of Coleville, California",earthquake,,0.6,0.14,8.0,automatic,nn,nn
+2023-06-17T14:10:16.472Z,38.9607,144.8172,10.0,4.5,mb,19.0,198.0,3.303,1.08,us,us7000k97r,2023-06-17T15:10:12.040Z,"253 km ESE of Yamada, Japan",earthquake,8.18,1.921,0.221,9.0,reviewed,us,us
