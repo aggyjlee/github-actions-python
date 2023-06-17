@@ -18798,3 +18798,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-17T14:19:58.840Z,38.8173332,-122.8799973,16.38,0.97,md,10.0,214.0,0.02103,0.12,nc,nc73902091,2023-06-17T14:21:33.007Z,"12km WNW of The Geysers, CA",earthquake,2.54,11.86,0.23,8.0,automatic,nc,nc
 2023-06-17T14:17:52.920Z,35.7965,-117.6266667,11.05,0.69,ml,12.0,155.0,0.113,0.19,ci,ci40487720,2023-06-17T14:22:38.251Z,"20km NNE of Ridgecrest, CA",earthquake,0.58,1.09,0.112,5.0,automatic,ci,ci
 2023-06-17T14:17:44.991Z,61.5515,-146.4868,22.6,2.2,ml,,,,0.57,ak,ak0237q2q42r,2023-06-17T14:19:29.388Z,"47 km N of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-06-17T14:28:51.833Z,59.7543,-152.1486,63.7,3.2,ml,,,,0.33,ak,ak0237q2shdo,2023-06-17T14:30:06.674Z,"17 km W of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-06-17T14:24:06.240Z,37.5574989,-118.9271698,11.25,1.49,md,12.0,148.0,0.07982,0.04,nc,nc73902101,2023-06-17T14:26:52.885Z,"10km SSE of Mammoth Lakes, CA",earthquake,0.79,1.13,0.14,10.0,automatic,nc,nc
