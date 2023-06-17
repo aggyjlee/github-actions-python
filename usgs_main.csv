@@ -18862,3 +18862,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-17T23:04:20.560Z,38.8310013,-122.814003,1.47,0.76,md,11.0,69.0,0.008192,0.01,nc,nc73902271,2023-06-17T23:05:53.524Z,"8km NW of The Geysers, CA",earthquake,0.28,0.87,0.33,14.0,automatic,nc,nc
 2023-06-17T23:04:19.520Z,61.3894,-151.8349,88.5,2.1,ml,,,,0.32,ak,ak0237q8068w,2023-06-17T23:05:57.197Z,Southern Alaska,earthquake,,0.4,,,automatic,ak,ak
 2023-06-17T22:31:37.314Z,-34.8795,-70.9495,104.904,4.8,mwr,81.0,54.0,0.499,0.63,us,us7000k99e,2023-06-17T23:21:08.974Z,"19 km E of Teno, Chile",earthquake,3.75,4.117,0.045,48.0,reviewed,us,us
+2023-06-17T23:23:22.070Z,33.1803333,-116.0235,5.21,0.91,ml,18.0,60.0,0.03898,0.21,ci,ci40487944,2023-06-17T23:26:48.930Z,"11km ENE of Ocotillo Wells, CA",earthquake,0.4,0.87,0.101,13.0,automatic,ci,ci
+2023-06-17T22:24:48.860Z,47.9595,-122.477,35.83,1.08,md,13.0,83.0,0.0703,0.17,uw,uw61933851,2023-06-17T23:26:52.550Z,"Puget Sound region, Washington",earthquake,0.96,0.64,0.1897565512543577,11.0,reviewed,uw,uw
