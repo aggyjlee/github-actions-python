@@ -18852,3 +18852,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-17T21:21:58.956Z,-5.2111,150.6543,189.398,4.6,mb,31.0,58.0,1.814,0.61,us,us7000k995,2023-06-17T21:54:16.040Z,"68 km ENE of Kimbe, Papua New Guinea",earthquake,8.57,5.578,0.111,24.0,reviewed,us,us
 2023-06-17T22:07:42.160Z,33.3225,-116.3246667,11.41,0.79,ml,15.0,137.0,0.04172,0.16,ci,ci40487904,2023-06-17T22:11:14.383Z,"9km NNE of Borrego Springs, CA",earthquake,0.59,0.63,0.299,12.0,automatic,ci,ci
 2023-06-17T02:08:26.080Z,52.0898333333333,-176.128833333333,-1.78,-0.12,ml,5.0,215.0,,0.3,av,av91927996,2023-06-17T22:14:30.060Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,1.58,1.91,0.116314039616088,6.0,reviewed,av,av
+2023-06-17T22:23:50.600Z,35.0686667,-118.3278333,1.54,1.51,ml,31.0,43.0,0.0787,0.2,ci,ci40487912,2023-06-17T22:27:20.037Z,"13km ESE of Tehachapi, CA",earthquake,0.26,0.48,0.165,27.0,automatic,ci,ci
+2023-06-17T22:22:32.135Z,61.7999,-150.884,74.1,1.8,ml,,,,0.46,ak,ak0237q7imi5,2023-06-17T22:24:29.566Z,Southern Alaska,earthquake,,0.6,,,automatic,ak,ak
