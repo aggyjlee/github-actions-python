@@ -18887,3 +18887,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-17T02:42:37.210Z,53.388,-168.209,3.98,0.57,ml,6.0,255.0,,0.14,av,av91928026,2023-06-18T02:07:54.810Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,1.75,0.45,0.306300708605099,6.0,reviewed,av,av
 2023-06-18T02:27:03.630Z,33.0328333,-116.432,8.05,1.04,ml,28.0,82.0,0.06345,0.23,ci,ci40487984,2023-06-18T02:30:52.391Z,"17km ESE of Julian, CA",earthquake,0.37,0.99,0.23,17.0,automatic,ci,ci
 2023-06-17T07:15:49.290Z,58.259,-155.110333333333,4.66,0.15,ml,6.0,141.0,,0.17,av,av91928281,2023-06-18T02:45:38.690Z,"86 km NNW of Karluk, Alaska",earthquake,0.62,0.63,0.13639777078495,6.0,reviewed,av,av
+2023-06-18T03:12:38.447Z,62.4654,-151.204,79.0,0.9,ml,,,,0.38,ak,ak0237rjoltw,2023-06-18T03:14:26.194Z,"22 km W of Petersville, Alaska",earthquake,,0.8,,,automatic,ak,ak
