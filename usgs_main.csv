@@ -18975,3 +18975,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-18T12:43:23.840Z,34.4596667,-117.9606667,8.28,1.38,ml,45.0,30.0,0.01155,0.21,ci,ci40488144,2023-06-18T12:54:21.320Z,"7km SW of Pearblossom, CA",earthquake,0.23,0.54,0.155,27.0,automatic,ci,ci
 2023-06-18T12:43:21.740Z,34.457,-117.9678333,9.66,0.13,ml,14.0,71.0,0.01304,0.16,ci,ci40488136,2023-06-18T12:47:08.665Z,"7km SSE of Littlerock, CA",earthquake,0.39,0.54,0.059,3.0,automatic,ci,ci
 2023-06-18T12:33:03.160Z,18.0125,-66.7403333333333,14.09,2.21,md,10.0,175.0,0.1311,0.12,pr,pr71413873,2023-06-18T12:44:40.210Z,Puerto Rico region,earthquake,0.44,1.06,0.0301108289201308,5.0,reviewed,pr,pr
+2023-06-18T13:02:34.408Z,59.8471,-152.6368,83.1,1.4,ml,,,,0.85,ak,ak0237rpkseo,2023-06-18T13:04:21.978Z,"45 km W of Anchor Point, Alaska",earthquake,,0.7,,,automatic,ak,ak
