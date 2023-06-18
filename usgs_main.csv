@@ -18928,3 +18928,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-18T08:08:22.440Z,33.0968333,-117.28,27.46,0.65,ml,9.0,261.0,0.4335,0.22,ci,ci40488040,2023-06-18T08:11:59.854Z,"7km N of Encinitas, CA",earthquake,4.16,2.95,0.001,2.0,automatic,ci,ci
 2023-06-18T07:58:21.250Z,38.8155,-122.8191667,2.94,0.44,md,12.0,70.0,0.01025,0.03,nc,nc73902426,2023-06-18T08:18:46.275Z,"7km NW of The Geysers, CA",earthquake,0.33,0.39,0.437,12.0,reviewed,nc,nc
 2023-06-17T11:30:25.586Z,-23.2048,-175.7779,35.0,5.0,mb,47.0,111.0,6.331,0.83,us,us7000k9bk,2023-06-18T08:20:45.040Z,Tonga region,earthquake,10.52,1.826,0.078,52.0,reviewed,us,us
+2023-06-18T08:25:49.670Z,34.0446667,-119.1345,0.99,1.6,ml,18.0,195.0,0.1374,0.28,ci,ci40488048,2023-06-18T08:29:24.287Z,"13km SSE of Port Hueneme, CA",earthquake,1.24,31.61,0.278,22.0,automatic,ci,ci
+2023-06-18T08:22:13.180Z,36.0378342,-120.6060028,2.29,1.04,md,10.0,102.0,0.03192,0.09,nc,nc73902431,2023-06-18T08:25:00.200Z,"22km NW of Parkfield, CA",earthquake,0.58,1.38,0.14,4.0,automatic,nc,nc
