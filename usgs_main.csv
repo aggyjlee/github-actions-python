@@ -19031,3 +19031,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-18T18:38:27.522Z,60.2532,-152.8496,107.7,1.7,ml,,,,0.56,ak,ak0237rsrnog,2023-06-18T18:41:16.229Z,"69 km WNW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-06-18T19:18:37.530Z,36.074501,-120.6484985,4.13,2.57,md,36.0,65.0,0.04276,0.16,nc,nc73902581,2023-06-18T19:27:15.686Z,"24km ENE of San Ardo, CA",earthquake,0.31,1.0,0.13,32.0,automatic,nc,nc
 2023-06-18T19:15:19.374Z,63.4835,-149.3159,33.3,1.5,ml,,,,0.68,ak,ak0237rt856p,2023-06-18T19:21:48.254Z,"20 km WNW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-06-18T19:59:47.780Z,38.7906685,-122.7580032,2.26,0.71,md,5.0,171.0,0.01003,0.06,nc,nc73902596,2023-06-18T20:01:22.211Z,"2km N of The Geysers, CA",earthquake,1.02,1.58,0.19,7.0,automatic,nc,nc
+2023-06-18T13:54:29.600Z,33.4785,-116.5096667,14.09,0.13,ml,14.0,158.0,0.079,0.12,ci,ci40488200,2023-06-18T20:04:08.854Z,"17km ESE of Anza, CA",earthquake,0.36,0.67,0.147,7.0,reviewed,ci,ci
