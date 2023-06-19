@@ -19094,3 +19094,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-19T02:05:34.220Z,33.425,-116.9143333,8.26,0.87,ml,37.0,60.0,0.0833,0.22,ci,ci40488464,2023-06-19T02:09:08.446Z,"5km WSW of Aguanga, CA",earthquake,0.26,0.92,0.135,23.0,automatic,ci,ci
 2023-06-19T02:04:30.363Z,36.604,-117.0811,0.0,1.4,ml,14.0,175.8,0.222,0.3558,nn,nn00861378,2023-06-19T02:06:38.822Z,"26 km NW of Furnace Creek, California",earthquake,,17.7,0.97,11.0,automatic,nn,nn
 2023-06-19T01:49:57.094Z,-0.189,125.2256,53.441,4.8,mb,55.0,38.0,2.344,0.9,us,us7000k9hf,2023-06-19T02:06:09.040Z,"112 km SE of Modisi, Indonesia",earthquake,7.69,7.703,0.07,62.0,reviewed,us,us
+2023-06-19T02:56:04.744Z,61.5086,-149.9762,32.7,1.2,ml,,,,0.12,ak,ak0237t6vvmi,2023-06-19T02:57:27.086Z,"1 km SW of Big Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
