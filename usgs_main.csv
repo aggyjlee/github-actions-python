@@ -19287,3 +19287,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-19T19:17:58.139Z,39.6715,-119.4624,12.4,1.5,ml,8.0,133.78,0.071,0.2193,nn,nn00861431,2023-06-19T21:05:10.050Z,"15 km WNW of Wadsworth, Nevada",earthquake,,2.6,0.14,7.0,reviewed,nn,nn
 2023-06-19T10:58:24.300Z,38.8398333,-122.8751667,2.34,0.52,md,18.0,132.0,0.005114,0.02,nc,nc73902851,2023-06-19T21:15:12.174Z,"12km NW of The Geysers, CA",earthquake,0.24,0.42,0.187,16.0,reviewed,nc,nc
 2023-06-19T04:46:31.950Z,38.8246667,-122.797,1.02,0.37,md,13.0,63.0,0.01029,0.02,nc,nc73902756,2023-06-19T21:07:11.402Z,"6km NNW of The Geysers, CA",earthquake,0.35,0.62,0.188,13.0,reviewed,nc,nc
+2023-06-19T21:24:11.346Z,64.8335,-149.0772,13.8,1.6,ml,,,,0.62,ak,ak0237ti09pq,2023-06-19T21:26:12.952Z,"25 km N of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-06-19T21:22:14.720Z,32.7076667,-116.6436667,17.06,1.0,ml,25.0,52.0,0.03654,0.21,ci,ci40489288,2023-06-19T21:25:50.685Z,"16km N of Tecate, B.C., MX",earthquake,0.37,0.64,0.133,12.0,automatic,ci,ci
