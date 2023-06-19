@@ -19308,3 +19308,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-19T23:12:12.136Z,58.1503,-155.3572,7.6,0.9,ml,,,,0.32,ak,ak0237tj4ke5,2023-06-19T23:13:27.141Z,Alaska Peninsula,earthquake,,0.3,,,automatic,ak,ak
 2023-06-19T22:45:00.758Z,45.4879,26.282,135.849,4.1,mb,35.0,39.0,0.237,1.03,us,us7000k9ql,2023-06-19T23:06:54.040Z,"1 km E of Cașoca, Romania",earthquake,6.07,5.62,0.139,14.0,reviewed,us,us
 2023-06-19T23:26:16.751Z,36.32073212,-98.54366302,5.0,1.92,ml,8.0,170.3320694,0.1605796665,1.21006797,ok,ok2023lyok,2023-06-19T23:27:51.657Z,"8 km NW of Fairview, Oklahoma",earthquake,8.317934073,,0.35,5.0,automatic,ok,ok
+2023-06-19T23:28:47.020Z,38.831501,-122.8141632,1.63,0.74,md,14.0,56.0,0.008702,0.01,nc,nc73903051,2023-06-19T23:31:27.826Z,"8km NW of The Geysers, CA",earthquake,0.24,0.6,0.07,15.0,automatic,nc,nc
