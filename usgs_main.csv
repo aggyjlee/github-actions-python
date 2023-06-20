@@ -19533,3 +19533,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-20T22:38:26.200Z,33.0328331,-116.4298325,9.77,1.41,ml,35.0,84.0,0.1318,0.21,ci,ci40490336,2023-06-20T22:40:31.506Z,"17km ESE of Julian, CA",earthquake,0.32,0.75,0.241,5.0,automatic,ci,ci
 2023-06-20T22:36:18.776Z,58.1823,-155.3222,8.2,0.6,ml,,,,0.62,ak,ak0237v67mz9,2023-06-20T22:37:38.635Z,Alaska Peninsula,earthquake,,0.4,,,automatic,ak,ak
 2023-06-20T02:16:53.470Z,35.9268333,-120.4803333,5.65,-0.09,md,9.0,141.0,0.02103,0.06,nc,nc73903106,2023-06-20T22:36:18.724Z,"5km NW of Parkfield, CA",earthquake,0.44,0.68,,1.0,reviewed,nc,nc
+2023-06-20T09:30:04.370Z,37.5735,-118.8431667,4.3,1.21,md,15.0,191.0,0.01992,0.03,nc,nc73903176,2023-06-20T22:47:50.336Z,"14km ESE of Mammoth Lakes, CA",earthquake,0.45,0.46,0.169,14.0,reviewed,nc,nc
