@@ -19371,3 +19371,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-20T05:13:34.590Z,32.664,-115.7308333,7.15,1.65,ml,23.0,69.0,0.0151,0.23,ci,ci40489520,2023-06-20T05:17:15.174Z,"17km NW of Progreso, B.C., MX",earthquake,0.44,0.71,0.168,23.0,automatic,ci,ci
 2023-06-20T05:05:50.328Z,37.3243,-117.2505,8.4,1.8,ml,23.0,112.22,0.328,0.2543,nn,nn00861454,2023-06-20T05:08:47.271Z,"42 km S of Goldfield, Nevada",earthquake,,0.8,0.83,19.0,automatic,nn,nn
 2023-06-20T04:57:08.120Z,18.0201666666667,-66.8175,13.07,2.63,md,20.0,139.0,0.02471,0.23,pr,pr71414083,2023-06-20T05:09:20.330Z,"2 km W of Guayanilla, Puerto Rico",earthquake,0.5,0.45,0.180904668981242,6.0,reviewed,pr,pr
+2023-06-20T05:28:31.074Z,37.3352,-117.2588,0.0,0.1,ml,8.0,190.29,0.325,0.4128,nn,nn00861456,2023-06-20T05:30:44.942Z,"41 km S of Goldfield, Nevada",earthquake,,57.6,0.88,6.0,automatic,nn,nn
+2023-06-20T05:27:46.340Z,35.0686684,-118.3330002,1.47,1.5,ml,18.0,64.0,0.0782,0.17,ci,ci40489528,2023-06-20T05:29:52.576Z,"13km SE of Tehachapi, CA",earthquake,0.4,0.96,0.167,5.0,automatic,ci,ci
