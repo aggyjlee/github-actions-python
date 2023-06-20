@@ -19346,3 +19346,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-20T02:49:13.330Z,33.4625,-116.5825,8.88,0.92,ml,39.0,75.0,0.03609,0.19,ci,ci40489488,2023-06-20T02:52:40.395Z,"13km SE of Anza, CA",earthquake,0.23,0.56,0.168,26.0,automatic,ci,ci
 2023-06-20T02:30:30.627Z,-23.524,-67.7856,141.824,4.3,mb,19.0,99.0,0.674,0.68,us,us7000k9sb,2023-06-20T02:49:48.040Z,"80 km SSE of San Pedro de Atacama, Chile",earthquake,8.36,5.173,0.202,7.0,reviewed,us,us
 2023-06-19T08:37:36.260Z,58.2568333333333,-155.0625,4.15,0.08,ml,12.0,112.0,,0.23,av,av91930341,2023-06-20T02:53:30.050Z,"84 km NNW of Karluk, Alaska",earthquake,0.34,0.73,0.230881066139795,12.0,reviewed,av,av
+2023-06-20T03:01:14.290Z,38.8236656,-122.7985001,3.21,0.77,md,19.0,52.0,0.009045,0.06,nc,nc73903121,2023-06-20T03:03:57.664Z,"6km NW of The Geysers, CA",earthquake,0.33,0.67,0.27,19.0,automatic,nc,nc
+2023-06-20T02:58:20.351Z,58.107,-152.1996,0.1,2.4,ml,,,,0.6,ak,ak0237uufor7,2023-06-20T03:00:22.931Z,"27 km NE of Ouzinkie, Alaska",earthquake,,3.1,,,automatic,ak,ak
