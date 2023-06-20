@@ -19376,3 +19376,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-20T05:39:16.447Z,58.2326,-154.9531,64.9,0.5,ml,,,,0.66,ak,ak0237uw3wnw,2023-06-20T05:40:24.141Z,"79 km NNW of Karluk, Alaska",earthquake,,3.3,,,automatic,ak,ak
 2023-06-20T05:29:50.280Z,32.6603333,-115.7325,6.06,1.47,ml,19.0,65.0,0.01213,0.22,ci,ci40489536,2023-06-20T05:33:38.713Z,"16km WNW of Progreso, B.C., MX",earthquake,0.51,0.79,0.293,14.0,automatic,ci,ci
 2023-06-20T05:16:54.645Z,56.9073,-153.5631,35.0,3.1,ml,36.0,189.0,1.026,0.72,us,us7000k9t0,2023-06-20T05:37:53.040Z,"36 km SSW of Old Harbor, Alaska",earthquake,7.89,2.017,0.052,48.0,reviewed,us,us
+2023-06-20T05:25:21.900Z,51.4793,178.1594,23.7,3.6,ml,,,,0.56,ak,ak0237uw0x26,2023-06-20T06:05:34.862Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,,0.9,,,reviewed,ak,ak
+2023-06-20T05:16:56.851Z,57.1267,-153.8385,11.4,3.0,ml,,,,0.57,ak,ak0237uvz28s,2023-06-20T05:56:35.763Z,"28 km NE of Akhiok, Alaska",earthquake,,1.9,,,reviewed,ak,ak
+2023-06-20T00:59:18.333Z,50.2428,178.7788,4.7,3.5,ml,,,,0.71,ak,ak0237ut9278,2023-06-20T05:51:13.377Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,,3.6,,,reviewed,ak,ak
