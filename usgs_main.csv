@@ -19500,3 +19500,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-20T19:23:05.110Z,17.8625,-66.8906666666667,12.45,2.4,md,5.0,249.0,0.1125,0.1,pr,pr71414173,2023-06-20T19:30:56.830Z,"12 km S of Guánica, Puerto Rico",earthquake,0.86,0.53,0.162646441761975,5.0,reviewed,pr,pr
 2023-06-20T19:36:24.058Z,58.2635,-155.0681,5.3,0.2,ml,,,,0.18,ak,ak0237v4fckl,2023-06-20T19:37:33.837Z,Alaska Peninsula,earthquake,,0.9,,,automatic,ak,ak
 2023-06-20T19:29:25.390Z,39.2546654,-123.2183304,6.48,1.6,md,11.0,82.0,0.08074,0.04,nc,nc73903326,2023-06-20T19:40:10.046Z,"2km SW of Redwood Valley, CA",earthquake,0.31,0.96,0.08,5.0,automatic,nc,nc
+2023-06-20T18:02:22.720Z,46.828833333333336,-123.09383333333334,-0.31,1.47,ml,13.0,203.0,0.1238,0.45,uw,uw61934711,2023-06-20T19:50:46.180Z,Washington-Oregon border region,explosion,1.87,31.61,0.3391558937694725,11.0,reviewed,uw,uw
