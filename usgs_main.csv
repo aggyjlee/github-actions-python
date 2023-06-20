@@ -19436,3 +19436,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-20T13:44:39.283Z,61.7666,-149.6408,38.0,1.0,ml,,,,0.23,ak,ak0237v0whug,2023-06-20T13:46:27.184Z,Southern Alaska,earthquake,,1.5,,,automatic,ak,ak
 2023-06-20T13:42:03.780Z,33.711,-116.8145,16.49,0.58,ml,10.0,177.0,0.08363,0.05,ci,ci40489768,2023-06-20T13:45:33.281Z,"8km ESE of Valle Vista, CA",earthquake,0.26,0.39,0.105,11.0,automatic,ci,ci
 2023-06-20T12:59:32.780Z,17.939,-66.968,15.74,1.95,md,4.0,228.0,0.09177,0.06,pr,pr71414148,2023-06-20T13:45:00.800Z,"7 km WSW of Guánica, Puerto Rico",earthquake,0.7,0.6,0.112205577164655,3.0,reviewed,pr,pr
+2023-06-20T13:58:28.535Z,36.5961,-117.1029,0.0,1.6,ml,24.0,178.77,0.333,0.1687,nn,nn00861466,2023-06-20T14:01:13.530Z,"27 km NW of Furnace Creek, California",earthquake,,5.4,0.93,20.0,automatic,nn,nn
