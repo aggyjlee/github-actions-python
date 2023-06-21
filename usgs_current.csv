@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-21T16:29:01.306Z,63.2383,-145.0751,4.5,1.2,ml,,,,0.97,ak,ak0237wq4uhe,2023-06-21T16:30:57.127Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-06-21T16:28:11.930Z,19.1641674041748,-155.480499267578,32.5900001525879,1.75,md,33,165,,0.119999997,hv,hv73457457,2023-06-21T16:31:22.600Z,"4 km S of Pāhala, Hawaii",earthquake,0.74,1.25999999,0.949999988,7,automatic,hv,hv
+2023-06-21T16:25:35.590Z,33.3048333,-116.1775,10.37,1.02,ml,35,49,0.1289,0.26,ci,ci40490992,2023-06-21T16:29:15.024Z,"18km NNW of Ocotillo Wells, CA",earthquake,0.4,1.02,0.107,22,automatic,ci,ci
 2023-06-21T16:07:09.300Z,19.2188339233398,-155.475006103516,28.7099990844727,2.26,ml,49,91,,0.140000001,hv,hv73457442,2023-06-21T16:12:42.420Z,"1 km NNE of Pāhala, Hawaii",earthquake,0.57,0.649999976,2.2,17,automatic,hv,hv
 2023-06-21T15:45:02.380Z,19.1831665039062,-155.492660522461,34.0200004577637,1.86000001,md,39,87,,0.109999999,hv,hv73457417,2023-06-21T15:48:11.190Z,"2 km SW of Pāhala, Hawaii",earthquake,0.57,0.889999986,0.920000017,8,automatic,hv,hv
 2023-06-21T15:44:26.550Z,34.0903333,-117.3086667,14.84,1.64,ml,59,26,0.007252,0.19,ci,ci40490968,2023-06-21T15:55:37.080Z,"2km NNE of Colton, CA",earthquake,0.2,0.39,0.161,24,automatic,ci,ci
@@ -229,4 +232,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-20T16:45:18.130Z,38.7798333,-122.744,0.75,1.31,md,40,53,0.006624,0.04,nc,nc73903246,2023-06-21T00:53:11.018Z,"1km ENE of The Geysers, CA",earthquake,0.12,0.19,0.138,30,reviewed,nc,nc
 2023-06-20T16:40:11.541Z,44.2718,-115.0548,14.569,2.8,ml,32,53,0.843,0.37,us,us7000k9wn,2023-06-20T18:22:59.040Z,"southern Idaho",earthquake,1.63,7.54,0.034,116,reviewed,us,us
 2023-06-20T16:39:00.860Z,38.838,-122.8085,2.68,0.41,md,18,52,0.01419,0.02,nc,nc73903241,2023-06-20T23:29:25.069Z,"8km WNW of Cobb, CA",earthquake,0.23,0.39,0.118,16,reviewed,nc,nc
-2023-06-20T16:35:22.050Z,35.3803333,-118.559,3.04,1.4,ml,19,73,0.1437,0.15,ci,ci40489936,2023-06-20T16:38:53.116Z,"24km SSW of Bodfish, CA",earthquake,0.26,0.95,0.184,19,automatic,ci,ci
