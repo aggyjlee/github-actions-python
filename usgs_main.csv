@@ -19798,3 +19798,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-21T18:57:18.953Z,52.5501,-174.4417,182.875,4.3,mb,65.0,118.0,0.219,0.67,us,us7000ka6c,2023-06-21T20:10:30.040Z,"42 km NNW of Atka, Alaska",earthquake,11.49,6.668,0.063,71.0,reviewed,us,us
 2023-06-21T20:19:29.895Z,36.7445,-116.246,7.2,-0.1,ml,8.0,142.3,0.032,0.1161,nn,nn00861523,2023-06-21T20:21:06.581Z,"49 km ESE of Beatty, Nevada",earthquake,,0.9,0.15,6.0,automatic,nn,nn
 2023-06-21T20:05:59.360Z,18.6885,-64.9541,57.0,3.76,md,20.0,248.0,0.3353,0.25,pr,pr2023172000,2023-06-21T20:30:00.460Z,"38 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.04,1.0,0.24,17.0,reviewed,pr,pr
+2023-06-21T20:38:12.035Z,55.2489,-157.7277,131.8,2.7,ml,,,,0.78,ak,ak0237wskj6b,2023-06-21T20:40:12.934Z,"115 km SE of Perryville, Alaska",earthquake,,1.6,,,automatic,ak,ak
+2023-06-20T22:25:23.580Z,34.1203333,-117.6245,10.56,0.46,ml,15.0,111.0,0.01127,0.16,ci,ci40490312,2023-06-21T20:37:45.707Z,"3km NE of Upland, CA",earthquake,0.48,0.51,0.212,5.0,reviewed,ci,ci
