@@ -19613,3 +19613,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-20T17:47:58.420Z,51.8581666666667,-177.828333333333,8.96,0.45,ml,5.0,236.0,,0.06,av,av91931691,2023-06-21T03:58:05.250Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.6,0.71,0.300076369830259,5.0,reviewed,av,av
 2023-06-21T04:36:47.770Z,38.7905006,-122.765831,1.15,1.3,md,19.0,73.0,0.01118,0.06,nc,nc73903486,2023-06-21T04:38:22.535Z,"2km NNW of The Geysers, CA",earthquake,0.25,0.6,0.19,20.0,automatic,nc,nc
 2023-06-21T04:10:53.921Z,-12.867,-14.6578,10.0,5.5,mww,68.0,46.0,4.912,0.85,us,us7000ka0y,2023-06-21T04:40:39.160Z,southern Mid-Atlantic Ridge,earthquake,8.19,1.706,0.083,14.0,reviewed,us,us
+2023-06-20T21:05:11.590Z,37.448,-121.7738333,5.39,0.93,md,19.0,63.0,0.02125,0.09,nc,nc73903351,2023-06-21T04:51:21.478Z,"10km NNE of Alum Rock, CA",earthquake,0.29,0.39,0.261,19.0,reviewed,nc,nc
+2023-06-20T20:31:21.360Z,37.8761667,-121.9906667,9.8,1.28,md,30.0,87.0,0.01737,0.11,nc,nc73903341,2023-06-21T04:48:20.953Z,"5km NE of Alamo, CA",earthquake,0.2,0.35,0.232,18.0,reviewed,nc,nc
