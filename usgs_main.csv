@@ -19657,3 +19657,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-21T06:52:56.176Z,37.304,-117.5735,1.7,2.0,ml,26.0,132.05,0.092,0.2714,nn,nn00861493,2023-06-21T06:55:33.665Z,"50 km S of Silver Peak, Nevada",earthquake,,6.5,0.85,21.0,automatic,nn,nn
 2023-06-21T07:09:39.363Z,65.2463,-148.7643,17.8,1.3,ml,,,,0.46,ak,ak0237wknqnk,2023-06-21T07:11:51.838Z,"29 km ENE of Minto, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-21T07:08:13.050Z,34.8038333,-120.3461667,2.08,2.05,ml,24.0,65.0,0.08727,0.2,ci,ci40490648,2023-06-21T07:11:52.261Z,"9km NW of Los Alamos, CA",earthquake,0.37,0.66,0.125,27.0,automatic,ci,ci
+2023-06-21T07:33:59.850Z,37.3250008,-122.2105026,8.15,2.09,md,36.0,59.0,0.04078,0.14,nc,nc73903526,2023-06-21T07:40:45.612Z,"7km SSE of Portola Valley, CA",earthquake,0.25,0.55,0.2,26.0,automatic,nc,nc
+2023-06-21T07:31:37.390Z,32.2226667,-115.0945,14.86,1.65,ml,9.0,89.0,0.07055,0.23,ci,ci40490680,2023-06-21T07:35:05.494Z,"7km E of Alberto Oviedo Mota, B.C., MX",earthquake,0.68,0.87,0.35,10.0,automatic,ci,ci
+2023-06-21T07:31:09.810Z,33.9431667,-116.7833333,16.9,0.63,ml,16.0,61.0,0.09397,0.14,ci,ci40490672,2023-06-21T07:34:50.401Z,"3km N of Cabazon, CA",earthquake,0.35,0.79,0.124,11.0,automatic,ci,ci
+2023-06-21T07:30:18.700Z,35.7768333,-117.5676667,1.32,0.58,ml,7.0,205.0,0.1617,0.16,ci,ci40490664,2023-06-21T07:33:51.393Z,"15km W of Searles Valley, CA",earthquake,0.87,0.6,0.069,3.0,automatic,ci,ci
