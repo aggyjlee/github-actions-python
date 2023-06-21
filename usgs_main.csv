@@ -19724,3 +19724,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-21T02:31:52.027Z,36.7667,-116.2527,8.2,-0.5,ml,4.0,265.23,0.032,0.0153,nn,nn00861506,2023-06-21T14:54:26.976Z,"47 km ESE of Beatty, Nevada",earthquake,,5.7,0.0,1.0,reviewed,nn,nn
 2023-06-21T15:09:23.325Z,60.7275,-152.1893,78.9,1.4,ml,,,,0.56,ak,ak0237wpf698,2023-06-21T15:11:12.833Z,"49 km WNW of Salamatof, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-06-20T23:53:18.960Z,44.6543333333333,-114.371666666667,8.09,2.4,ml,23.0,67.0,0.361,0.17,mb,mb90019203,2023-06-21T15:09:53.330Z,"20 km NW of Challis, Idaho",earthquake,0.39,0.77,0.266785242585161,24.0,reviewed,mb,mb
+2023-06-21T15:21:44.220Z,34.2715,-118.815,19.75,1.67,ml,28.0,52.0,0.05874,0.18,ci,ci40490936,2023-06-21T15:25:38.705Z,"6km ESE of Moorpark, CA",earthquake,0.33,0.73,0.188,29.0,automatic,ci,ci
