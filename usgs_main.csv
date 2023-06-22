@@ -19890,3 +19890,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-22T05:08:13.420Z,37.6049995,-118.8470001,-0.48,0.75,md,7.0,143.0,0.01886,0.29,nc,nc73903811,2023-06-22T05:09:47.513Z,"12km ESE of Mammoth Lakes, CA",earthquake,1.27,1.08,0.03,8.0,automatic,nc,nc
 2023-06-22T00:01:29.174Z,51.0432,179.7778,25.6,3.1,ml,,,,0.59,ak,ak0237y3zbg0,2023-06-22T05:11:18.617Z,"265 km WSW of Adak, Alaska",earthquake,,2.7,,,reviewed,ak,ak
 2023-06-22T05:28:05.300Z,38.8343315,-122.8131638,0.77,0.76,md,13.0,54.0,0.01118,0.06,nc,nc73903821,2023-06-22T05:29:42.850Z,"8km W of Cobb, CA",earthquake,0.26,0.83,0.14,15.0,automatic,nc,nc
+2023-06-22T05:35:55.770Z,38.8271675,-122.8106689,1.47,0.63,md,9.0,88.0,0.003796,0.02,nc,nc73903826,2023-06-22T05:37:32.627Z,"7km NW of The Geysers, CA",earthquake,0.43,1.11,0.4,10.0,automatic,nc,nc
+2023-06-22T05:13:32.455Z,52.9746,-165.435,48.3,1.9,ml,,,,0.74,ak,ak0237y71309,2023-06-22T05:36:13.558Z,south of the Aleutian Islands,earthquake,,16.6,,,reviewed,ak,ak
