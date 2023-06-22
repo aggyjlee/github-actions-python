@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-22T05:28:05.300Z,38.8343315,-122.8131638,0.77,0.76,md,13,54,0.01118,0.06,nc,nc73903821,2023-06-22T05:29:42.850Z,"8km W of Cobb, CA",earthquake,0.26,0.83,0.14,15,automatic,nc,nc
 2023-06-22T05:09:29.920Z,38.8026657,-122.8150024,3.21,0.79,md,17,71,0.01269,0.07,nc,nc73903816,2023-06-22T05:12:12.674Z,"6km WNW of The Geysers, CA",earthquake,0.37,0.92,0.47,17,automatic,nc,nc
 2023-06-22T05:08:13.420Z,37.6049995,-118.8470001,-0.48,0.75,md,7,143,0.01886,0.29,nc,nc73903811,2023-06-22T05:09:47.513Z,"12km ESE of Mammoth Lakes, CA",earthquake,1.27,1.08,0.03,8,automatic,nc,nc
 2023-06-22T04:42:23.050Z,38.8341675,-122.7908325,1.88,0.29,md,10,75,0.004252,0.01,nc,nc73903801,2023-06-22T05:20:12.045Z,"6km WNW of Cobb, CA",earthquake,0.35,1.11,0.22,12,automatic,nc,nc
@@ -203,4 +204,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-21T05:48:27.880Z,38.7475,-122.716,1.26,0.28,md,14,72,0.007605,0.04,nc,nc73903491,2023-06-21T08:09:16.676Z,"4km SW of Anderson Springs, CA",earthquake,0.18,0.34,0.265,9,reviewed,nc,nc
 2023-06-21T05:43:34.018Z,-29.3834,-176.6225,10,4.9,mb,39,69,1.14,1.27,us,us7000ka18,2023-06-21T06:17:30.040Z,"Kermadec Islands region",earthquake,10.39,1.88,0.075,55,reviewed,us,us
 2023-06-21T05:43:03.050Z,36.1776666666667,-91.2928333333333,18.27,2.29,md,9,87,0.03222,0.09,nm,nm60500878,2023-06-21T13:15:24.780Z,"7 km SSW of Ravenden, Arkansas",earthquake,0.72,0.52,0.0395157372718411,8,reviewed,nm,nm
-2023-06-21T05:21:08.099Z,61.1987,-147.22,4.3,2,ml,,,,0.65,ak,ak0237wjjdjp,2023-06-21T05:22:53.609Z,"47 km NW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
