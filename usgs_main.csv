@@ -19918,3 +19918,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-22T07:32:41.020Z,61.5254,-149.9147,34.3,1.1,ml,,,,0.32,ak,ak0237y8c0qu,2023-06-22T07:34:06.728Z,"2 km ENE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-22T07:28:54.080Z,36.5584984,-121.090332,9.62,1.79,md,9.0,136.0,0.04548,0.07,nc,nc73903851,2023-06-22T07:32:07.823Z,"6km ENE of Pinnacles, CA",earthquake,1.09,1.74,0.25,6.0,automatic,nc,nc
 2023-06-21T13:29:09.350Z,58.1685,-155.344833333333,1.66,1.02,ml,12.0,214.0,,0.15,av,av91932801,2023-06-22T07:35:23.330Z,Alaska Peninsula,earthquake,0.45,0.75,0.424118364092231,12.0,reviewed,av,av
+2023-06-22T07:46:56.851Z,61.6019,-153.5246,81.4,2.3,ml,,,,1.27,ak,ak0237y8f1zp,2023-06-22T07:50:32.575Z,"105 km ENE of Lime Village, Alaska",earthquake,,2.2,,,automatic,ak,ak
