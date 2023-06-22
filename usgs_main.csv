@@ -20088,3 +20088,15 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-22T01:10:13.669Z,62.9251,-151.3735,105.8,0.9,ml,,,,0.54,ak,ak0237y4mn92,2023-06-22T20:49:43.594Z,"57 km NNW of Petersville, Alaska",earthquake,,0.2,,,reviewed,ak,ak
 2023-06-22T00:40:50.010Z,59.4484,-152.8677,13.2,1.1,ml,,,,0.56,ak,ak0237y47pe3,2023-06-22T20:49:38.809Z,"54 km W of Nanwalek, Alaska",earthquake,,0.5,,,reviewed,ak,ak
 2023-06-22T00:11:52.045Z,62.2744,-148.606,43.9,0.9,ml,,,,0.43,ak,ak0237y41ibo,2023-06-22T20:49:43.399Z,"53 km N of Chickaloon, Alaska",earthquake,,0.8,,,reviewed,ak,ak
+2023-06-22T20:49:29.764Z,34.46138,-96.89917755,10.0,2.03,ml,12.0,212.4096985,0.269004941,0.3896320378,ok,ok2023mdvt,2023-06-22T20:51:44.711Z,"8 km SE of Sulphur, Oklahoma",earthquake,,0.0,0.18,8.0,automatic,ok,ok
+2023-06-22T07:38:48.944Z,59.5656,-152.8249,107.2,1.5,ml,,,,0.61,ak,ak0237y8dbni,2023-06-22T20:49:45.812Z,"56 km WNW of Nanwalek, Alaska",earthquake,,0.7,,,reviewed,ak,ak
+2023-06-22T07:32:46.788Z,54.6805,-156.9321,19.9,2.2,ml,,,,0.49,ak,ak0237y8c16u,2023-06-22T20:49:45.636Z,"196 km SE of Perryville, Alaska",earthquake,,11.3,,,reviewed,ak,ak
+2023-06-22T07:17:11.414Z,61.4927,-146.5616,34.7,1.1,ml,,,,0.43,ak,ak0237y88qpx,2023-06-22T20:49:45.443Z,"41 km NNW of Valdez, Alaska",earthquake,,0.6,,,reviewed,ak,ak
+2023-06-22T06:54:35.655Z,66.3804,-157.2555,21.0,0.9,ml,,,,0.43,ak,ak0237y7vah9,2023-06-22T20:49:45.262Z,"56 km S of Shungnak, Alaska",earthquake,,1.0,,,reviewed,ak,ak
+2023-06-22T06:32:54.752Z,66.3605,-157.4362,13.4,0.9,ml,,,,0.63,ak,ak0237y7qm77,2023-06-22T20:49:45.086Z,"60 km SSW of Shungnak, Alaska",earthquake,,1.6,,,reviewed,ak,ak
+2023-06-22T06:20:01.286Z,59.0653,-152.4459,64.1,1.3,ml,,,,0.41,ak,ak0237y7nxhc,2023-06-22T20:49:44.892Z,"44 km SW of Nanwalek, Alaska",earthquake,,0.7,,,reviewed,ak,ak
+2023-06-22T05:41:48.246Z,54.6981,-156.9782,30.2,2.2,ml,,,,0.84,ak,ak0237y773jc,2023-06-22T20:49:44.713Z,"192 km SE of Perryville, Alaska",earthquake,,15.5,,,reviewed,ak,ak
+2023-06-22T05:39:28.008Z,66.3496,-157.4627,16.5,1.6,ml,,,,0.57,ak,ak0237y76mjk,2023-06-22T20:49:44.521Z,"61 km SSW of Shungnak, Alaska",earthquake,,1.1,,,reviewed,ak,ak
+2023-06-22T05:37:53.759Z,58.1237,-153.2195,47.0,1.4,ml,,,,0.43,ak,ak0237y7693j,2023-06-22T20:49:44.331Z,"19 km WNW of Aleneva, Alaska",earthquake,,1.0,,,reviewed,ak,ak
+2023-06-22T05:23:28.135Z,60.5014,-152.8251,4.5,1.0,ml,,,,0.54,ak,ak0237y7373h,2023-06-22T20:49:44.147Z,"81 km NW of Ninilchik, Alaska",earthquake,,3.3,,,reviewed,ak,ak
+2023-06-22T00:27:38.562Z,28.92242432,-98.10558364,7.507609049,2.4,ml,14.0,71.0,0.1123767001,0.3,tx,tx2023mchl,2023-06-22T21:01:02.384Z,"10 km SW of Falls City, Texas",earthquake,3.575583384,2.598136732,0.1,7.0,reviewed,tx,tx
