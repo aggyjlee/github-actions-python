@@ -20104,3 +20104,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-22T21:12:03.583Z,63.8819,-148.7889,110.0,1.0,ml,,,,0.5,ak,ak0237ygjq1p,2023-06-22T21:14:48.111Z,Central Alaska,earthquake,,1.6,,,automatic,ak,ak
 2023-06-22T21:05:46.942Z,60.7343,-151.9766,65.7,1.4,ml,,,,0.23,ak,ak0237ygibc6,2023-06-22T21:07:10.147Z,"37 km W of Nikiski, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-06-22T21:16:58.340Z,33.1428333,-116.4083333,28.41,0.84,ml,18.0,128.0,0.1252,0.33,ci,ci40492336,2023-06-22T21:20:30.509Z,"13km SSW of Borrego Springs, CA",earthquake,1.58,1.35,0.208,13.0,automatic,ci,ci
+2023-06-22T21:48:44.860Z,38.1173325,-121.8724976,10.68,2.23,md,6.0,185.0,0.4393,0.17,nc,nc73904036,2023-06-22T21:50:18.214Z,"10km N of Pittsburg, CA",earthquake,10.23,4.08,,1.0,automatic,nc,nc
+2023-06-22T21:43:52.250Z,38.1033,-118.1579,2.1,1.7,ml,10.0,99.8,0.31,0.1929,nn,nn00861589,2023-06-22T21:46:32.249Z,"32 km S of Mina, Nevada",earthquake,,1.6,0.72,9.0,automatic,nn,nn
