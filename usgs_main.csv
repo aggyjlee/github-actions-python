@@ -19912,3 +19912,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-21T11:35:06.680Z,58.2465,-155.093,3.93,-0.23,ml,6.0,125.0,,0.07,av,av91932736,2023-06-22T07:00:49.610Z,"84 km NNW of Karluk, Alaska",earthquake,0.27,0.92,0.376539626167005,6.0,reviewed,av,av
 2023-06-21T10:38:41.420Z,40.518,-124.4051667,18.8,1.89,md,25.0,234.0,0.06679,0.11,nc,nc73903576,2023-06-22T07:06:10.739Z,"14km WSW of Ferndale, CA",earthquake,0.52,0.35,0.07,15.0,reviewed,nc,nc
 2023-06-21T09:32:36.460Z,37.5001667,-118.5095,8.35,1.17,md,20.0,88.0,0.09547,0.08,nc,nc73903556,2023-06-22T07:01:09.787Z,"12km NE of Round Valley, CA",earthquake,0.39,1.5,0.152,17.0,reviewed,nc,nc
+2023-06-22T07:14:49.817Z,58.2459,-155.1933,1.2,0.6,ml,,,,0.27,ak,ak0237y886j9,2023-06-22T07:15:49.325Z,"87 km NNW of Karluk, Alaska",earthquake,,1.2,,,automatic,ak,ak
