@@ -20338,3 +20338,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-23T19:06:11.825Z,-15.2313,-173.0091,10.0,5.6,mww,101.0,42.0,2.56,1.42,us,us7000kap9,2023-06-23T19:28:59.094Z,"116 km NE of Hihifo, Tonga",earthquake,6.63,1.781,0.098,10.0,reviewed,us,us
 2023-06-23T14:47:23.460Z,31.88415527,-101.8952458,10.90681966,1.9,ml,18.0,80.0,0.1239388081,0.1,tx,tx2023mffi,2023-06-23T19:27:52.055Z,"21 km SE of Midland, Texas",earthquake,0.6102362782,1.472325908,0.1,12.0,reviewed,tx,tx
 2023-06-23T02:23:24.780Z,58.1773333333333,-155.3395,2.46,0.2,ml,6.0,251.0,,0.14,av,av91934731,2023-06-23T19:29:42.590Z,"85 km NW of Karluk, Alaska",earthquake,0.88,0.63,0.395221826653215,6.0,reviewed,av,av
+2023-06-23T19:38:31.536Z,58.2565,-155.0718,2.9,0.7,ml,,,,0.12,ak,ak0238031u29,2023-06-23T19:40:13.507Z,"84 km NNW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-06-23T19:34:33.969Z,63.1569,-147.6692,9.2,1.7,ml,,,,0.63,ak,ak0238030zdw,2023-06-23T19:37:03.798Z,"69 km ESE of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-06-23T07:57:45.080Z,45.0055,-114.520666666667,7.46,1.22,ml,12.0,125.0,0.2537,0.12,mb,mb90019468,2023-06-23T19:36:56.550Z,"52 km WSW of Salmon, Idaho",earthquake,0.47,1.13,0.243752608600545,11.0,reviewed,mb,mb
+2023-06-23T02:59:55.310Z,51.8396666666667,-178.041333333333,5.23,0.72,ml,4.0,135.0,,0.04,av,av91934751,2023-06-23T19:39:54.030Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.44,1.02,0.218502956975107,5.0,reviewed,av,av
