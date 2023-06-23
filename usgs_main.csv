@@ -20234,3 +20234,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-23T10:34:12.930Z,38.8045006,-122.7598343,-0.62,0.63,md,8.0,155.0,0.02469,0.1,nc,nc73904226,2023-06-23T10:37:02.368Z,"3km N of The Geysers, CA",earthquake,0.57,2.83,0.09,8.0,automatic,nc,nc
 2023-06-23T10:28:33.760Z,36.2086678,-121.7200012,6.33,1.38,md,11.0,184.0,0.0427,0.04,nc,nc73904221,2023-06-23T10:31:18.279Z,"19km SE of Point Sur, CA",earthquake,1.21,1.17,0.15,8.0,automatic,nc,nc
 2023-06-23T09:25:01.496Z,31.6829777,-104.1594388,6.697143555000001,2.3,ml,21.0,54.0,0.07460966117,0.1,tx,tx2023meur,2023-06-23T10:32:06.152Z,"53 km W of Mentone, Texas",earthquake,0.5284658443,0.7914150344,0.1,30.0,reviewed,tx,tx
+2023-06-23T10:58:37.136Z,65.3978,-144.7952,0.0,1.1,ml,,,,0.51,ak,ak0237zxt8dd,2023-06-23T11:00:27.357Z,"19 km S of Central, Alaska",earthquake,,1.1,,,automatic,ak,ak
