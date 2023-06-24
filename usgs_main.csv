@@ -20522,3 +20522,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-24T06:19:42.200Z,32.929,-116.2393333,7.29,0.54,ml,16.0,69.0,0.0596,0.25,ci,ci40493736,2023-06-24T06:23:17.689Z,"26km SSW of Ocotillo Wells, CA",earthquake,0.54,1.22,0.103,3.0,automatic,ci,ci
 2023-06-24T06:13:56.330Z,34.2991667,-117.598,10.29,1.88,ml,65.0,30.0,0.07833,0.24,ci,ci40493728,2023-06-24T06:25:12.660Z,"8km SSE of Wrightwood, CA",earthquake,0.24,0.51,0.153,27.0,automatic,ci,ci
 2023-06-23T17:29:10.560Z,58.2353333333333,-155.113333333333,7.31,0.25,ml,8.0,97.0,,0.25,av,av91935491,2023-06-24T06:09:49.150Z,Alaska Peninsula,earthquake,0.51,1.14,0.388231576589553,8.0,reviewed,av,av
+2023-06-24T06:27:36.568Z,51.7184,178.2624,107.974,4.3,mb,44.0,172.0,0.306,0.49,us,us7000kasm,2023-06-24T06:42:56.040Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,5.41,6.581,0.042,161.0,reviewed,us,us
