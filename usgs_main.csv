@@ -20663,3 +20663,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-24T17:50:43.422Z,58.1905,-155.129,1.4,0.7,ml,,,,0.32,ak,ak02381pgwuu,2023-06-24T17:52:43.094Z,Alaska Peninsula,earthquake,,2.0,,,automatic,ak,ak
 2023-06-24T18:44:34.550Z,38.838665,-122.8238297,1.71,0.72,md,18.0,87.0,0.009104,0.01,nc,nc73904751,2023-06-24T18:46:09.759Z,"9km WNW of Cobb, CA",earthquake,0.23,0.5,0.12,18.0,automatic,nc,nc
 2023-06-24T18:42:39.931Z,63.2904,-150.3473,8.0,1.1,ml,,,,0.41,ak,ak02381q0mgp,2023-06-24T18:44:31.450Z,"70 km W of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-06-24T18:52:50.320Z,38.8071671,-122.8151703,2.81,0.7,md,11.0,74.0,0.01108,0.02,nc,nc73904761,2023-06-24T18:54:24.737Z,"6km WNW of The Geysers, CA",earthquake,0.38,0.87,0.33,13.0,automatic,nc,nc
