@@ -20630,3 +20630,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-24T15:05:11.160Z,32.9348333,-116.2858333,8.94,1.09,ml,33.0,58.0,0.02462,0.24,ci,ci40494072,2023-06-24T15:08:52.539Z,"26km ENE of Pine Valley, CA",earthquake,0.3,0.92,0.132,21.0,automatic,ci,ci
 2023-06-24T15:04:36.380Z,32.9421667,-116.2818333,11.8,0.83,ml,30.0,57.0,0.02195,0.21,ci,ci40494064,2023-06-24T15:08:18.821Z,"26km SSW of Ocotillo Wells, CA",earthquake,0.3,0.77,0.108,9.0,automatic,ci,ci
 2023-06-24T14:55:40.199Z,-12.6347,66.0898,10.0,4.8,mb,35.0,84.0,7.547,0.56,us,us7000kaup,2023-06-24T15:12:02.040Z,Mid-Indian Ridge,earthquake,9.14,1.669,0.091,37.0,reviewed,us,us
+2023-06-24T15:28:49.880Z,32.9393349,-116.2851639,9.7,1.29,ml,45.0,52.0,0.02159,0.2,ci,ci40494112,2023-06-24T15:30:56.488Z,"26km ENE of Pine Valley, CA",earthquake,0.26,0.75,0.304,4.0,automatic,ci,ci
+2023-06-24T15:26:17.710Z,38.8101654,-122.8225021,2.05,1.29,md,23.0,60.0,0.005374,0.02,nc,nc73904671,2023-06-24T15:28:58.331Z,"7km WNW of The Geysers, CA",earthquake,0.21,0.4,0.26,24.0,automatic,nc,nc
+2023-06-24T15:24:56.320Z,35.8885,-117.7003333,4.15,0.97,ml,16.0,119.0,0.09546,0.16,ci,ci40494104,2023-06-24T15:28:32.000Z,"19km ESE of Little Lake, CA",earthquake,0.39,0.92,0.152,8.0,automatic,ci,ci
