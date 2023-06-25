@@ -20847,3 +20847,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-25T16:09:08.620Z,36.0198326,-120.5906677,1.49,0.62,md,9.0,186.0,0.04504,0.08,nc,nc73905151,2023-06-25T16:11:48.243Z,"20km NW of Parkfield, CA",earthquake,1.09,6.26,,1.0,automatic,nc,nc
 2023-06-25T16:06:21.880Z,32.9415,-116.2785,11.01,0.61,ml,19.0,111.0,0.02466,0.17,ci,ci40494952,2023-06-25T16:09:52.183Z,"26km SSW of Ocotillo Wells, CA",earthquake,0.37,0.69,0.083,6.0,automatic,ci,ci
 2023-06-25T14:33:43.020Z,40.1695,-117.8419,3.0,1.2,ml,3.0,304.73,0.411,0.1237,nn,nn00861719,2023-06-25T16:08:25.163Z,"53 km E of Lovelock, Nevada",earthquake,,4.3,0.08,2.0,reviewed,nn,nn
+2023-06-25T16:46:37.715Z,39.3519,-120.0037,8.2,0.7,ml,8.0,118.75,0.064,0.1044,nn,nn00861720,2023-06-25T16:48:28.027Z,"4 km SSE of Floriston, California",earthquake,,1.2,0.18,7.0,automatic,nn,nn
