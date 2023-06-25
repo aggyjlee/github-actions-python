@@ -20898,3 +20898,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-25T22:44:24.000Z,33.3233333,-116.7896667,2.1,0.69,ml,11.0,163.0,0.06815,0.25,ci,ci40495248,2023-06-25T22:47:50.530Z,"8km ESE of Palomar Observatory, CA",earthquake,1.01,1.71,0.051,10.0,automatic,ci,ci
 2023-06-25T22:44:16.440Z,34.041,-117.2843333,17.22,1.1,ml,28.0,93.0,0.08928,0.25,ci,ci40495240,2023-06-25T22:47:47.526Z,"2km WSW of Loma Linda, CA",earthquake,0.45,0.96,0.18,29.0,automatic,ci,ci
 2023-06-25T22:10:36.060Z,17.9111666666667,-66.7716666666667,7.01,2.65,md,6.0,233.0,0.1205,0.09,pr,pr71414598,2023-06-25T22:43:48.840Z,Puerto Rico region,earthquake,0.69,0.44,0.0068448787804011,4.0,reviewed,pr,pr
+2023-06-25T22:53:57.313Z,61.9577,-150.4214,15.8,1.9,ml,,,,0.41,ak,ak02383g03lf,2023-06-25T22:56:29.659Z,"30 km NW of Willow, Alaska",earthquake,,0.2,,,automatic,ak,ak
