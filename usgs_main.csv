@@ -20751,3 +20751,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-24T12:20:13.200Z,58.2485,-155.137,32.34,-0.09,ml,12.0,99.0,,0.27,av,av91108518,2023-06-25T04:48:11.600Z,"85 km NNW of Karluk, Alaska",earthquake,0.75,1.16,0.281977692594316,11.0,reviewed,av,av
 2023-06-25T05:01:48.080Z,34.0581667,-117.1693333,10.91,0.95,ml,28.0,129.0,0.05241,0.23,ci,ci40494624,2023-06-25T05:05:24.542Z,"1km ENE of Redlands, CA",earthquake,0.4,0.58,0.206,26.0,automatic,ci,ci
 2023-06-25T04:58:57.102Z,64.8785,-147.3085,18.4,0.8,ml,,,,1.24,ak,ak023835bd9q,2023-06-25T05:00:26.448Z,Central Alaska,earthquake,,0.3,,,automatic,ak,ak
+2023-06-25T05:13:45.400Z,35.6211667,-117.4798333,9.02,1.0,ml,7.0,142.0,0.06334,0.14,ci,ci40494632,2023-06-25T05:17:17.307Z,"18km SSW of Searles Valley, CA",earthquake,0.72,1.39,0.082,4.0,automatic,ci,ci
