@@ -20731,3 +20731,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-25T01:05:07.010Z,33.3518333,-116.3116667,5.86,0.77,ml,32.0,121.0,0.1215,0.19,ci,ci40494544,2023-06-25T01:08:50.270Z,"12km NNE of Borrego Springs, CA",earthquake,0.36,1.56,0.108,17.0,automatic,ci,ci
 2023-06-25T00:58:35.517Z,-24.2209,-175.4895,10.0,5.4,mww,82.0,96.0,3.048,0.58,us,us7000kaww,2023-06-25T01:39:58.537Z,south of Tonga,earthquake,7.83,1.809,0.086,13.0,reviewed,us,us
 2023-06-25T00:50:56.586Z,63.2942,-150.5047,128.0,1.8,ml,,,,0.14,ak,ak023832vx2y,2023-06-25T00:53:21.684Z,"66 km ESE of Denali National Park, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2023-06-25T03:14:19.337Z,63.0324,-151.7512,0.0,1.2,ml,,,,0.66,ak,ak023834gf8t,2023-06-25T03:16:11.941Z,Central Alaska,earthquake,,0.6,,,automatic,ak,ak
+2023-06-25T02:49:53.640Z,33.4923333,-116.4375,13.68,0.55,ml,17.0,135.0,0.12,0.22,ci,ci40494560,2023-06-25T02:53:29.793Z,"22km SSW of La Quinta, CA",earthquake,0.72,1.43,0.116,13.0,automatic,ci,ci
+2023-06-25T02:39:04.211Z,60.2127,-150.0481,31.5,1.7,ml,,,,0.35,ak,ak0238340bd1,2023-06-25T02:41:05.690Z,"33 km SSW of Cooper Landing, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-06-25T02:32:57.170Z,33.5316667,-116.5236667,12.34,0.72,ml,19.0,108.0,0.07526,0.13,ci,ci40494552,2023-06-25T02:36:36.541Z,"14km E of Anza, CA",earthquake,0.27,0.5,0.266,20.0,automatic,ci,ci
+2023-06-25T02:32:32.559Z,61.6253,-146.3348,33.4,1.4,ml,,,,0.4,ak,ak023833yvjr,2023-06-25T02:33:58.893Z,"46 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-06-25T02:30:14.452Z,60.1973,-150.0614,31.1,2.8,ml,,,,0.44,ak,ak023833yepx,2023-06-25T03:10:26.937Z,"35 km SSW of Cooper Landing, Alaska",earthquake,,0.3,,,automatic,ak,ak
