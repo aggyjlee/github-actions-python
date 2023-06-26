@@ -20967,3 +20967,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-26T08:42:41.480Z,34.0465012,-117.2753296,15.83,1.16,ml,23.0,115.0,0.09853,0.12,ci,ci40495512,2023-06-26T08:44:47.916Z,"1km W of Loma Linda, CA",earthquake,0.44,0.71,0.114,4.0,automatic,ci,ci
 2023-06-26T08:38:00.810Z,38.8111649,-122.8578339,2.51,0.57,md,8.0,176.0,0.02144,0.03,nc,nc73905481,2023-06-26T08:40:41.414Z,"10km WNW of The Geysers, CA",earthquake,0.54,1.12,0.31,7.0,automatic,nc,nc
 2023-06-26T07:35:18.322Z,51.6077,-176.9157,56.025,4.6,mb,126.0,175.0,0.286,0.6,us,us7000kb3f,2023-06-26T08:43:36.940Z,"35 km SSW of Adak, Alaska",earthquake,4.75,6.456,0.034,263.0,reviewed,us,us
+2023-06-26T08:43:11.007Z,39.6468,-119.6539,0.0,1.9,ml,17.0,79.27,0.197,0.259,nn,nn00861742,2023-06-26T08:48:42.824Z,"4 km E of Spanish Springs, Nevada",earthquake,,4.9,0.14,8.0,automatic,nn,nn
