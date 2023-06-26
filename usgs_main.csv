@@ -20944,3 +20944,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-26T04:46:27.910Z,19.1905002593994,-155.41667175293,31.9699993133545,1.99000001,md,31.0,171.0,,0.100000001,hv,hv73461892,2023-06-26T04:49:37.840Z,"6 km ESE of Pāhala, Hawaii",earthquake,0.65,0.819999993,1.38,10.0,automatic,hv,hv
 2023-06-26T04:38:51.168Z,64.6811,-149.2649,18.1,1.4,ml,,,,0.38,ak,ak02384sqezg,2023-06-26T04:40:59.601Z,"11 km NW of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-26T03:12:17.114Z,-30.1195,-176.4473,35.0,4.7,mb,19.0,101.0,1.54,0.68,us,us7000kb2w,2023-06-26T04:47:38.040Z,Kermadec Islands region,earthquake,12.88,1.898,0.159,12.0,reviewed,us,us
+2023-06-26T05:03:52.000Z,62.2773,-151.0771,76.5,1.6,ml,,,,0.38,ak,ak02384t4clc,2023-06-26T05:06:22.397Z,"29 km SSW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-06-26T05:00:08.546Z,69.5558,-144.3512,1.5,2.3,ml,,,,0.68,ak,ak02384t3m2t,2023-06-26T05:02:40.005Z,"70 km SSW of Kaktovik, Alaska",earthquake,,0.9,,,automatic,ak,ak
