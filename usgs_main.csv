@@ -20968,3 +20968,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-26T08:38:00.810Z,38.8111649,-122.8578339,2.51,0.57,md,8.0,176.0,0.02144,0.03,nc,nc73905481,2023-06-26T08:40:41.414Z,"10km WNW of The Geysers, CA",earthquake,0.54,1.12,0.31,7.0,automatic,nc,nc
 2023-06-26T07:35:18.322Z,51.6077,-176.9157,56.025,4.6,mb,126.0,175.0,0.286,0.6,us,us7000kb3f,2023-06-26T08:43:36.940Z,"35 km SSW of Adak, Alaska",earthquake,4.75,6.456,0.034,263.0,reviewed,us,us
 2023-06-26T08:43:11.007Z,39.6468,-119.6539,0.0,1.9,ml,17.0,79.27,0.197,0.259,nn,nn00861742,2023-06-26T08:48:42.824Z,"4 km E of Spanish Springs, Nevada",earthquake,,4.9,0.14,8.0,automatic,nn,nn
+2023-06-26T08:58:36.570Z,37.3688316,-122.2174988,7.08,2.02,md,27.0,53.0,0.0387,0.07,nc,nc73905501,2023-06-26T09:05:11.828Z,"2km SE of Portola Valley, CA",earthquake,0.21,0.39,0.17,9.0,automatic,nc,nc
+2023-06-26T08:54:34.850Z,38.7765007,-122.7568359,1.17,0.89,md,10.0,106.0,0.0171,0.03,nc,nc73905496,2023-06-26T08:56:11.541Z,"0km SSW of The Geysers, CA",earthquake,0.32,0.62,0.2,9.0,automatic,nc,nc
+2023-06-26T08:51:10.540Z,36.8950005,-121.5224991,9.75,1.46,md,8.0,219.0,0.05668,0.06,nc,nc73905491,2023-06-26T09:05:12.133Z,"6km NNE of San Juan Bautista, CA",earthquake,1.66,0.92,0.19,5.0,automatic,nc,nc
