@@ -21079,3 +21079,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-26T17:07:55.200Z,38.7794991,-122.7668304,1.3,0.77,md,11.0,87.0,0.008806,0.02,nc,nc73905636,2023-06-26T17:10:36.676Z,"1km WNW of The Geysers, CA",earthquake,0.29,0.62,0.11,11.0,automatic,nc,nc
 2023-06-26T14:38:39.470Z,38.0761667,-112.7766667,5.5,1.27,md,9.0,255.0,0.1767,0.21,uu,uu60544027,2023-06-26T17:18:45.100Z,"20 km SE of Minersville, Utah",earthquake,1.44,5.27,0.068,6.0,reviewed,uu,uu
 2023-06-25T19:35:52.450Z,40.7341667,-112.0735,7.9,0.64,md,12.0,55.0,0.02948,0.1,uu,uu60543997,2023-06-26T17:15:06.670Z,Utah,earthquake,0.33,0.81,0.219,5.0,reviewed,uu,uu
+2023-06-26T17:23:44.003Z,61.2469,-146.8404,20.3,2.1,ml,,,,0.75,ak,ak023850dtg5,2023-06-26T17:25:06.150Z,"29 km WNW of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-06-26T17:23:41.464Z,39.624,-119.6498,3.4,1.3,ml,9.0,94.74,0.221,0.1649,nn,nn00861772,2023-06-26T17:25:34.239Z,"5 km ESE of Spanish Springs, Nevada",earthquake,,22.1,0.28,6.0,automatic,nn,nn
