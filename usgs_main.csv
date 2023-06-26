@@ -21131,3 +21131,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-26T23:06:16.160Z,62.0822,-151.4247,84.0,1.7,ml,,,,0.39,ak,ak023853upv4,2023-06-26T23:09:40.938Z,Central Alaska,earthquake,,0.6,,,automatic,ak,ak
 2023-06-26T23:22:41.000Z,35.0318333,-117.6901667,0.26,1.67,ml,23.0,44.0,0.09735,0.27,ci,ci40496536,2023-06-26T23:26:19.718Z,"5km NW of Boron, CA",quarry blast,0.53,31.61,0.102,30.0,automatic,ci,ci
 2023-06-26T23:19:31.250Z,37.8774986,-122.2539978,8.83,1.74,md,28.0,51.0,0.01463,0.04,nc,nc73905761,2023-06-26T23:22:21.685Z,"2km ENE of Berkeley, CA",earthquake,0.18,0.38,0.13,16.0,automatic,nc,nc
+2023-06-26T23:37:52.250Z,39.6484,-119.6528,12.5,2.6,ml,19.0,73.03,0.199,0.3552,nn,nn00861783,2023-06-26T23:40:31.702Z,"4 km E of Spanish Springs, Nevada",earthquake,,0.5,0.15,10.0,automatic,nn,nn
+2023-06-26T03:38:10.010Z,38.8376667,-122.812,2.23,-0.14,md,15.0,54.0,0.01433,0.03,nc,nc73905411,2023-06-26T23:35:21.817Z,"8km WNW of Cobb, CA",earthquake,0.32,0.46,0.313,13.0,reviewed,nc,nc
