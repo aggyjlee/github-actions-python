@@ -21190,3 +21190,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-27T06:37:16.887Z,37.0532,-104.9449,8.62,2.7,ml,25.0,63.0,0.147,0.59,us,us6000knck,2023-06-27T06:48:21.040Z,"12 km SW of Weston, Colorado",earthquake,4.83,8.497,0.05,52.0,reviewed,us,us
 2023-06-27T07:03:01.450Z,33.4734993,-116.4424973,11.13,1.53,ml,58.0,91.0,0.05171,0.18,ci,ci40496728,2023-06-27T07:06:30.303Z,"23km ESE of Anza, CA",earthquake,0.26,0.6,0.199,18.0,automatic,ci,ci
 2023-06-27T06:51:22.356Z,62.3208,-150.4021,33.3,1.1,ml,,,,1.25,ak,ak02386hjcrv,2023-06-27T06:53:05.704Z,"8 km W of Trapper Creek, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-06-27T06:45:11.210Z,19.2336,-67.5883,24.0,3.59,md,16.0,296.0,0.8561,0.22,pr,pr2023178000,2023-06-27T07:19:45.257Z,"96 km NNW of San Antonio, Puerto Rico",earthquake,0.98,16.6,0.09,12.0,reviewed,pr,pr
