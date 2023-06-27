@@ -21296,3 +21296,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-27T18:34:49.172Z,62.9627,-151.5768,0.0,1.4,ml,,,,0.77,ak,ak02386okyxh,2023-06-27T18:36:44.635Z,"64 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-27T18:31:11.575Z,59.9257,-148.1259,20.1,1.7,ml,,,,0.8,ak,ak02386ok8vp,2023-06-27T18:33:34.529Z,"16 km SSW of Chenega, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-06-27T19:01:34.730Z,34.9878349,-118.1896667,0.6,0.96,ml,17.0,63.0,0.1134,0.13,ci,ci40497296,2023-06-27T19:03:48.923Z,"7km S of Mojave, CA",earthquake,0.35,0.69,0.308,4.0,automatic,ci,ci
+2023-06-27T19:06:09.270Z,38.8233337,-122.8036652,2.46,1.08,md,23.0,35.0,0.005007,0.01,nc,nc73906056,2023-06-27T19:08:51.527Z,"7km NW of The Geysers, CA",earthquake,0.24,0.41,0.15,21.0,automatic,nc,nc
+2023-06-27T19:03:22.104Z,58.1761,-155.2545,0.0,0.9,ml,,,,0.4,ak,ak02386ozp8y,2023-06-27T19:05:23.080Z,Alaska Peninsula,earthquake,,17.3,,,automatic,ak,ak
