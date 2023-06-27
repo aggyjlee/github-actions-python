@@ -21326,3 +21326,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-27T22:30:32.103Z,60.9361,-151.2623,47.4,2.0,ml,,,,0.52,ak,ak02386qxt62,2023-06-27T22:32:36.242Z,"16 km SSW of Tyonek, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-06-27T22:28:39.100Z,38.8359985,-122.8141632,1.23,0.77,md,8.0,157.0,0.01298,0.01,nc,nc73906106,2023-06-27T22:30:16.319Z,"8km W of Cobb, CA",earthquake,0.42,1.26,0.14,10.0,automatic,nc,nc
 2023-06-27T22:20:38.710Z,19.2541675567627,-155.412826538086,35.9300003051758,2.3,ml,46.0,123.0,,0.140000001,hv,hv73463542,2023-06-27T22:26:09.950Z,"8 km NE of Pāhala, Hawaii",earthquake,0.6,0.709999979,2.68,11.0,automatic,hv,hv
+2023-06-27T22:38:35.910Z,32.4806671,-115.5513306,7.49,2.45,ml,42.0,40.0,0.06241,0.35,ci,ci40497568,2023-06-27T22:40:44.804Z,"12km SSE of Progreso, B.C., MX",earthquake,0.38,1.0,0.326,23.0,automatic,ci,ci
+2023-06-27T22:35:17.283Z,60.4014,-150.5602,38.2,2.4,ml,,,,0.5,ak,ak02386qyuls,2023-06-27T22:37:21.512Z,"Kenai Peninsula, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-06-27T03:14:53.514Z,38.6597,-119.5545,6.8,0.6,ml,3.0,189.81,0.079,0.0022,nn,nn00861827,2023-06-27T22:40:36.470Z,"4 km SSW of Topaz Lake, Nevada",earthquake,,8.7,0.19,2.0,reviewed,nn,nn
