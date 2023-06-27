@@ -21225,3 +21225,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-26T15:19:29.830Z,37.7225,-122.5458333,7.55,1.24,md,26.0,102.0,0.09183,0.04,nc,nc73905616,2023-06-27T10:59:22.059Z,"4km WSW of San Francisco Zoo, CA",earthquake,0.29,0.59,0.171,21.0,reviewed,nc,nc
 2023-06-26T14:33:45.890Z,37.6705,-122.4936667,7.62,1.19,md,22.0,90.0,0.0116,0.06,nc,nc73905601,2023-06-27T10:57:21.721Z,"3km WSW of Colma, CA",earthquake,0.25,0.34,0.127,14.0,reviewed,nc,nc
 2023-06-27T10:33:04.940Z,37.4071667,-119.9928333,16.49,2.18,md,18.0,63.0,0.1655,0.13,nc,nc73905931,2023-06-27T11:30:54.850Z,"9km SSW of Mariposa, CA",earthquake,0.26,0.47,0.193,27.0,reviewed,nc,nc
+2023-06-27T11:38:48.720Z,33.5056667,-116.7858333,6.51,0.62,ml,24.0,59.0,0.01385,0.13,ci,ci40496784,2023-06-27T11:42:17.125Z,"10km NE of Aguanga, CA",earthquake,0.21,0.44,0.177,15.0,automatic,ci,ci
+2023-06-27T10:55:56.469Z,6.8378,-73.1563,152.065,4.5,mb,79.0,74.0,0.942,0.53,us,us6000kndk,2023-06-27T11:40:54.040Z,northern Colombia,earthquake,7.13,8.673,0.04,182.0,reviewed,us,us
