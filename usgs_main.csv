@@ -21336,3 +21336,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-27T14:01:24.080Z,40.7325,-121.1856667,13.52,2.04,md,29.0,85.0,0.1181,0.24,nc,nc73905976,2023-06-27T23:00:10.362Z,"37km SE of Fall River Mills, CA",earthquake,0.44,0.88,0.149,27.0,reviewed,nc,nc
 2023-06-27T05:03:50.288Z,37.5197,-118.6119,2.8,1.3,ml,9.0,176.85,0.209,0.1855,nn,nn00861834,2023-06-27T22:59:13.240Z,"3 km ENE of Swall Meadows, California",earthquake,,2.7,0.44,7.0,reviewed,nn,nn
 2023-06-27T04:25:24.040Z,39.6269,-119.6433,11.3,0.5,ml,6.0,109.33,0.216,0.1445,nn,nn00861833,2023-06-27T22:53:01.093Z,"6 km ESE of Spanish Springs, Nevada",earthquake,,8.5,0.32,3.0,reviewed,nn,nn
+2023-06-27T23:12:05.693Z,59.5269,-152.4551,78.7,1.6,ml,,,,0.39,ak,ak02386rfbrx,2023-06-27T23:14:39.929Z,Southern Alaska,earthquake,,1.7,,,automatic,ak,ak
+2023-06-27T23:10:44.150Z,33.9218333,-117.4048333,5.24,1.04,ml,19.0,102.0,0.0268,0.28,ci,ci40497592,2023-06-27T23:14:17.044Z,"3km SSW of Riverside, CA",earthquake,0.56,1.11,0.272,29.0,automatic,ci,ci
+2023-06-27T20:09:11.550Z,38.8336667,-122.7898333,1.31,0.36,md,9.0,72.0,0.004752,0.01,nc,nc73906096,2023-06-27T23:15:24.178Z,"6km WNW of Cobb, CA",earthquake,0.4,1.1,0.159,9.0,reviewed,nc,nc
+2023-06-27T19:25:37.590Z,38.8455,-122.8808333,2.77,-0.05,md,13.0,107.0,0.007549,0.03,nc,nc73906071,2023-06-27T23:12:54.005Z,"13km ENE of Cloverdale, CA",earthquake,0.29,0.33,0.243,13.0,reviewed,nc,nc
+2023-06-27T06:54:22.051Z,39.6332,-119.6464,12.4,-0.1,ml,3.0,195.2,0.216,0.0805,nn,nn00861836,2023-06-27T23:14:43.781Z,"5 km ESE of Spanish Springs, Nevada",earthquake,,10.1,0.39,3.0,reviewed,nn,nn
+2023-06-27T05:18:10.752Z,37.5198,-118.6042,0.0,1.4,ml,10.0,173.92,0.215,0.175,nn,nn00861835,2023-06-27T23:11:36.790Z,"3 km ENE of Swall Meadows, California",earthquake,,3.1,0.53,7.0,reviewed,nn,nn
