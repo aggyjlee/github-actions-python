@@ -21213,3 +21213,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-27T09:59:52.370Z,36.5438347,-121.1238327,3.1,2.27,md,21.0,110.0,0.05684,0.06,nc,nc73905911,2023-06-27T10:06:12.579Z,"2km NE of Pinnacles, CA",earthquake,0.25,1.07,0.18,22.0,automatic,nc,nc
 2023-06-27T09:38:15.210Z,19.1976666666667,-67.494,12.88,3.41,md,11.0,248.0,0.809,0.48,pr,pr71414833,2023-06-27T10:03:38.730Z,"88 km NNW of San Antonio, Puerto Rico",earthquake,3.41,5.15,0.0268434491462313,9.0,reviewed,pr,pr
 2023-06-27T09:21:36.170Z,18.5976666666667,-65.393,74.57,3.22,md,8.0,214.0,0.3071,0.11,pr,pr71414828,2023-06-27T09:55:28.690Z,"34 km NNW of Culebra, Puerto Rico",earthquake,1.81,1.38,0.115874432706493,4.0,reviewed,pr,pr
+2023-06-27T10:09:48.160Z,33.9948333,-116.791,17.98,1.57,ml,54.0,52.0,0.04256,0.19,ci,ci40496776,2023-06-27T10:13:23.174Z,"9km N of Cabazon, CA",earthquake,0.2,0.43,0.194,26.0,automatic,ci,ci
+2023-06-27T10:02:21.666Z,-30.1304,-71.3012,65.363,4.6,mwr,60.0,121.0,0.218,0.54,us,us6000knd9,2023-06-27T10:24:47.040Z,"19 km S of Coquimbo, Chile",earthquake,2.17,5.276,,,reviewed,us,guc
