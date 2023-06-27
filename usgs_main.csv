@@ -21278,3 +21278,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-27T15:27:41.530Z,37.5641667,-113.0583333,11.49,0.9,md,6.0,196.0,0.03885,0.1,uu,uu60544122,2023-06-27T15:53:14.480Z,Utah,earthquake,0.64,0.61,0.19,4.0,reviewed,uu,uu
 2023-06-27T16:12:07.394Z,63.5115,-151.2612,2.6,1.3,ml,,,,0.41,ak,ak02386n9aqr,2023-06-27T16:13:55.524Z,"23 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-27T16:11:14.460Z,33.5343333,-116.5373333,14.14,0.92,ml,42.0,31.0,0.0655,0.24,ci,ci40497048,2023-06-27T16:14:48.324Z,"13km E of Anza, CA",earthquake,0.27,0.46,0.142,27.0,automatic,ci,ci
+2023-06-27T16:50:21.973Z,63.3097,-145.325,7.5,1.5,ml,,,,0.22,ak,ak02386nhh2t,2023-06-27T16:52:03.328Z,Central Alaska,earthquake,,0.3,,,automatic,ak,ak
+2023-06-27T16:44:59.439Z,63.3178,-145.3709,0.7,1.9,ml,,,,0.71,ak,ak02386ng9o7,2023-06-27T16:47:08.349Z,"28 km NNE of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-06-27T14:16:02.040Z,33.4658333,-116.5763333,8.83,0.22,ml,10.0,276.0,0.036,0.09,ci,ci40496912,2023-06-27T16:47:39.687Z,"13km SE of Anza, CA",earthquake,0.4,0.39,0.083,3.0,reviewed,ci,ci
