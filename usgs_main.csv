@@ -21236,3 +21236,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-27T09:54:57.960Z,19.248,-67.576,25.0,3.61,md,16.0,271.0,0.869,0.42,pr,pr2023178001,2023-06-27T12:39:34.384Z,"97 km NNW of San Antonio, Puerto Rico",earthquake,1.73,27.8,0.04,11.0,reviewed,pr,pr
 2023-06-27T13:12:56.110Z,33.9813347,-117.1709976,16.29,1.22,ml,37.0,123.0,0.0339,0.15,ci,ci40496840,2023-06-27T13:15:11.463Z,"8km NE of Moreno Valley, CA",earthquake,0.36,0.7,0.308,6.0,automatic,ci,ci
 2023-06-27T13:12:06.540Z,33.493,-116.4398333,13.93,0.55,ml,10.0,146.0,0.1191,0.13,ci,ci40496832,2023-06-27T13:15:52.410Z,"22km SSW of La Quinta, CA",earthquake,0.46,0.95,0.141,13.0,automatic,ci,ci
+2023-06-27T13:17:41.897Z,61.3156,-146.6517,19.9,1.4,ml,,,,0.97,ak,ak02386li565,2023-06-27T13:19:43.541Z,"26 km NW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-06-27T04:57:44.980Z,44.76,-110.7768333,8.12,1.11,ml,10.0,183.0,0.05963,0.09,uu,uu60544112,2023-06-27T13:16:35.410Z,"24 km SSW of Mammoth, Wyoming",earthquake,0.58,1.34,0.379,3.0,reviewed,uu,uu
