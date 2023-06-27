@@ -21238,3 +21238,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-27T13:12:06.540Z,33.493,-116.4398333,13.93,0.55,ml,10.0,146.0,0.1191,0.13,ci,ci40496832,2023-06-27T13:15:52.410Z,"22km SSW of La Quinta, CA",earthquake,0.46,0.95,0.141,13.0,automatic,ci,ci
 2023-06-27T13:17:41.897Z,61.3156,-146.6517,19.9,1.4,ml,,,,0.97,ak,ak02386li565,2023-06-27T13:19:43.541Z,"26 km NW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-27T04:57:44.980Z,44.76,-110.7768333,8.12,1.11,ml,10.0,183.0,0.05963,0.09,uu,uu60544112,2023-06-27T13:16:35.410Z,"24 km SSW of Mammoth, Wyoming",earthquake,0.58,1.34,0.379,3.0,reviewed,uu,uu
+2023-06-27T13:34:03.516Z,63.0796,-151.4261,0.0,1.3,ml,,,,1.03,ak,ak02386llpdr,2023-06-27T13:36:41.728Z,"53 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
