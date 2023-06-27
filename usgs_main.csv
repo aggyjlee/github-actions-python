@@ -21311,3 +21311,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-27T20:18:00.408Z,61.0646,-152.3978,107.5,1.5,ml,,,,0.21,ak,ak02386poax4,2023-06-27T20:19:41.784Z,"68 km W of Tyonek, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-06-27T20:14:47.804Z,60.0282,-141.7332,0.0,1.8,ml,,,,0.9,ak,ak02386pnjpo,2023-06-27T20:17:17.874Z,"124 km WNW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-27T19:54:08.630Z,44.6801667,-110.056,12.5,0.83,md,5.0,162.0,0.09319,0.17,uu,uu60544152,2023-06-27T20:10:52.800Z,"36 km S of Silver Gate, Montana",earthquake,0.91,1.86,0.365,4.0,reviewed,uu,uu
+2023-06-27T20:18:51.743Z,-22.0253,-63.6675,532.097,4.4,mb,80.0,19.0,3.456,0.81,us,us6000knhu,2023-06-27T20:44:28.040Z,"Salta, Argentina",earthquake,11.29,7.39,0.057,89.0,reviewed,us,us
+2023-06-27T19:07:40.290Z,33.831,-117.7308333,8.25,0.95,ml,9.0,119.0,0.04883,0.13,ci,ci40497304,2023-06-27T20:43:13.476Z,"8km ENE of Villa Park, CA",earthquake,0.41,0.96,0.069,3.0,reviewed,ci,ci
+2023-06-27T02:58:11.353Z,44.3185,-115.182,20.977,2.7,ml,36.0,105.0,0.818,0.44,us,us6000knc5,2023-06-27T20:50:32.040Z,"22 km WNW of Stanley, Idaho",earthquake,2.19,2.164,0.039,88.0,reviewed,us,us
