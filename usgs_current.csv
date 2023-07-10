@@ -217,4 +217,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-09T10:46:00.230Z,38.7506676,-122.7330017,1.54,0.95,md,10,150,0.009245,0.02,nc,nc73910666,2023-07-09T11:34:13.883Z,"4km SE of The Geysers, CA",earthquake,0.3,0.47,0.2,9,automatic,nc,nc
 2023-07-09T10:45:15.390Z,38.8361667,-122.7858333,1.77,0.36,md,15,73,0.004174,0.03,nc,nc73910661,2023-07-09T23:51:15.488Z,"6km WNW of Cobb, CA",earthquake,0.3,0.65,0.155,13,reviewed,nc,nc
 2023-07-09T10:43:57.310Z,38.7783318,-122.7580032,0.98,1.12,md,12,84,0.01734,0.01,nc,nc73910656,2023-07-09T13:31:13.743Z,"0km NW of The Geysers, CA",earthquake,0.24,0.54,0.34,11,automatic,nc,nc
-2023-07-09T10:32:43.600Z,33.4813333,-116.5235,7.58,0.43,ml,15,88,0.06711,0.16,ci,ci39608186,2023-07-09T13:12:59.346Z,"16km ESE of Anza, CA",earthquake,0.29,0.92,0.115,9,reviewed,ci,ci
