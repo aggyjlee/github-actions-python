@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-07-10T14:31:18.309Z,35.4691925,-98.03211975,1.026510596,2.5,ml,30,68.65484619,0.04485112429,0.7182971374,ok,ok2023nkgi,2023-07-10T14:33:01.141Z,"9 km SW of El Reno, Oklahoma",earthquake,2.349187568,1.825455184,0.38,5,automatic,ok,ok
+2023-07-10T14:31:18.484Z,35.47109985,-98.02959442,0.3283735216,2.63,ml,36,67.86877441,0.04669562727,0.6937896288,ok,ok2023nkgi,2023-07-10T14:35:18.946Z,"9 km SW of El Reno, Oklahoma",earthquake,2.093938719,1.599395014,0.23,32,automatic,ok,ok
 2023-07-10T14:23:53.940Z,33.4888333,-116.4683333,15.24,0.53,ml,19,102,0.112,0.21,ci,ci39608730,2023-07-10T14:27:21.101Z,"20km ESE of Anza, CA",earthquake,0.48,1.35,0.157,13,automatic,ci,ci
 2023-07-10T13:43:32.625Z,59.6268,-152.8591,100.5,2.1,ml,,,,0.52,ak,ak0238s3n7he,2023-07-10T13:45:04.360Z,"60 km WSW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-10T13:31:46.432Z,60.6599,-150.8996,42.3,1.5,ml,,,,0.42,ak,ak0238s3knyr,2023-07-10T13:33:22.740Z,"15 km NNW of Sterling, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -30,7 +30,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-10T10:22:33.860Z,35.7903328,-121.2301636,5.95,0.92,md,7,215,0.1245,0.09,nc,nc73911056,2023-07-10T11:45:13.669Z,"17km NNW of San Simeon, CA",earthquake,1.23,2.56,0.18,5,automatic,nc,nc
 2023-07-10T10:11:08.060Z,33.1403333,-116.6226667,4.9,0.5,ml,9,129,0.06218,0.14,ci,ci39608602,2023-07-10T10:14:32.483Z,"7km NNW of Julian, CA",earthquake,0.35,0.47,0.064,6,automatic,ci,ci
 2023-07-10T10:08:27.229Z,58.1728,-155.4051,4,0,ml,,,,0.27,ak,ak0238s1ne76,2023-07-10T10:09:33.981Z,"87 km NW of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-07-10T10:04:21.649Z,35.46766667,-98.03366667,5.46,1.42,ml,86,69,0.04319152435,0.46,ok,ok2023njxn,2023-07-10T12:33:08.155Z,"10 km SW of El Reno, Oklahoma",earthquake,,0.9,0.23,40,reviewed,ok,ok
+2023-07-10T10:04:21.649Z,35.46766667,-98.03366667,5.46,1.42,ml,86,69,0.04319152435,0.46,ok,ok2023njxn,2023-07-10T14:40:19.209Z,"10 km SW of El Reno, Oklahoma",earthquake,,0.9,0.23,40,reviewed,ok,ok
 2023-07-10T09:49:13.947Z,62.1752,-145.5224,27.7,1.2,ml,,,,0.42,ak,ak0238s1apxe,2023-07-10T09:50:42.782Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-10T09:39:03.870Z,36.02783333,-97.91666667,3.03,1.47,ml,81,39,0.09358163609,0.21,ok,ok2023njwr,2023-07-10T13:53:36.507Z,"5 km N of Dover, Oklahoma",earthquake,,0.5,0.24,44,reviewed,ok,ok
 2023-07-10T09:33:03.953Z,60.2555,-152.6981,110.9,1.6,ml,,,,0.27,ak,ak0238s179p7,2023-07-10T09:34:55.106Z,"61 km WNW of Ninilchik, Alaska",earthquake,,0.3,,,automatic,ak,ak
