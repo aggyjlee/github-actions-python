@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-15T23:32:21.864Z,31.6879,-104.5607,3.889,2.8,ml,29,85,0.055,0.72,us,us7000kg15,2023-07-15T23:50:53.040Z,"56 km SSW of Whites City, New Mexico",earthquake,1.36,3.229,0.049,54,reviewed,us,us
 2023-07-15T23:17:20.933Z,64.9924,-147.397,1.5,1.6,ml,,,,1.01,ak,ak02390j4ohp,2023-07-15T23:20:18.212Z,"11 km ENE of Fox, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-15T23:08:40.410Z,38.8381653,-122.8073349,2.15,0.74,md,17,54,0.01327,0.02,nc,nc73913456,2023-07-15T23:26:13.118Z,"8 km WNW of Cobb, CA",earthquake,0.23,0.65,0.27,18,automatic,nc,nc
 2023-07-15T23:00:35.953Z,58.1756,-155.5618,23.6,0.6,ml,,,,0.68,ak,ak02390j12h7,2023-07-15T23:01:59.927Z,"85 km SE of King Salmon, Alaska",earthquake,,2.3,,,automatic,ak,ak
