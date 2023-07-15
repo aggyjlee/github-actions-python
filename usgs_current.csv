@@ -4,7 +4,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-15T12:29:16.680Z,38.7786674,-122.7303314,1.06,1.26,md,20,75,0.006767,0.04,nc,nc73913246,2023-07-15T12:40:11.222Z,"2 km E of The Geysers, CA",earthquake,0.23,0.5,0.22,15,automatic,nc,nc
 2023-07-15T12:22:39.940Z,38.8358345,-122.7836685,1.12,0.74,md,7,98,0.005813,0.01,nc,nc73913236,2023-07-15T12:42:16.235Z,"6 km WNW of Cobb, CA",earthquake,0.72,1.17,0.11,9,automatic,nc,nc
 2023-07-15T12:21:58.236Z,62.5927,-148.9567,0,1.5,ml,,,,0.72,ak,ak02390clukv,2023-07-15T12:23:47.692Z,"61 km ENE of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-07-15T12:10:26.740Z,38.8346672,-122.7801666,1.74,1.75,md,35,49,0.008452,0.05,nc,nc73913231,2023-07-15T12:31:14.164Z,"5 km WNW of Cobb, CA",earthquake,0.2,0.29,0.13,28,automatic,nc,nc
+2023-07-15T12:10:26.740Z,38.8346672,-122.7801666,1.74,1.75,md,35,49,0.008452,0.05,nc,nc73913231,2023-07-15T12:53:11.308Z,"5 km WNW of Cobb, CA",earthquake,0.2,0.29,0.13,28,automatic,nc,nc
 2023-07-15T12:04:49.080Z,19.1888332366943,-155.49333190918,32.9199981689453,1.89,ml,38,81,,0.109999999,hv,hv73482582,2023-07-15T12:10:21.250Z,"2 km SW of Pāhala, Hawaii",earthquake,0.57,0.879999995,4.43,4,automatic,hv,hv
 2023-07-15T12:03:22.696Z,61.702,-149.7923,34.9,2.1,ml,,,,0.34,ak,ak02390chwy5,2023-07-15T12:04:54.119Z,"8 km N of Houston, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-15T11:48:58.230Z,38.7286682,-122.918335,5.41,1.51,md,31,93,0.06898,0.05,nc,nc73913226,2023-07-15T12:27:11.139Z,"12 km SE of Cloverdale, CA",earthquake,0.25,0.95,0.24,29,automatic,nc,nc
@@ -220,4 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-14T13:37:12.460Z,46.19083333333333,-122.207,3.34,0.12,ml,8,148,0.01435,0.08,uw,uw61931647,2023-07-14T17:46:06.010Z,"36 km NNE of Amboy, Washington",earthquake,0.95,1.65,0.2739940600533352,5,reviewed,uw,uw
 2023-07-14T13:13:59.370Z,38.838665,-122.8249969,1.35,1.06,md,12,91,0.01602,0.03,nc,nc73912896,2023-07-14T15:44:18.698Z,"9 km WNW of Cobb, CA",earthquake,0.29,0.57,0.25,13,automatic,nc,nc
 2023-07-14T13:13:13.120Z,36.605,-121.0638333,14.2,1.25,md,18,204,0.03289,0.09,nc,nc73912891,2023-07-15T02:16:14.543Z,"11 km NE of Pinnacles, CA",earthquake,0.84,0.43,0.178,19,reviewed,nc,nc
-2023-07-14T12:56:12.880Z,19.201000213623,-155.378494262695,31.1100006103516,2.11,ml,43,165,,0.109999999,hv,hv73481202,2023-07-14T13:01:43.440Z,"10 km E of Pāhala, Hawaii",earthquake,0.52,0.74000001,0.19,7,automatic,hv,hv
