@@ -219,5 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-19T09:52:57.240Z,38.4981667,-112.8745,2.05,-0.61,md,7,104,0.003602,0.04,uu,uu60545707,2023-07-19T13:35:56.680Z,"16 km NE of Milford, Utah",earthquake,0.53,0.86,0.515,2,reviewed,uu,uu
 2023-07-19T09:28:02.749Z,60.2659,-151.7879,31.1,1.2,ml,,,,0.74,ak,ak02396x0bgy,2023-07-19T09:30:01.694Z,"22 km W of Clam Gulch, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-07-19T09:26:46.471Z,12.6636,-88.2762,57.144,4.4,mb,77,177,0.802,0.62,us,us7000kgt5,2023-07-19T09:47:21.040Z,"63 km SSW of Chirilagua, El Salvador",earthquake,7.17,10.367,0.064,72,reviewed,us,us
-2023-07-19T09:24:18.680Z,19.2595,-155.774,-1.19,3.23,ml,50,108,,0.22,hv,hv73488412,2023-07-20T04:05:46.820Z,"Island of Hawaii, Hawaii",earthquake,0.31,0.18,0.150457080382164,35,reviewed,hv,hv
-2023-07-19T09:23:19.430Z,47.72533333333333,-121.94033333333333,21.12,0.26,md,4,169,0.06012,0.04,uw,uw61933147,2023-07-20T04:49:12.420Z,"3 km ESE of Duvall, Washington",earthquake,0.94,1.31,0.0019915549431293034,3,reviewed,uw,uw
