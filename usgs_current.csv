@@ -32,7 +32,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-27T00:37:08.450Z,37.63,-118.8418333,4.38,0.23,md,8,94,0.004596,0.04,nc,nc73917171,2023-07-27T04:54:02.288Z,"12 km E of Mammoth Lakes, CA",earthquake,1.67,1.17,0.194,8,reviewed,nc,nc
 2023-07-27T00:33:53.877Z,61.3452,-148.1115,8.4,1.6,ml,,,,0.79,ak,ak0239jzzdi3,2023-07-27T00:36:07.856Z,"44 km ESE of Knik River, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-27T00:28:58.330Z,-16.2553,-172.8859,10,5.5,mww,143,37,3.001,1.26,us,us6000kvtk,2023-07-27T03:19:44.352Z,"102 km ESE of Hihifo, Tonga",earthquake,7.28,1.762,0.098,10,reviewed,us,us
-2023-07-27T00:23:16.020Z,37.6346667,-118.8426667,5.91,0.69,md,11,90,0.006314,0.06,nc,nc73917166,2023-07-27T04:51:31.841Z,"12 km E of Mammoth Lakes, CA",earthquake,0.56,1.23,0.126,10,reviewed,nc,nc
+2023-07-27T00:23:16.020Z,37.6346667,-118.8426667,5.91,0.69,md,11,90,0.006314,0.06,nc,nc73917166,2023-07-27T05:35:17.518Z,"12 km E of Mammoth Lakes, CA",earthquake,0.56,1.23,0.126,10,reviewed,nc,nc
 2023-07-27T00:16:25.126Z,60.5976,-141.7446,17,2.1,ml,,,,0.45,ak,ak0239jzvo40,2023-07-27T00:17:57.064Z,"112 km SE of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-26T23:59:26.640Z,47.69,-120.25733333333334,3.3,0.22,ml,6,115,0.03308,0.02,uw,uw61944246,2023-07-27T01:41:35.830Z,"3 km WNW of Entiat, Washington",earthquake,0.21,0.65,0.09661700595586442,3,reviewed,uw,uw
 2023-07-26T23:53:56.750Z,38.7538333,-122.7146667,1.41,0.38,md,11,100,0.01112,0.02,nc,nc73917161,2023-07-27T05:18:35.023Z,"3 km SW of Anderson Springs, CA",earthquake,0.3,0.52,0.202,6,reviewed,nc,nc
@@ -246,4 +246,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-26T05:55:01.770Z,36.28033333,-97.49966667,7.97,1.52,ml,91,26,0.06478728652,0.23,ok,ok2023omvi,2023-07-26T12:06:40.059Z,"4 km W of Lucien, Oklahoma",earthquake,,0.5,0.25,41,reviewed,ok,ok
 2023-07-26T05:49:17.110Z,33.4955,-116.7658333,8.19,0.32,ml,27,71,0.03339,0.11,ci,ci39622354,2023-07-26T18:19:02.051Z,"11km SW of Anza, CA",earthquake,0.15,0.31,0.129,8,reviewed,ci,ci
 2023-07-26T05:42:52.950Z,33.4613333,-116.5673333,8.58,0.49,ml,30,78,0.04423,0.15,ci,ci39622346,2023-07-26T18:14:02.952Z,"14km SE of Anza, CA",earthquake,0.22,0.4,0.159,11,reviewed,ci,ci
-2023-07-26T05:37:10.176Z,58.1751,-155.411,0,1.6,ml,,,,0.46,ak,ak0239iffyix,2023-07-26T05:38:53.374Z,"88 km NW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
