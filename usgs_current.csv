@@ -11,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-06T14:17:52.981Z,-55.7194,-27.0998,29.729,5.7,mww,78,67,5.592,0.77,us,us6000kya4,2023-08-06T14:41:34.022Z,"South Sandwich Islands region",earthquake,10.93,5.369,0.098,10,reviewed,us,us
 2023-08-06T14:11:33.820Z,38.8511658,-122.7838364,0.94,0.68,md,8,183,0.01034,0.03,nc,nc73921051,2023-08-06T14:52:14.606Z,"6 km WNW of Cobb, CA",earthquake,0.52,0.8,0.28,8,automatic,nc,nc
 2023-08-06T14:10:55.450Z,38.8440018,-122.8324966,1.99,0.89,md,8,155,0.005888,0.02,nc,nc73921046,2023-08-06T14:41:17.532Z,"10 km WNW of Cobb, CA",earthquake,0.53,0.97,0.21,9,automatic,nc,nc
-2023-08-06T14:10:29.400Z,38.7955017,-122.7676697,3.9,0.75,md,8,80,0.008052,0.01,nc,nc73921041,2023-08-06T14:29:18.610Z,"2 km NNW of The Geysers, CA",earthquake,0.58,1.62,0.04,9,automatic,nc,nc
+2023-08-06T14:10:29.400Z,38.7955017,-122.7676697,3.9,0.75,md,8,80,0.008052,0.01,nc,nc73921041,2023-08-06T15:25:14.799Z,"2 km NNW of The Geysers, CA",earthquake,0.58,1.62,0.04,9,automatic,nc,nc
 2023-08-06T14:01:14.682Z,14.0282,144.832,164.025,4.4,mb,50,103,0.438,0.53,us,us6000kya1,2023-08-06T14:23:52.040Z,"Rota region, Northern Mariana Islands",earthquake,10.73,5.877,0.079,46,reviewed,us,us
 2023-08-06T13:55:33.767Z,61.3589,-151.3748,72.9,1.4,ml,,,,0.75,ak,ak023a0r85i8,2023-08-06T13:57:49.223Z,"Southern Alaska",earthquake,,1,,,automatic,ak,ak
 2023-08-06T13:43:37.530Z,36.0308333,-117.8086667,0.43,1.01,ml,7,104,0.04824,0.15,ci,ci40530808,2023-08-06T13:47:04.641Z,"13 km E of Coso Junction, CA",earthquake,0.55,0.61,0.059,5,automatic,ci,ci
