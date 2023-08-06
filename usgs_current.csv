@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-06T18:39:03.455Z,61.8825,-151.3915,73.7,1.9,ml,,,,0.44,ak,ak023a0u3tqh,2023-08-06T18:41:05.316Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-06T18:16:12.770Z,35.9713333,-117.506,-0.23,1.51,ml,20,102,0.1977,0.21,ci,ci40530920,2023-08-06T18:19:48.078Z,"24 km NNW of Searles Valley, CA",earthquake,0.5,31.61,0.142,12,automatic,ci,ci
+2023-08-06T18:14:22.551Z,-8.4569,116.7018,10,4.8,mb,15,93,1.125,0.45,us,us6000kyb6,2023-08-06T18:41:42.040Z,"Lombok region, Indonesia",earthquake,6.63,1.926,0.278,4,reviewed,us,us
 2023-08-06T18:12:41.634Z,30.7637,131.3898,13.247,5.5,mww,100,60,1.095,0.75,us,us6000kyb4,2023-08-06T18:38:31.386Z,"Kyushu, Japan",earthquake,6.15,4.154,0.059,28,reviewed,us,us
 2023-08-06T17:59:47.940Z,19.32200050354,-155.200164794922,3.63000011444092,1.83,ml,28,136,,0.170000002,hv,hv73512562,2023-08-06T18:05:19.210Z,"13 km SSE of Volcano, Hawaii",earthquake,0.46,2.11999989,0.27,5,automatic,hv,hv
 2023-08-06T17:46:37.775Z,60.0791,-153.0396,106.4,1.6,ml,,,,0.29,ak,ak023a0tjysh,2023-08-06T17:48:53.809Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
