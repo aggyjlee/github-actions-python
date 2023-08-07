@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-07T21:15:34.850Z,33.4926667,-116.7546667,6.87,1,ml,35,34,0.04612,0.22,ci,ci40531512,2023-08-07T21:19:12.837Z,"10 km SW of Anza, CA",earthquake,0.26,0.72,0.123,24,automatic,ci,ci
 2023-08-07T20:54:46.867Z,60.0809,-151.9947,90.7,1.8,ml,,,,0.28,ak,ak023a2ixcj2,2023-08-07T20:56:53.942Z,"Kenai Peninsula, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-07T20:53:06.046Z,36.8443,-116.0914,9.9,0.2,ml,9,204.36,0.084,0.0468,nn,nn00864083,2023-08-07T20:55:02.717Z,"48 km NW of Indian Springs, Nevada",earthquake,,1.9,0.94,5,automatic,nn,nn
 2023-08-07T20:51:17.548Z,60.416,-151.0053,46.2,1.9,ml,,,,0.4,ak,ak023a2iwn4a,2023-08-07T20:52:57.365Z,"8 km SSE of Soldotna, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -93,7 +94,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-07T09:14:14.668Z,36.1003,142.072,31.045,4.6,mb,24,168,3.15,0.9,us,us6000kye7,2023-08-07T12:59:22.040Z,"off the east coast of Honshu, Japan",earthquake,8.64,7.416,0.181,9,reviewed,us,us
 2023-08-07T09:07:43.561Z,65.686,-145.1527,6.1,1,ml,,,,0.8,ak,ak023a2c3hys,2023-08-07T09:09:29.039Z,"20 km NW of Central, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-07T09:02:20.340Z,33.564,-116.8086667,6.58,0.26,ml,15,91,0.04755,0.09,ci,ci40531128,2023-08-07T16:20:24.040Z,"13 km W of Anza, CA",earthquake,0.2,0.36,0.139,5,reviewed,ci,ci
-2023-08-07T08:43:04.430Z,40.4401667,-123.5406667,31.41,1.79,md,25,60,0.0458,0.12,nc,nc73921366,2023-08-07T21:10:32.128Z,"33 km WSW of Hayfork, CA",earthquake,0.36,0.63,0.196,19,reviewed,nc,nc
+2023-08-07T08:43:04.430Z,40.4401667,-123.5406667,31.41,1.79,md,25,60,0.0458,0.12,nc,nc73921366,2023-08-07T21:15:11.556Z,"33 km WSW of Hayfork, CA",earthquake,0.36,0.63,0.196,19,reviewed,nc,nc
 2023-08-07T08:39:25.700Z,33.5151667,-116.5616667,14.09,1,ml,50,68,0.03948,0.16,ci,ci40531112,2023-08-07T16:14:56.250Z,"11 km ESE of Anza, CA",earthquake,0.18,0.27,0.16,23,reviewed,ci,ci
 2023-08-07T08:13:02.570Z,61.3531,-146.6924,25.6,1.4,ml,,,,0.47,ak,ak023a2bj9ht,2023-08-07T08:15:06.080Z,"30 km NW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-07T08:08:05.050Z,19.4048333333333,-155.286166666667,1.49,2.05,ml,25,31,,0.1,hv,hv73513647,2023-08-07T20:17:34.840Z,"6 km SW of Volcano, Hawaii",earthquake,0.15,0.15,0.164228447791232,13,reviewed,hv,hv
@@ -172,7 +173,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-06T23:22:59.136Z,62.9713,-150.4873,94.5,1.2,ml,,,,0.45,ak,ak023a0wzfqx,2023-08-07T04:28:22.894Z,"Central Alaska",earthquake,,1,,,reviewed,ak,ak
 2023-08-06T23:19:57.283Z,31.63106963,-104.5015912,6.671435547,1.8,ml,25,139,0.03760115906,0.2,tx,tx2023pigi,2023-08-07T18:40:03.075Z,"western Texas",earthquake,1.359231429,1.00222574,0,7,reviewed,tx,tx
 2023-08-06T23:18:59.620Z,19.3228333333333,-155.240666666667,4.5,2.22,ml,44,123,,0.12,hv,hv73513152,2023-08-07T20:43:59.310Z,"13 km S of Volcano, Hawaii",earthquake,0.25,0.75,0.162381165676598,23,reviewed,hv,hv
-2023-08-06T23:16:32.440Z,19.4201666666667,-155.275666666667,-0.21,2.03,ml,17,78,,0.12,hv,hv73513147,2023-08-07T18:47:54.000Z,"Hawaii region, Hawaii",earthquake,0.15,0.14,0.130499409825823,14,reviewed,hv,hv
+2023-08-06T23:16:32.440Z,19.4173333333333,-155.2775,-0.18,2,ml,19,67,,0.1,hv,hv73513147,2023-08-07T21:17:11.480Z,"5 km WSW of Volcano, Hawaii",earthquake,0.12,0.16,0.14084473844371,15,reviewed,hv,hv
 2023-08-06T22:49:15.010Z,19.3806666666667,-155.283,1.28,2.24,ml,19,80,,0.1,hv,hv73513092,2023-08-07T18:51:55.190Z,"8 km SW of Volcano, Hawaii",earthquake,0.15,0.16,0.158627083820069,13,reviewed,hv,hv
 2023-08-06T22:48:20.620Z,36.5698318,-121.1941681,6.48,2.13,md,27,75,,0.28,nc,nc73921201,2023-08-07T01:18:17.472Z,"6 km NW of Pinnacles, CA",earthquake,0.56,2.97,0.17,23,automatic,nc,nc
 2023-08-06T22:47:57.670Z,44.1135,-115.058166666667,5.81,2.42,ml,12,129,0.7217,0.14,mb,mb90023743,2023-08-07T20:52:57.170Z,"14 km SW of Stanley, Idaho",earthquake,0.37,0.9,0.198739363855858,21,reviewed,mb,mb
