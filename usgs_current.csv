@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-08T18:28:43.440Z,33.1936684,-116.2890015,10.38,0.97,ml,18,89,0.1306,0.2,ci,ci40531960,2023-08-08T18:30:49.131Z,"11 km SE of Borrego Springs, CA",earthquake,0.39,1.13,0.314,4,automatic,ci,ci
 2023-08-08T18:21:26.530Z,38.8188324,-122.7965012,2.25,0.76,md,13,66,0.01089,0.01,nc,nc73921886,2023-08-08T18:22:59.970Z,"6 km NW of The Geysers, CA",earthquake,0.32,0.73,0.11,13,automatic,nc,nc
 2023-08-08T18:21:16.328Z,61.6908,-148,31.9,1.2,ml,,,,0.63,ak,ak023a452ots,2023-08-08T18:23:31.151Z,"22 km SW of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-08-08T18:21:01.800Z,32.4218333,-115.0163333,12.8,2.7,ml,11,145,0.0451,0.21,ci,ci40531952,2023-08-08T18:24:57.133Z,"13 km SW of Hermosillo, B.C., MX",earthquake,0.76,1.2,0.127,27,automatic,ci,ci
+2023-08-08T18:21:01.800Z,32.4218333,-115.0163333,12.8,2.7,ml,11,145,0.0451,0.21,ci,ci40531952,2023-08-08T18:25:12.136Z,"13 km SW of Hermosillo, B.C., MX",earthquake,0.76,1.2,0.127,27,automatic,ci,ci
 2023-08-08T18:00:12.340Z,61.6863,-149.563,26.7,1.4,ml,,,,0.55,ak,ak023a44y6he,2023-08-08T18:02:14.913Z,"7 km NNE of Meadow Lakes, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-08T17:59:24.190Z,19.5496666666667,-155.286666666667,26.36,2.69,ml,25,200,,0.1,hv,hv73516007,2023-08-08T18:13:49.100Z,"13 km NNW of Volcano, Hawaii",earthquake,1,0.66,0.181586430715578,23,reviewed,hv,hv
 2023-08-08T17:59:06.110Z,38.824501,-122.8030014,2.42,1.29,md,26,33,0.005634,0.02,nc,nc73921881,2023-08-08T18:10:10.681Z,"7 km NW of The Geysers, CA",earthquake,0.2,0.43,0.11,28,automatic,nc,nc
@@ -9,6 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-08T17:45:31.240Z,38.8086662,-122.8131638,3.02,1.09,md,26,56,0.01251,0.02,nc,nc73921871,2023-08-08T17:47:05.830Z,"6 km NW of The Geysers, CA",earthquake,0.22,0.43,0.12,28,automatic,nc,nc
 2023-08-08T17:41:16.260Z,60.3842,-153.2067,0,2.5,ml,,,,1.11,ak,ak023a44ljje,2023-08-08T17:44:16.771Z,"64 km ENE of Port Alsworth, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-08-08T17:39:13.016Z,62.9841,-150.7073,103.3,0.9,ml,,,,0.23,ak,ak023a44l3ut,2023-08-08T17:40:48.594Z,"54 km N of Petersville, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2023-08-08T17:38:27.284Z,31.6773,-104.4154,9.197,2.7,ml,29,75,0.073,0.59,us,us6000kyp1,2023-08-08T18:26:29.040Z,"55 km S of Whites City, New Mexico",earthquake,1.91,6.196,0.05,86,reviewed,us,us
 2023-08-08T17:34:15.784Z,63.0215,-151.6261,5.7,1.1,ml,,,,0.65,ak,ak023a44k1hm,2023-08-08T17:37:11.408Z,"58 km S of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-08T17:28:41.225Z,61.4793,-150.2409,49.7,1.4,ml,,,,0.34,ak,ak023a44it5m,2023-08-08T17:30:37.401Z,"15 km WSW of Big Lake, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-08-08T17:14:30.608Z,58.2486,-155.0691,1.2,0.2,ml,,,,0.06,ak,ak023a44fsb8,2023-08-08T17:15:22.373Z,"83 km NNW of Karluk, Alaska",earthquake,,2.4,,,automatic,ak,ak
@@ -36,7 +38,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-08T13:58:21.096Z,62.3677,-149.1901,0,1.2,ml,,,,1.03,ak,ak023a42bgnx,2023-08-08T14:00:37.107Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-08T13:43:52.670Z,38.7721672,-122.7388306,0.36,0.79,md,7,102,0.01118,0.01,nc,nc73921811,2023-08-08T15:23:14.892Z,"2 km ESE of The Geysers, CA",earthquake,0.3,0.86,0.17,7,automatic,nc,nc
 2023-08-08T13:42:50.040Z,18.5375,-67.2641666666667,28.2,2.68,md,10,230,0.1259,0.1,pr,pr71420838,2023-08-08T13:50:13.990Z,"16 km NW of Aguadilla, Puerto Rico",earthquake,0.53,0.47,0.27116898253254,5,reviewed,pr,pr
-2023-08-08T13:39:24.461Z,31.6751,-104.4247,8.411,2.6,ml,21,131,0.065,0.38,us,us6000kym2,2023-08-08T14:00:17.040Z,"55 km S of Whites City, New Mexico",earthquake,0.91,3.498,0.069,48,reviewed,us,us
+2023-08-08T13:39:24.626Z,31.67653511,-104.4070328,6.131567383,2.5,ml,35,69,0.01651937909,0.2,tx,tx2023plef,2023-08-08T18:27:01.619Z,"55 km S of Whites City, New Mexico",earthquake,0.9977788776,0.8354296793,0,6,reviewed,tx,tx
 2023-08-08T13:36:56.093Z,31.68160093,-104.4054637,5.771655273,2.4,ml,31,68,0.01746900149,0.2,tx,tx2023pled,2023-08-08T17:44:58.702Z,"54 km S of Whites City, New Mexico",earthquake,0.7348887486,0.6855696099,0.1,7,reviewed,tx,tx
 2023-08-08T13:35:35.133Z,36.5583,-116.2191,8.7,0.1,ml,9,142.28,0.117,0.0627,nn,nn00864138,2023-08-08T13:37:16.208Z,"Nevada",earthquake,,2,0.33,7,automatic,nn,nn
 2023-08-08T13:32:18.924Z,63.1027,-150.7406,125.8,1.5,ml,,,,0.35,ak,ak023a425vvo,2023-08-08T13:34:26.395Z,"67 km N of Petersville, Alaska",earthquake,,1.2,,,automatic,ak,ak
@@ -73,7 +75,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-08T10:21:17.445Z,39.326,-119.9178,9,0.6,ml,9,77.79,0.098,0.132,nn,nn00864135,2023-08-08T10:23:14.859Z,"Nevada",earthquake,,1.2,0.14,7,automatic,nn,nn
 2023-08-08T10:20:50.220Z,47.605666666666664,-121.78016666666667,17.31,1.52,ml,15,138,0.107,0.18,uw,uw61939457,2023-08-08T11:31:03.404Z,"Washington",earthquake,0.47,0.61,0.23761197741535778,8,reviewed,uw,uw
 2023-08-08T10:19:31.560Z,38.7845001,-122.7789993,1.06,0.77,md,9,112,0.01112,0.02,nc,nc73921751,2023-08-08T10:43:16.052Z,"2 km WNW of The Geysers, CA",earthquake,0.28,0.55,0.1,10,automatic,nc,nc
-2023-08-08T10:17:23.550Z,47.60666666666667,-121.71966666666667,17.76,3.85,ml,125,109,0.08882,0.38,uw,uw61939452,2023-08-08T18:24:27.405Z,"11 km NE of Snoqualmie, Washington",earthquake,0.34,0.53,0.1601579994975566,100,reviewed,uw,uw
+2023-08-08T10:17:23.550Z,47.60666666666667,-121.71966666666667,17.76,3.85,ml,125,109,0.08882,0.38,uw,uw61939452,2023-08-08T18:29:40.214Z,"11 km NE of Snoqualmie, Washington",earthquake,0.34,0.53,0.1601579994975566,100,reviewed,uw,uw
 2023-08-08T10:14:01.930Z,37.3273315,-122.2145004,8.51,1.48,md,8,68,0.04329,0.07,nc,nc73921746,2023-08-08T12:56:11.846Z,"7 km SSE of Portola Valley, CA",earthquake,0.46,0.95,0.1,8,automatic,nc,nc
 2023-08-08T09:44:18.392Z,38.1714,-117.9992,7.2,2.7,ml,13,68.66,0.03,0.1597,nn,nn00864131,2023-08-08T16:31:33.337Z,"26 km SSE of Mina, Nevada",earthquake,,1.2,0.38,8,reviewed,nn,nn
 2023-08-08T09:23:30.689Z,58.7719,-155.8442,240.5,1.8,ml,,,,0.57,ak,ak023a3zq8x8,2023-08-08T09:26:05.100Z,"48 km E of King Salmon, Alaska",earthquake,,2.2,,,automatic,ak,ak
