@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-16T02:56:55.620Z,19.4071674346924,-155.288162231445,0.540000021457672,1.79,ml,16,48,,0.0799999982,hv,hv73528752,2023-08-16T03:02:25.510Z,"6 km SW of Volcano, Hawaii",earthquake,0.21,0.189999998,0.67,9,automatic,hv,hv
+2023-08-16T02:53:29.979Z,62.2558,-150.0688,11.1,2.1,ml,,,,0.54,ak,ak023ah41f2d,2023-08-16T02:55:21.560Z,"7 km SSE of Talkeetna, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-08-16T02:49:24.869Z,57.4501,-155.2398,25.5,1.5,ml,,,,0.47,ak,ak023ah40jt2,2023-08-16T02:51:24.305Z,"48 km WSW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-16T02:41:36.204Z,62.6841,-149.908,70.1,1.6,ml,,,,1.04,ak,ak023ah3yuyc,2023-08-16T02:43:47.656Z,"28 km NNE of Chase, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-08-16T02:34:30.860Z,58.2486,-155.4424,176.5,0.4,ml,,,,0.95,ak,ak023ah3xcj2,2023-08-16T02:36:20.865Z,"86 km SE of King Salmon, Alaska",earthquake,,5.4,,,automatic,ak,ak
 2023-08-16T02:33:29.612Z,58.2092,-155.2883,1.1,1.4,ml,,,,0.69,ak,ak023ah3x4pt,2023-08-16T02:35:12.109Z,"86 km NW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -11,7 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-16T01:43:34.240Z,33.5888333,-116.7093333,19.42,0.99,ml,21,77,0.03304,0.33,ci,ci40537800,2023-08-16T01:47:06.848Z,"5 km NW of Anza, CA",earthquake,0.79,1.32,0.25,27,automatic,ci,ci
 2023-08-16T01:37:31.691Z,40.2719,53.115,44.813,5.2,mww,94,65,3.144,0.68,us,us7000knkw,2023-08-16T02:39:09.451Z,"30 km NNE of Türkmenbaşy, Turkmenistan",earthquake,5.96,6.13,0.063,24,reviewed,us,us
 2023-08-16T01:35:27.330Z,38.8375015,-122.7943344,1.96,0.73,md,7,86,0.003245,0.02,nc,nc73924556,2023-08-16T01:54:15.835Z,"6 km WNW of Cobb, CA",earthquake,0.51,1.65,0.57,8,automatic,nc,nc
-2023-08-16T01:23:47.710Z,33.7703333,-116.1478333,3.26,2.49,ml,55,70,0.0668,0.16,ci,ci40537792,2023-08-16T02:36:14.745Z,"8 km NE of Indio, CA",earthquake,0.16,0.46,0.163,25,automatic,ci,ci
+2023-08-16T01:23:47.710Z,33.7703333,-116.1478333,3.26,2.49,ml,55,70,0.0668,0.16,ci,ci40537792,2023-08-16T02:50:58.441Z,"8 km NE of Indio, CA",earthquake,0.16,0.46,0.163,25,automatic,ci,ci
 2023-08-16T01:22:21.064Z,-23.508,179.2512,584.648,4.7,mb,23,90,5.636,0.61,us,us7000knkv,2023-08-16T01:37:57.040Z,"south of the Fiji Islands",earthquake,13.05,11.635,0.12,21,reviewed,us,us
 2023-08-16T01:12:56.073Z,36.2779,-115.3187,4.4,1.8,ml,12,180.55,0.262,0.2965,nn,nn00864517,2023-08-16T01:16:43.852Z,"17 km N of Summerlin South, Nevada",earthquake,,9.2,0.35,9,automatic,nn,nn
 2023-08-16T01:12:22.240Z,61.5081,-151.9895,2.5,1.1,ml,,,,0.5,ak,ak023ah376i8,2023-08-16T01:14:52.994Z,"62 km SSW of Skwentna, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -294,6 +297,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-15T03:24:37.340Z,19.3991666666667,-155.277166666667,0.93,0.48,md,10,119,,0.06,hv,hv73526167,2023-08-15T23:57:48.340Z,"6 km SW of Volcano, Hawaii",earthquake,0.21,0.21,0.178771555440446,2,reviewed,hv,hv
 2023-08-15T03:16:17.220Z,19.3883333333333,-155.280333333333,1.12,0.86,md,10,79,,0.05,hv,hv73526147,2023-08-15T23:51:10.890Z,"7 km SW of Volcano, Hawaii",earthquake,0.33,0.24,0.0588712952757063,5,reviewed,hv,hv
 2023-08-15T03:06:21.070Z,19.4168333333333,-155.255,1.73,1.69,ml,25,119,,0.09,hv,hv73526132,2023-08-15T06:07:49.040Z,"3 km SW of Volcano, Hawaii",earthquake,0.17,0.19,0.0748343561224082,11,reviewed,hv,hv
-2023-08-15T03:04:48.610Z,19.388,-155.28,1.24,1.75,md,11,139,,0.12,hv,hv73526127,2023-08-15T23:45:06.420Z,"7 km SW of Volcano, Hawaii",earthquake,0.35,0.29,0.137501932234876,2,reviewed,hv,hv
-2023-08-15T03:03:23.970Z,35.6798333,-121.1198333,5.89,1.29,md,21,113,0.02766,0.06,nc,nc73924261,2023-08-15T05:18:15.275Z,"8 km ENE of San Simeon, CA",earthquake,0.52,0.57,0.229,9,reviewed,nc,nc
-2023-08-15T02:56:35.150Z,31.64783791,-103.9800035,6.542895508,2,ml,14,63,0.03839953199,0.1,tx,tx2023pxdn,2023-08-15T20:42:13.944Z,"36 km W of Mentone, Texas",earthquake,1.604493549,1.2159609309999997,0.1,6,reviewed,tx,tx
