@@ -182,4 +182,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-16T06:54:19.430Z,38.2418333,-122.3358333,6.97,1.56,md,47,57,0.02978,0.11,nc,nc73924636,2023-08-17T01:15:14.355Z,"8 km SW of Napa, CA",earthquake,0.19,0.38,0.206,38,reviewed,nc,nc
 2023-08-16T06:52:59.790Z,34.4945,-118.1301667,14.62,1.16,ml,29,67,0.01483,0.13,ci,ci40537880,2023-08-16T15:09:47.520Z,"1 km WSW of Vincent, CA",earthquake,0.18,0.31,0.196,21,reviewed,ci,ci
 2023-08-16T06:45:24.630Z,38.249,-122.3383333,9.76,2.32,md,115,42,0.03496,0.11,nc,nc73924631,2023-08-17T01:29:32.362Z,"7 km SW of Napa, CA",earthquake,0.12,0.22,0.133,103,reviewed,nc,nc
-2023-08-16T06:37:09.817Z,31.67007169,-104.2995826,6.877099609,2.3,ml,10,66,0.02960702795,0.1,tx,tx2023pzgi,2023-08-16T17:57:43.544Z,"56 km S of Whites City, New Mexico",earthquake,1.9642257,1.225351395,0.1,6,reviewed,tx,tx
