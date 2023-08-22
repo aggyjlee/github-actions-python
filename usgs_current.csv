@@ -1,7 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-22T05:32:49.090Z,33.5151667,-116.4171667,9.51,0.81,ml,32,87,0.01087,0.14,ci,ci39647098,2023-08-22T05:36:21.116Z,"19 km SSW of La Quinta, CA",earthquake,0.21,0.45,0.18,20,automatic,ci,ci
+2023-08-22T05:32:28.190Z,34.4323333,-119.1655,1.96,1.37,ml,15,121,0.02359,0.26,ci,ci39647090,2023-08-22T05:39:45.483Z,"7 km ESE of Ojai, CA",earthquake,0.57,0.67,0.217,19,automatic,ci,ci
 2023-08-22T05:23:35.110Z,34.4223333,-119.1903333,6.74,1.37,ml,16,137,0.04603,0.26,ci,ci39647082,2023-08-22T05:27:12.830Z,"6 km ESE of Ojai, CA",earthquake,0.71,1.06,0.183,23,automatic,ci,ci
 2023-08-22T05:23:17.260Z,19.2026672363281,-155.507171630859,33.4000015258789,1.77,ml,41,136,,0.100000001,hv,hv73537307,2023-08-22T05:28:48.150Z,"3 km W of Pāhala, Hawaii",earthquake,0.47,0.649999976,5.12,3,automatic,hv,hv
 2023-08-22T05:19:03.900Z,58.2879,-154.9427,1.1,0.3,ml,,,,0.26,ak,ak023ar2ughi,2023-08-22T05:19:56.556Z,"Alaska Peninsula",earthquake,,3,,,automatic,ak,ak
+2023-08-22T05:05:59.699Z,-43.6191,159.7187,10,4.6,mb,36,82,5.625,0.92,us,us7000kq1e,2023-08-22T05:32:34.040Z,"southeast of Australia",earthquake,10.05,1.916,0.129,18,reviewed,us,us
 2023-08-22T04:57:25.140Z,19.3855,-155.280833333333,1.26,0.4,md,10,149,,0.08,hv,hv73537282,2023-08-22T05:11:54.490Z,"Island of Hawaii, Hawaii",earthquake,0.25,0.21,0.257007208019858,2,reviewed,hv,hv
 2023-08-22T04:54:13.170Z,19.3836666666667,-155.282166666667,0.97,0.55,md,15,81,,0.05,hv,hv73537277,2023-08-22T05:04:54.960Z,"8 km SW of Volcano, Hawaii",earthquake,0.27,0.19,0.126378822078825,3,reviewed,hv,hv
 2023-08-22T04:51:16.040Z,36.6211662,-120.1673355,-0.37,2.16,md,13,200,0.5496,0.22,nc,nc73926951,2023-08-22T05:31:12.394Z,"2 km NE of San Joaquin, CA",earthquake,1.46,10.93,0.24,6,automatic,nc,nc
@@ -245,4 +248,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-21T06:00:54.370Z,34.4095,-119.2021667,2.25,1.85,ml,27,92,0.06005,0.28,ci,ci39646162,2023-08-21T06:48:15.749Z,"6 km SE of Ojai, CA",earthquake,0.43,0.68,0.168,29,automatic,ci,ci
 2023-08-21T05:43:04.310Z,34.4091667,-119.206,4.2,1.79,ml,22,91,0.06303,0.27,ci,ci39646154,2023-08-21T06:34:54.180Z,"6 km SE of Ojai, CA",earthquake,0.44,1.08,0.294,8,automatic,ci,ci
 2023-08-21T05:41:23.210Z,34.4238333,-119.1955,4.65,3.19,ml,73,30,0.04969,0.36,ci,ci39646146,2023-08-21T20:02:54.538Z,"5 km ESE of Ojai, CA",earthquake,0.33,0.94,0.154,106,reviewed,ci,ci
-2023-08-21T05:39:32.050Z,44.7775,-111.1061667,7.73,0.48,ml,11,86,0.01867,0.12,uu,uu60548042,2023-08-21T13:16:29.910Z,"Idaho-Montana border region",earthquake,0.51,0.94,0.335,2,reviewed,uu,uu
