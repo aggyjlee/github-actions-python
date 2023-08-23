@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-23T15:19:21.540Z,33.167,-115.6478333,1.71,1.38,ml,17,57,0.0266,0.24,ci,ci39648338,2023-08-23T15:22:54.059Z,"13 km WNW of Calipatria, CA",earthquake,0.51,0.79,0.188,28,automatic,ci,ci
 2023-08-23T15:11:05.080Z,33.2885,-116.264,2.25,1.28,ml,41,38,0.09592,0.26,ci,ci39648330,2023-08-23T15:14:46.861Z,"11 km ENE of Borrego Springs, CA",earthquake,0.36,0.64,0.179,27,automatic,ci,ci
 2023-08-23T15:02:20.721Z,58.1905,-155.3023,1.2,0.3,ml,,,,0.42,ak,ak023asw8j5k,2023-08-23T15:04:01.771Z,"85 km NW of Karluk, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-08-23T14:56:07.170Z,19.3891666666667,-155.28,1.37,0.17,md,7,130,,0.08,hv,hv73539782,2023-08-23T15:18:54.390Z,"7 km SW of Volcano, Hawaii",earthquake,0.53,0.31,0.00270162352157415,2,reviewed,hv,hv
+2023-08-23T14:56:07.190Z,19.3878333333333,-155.280333333333,1.25,0.16,md,11,89,,0.08,hv,hv73539782,2023-08-23T15:20:16.100Z,"7 km SW of Volcano, Hawaii",earthquake,0.26,0.2,0.00571320111838883,2,reviewed,hv,hv
 2023-08-23T14:50:58.281Z,62.7331,-147.1883,62.3,2.3,ml,,,,1.02,ak,ak023asvxgtg,2023-08-23T14:54:29.051Z,"60 km NNW of Lake Louise, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-08-23T14:50:27.570Z,19.4063333333333,-155.286166666667,1.21,0.57,md,16,71,,0.06,hv,hv73539767,2023-08-23T15:15:58.010Z,"Island of Hawaii, Hawaii",earthquake,0.15,0.28,0.0938684614233883,4,reviewed,hv,hv
 2023-08-23T14:39:38.320Z,19.4113333333333,-155.3105,2.29,0.95,md,28,74,,0.13,hv,hv73539737,2023-08-23T15:02:17.080Z,"8 km WSW of Volcano, Hawaii",earthquake,0.21,0.24,0.140918672795288,6,reviewed,hv,hv
@@ -280,6 +281,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-22T15:30:41.540Z,19.378,-155.283666666667,1.4,1.78,md,17,94,,0.07,hv,hv73537842,2023-08-23T04:33:56.750Z,"8 km SW of Volcano, Hawaii",earthquake,0.17,0.17,0.0282047101677299,2,reviewed,hv,hv
 2023-08-22T15:29:29.440Z,37.4951667,-118.8018333,9,0.86,md,13,305,0.09714,0.03,nc,nc73927111,2023-08-22T17:31:13.310Z,"13 km SW of Toms Place, CA",earthquake,1.17,1.21,0.128,13,reviewed,nc,nc
 2023-08-22T15:28:57.300Z,56.2966,-159.3618,145.1,2.3,ml,,,,0.26,ak,ak023ar8uu3m,2023-08-22T15:38:49.040Z,"37 km W of Chignik Lake, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-08-22T15:23:34.062Z,60.4137,-147.7763,12.8,1.5,ml,,,,0.63,ak,ak023ar8tpq6,2023-08-22T15:26:14.688Z,"40 km NNE of Chenega, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-08-22T15:22:08.970Z,48.283,-121.85433333333333,11.14,0.77,ml,5,157,0.1004,0.11,uw,uw61943277,2023-08-23T05:08:35.410Z,"Washington",earthquake,0.62,1.8,0.09077689824944113,2,reviewed,uw,uw
-2023-08-22T15:21:22.500Z,33.0038333,-116.2316667,4.1,0.86,ml,19,68,0.07774,0.24,ci,ci39647522,2023-08-22T15:24:56.394Z,"18 km SSW of Ocotillo Wells, CA",earthquake,0.44,1.46,0.172,15,automatic,ci,ci
