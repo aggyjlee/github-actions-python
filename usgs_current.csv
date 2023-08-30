@@ -167,7 +167,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-29T08:08:52.930Z,33.0323333,-117.8685,5.8,1.59,ml,20,170,0.4289,0.21,ci,ci39653914,2023-08-29T19:39:53.379Z,"50 km SSW of San Clemente, CA",earthquake,0.63,31.61,0.062,13,reviewed,ci,ci
 2023-08-29T08:08:43.211Z,39.3739,78.0863,10,4.6,mb,35,71,2.362,1.25,us,us7000kru3,2023-08-29T08:51:27.040Z,"76 km NE of Dunbage, China",earthquake,7.69,1.915,0.137,16,reviewed,us,us
 2023-08-29T08:07:23.250Z,18.6481666666667,-65.0856666666667,30.8,3.21,md,13,256,0.6061,0.24,pr,pr71422468,2023-08-29T08:22:54.870Z,"37 km NNW of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.76,7.4,0.0637371280197674,8,reviewed,pr,pr
-2023-08-29T08:05:33.310Z,33.0018333,-117.9176667,5.98,3.6,mw,80,133,0.4776,0.31,ci,ci39653906,2023-08-30T06:46:17.684Z,"45 km ENE of San Clemente Is. (SE tip), CA",earthquake,0.42,31.61,,4,reviewed,ci,ci
+2023-08-29T08:05:33.310Z,33.0018333,-117.9176667,5.98,3.6,mw,80,133,0.4776,0.31,ci,ci39653906,2023-08-30T06:52:44.200Z,"45 km ENE of San Clemente Is. (SE tip), CA",earthquake,0.42,31.61,,4,reviewed,ci,ci
 2023-08-29T07:58:22.440Z,36.742,-121.3925,10.64,0.59,md,12,196,0.04914,0.09,nc,nc73930451,2023-08-29T09:48:12.022Z,"8 km SSW of Ridgemark, CA",earthquake,0.75,0.57,0.359,10,reviewed,nc,nc
 2023-08-29T07:53:27.360Z,33.5161667,-116.5066667,13.77,0.27,ml,17,80,0.04596,0.1,ci,ci39653898,2023-08-29T19:29:04.382Z,"16 km ESE of Anza, CA",earthquake,0.29,0.39,0.122,8,reviewed,ci,ci
 2023-08-29T07:44:59.430Z,46.7765,-121.95833333333333,9.5,0.88,ml,37,45,0.03498,0.16,uw,uw61945622,2023-08-29T22:14:19.580Z,"Washington",earthquake,0.23,0.36,0.24521942448086392,22,reviewed,uw,uw
@@ -176,4 +176,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-29T07:15:03.171Z,61.5666,-146.7379,23.8,1.6,ml,,,,0.56,ak,ak023b2orw8d,2023-08-29T07:16:56.657Z,"47 km SSE of Eureka Roadhouse, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-29T07:11:53.010Z,51.8418333333333,179.5615,10.45,1.23,ml,5,292,,0.29,av,av92023921,2023-08-29T19:28:17.950Z,"262 km W of Adak, Alaska",earthquake,1.99,1.39,0.320320272420445,5,reviewed,av,av
 2023-08-29T07:11:00.690Z,19.775,-156.1345,9.55,2.12,md,33,235,,0.15,hv,hv73551117,2023-08-29T17:21:53.715Z,"Hawaii region, Hawaii",earthquake,0.77,0.45,0.146273633795961,16,reviewed,hv,hv
-2023-08-29T07:03:44.860Z,38.8263321,-122.8006668,3.51,0.35,md,9,83,0.01881,0.02,nc,nc73930446,2023-08-29T08:25:22.737Z,"7 km NW of The Geysers, CA",earthquake,0.39,1.78,0.2,11,automatic,nc,nc
