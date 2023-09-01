@@ -1,8 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-09-01T20:55:53.710Z,33.8451667,-116.768,15.98,1.06,ml,33,48,0.02704,0.27,ci,ci39657090,2023-09-01T20:59:32.246Z,"8 km SSE of Cabazon, CA",earthquake,0.36,0.74,0.18,25,automatic,ci,ci
-2023-09-01T20:49:54.924Z,50.7026,156.316,141.248,6.1,mww,211,33,2.557,0.68,us,us7000ksrl,2023-09-01T21:13:18.221Z,"13 km ENE of Severo-Kuril’sk, Russia",earthquake,8.33,5.211,0.048,42,reviewed,us,us
+2023-09-01T20:49:54.924Z,50.7026,156.316,141.248,6.1,mww,211,33,2.557,0.68,us,us7000ksrl,2023-09-01T21:17:43.389Z,"13 km ENE of Severo-Kuril’sk, Russia",earthquake,8.33,5.211,0.048,42,reviewed,us,us
 2023-09-01T20:43:46.528Z,60.7127,-152.5196,12,2.1,ml,,,,0.22,ak,ak023b7vanz0,2023-09-01T20:45:14.344Z,"66 km W of Salamatof, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-09-01T20:43:01.300Z,36.26766667,-97.26883333,5.56,2.65,ml,98,27,0,0.21,ok,ok2023rdog,2023-09-01T21:06:49.642Z,"2 km SE of Perry, Oklahoma",earthquake,,0.3,0.23,37,reviewed,ok,ok
+2023-09-01T20:43:01.300Z,36.26766667,-97.26883333,5.56,2.65,ml,98,27,0,0.21,ok,ok2023rdog,2023-09-01T21:20:42.078Z,"2 km SE of Perry, Oklahoma",earthquake,,0.3,0.23,37,reviewed,ok,ok
 2023-09-01T20:27:51.060Z,33.5116667,-116.4478333,10.32,0.75,ml,19,102,0.0999,0.17,ci,ci39657082,2023-09-01T20:31:20.189Z,"21 km SW of La Quinta, CA",earthquake,0.38,0.94,0.147,14,automatic,ci,ci
 2023-09-01T20:06:33.800Z,33.844,-117.4911667,2.49,1.67,ml,33,38,0.04668,0.24,ci,ci39657066,2023-09-01T20:10:13.873Z,"5 km SE of Home Gardens, CA",quarry blast,0.31,0.48,0.207,27,automatic,ci,ci
 2023-09-01T20:06:26.950Z,33.5033333,-117.206,29.51,1.29,ml,16,144,0.2343,0.33,ci,ci39657058,2023-09-01T20:10:05.872Z,"5 km WNW of Temecula, CA",earthquake,1.85,1.16,0.294,2,automatic,ci,ci
@@ -16,7 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-01T18:36:58.750Z,19.3916664123535,-155.277328491211,0.920000016689301,1.8,ml,15,95,,0.119999997,hv,hv73556872,2023-09-01T18:42:29.180Z,"7 km SW of Volcano, Hawaii",earthquake,0.27,0.180000007,0.29,7,automatic,hv,hv
 2023-09-01T18:25:37.650Z,0.7281,95.7825,14.391,4.8,mb,95,66,4.62,0.51,us,us7000ksqq,2023-09-01T19:03:50.040Z,"204 km SSW of Sinabang, Indonesia",earthquake,8.81,4.243,0.063,87,reviewed,us,us
 2023-09-01T18:02:33.230Z,19.3985,-155.278666666667,1.37,2.27,ml,39,43,,0.12,hv,hv73556827,2023-09-01T18:33:47.730Z,"6 km SW of Volcano, Hawaii",earthquake,0.17,0.13,0.206614831241268,14,reviewed,hv,hv
-2023-09-01T18:02:24.280Z,19.3666666666667,-155.296833333333,0.72,0.8,md,10,168,,0.11,hv,hv73556822,2023-09-01T20:09:47.470Z,"Island of Hawaii, Hawaii",earthquake,0.27,0.43,0.160093623316503,2,reviewed,hv,hv
+2023-09-01T18:02:24.280Z,19.3666666666667,-155.296833333333,0.72,0.8,md,10,168,,0.11,hv,hv73556822,2023-09-01T20:09:47.470Z,"10 km SW of Volcano, Hawaii",earthquake,0.27,0.43,0.160093623316503,2,reviewed,hv,hv
 2023-09-01T17:47:30.210Z,42.2768333,-111.5746667,12.53,1.19,md,5,153,0.4069,0.08,uu,uu60548982,2023-09-01T18:16:00.030Z,"15 km WNW of Paris, Idaho",earthquake,0.85,0.51,0.089,3,reviewed,uu,uu
 2023-09-01T17:36:41.290Z,17.9736666666667,-66.9306666666667,13.93,2.5,md,12,191,0.1082,0.26,pr,pr71423048,2023-09-01T17:48:42.160Z,"2 km SW of Fuig, Puerto Rico",earthquake,1.06,0.78,0.137307671424349,5,reviewed,pr,pr
 2023-09-01T17:32:24.450Z,38.8188324,-122.8238297,1.8,0.84,md,8,75,0.009739,0.01,nc,nc73931756,2023-09-01T17:57:12.534Z,"7 km NW of The Geysers, CA",earthquake,0.45,1.01,0.41,10,automatic,nc,nc
@@ -168,4 +168,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-31T21:34:56.350Z,19.111499786377,-155.476669311523,27.0400009155273,2.23000002,md,19,195,,0.100000001,hv,hv73555267,2023-08-31T21:38:18.480Z,"10 km S of Pāhala, Hawaii",earthquake,0.9,0.699999988,1.99000001,10,automatic,hv,hv
 2023-08-31T21:34:12.860Z,19.3841666666667,-155.278666666667,1.32,2.25,ml,21,67,,0.1,hv,hv73555262,2023-08-31T22:42:16.340Z,"8 km SW of Volcano, Hawaii",earthquake,0.19,0.15,0.146963789082802,18,reviewed,hv,hv
 2023-08-31T21:23:10.830Z,35.341,-97.943,6.43,1.93,ml,95,50,0.05398940544,0.32,ok,ok2023rbub,2023-09-01T13:09:47.461Z,"3 km N of Minco, Oklahoma",earthquake,,0.4,0.2,7,reviewed,ok,ok
-2023-08-31T21:18:32.710Z,36.5931664,-121.1949997,7.29,2.07,md,23,142,,0.09,nc,nc73931461,2023-08-31T23:16:14.245Z,"8 km NW of Pinnacles, CA",earthquake,0.34,0.74,0.16,23,automatic,nc,nc
