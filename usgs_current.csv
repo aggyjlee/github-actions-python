@@ -175,4 +175,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-01T03:52:18.452Z,63.2599,-150.5534,126.5,1.6,ml,,,,0.32,ak,ak023b7l84yd,2023-09-01T03:54:35.130Z,"66 km ESE of Denali National Park, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2023-09-01T03:22:51.760Z,33.1606667,-115.9358333,7.47,2.59,ml,77,40,0.03741,0.18,ci,ci39656434,2023-09-01T19:30:53.950Z,"16 km S of Salton City, CA",earthquake,0.16,0.44,0.141,25,reviewed,ci,ci
 2023-09-01T02:59:28.920Z,36.8154984,-121.5413361,4.41,1.98,md,30,78,,0.17,nc,nc73931546,2023-09-01T03:33:13.710Z,"3 km S of San Juan Bautista, CA",earthquake,0.35,0.48,0.16,25,automatic,nc,nc
-2023-09-01T02:42:52.710Z,19.432,-67.9611,65,3.58,md,16,215,1.0097,0.4,pr,pr2023244000,2023-09-01T03:36:44.123Z,"105 km NNE of Punta Cana, Dominican Republic",earthquake,2.52,6.07,0.2,12,reviewed,pr,pr
