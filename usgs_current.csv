@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-09-03T19:11:00.040Z,38.8458328,-122.8134995,1.47,1.1,md,10,233,0.03848,0.07,nc,nc73932681,2023-09-03T19:12:33.866Z,"8 km WNW of Cobb, CA",earthquake,0.84,2.08,0.14,11,automatic,nc,nc
+2023-09-03T19:11:00.040Z,38.8458328,-122.8134995,1.47,1.1,md,10,233,0.03848,0.07,nc,nc73932681,2023-09-03T19:40:11.975Z,"8 km WNW of Cobb, CA",earthquake,0.84,2.08,0.14,11,automatic,nc,nc
 2023-09-03T19:10:56.710Z,38.8351669,-122.8168335,1.78,1.6,md,16,62,0.01289,0.02,nc,nc73932676,2023-09-03T19:29:14.916Z,"8 km W of Cobb, CA",earthquake,0.22,0.55,0.12,17,automatic,nc,nc
 2023-09-03T18:58:33.250Z,35.7716675,-120.3239975,7.79,1.53,md,24,106,0.01303,0.07,nc,nc73932666,2023-09-03T19:29:15.064Z,"6 km NNW of Cholame, CA",earthquake,0.31,0.36,0.2,10,automatic,nc,nc
 2023-09-03T18:49:13.522Z,60.1416,-152.5562,102.6,1.8,ml,,,,0.6,ak,ak023bb57pi0,2023-09-03T18:51:31.080Z,"50 km W of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
