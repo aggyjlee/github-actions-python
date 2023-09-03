@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-03T10:14:22.977Z,61.4197,-149.9206,32.4,1.4,ml,,,,0.53,ak,ak023bb08rbt,2023-09-03T10:16:25.709Z,"7 km NNE of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-09-03T09:43:41.120Z,61.2146,-149.9081,36.3,2.6,ml,,,,0.59,ak,ak023baztkuz,2023-09-03T09:57:48.547Z,"0 km SW of Anchorage, Alaska",earthquake,,1,,,automatic,ak,ak
+2023-09-03T09:41:28.980Z,17.9325,-65.7473333333333,13.9,2.45,md,8,228,0.1635,0.17,pr,pr71423388,2023-09-03T10:09:23.610Z,"Puerto Rico region",earthquake,0.71,0.84,0.121868972444105,5,reviewed,pr,pr
 2023-09-03T09:31:19.870Z,33.3236667,-116.7856667,12.7,0.51,ml,17,100,0.07103,0.22,ci,ci39657690,2023-09-03T09:34:55.078Z,"8 km ESE of Palomar Observatory, CA",earthquake,0.5,1.18,0.175,11,automatic,ci,ci
 2023-09-03T09:22:56.900Z,18.109,-65.746,19.73,2.27,md,8,143,0.08968,0.14,pr,pr71423383,2023-09-03T10:00:06.410Z,"Puerto Rico region",earthquake,0.72,0.39,0.00390427148370698,5,reviewed,pr,pr
 2023-09-03T09:16:16.490Z,33.0298333,-116.3355,11.25,0.43,ml,11,86,0.07973,0.12,ci,ci39657682,2023-09-03T09:19:47.516Z,"23 km WSW of Ocotillo Wells, CA",earthquake,0.29,0.44,0.161,4,automatic,ci,ci
@@ -197,6 +199,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-02T10:38:43.900Z,-7.2786,129.5377,126.687,4.2,mb,18,66,5.103,0.31,us,us7000ksug,2023-09-02T11:12:26.040Z,"Kepulauan Babar, Indonesia",earthquake,7.7,11.739,0.141,15,reviewed,us,us
 2023-09-02T10:30:02.590Z,17.9851666666667,-67.0103333333333,9.64,2.39,md,14,148,0.03585,0.07,pr,pr71423233,2023-09-02T10:57:34.440Z,"Puerto Rico",earthquake,0.31,0.54,0.0402259369419291,4,reviewed,pr,pr
 2023-09-02T10:23:04.134Z,58.2552,-155.1074,1.7,1.5,ml,,,,0.42,ak,ak023b9crau5,2023-09-03T00:39:46.350Z,"85 km NNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-09-02T10:18:56.720Z,38.7953339,-122.7616653,-0.9,1.97,md,21,82,0.005499,0.37,nc,nc73932131,2023-09-02T11:33:13.828Z,"2 km NNW of The Geysers, CA",earthquake,0.6,1.8,0.12,26,automatic,nc,nc
-2023-09-02T10:12:28.940Z,52.813,-169.939833333333,6.36,1.03,ml,4,160,,0.15,av,av91114693,2023-09-03T00:43:28.490Z,"73 km WSW of Nikolski, Alaska",earthquake,1.56,0.83,0.24579904536431,4,reviewed,av,av
-2023-09-02T10:10:12.380Z,33.8781667,-117.7945,9.77,0.96,ml,23,71,0.04986,0.25,ci,ci39657306,2023-09-02T10:13:52.700Z,"2 km SE of Yorba Linda, CA",earthquake,0.44,0.89,0.13,17,automatic,ci,ci
