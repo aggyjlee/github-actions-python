@@ -188,4 +188,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-03T04:22:28.880Z,19.2401676177979,-155.399673461914,31.6000003814697,1.73000002,md,22,164,,0.100000001,hv,hv73559332,2023-09-03T04:25:46.570Z,"Hawaii region, Hawaii",earthquake,0.67,0.949999988,0.860000014,3,automatic,hv,hv
 2023-09-03T04:11:13.690Z,38.8009987,-122.7536697,3.64,0.73,md,10,98,0.004736,0.02,nc,nc73932441,2023-09-03T04:30:12.737Z,"3 km N of The Geysers, CA",earthquake,0.4,1.21,0.12,10,automatic,nc,nc
 2023-09-03T03:31:03.538Z,61.1656,-150.9579,12,1.4,ml,,,,0.45,ak,ak023baw6brl,2023-09-03T03:32:53.656Z,"7 km ENE of Beluga, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-09-03T03:20:19.380Z,32.8566667,-115.881,7.4,1.05,ml,16,55,0.08007,0.17,ci,ci39657578,2023-09-03T03:23:52.388Z,"17 km NE of Ocotillo, CA",earthquake,0.34,0.8,0.146,8,automatic,ci,ci
