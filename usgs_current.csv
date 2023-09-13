@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-13T23:18:04.260Z,38.8325005,-122.8193359,1.91,0.71,md,7,137,0.01162,0.01,nc,nc73936511,2023-09-13T23:19:41.541Z,"8 km NW of The Geysers, CA",earthquake,0.52,1.63,0.57,7,automatic,nc,nc
+2023-09-13T23:16:45.628Z,40.522,-119.6202,0,1.8,ml,8,260.01,0.362,0.333,nn,nn00865796,2023-09-13T23:19:23.258Z,"24 km WSW of Empire, Nevada",earthquake,,41.9,0.27,5,automatic,nn,nn
 2023-09-13T23:16:04.960Z,38.8320007,-122.8190002,1.69,1.06,md,18,57,0.01107,0.01,nc,nc73936506,2023-09-13T23:17:41.551Z,"8 km NW of The Geysers, CA",earthquake,0.26,0.4,0.13,20,automatic,nc,nc
 2023-09-13T22:58:27.307Z,64.6453,-148.0176,10.5,0.8,ml,,,,0.37,ak,ak023brr0vd6,2023-09-13T23:02:00.928Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-13T22:50:45.956Z,58.2575,-155.0506,8.5,0.1,ml,,,,0.21,ak,ak023brqz72r,2023-09-13T22:52:27.252Z,"84 km NNW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
