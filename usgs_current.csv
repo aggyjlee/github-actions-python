@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-16T18:19:30.160Z,35.7053337,-117.5218353,4.72,1.6,ml,9,156,0.0894,0.13,ci,ci39667130,2023-09-16T18:21:36.122Z,"13 km WSW of Searles Valley, CA",earthquake,0.69,1.64,0.551,6,automatic,ci,ci
+2023-09-16T18:17:42.520Z,19.1491661071777,-155.477996826172,32.4000015258789,2.51999998,md,44,160,,0.129999995,hv,hv73578867,2023-09-16T18:21:09.320Z,"5 km S of Pāhala, Hawaii",earthquake,0.5,0.790000021,1.14999998,32,automatic,hv,hv
 2023-09-16T17:38:30.801Z,58.186,-155.3075,1.1,0.6,ml,,,,0.15,ak,ak023bwmjgrs,2023-09-16T17:39:37.404Z,"85 km NW of Karluk, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-09-16T17:08:58.122Z,37.2862,-117.2468,1.7,1.3,ml,18,125.99,0.35,0.1652,nn,nn00865910,2023-09-16T17:11:29.772Z,"46 km S of Goldfield, Nevada",earthquake,,16.5,0.8,13,automatic,nn,nn
 2023-09-16T17:03:57.962Z,61.977,-149.6578,42.4,1.7,ml,,,,0.57,ak,ak023bwmc0t0,2023-09-16T17:06:32.489Z,"22 km SSE of Susitna North, Alaska",earthquake,,1.3,,,automatic,ak,ak
@@ -194,8 +196,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-15T18:35:30.400Z,38.3238333,-122.7376667,-0.1,0.78,md,8,154,0.07829,0.06,nc,nc73937141,2023-09-15T19:48:00.265Z,"3 km W of Cotati, CA",quarry blast,0.56,31.61,0.226,8,reviewed,nc,nc
 2023-09-15T18:22:34.420Z,33.6746667,-116.7645,14.73,0.64,ml,21,127,0.05891,0.11,ci,ci39666210,2023-09-15T18:49:00.471Z,"8 km SSW of Idyllwild, CA",earthquake,0.3,0.3,0.121,16,reviewed,ci,ci
 2023-09-15T18:22:16.195Z,62.3825,-148.7726,18.2,1.3,ml,,,,0.34,ak,ak023buzi3ar,2023-09-15T19:35:04.103Z,"61 km ENE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-09-15T18:21:13.660Z,38.8143349,-122.8248367,2.41,0.76,md,11,75,0.006427,0.02,nc,nc73937136,2023-09-15T18:22:49.644Z,"7 km NW of The Geysers, CA",earthquake,0.34,0.72,0.16,14,automatic,nc,nc
-2023-09-15T18:17:29.979Z,63.0459,-151.5355,0,1.3,ml,,,,1.21,ak,ak023buzh1s2,2023-09-15T18:19:47.965Z,"55 km S of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-09-15T18:16:51.420Z,37.6581667,-122.0333333,1.95,1,md,9,183,0.02163,0.02,nc,nc73937131,2023-09-16T07:45:35.728Z,"2 km SSE of Fairview, CA",earthquake,1.03,0.46,0.077,4,reviewed,nc,nc
-2023-09-15T18:16:00.163Z,1.1214,126.3254,6.17,5,mb,134,44,1.098,0.75,us,us7000kw16,2023-09-16T15:58:54.040Z,"123 km WNW of Ternate, Indonesia",earthquake,5.76,3.736,0.054,123,reviewed,us,us
-2023-09-15T18:07:39.035Z,-27.3076,-71.5699,5.209,5.7,mww,117,70,1.082,0.67,us,us7000kw0l,2023-09-16T15:28:22.636Z,"122 km W of Copiapó, Chile",earthquake,4.47,2.945,0.043,53,reviewed,us,us
