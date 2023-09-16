@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-16T05:25:02.996Z,58.1259,-155.5816,21.9,0.9,ml,,,,0.54,ak,ak023bwfbf23,2023-09-16T05:26:56.595Z,"88 km SE of King Salmon, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-09-16T05:19:27.530Z,38.854332,-122.8475037,1.12,1.39,md,19,145,0.01831,0.02,nc,nc73937351,2023-09-16T05:21:01.486Z,"11 km WNW of Cobb, CA",earthquake,0.25,0.43,0.12,21,automatic,nc,nc
 2023-09-16T05:17:43.483Z,65.4255,-144.9686,7.2,1.6,ml,,,,0.85,ak,ak023bwf9sgc,2023-09-16T05:20:06.639Z,"18 km SSW of Central, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-09-16T05:00:16.418Z,61.4501,-150.6365,41.4,1.7,ml,,,,0.46,ak,ak023bwf636x,2023-09-16T05:02:47.000Z,"Southern Alaska",earthquake,,1.8,,,automatic,ak,ak
