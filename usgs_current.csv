@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-17T20:16:53.721Z,57.154,-155.5682,59.6,3,ml,,,,0.31,ak,ak023bybqg3g,2023-09-17T20:18:42.215Z,"81 km SW of Karluk, Alaska",earthquake,,2,,,automatic,ak,ak
 2023-09-17T20:13:21.137Z,64.8661,-148.6421,16.5,1.5,ml,,,,0.05,ak,ak023bybpqfl,2023-09-17T20:14:41.232Z,"29 km W of Ester, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-17T20:01:18.660Z,35.7653333,-117.5978333,8.91,0.78,ml,10,154,0.144,0.25,ci,ci39667642,2023-09-17T20:04:42.948Z,"18 km W of Searles Valley, CA",earthquake,0.85,3.07,0.057,5,automatic,ci,ci
 2023-09-17T19:40:19.632Z,62.2749,-148.0742,39.7,2,ml,,,,0.6,ak,ak023byba31n,2023-09-17T19:42:40.116Z,"Central Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -131,4 +132,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-16T21:08:40.720Z,38.8166656,-122.8171692,2.43,0.92,md,15,104,0.00871,0.02,nc,nc73937611,2023-09-16T21:10:14.028Z,"7 km NW of The Geysers, CA",earthquake,0.33,0.63,0.2,17,automatic,nc,nc
 2023-09-16T20:53:13.395Z,-13.5637,167.1791,225.529,4.7,mb,72,57,8.529,0.57,us,us7000kw8f,2023-09-16T21:57:51.040Z,"53 km NW of Sola, Vanuatu",earthquake,11.42,7.336,0.068,65,reviewed,us,us
 2023-09-16T20:36:19.510Z,39.427166,-121.6758347,1.08,2.9,md,5,153,0.0895,0.15,nc,nc73937591,2023-09-16T20:57:14.728Z,"4 km ENE of Biggs, CA",earthquake,1.05,13.41,0.22,5,automatic,nc,nc
-2023-09-16T20:21:11.381Z,36.7637,-116.2601,6.6,-0.5,ml,8,116.2,0.027,0.0405,nn,nn00865922,2023-09-16T22:22:46.007Z,"47 km ESE of Beatty, Nevada",earthquake,,1.8,0.52,6,reviewed,nn,nn
