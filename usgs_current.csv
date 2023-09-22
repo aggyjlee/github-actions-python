@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-22T16:19:32.763Z,-14.9289,166.8404,40.12,5.4,mww,92,31,6.098,0.99,us,us7000kxh2,2023-09-22T16:39:10.040Z,"27 km WNW of Port-Olry, Vanuatu",earthquake,6.89,6.218,0.078,16,reviewed,us,us
 2023-09-22T16:03:51.800Z,19.1903324127197,-155.495834350586,32.2000007629395,1.99000001,md,36,81,,0.100000001,hv,hv73582937,2023-09-22T16:07:06.910Z,"2 km SW of Pāhala, Hawaii",earthquake,0.64,0.879999995,0.949999988,16,automatic,hv,hv
 2023-09-22T15:53:25.467Z,60.8246,-149.1267,20.1,1.5,ml,,,,0.61,ak,ak023c6invuq,2023-09-22T15:56:21.614Z,"13 km S of Girdwood, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-22T15:29:15.901Z,60.6114,-141.9846,0,1.9,ml,,,,1.17,ak,ak023c6iipxf,2023-09-22T15:38:07.066Z,"104 km SSE of McCarthy, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -18,7 +19,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-22T13:08:14.620Z,38.8226662,-122.8544998,2.49,0.67,md,13,94,0.005212,0.02,nc,nc73940271,2023-09-22T13:09:49.101Z,"10 km WNW of The Geysers, CA",earthquake,0.35,0.56,0.35,13,automatic,nc,nc
 2023-09-22T12:58:12.060Z,38.8053322,-122.7634964,3.31,0.72,md,6,168,0.02499,0.03,nc,nc73940266,2023-09-22T12:59:48.840Z,"3 km N of The Geysers, CA",earthquake,1.19,1.58,0.16,7,automatic,nc,nc
 2023-09-22T12:57:56.250Z,34.96683333,-97.56866667,4.86,1.44,ml,33,52,0.05668887571,0.34,ok,ok2023spim,2023-09-22T15:28:15.321Z,"9 km SE of Dibble, Oklahoma",earthquake,,0.9,0.34,3,reviewed,ok,ok
-2023-09-22T12:48:10.680Z,34.425,-119.1885,1.51,1.24,ml,14,71,0.1111,0.27,ci,ci40570304,2023-09-22T16:35:03.447Z,"6 km ESE of Ojai, CA",earthquake,0.52,1.02,0.208,18,automatic,ci,ci
+2023-09-22T12:48:10.530Z,34.423,-119.1785,1.28,1.26,ml,13,95,0.118,0.21,ci,ci40570304,2023-09-22T16:40:29.715Z,"6 km ESE of Ojai, CA",earthquake,0.35,0.74,0.149,7,reviewed,ci,ci
+2023-09-22T12:25:43.410Z,46.19466666666667,-122.19333333333333,2.77,0.04,ml,15,71,0.007761,0.08,uw,uw61961456,2023-09-22T16:38:02.900Z,"Washington",earthquake,0.3,0.43,0.1309175864678721,12,reviewed,uw,uw
 2023-09-22T12:22:00.601Z,-24.6064,179.8635,512.693,4.3,mb,37,95,5.041,0.59,us,us7000kxcm,2023-09-22T13:03:52.040Z,"south of the Fiji Islands",earthquake,15.06,9.103,0.107,25,reviewed,us,us
 2023-09-22T12:18:31.415Z,32.2816,-103.3111,7.935,3.5,ml,32,60,0.104,0.39,us,us7000kxci,2023-09-22T14:21:55.620Z,"21 km NNW of Jal, New Mexico",earthquake,2.48,6.886,0.085,26,reviewed,us,us
 2023-09-22T12:18:16.723Z,61.3418,-151.6255,76.4,2,ml,,,,0.58,ak,ak023c6go2ag,2023-09-22T12:31:09.040Z,"36 km NW of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
