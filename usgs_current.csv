@@ -226,4 +226,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-22T09:31:47.400Z,58.2356666666667,-155.1625,3.27,-0.34,ml,8,77,,0.06,av,av92053586,2023-09-22T21:34:08.920Z,"85 km NNW of Karluk, Alaska",earthquake,0.25,0.91,0.226650582290888,8,reviewed,av,av
 2023-09-22T09:31:28.480Z,37.3171654,-122.0736694,5.35,1.77,md,20,82,0.02227,0.09,nc,nc73940206,2023-09-22T18:50:09.084Z,"4 km W of Cupertino, CA",earthquake,0.23,0.39,0.12,17,automatic,nc,nc
 2023-09-22T09:28:17.710Z,46.19266666666667,-122.19516666666667,4.25,-0.03,ml,12,114,0.02075,0.09,uw,uw61961441,2023-09-22T16:46:06.050Z,"36 km NNE of Amboy, Washington",earthquake,0.49,0.65,0.09363207187503975,11,reviewed,uw,uw
-2023-09-22T09:20:08.919Z,60.1891,-153.0004,126.4,1.9,ml,,,,0.43,ak,ak023c6ew6bf,2023-09-22T09:22:28.889Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
