@@ -188,5 +188,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-25T10:06:05.180Z,38.8250008,-122.8571701,2.24,1.33,md,22,67,0.002551,0.02,nc,nc73941706,2023-09-25T10:07:41.913Z,"10 km WNW of The Geysers, CA",earthquake,0.24,0.4,0.24,22,automatic,nc,nc
 2023-09-25T09:47:47.466Z,63.1042,-151.5405,0,1.5,ml,,,,0.77,ak,ak023cbdo339,2023-09-25T09:50:16.955Z,"49 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-25T09:44:43.310Z,33.273,-116.781,12.85,0.86,ml,39,34,0.04136,0.14,ci,ci40572080,2023-09-25T19:42:26.258Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.18,0.47,0.122,25,reviewed,ci,ci
-2023-09-25T09:23:40.629Z,60.8695,-149.8757,30.7,1.3,ml,,,,0.59,ak,ak023cbdixe6,2023-09-25T09:25:25.703Z,"13 km WSW of Hope, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-09-25T09:20:03.271Z,63.0984,-151.3601,0,1.1,ml,,,,0.75,ak,ak023cbdi7d3,2023-09-25T09:22:10.935Z,"52 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
