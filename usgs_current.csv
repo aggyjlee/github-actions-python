@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-28T21:16:04.740Z,58.1894,-155.3658,1.2,0.6,ml,,,,0.25,ak,ak023cgj8lcq,2023-09-28T21:17:55.131Z,"87 km NW of Karluk, Alaska",earthquake,,1,,,automatic,ak,ak
+2023-09-28T21:14:34.080Z,37.6116676,-118.920166,0.91,0.66,md,6,221,0.003903,0.02,nc,nc73943121,2023-09-28T21:16:08.267Z,"6 km ESE of Mammoth Lakes, CA",earthquake,1.55,1.47,0.26,9,automatic,nc,nc
 2023-09-28T21:08:32.575Z,69.2332,-144.5464,12.5,3.5,ml,,,,0.74,ak,ak023cgj6xr5,2023-09-28T21:12:38.485Z,"106 km SSW of Kaktovik, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-09-28T21:06:37.520Z,38.7593346,-122.7375031,0.09,1.12,md,7,122,0.008588,0.01,nc,nc73943116,2023-09-28T21:08:13.442Z,"3 km SE of The Geysers, CA",earthquake,0.3,0.57,0.23,7,automatic,nc,nc
 2023-09-28T21:03:52.475Z,63.304,-149.3945,89.9,1.8,ml,,,,0.61,ak,ak023cgj5wq1,2023-09-28T21:06:30.987Z,"Central Alaska",earthquake,,0.7,,,automatic,ak,ak
