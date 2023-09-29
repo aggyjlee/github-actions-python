@@ -144,7 +144,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-29T08:00:12.742Z,37.5257,-117.9572,0,1.7,ml,12,94.49,0.158,0.1478,nn,nn00866534,2023-09-29T16:15:05.827Z,"18 km SSE of Dyer, Nevada",earthquake,,4.1,0.59,10,reviewed,nn,nn
 2023-09-29T07:58:12.570Z,-15.7285,-70.4541,218.576,4.3,mb,49,139,2.073,0.92,us,us6000lbmj,2023-09-29T12:27:53.040Z,"16 km ESE of Santa Lucía, Peru",earthquake,12.69,10.721,0.092,33,reviewed,us,us
 2023-09-29T07:57:51.936Z,36.8474,140.3369,115.362,4.5,mb,83,133,1.737,0.93,us,us6000lbmk,2023-09-29T11:03:22.180Z,"9 km N of Daigo, Japan",earthquake,8.37,6.908,0.067,65,reviewed,us,us
-2023-09-29T07:57:04.081Z,58.2522,-155.1338,0,1,ml,,,,0.59,ak,ak023chyonoo,2023-09-29T07:58:25.883Z,"Alaska Peninsula",earthquake,,7,,,automatic,ak,ak
+2023-09-29T07:57:04.081Z,58.2522,-155.1338,0,1,ml,,,,0.59,ak,ak023chyonoo,2023-09-29T23:29:57.810Z,"Alaska Peninsula",earthquake,,7,,,automatic,ak,ak
 2023-09-29T07:43:15.720Z,19.2938327789307,-155.407333374023,29.6900005340576,1.76999998,md,33,113,,0.109999999,hv,hv73587917,2023-09-29T07:46:20.660Z,"Island of Hawaii, Hawaii",earthquake,0.61,0.730000019,1.15999997,8,automatic,hv,hv
 2023-09-29T07:42:24.717Z,61.6887,-151.8128,103,1.4,ml,,,,0.42,ak,ak023chylhjb,2023-09-29T07:45:09.232Z,"40 km SSW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-09-29T07:40:56.535Z,51.4694,-177.9601,80.024,3.7,mb,35,196,0.289,0.19,us,us6000lbmq,2023-09-29T08:35:39.040Z,"102 km WSW of Adak, Alaska",earthquake,6.91,8.37,0.205,6,reviewed,us,us
@@ -227,4 +227,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-28T23:44:53.320Z,31.8246667,-116.1605,5.37,2.49,ml,17,76,0.2548,0.38,ci,ci40574184,2023-09-29T21:54:16.044Z,"40 km ENE of Maneadero, B.C., MX",earthquake,0.55,31.61,0.138,59,reviewed,ci,ci
 2023-09-28T23:41:04.960Z,60.0228333333333,-153.075666666667,5.46,-0.51,ml,5,98,,0.16,av,av92066121,2023-09-29T17:13:41.750Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.72,1.23,0.22270658773676,5,reviewed,av,av
 2023-09-28T23:34:06.653Z,60.4545,-152.0082,72,1.4,ml,,,,0.39,ak,ak023cgkjbll,2023-09-28T23:36:40.142Z,"39 km W of Kalifornsky, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-09-28T23:27:48.580Z,-19.3154,-177.9137,597.798,4.9,mb,60,67,3.142,0.51,us,us6000lbjq,2023-09-29T02:00:06.040Z,"Fiji region",earthquake,13.42,8.632,0.062,83,reviewed,us,us
