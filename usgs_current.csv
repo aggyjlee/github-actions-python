@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-02T23:11:02.340Z,18.0298333333333,-66.7463333333333,12.11,2.13,md,10,163,0.0441,0.07,pr,pr71427323,2023-10-02T23:19:14.620Z,"Puerto Rico",earthquake,0.35,0.57,0.0873550591086687,5,reviewed,pr,pr
 2023-10-02T23:04:00.305Z,63.1493,-152.6482,2.1,1.4,ml,,,,0.71,ak,ak023cn6i9lq,2023-10-02T23:12:39.026Z,"63 km SW of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-02T22:53:26.702Z,63.5595,-147.7045,0,1.8,ml,,,,1.2,ak,ak023cn67e4e,2023-10-02T22:56:24.122Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-10-02T22:51:45.160Z,17.9255,-66.841,10.18,2.97,md,14,197,0.06128,0.1,pr,pr71427308,2023-10-02T23:06:47.070Z,"7 km SE of Maria Antonia, Puerto Rico",earthquake,0.37,0.36,0.350592020741326,8,reviewed,pr,pr
@@ -176,7 +177,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-02T02:27:58.820Z,32.6795,-115.7116667,10.79,1.36,ml,24,117,0.03254,0.28,ci,ci40575296,2023-10-02T21:11:13.888Z,"16 km NW of Progreso, B.C., MX",earthquake,0.59,0.54,0.258,8,reviewed,ci,ci
 2023-10-02T02:26:37.150Z,40.2168333,-121.1576667,6.78,1.65,md,17,79,0.03223,0.13,nc,nc73944401,2023-10-02T20:13:50.468Z,"1 km N of Prattville, CA",earthquake,0.62,0.42,0.266,17,reviewed,nc,nc
 2023-10-02T02:23:04.237Z,63.0891,-149.2246,28.5,1.5,ml,,,,0.89,ak,ak023cmu48tj,2023-10-02T02:26:20.762Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-10-02T02:18:54.015Z,63.1231,-151.4682,2.6,2.6,ml,,,,0.62,ak,ak023cmu3a2f,2023-10-02T02:20:51.497Z,"48 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-10-02T02:18:54.015Z,63.1231,-151.4682,2.6,2.6,ml,,,,0.62,ak,ak023cmu3a2f,2023-10-02T23:19:21.040Z,"48 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-02T02:06:10.466Z,-57.0756,-30.1204,10,5.2,mb,48,68,4.562,0.72,us,us6000lc6e,2023-10-02T22:59:33.040Z,"South Sandwich Islands region",earthquake,11.48,1.841,0.091,40,reviewed,us,us
 2023-10-02T01:47:45.833Z,62.2078,-148.6517,33.5,1.9,ml,,,,0.3,ak,ak023cmto1lj,2023-10-02T01:49:18.292Z,"46 km NNW of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-02T01:18:34.910Z,38.8253326,-122.7986679,2.86,0.82,md,14,61,0.009117,0.02,nc,nc73944381,2023-10-02T01:20:10.353Z,"6 km NW of The Geysers, CA",earthquake,0.32,0.65,0.19,16,automatic,nc,nc
