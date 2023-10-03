@@ -24,6 +24,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-03T18:56:50.390Z,34.9955,-118.1811667,-0.9,1.42,ml,20,53,0.1228,0.18,ci,ci40576304,2023-10-03T19:34:05.059Z,"6 km S of Mojave, CA",quarry blast,0.36,31.61,0.122,28,reviewed,ci,ci
 2023-10-03T18:30:16.480Z,44.7468333,-110.7916667,5.35,0.92,ml,8,156,0.05898,0.08,uu,uu60551442,2023-10-03T21:09:21.300Z,"26 km ENE of West Yellowstone, Montana",earthquake,0.44,1.49,0.488,3,reviewed,uu,uu
 2023-10-03T18:28:55.520Z,44.7506667,-110.7871667,7.9,1.27,ml,11,150,0.05877,0.17,uu,uu60551427,2023-10-03T21:10:04.010Z,"26 km SSW of Mammoth, Wyoming",earthquake,0.46,0.6,0.472,3,reviewed,uu,uu
+2023-10-03T18:27:53.430Z,44.7468333,-110.7913333,4.98,1.29,ml,11,133,0.05914,0.14,uu,uu60551432,2023-10-03T21:21:45.710Z,"26 km SSW of Mammoth, Wyoming",earthquake,0.34,0.47,0.258,4,reviewed,uu,uu
 2023-10-03T18:22:31.705Z,61.3222,-147.906,20.7,1.1,ml,,,,0.33,ak,ak023cor6ddu,2023-10-03T18:24:18.199Z,"55 km SSW of Glacier View, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-10-03T18:22:09.000Z,32.8611667,-116.3311667,11.61,0.65,ml,16,73,0.09606,0.09,ci,ci40576288,2023-10-03T18:53:53.713Z,"19 km ENE of Pine Valley, CA",earthquake,0.17,0.5,0.085,6,reviewed,ci,ci
 2023-10-03T18:22:03.290Z,44.7348333,-110.7966667,5.61,1.41,md,6,137,0.06136,0.22,uu,uu60033744,2023-10-03T20:55:57.510Z,"Wyoming",earthquake,1.1,2.3,0.225,6,reviewed,uu,uu
