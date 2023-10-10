@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-10T17:17:29.372Z,28.9468,-98.1052,3.512,2.8,mb_lg,16,63,0.276,0.7,us,us6000lekm,2023-10-10T17:28:56.040Z,"southern Texas",earthquake,1.79,5.326,0.073,50,reviewed,us,us
+2023-10-10T17:08:23.800Z,18.0396666666667,-66.8045,15.82,1.65,md,6,139,0.09587,0.11,pr,pr71428128,2023-10-10T17:28:17.010Z,"2 km NNW of Guayanilla, Puerto Rico",earthquake,0.66,1.93,0.291472076159682,5,reviewed,pr,pr
 2023-10-10T17:03:39.690Z,19.1651668548584,-155.509002685547,34.8800010681152,1.96000004,md,27,160,,0.150000006,hv,hv73603527,2023-10-10T17:06:56.350Z,"5 km SW of Pāhala, Hawaii",earthquake,0.75,1.07000005,0.839999974,3,automatic,hv,hv
 2023-10-10T17:02:11.920Z,39.4556656,-122.5148315,11.09,2.83,md,7,213,0.3691,0.37,nc,nc73948606,2023-10-10T17:23:14.864Z,"14 km S of Stony Gorge Reservoir, CA",earthquake,3.56,6.41,0.07,4,automatic,nc,nc
 2023-10-10T16:46:52.560Z,46.5448333333333,-111.988166666667,-2,0.94,ml,9,173,0.05767,0.11,mb,mb90029398,2023-10-10T17:21:59.580Z,"1 km SSE of South Hills, Montana",quarry blast,0.73,31.61,0.157356304807441,5,reviewed,mb,mb
@@ -132,6 +134,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-10T02:15:02.680Z,38.6803322,-122.4973297,8.08,1.09,md,10,133,0.09049,0.06,nc,nc73948336,2023-10-10T03:06:12.143Z,"12 km NNW of Angwin, CA",earthquake,0.64,2.41,0.31,7,automatic,nc,nc
 2023-10-10T02:11:15.020Z,19.2525005340576,-155.377334594727,33.25,1.96,ml,42,176,,0.150000006,hv,hv73602522,2023-10-10T02:16:45.530Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.52,1.10000002,0.29,5,automatic,hv,hv
 2023-10-10T02:10:50.730Z,31.613,-104.002,7.7769,3.2,ml(texnet),12,58,0,0.1,tx,tx2023tvke,2023-10-10T02:25:48.814Z,"38 km NNW of Toyah, Texas",earthquake,0.6002121726,0.5357848963,0.1,9,reviewed,tx,tx
+2023-10-10T02:04:36.370Z,46.2045,-122.18166666666667,3.18,0.33,ml,15,135,0.005058,0.11,uw,uw61965271,2023-10-10T17:28:32.430Z,"38 km NNE of Amboy, Washington",earthquake,0.33,0.86,0.03713267281896915,9,reviewed,uw,uw
 2023-10-10T02:00:52.710Z,32.3463,-104.4902,10,2.6,ml,26,90,0.524,0.64,us,us6000leex,2023-10-10T02:10:11.040Z,"21 km NNW of Whites City, New Mexico",earthquake,2.99,2.011,0.064,57,reviewed,us,us
 2023-10-10T01:53:36.220Z,31.4903333,-115.642,8.43,3.04,ml,12,70,0.1564,0.19,ci,ci40580320,2023-10-10T14:07:27.782Z,"91 km ESE of Maneadero, B.C., MX",earthquake,0.3,1.25,0.133,56,reviewed,ci,ci
 2023-10-10T01:44:44.880Z,19.3583335876465,-155.298004150391,1.42999994754791,1.82,ml,19,110,,0.189999998,hv,hv73602492,2023-10-10T01:50:15.030Z,"Island of Hawaii, Hawaii",earthquake,0.3,0.540000021,0.25,8,automatic,hv,hv
@@ -204,5 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-09T17:45:22.179Z,62.522,-148.3154,41,2,ml,,,,0.61,ak,ak023cynxxh5,2023-10-10T05:05:34.961Z,"81 km N of Chickaloon, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-10-09T17:37:03.870Z,19.219165802002,-155.363494873047,32.1800003051758,1.82000005,md,35,177,,0.0900000036,hv,hv73602057,2023-10-09T17:40:14.780Z,"12 km E of Pāhala, Hawaii",earthquake,0.61,0.479999989,0.769999981,3,automatic,hv,hv
 2023-10-09T17:32:28.480Z,33.048,-114.9621667,-0.2,1.53,ml,10,82,0.07675,0.3,ci,ci40579848,2023-10-09T23:06:58.375Z,"44 km NNW of Los Algodones, B.C., MX",quarry blast,0.89,31.61,0.119,9,reviewed,ci,ci
-2023-10-09T17:30:08.900Z,36.221,-117.4013333,0.17,2.18,ml,20,107,0.343,0.17,ci,ci40579840,2023-10-10T13:39:42.597Z,"48 km SSW of Stovepipe Wells, CA",earthquake,0.32,1.05,0.137,34,reviewed,ci,ci
-2023-10-09T17:28:02.280Z,33.2738333,-116.7778333,12.6,0.81,ml,31,68,0.04099,0.14,ci,ci40579824,2023-10-09T20:49:26.001Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.2,0.4,0.109,15,reviewed,ci,ci
