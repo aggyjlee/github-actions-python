@@ -200,5 +200,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-11T03:42:13.290Z,73.6146,7.7797,10,4.4,mb,20,128,5.421,0.58,us,us6000lepf,2023-10-11T04:00:14.040Z,"Greenland Sea",earthquake,6.77,1.945,0.106,26,reviewed,us,us
 2023-10-11T03:35:14.750Z,53.3833333333333,-168.246666666667,2.8,-0.08,ml,5,287,,0.16,av,av92079706,2023-10-12T03:06:40.810Z,"64 km NE of Nikolski, Alaska",earthquake,1.11,1.54,0.497930882155602,5,reviewed,av,av
 2023-10-11T03:34:22.571Z,-25.322,179.5904,507.816,4.4,mb,21,79,4.506,0.5,us,us6000lepe,2023-10-11T03:53:15.040Z,"south of the Fiji Islands",earthquake,14.51,9.614,0.117,21,reviewed,us,us
-2023-10-11T03:31:52.480Z,32.6998333,-115.7276667,9.2,1.38,ml,20,67,0.05037,0.19,ci,ci40580968,2023-10-11T15:05:53.128Z,"19 km WSW of El Centro, CA",earthquake,0.3,0.64,0.191,5,reviewed,ci,ci
-2023-10-11T03:29:14.600Z,38.8351669,-122.7906647,1.73,1,md,14,54,0.003247,0.01,nc,nc73948751,2023-10-11T03:53:20.414Z,"6 km WNW of Cobb, CA",earthquake,0.32,0.78,0.31,15,automatic,nc,nc
