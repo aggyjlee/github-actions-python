@@ -188,5 +188,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-11T07:25:38.910Z,47.6775,-113.742666666667,1.13,0.48,ml,5,234,0.2416,0.01,mb,mb90029453,2023-10-11T18:05:14.010Z,"Western Montana",earthquake,1.09,1.73,0.0340573077611703,2,reviewed,mb,mb
 2023-10-11T07:22:40.990Z,34.1586667,-117.5691667,9.94,0.63,ml,31,67,0.0432,0.14,ci,ci40581016,2023-10-11T16:09:11.932Z,"4 km NNE of Rancho Cucamonga, CA",earthquake,0.25,0.34,0.137,6,reviewed,ci,ci
 2023-10-11T07:15:15.130Z,19.337,-155.320666666667,2.86,2.27,ml,47,69,,0.12,hv,hv73604507,2023-10-11T22:43:29.940Z,"14 km SW of Volcano, Hawaii",earthquake,0.2,0.4,0.201084956260509,22,reviewed,hv,hv
-2023-10-11T06:40:05.537Z,61.4247,-150.4934,55.8,1.7,ml,,,,0.42,ak,ak023d1sfqy1,2023-10-11T06:42:01.273Z,"Southern Alaska",earthquake,,0.8,,,automatic,ak,ak
-2023-10-11T06:35:21.600Z,32.4085,-115.2093333,8.54,1.84,ml,18,57,0.08166,0.27,ci,ci40581008,2023-10-11T15:56:32.270Z,"6 km NNW of Delta, B.C., MX",earthquake,0.36,1.12,0.154,11,reviewed,ci,ci
