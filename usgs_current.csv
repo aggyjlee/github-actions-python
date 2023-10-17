@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-17T06:38:06.944Z,58.8121,-154.366,68,1.2,ml,,,,0.18,ak,ak023dbpnel2,2023-10-17T06:39:45.851Z,"73 km SSE of Kokhanok, Alaska",earthquake,,3,,,automatic,ak,ak
+2023-10-17T06:34:20.370Z,38.8351669,-122.7906647,1.58,0.37,md,6,120,0.003247,0.01,nc,nc73948150,2023-10-17T06:42:11.428Z,"6 km WNW of Cobb, CA",earthquake,0.79,1.23,0.21,8,automatic,nc,nc
 2023-10-17T06:18:48.260Z,19.3683338165283,-155.289993286133,0.860000014305115,1.74,ml,17,125,,0.25,hv,hv73611267,2023-10-17T06:24:19.040Z,"Hawaii region, Hawaii",earthquake,0.37,0.550000012,2.52,8,automatic,hv,hv
 2023-10-17T06:17:34.308Z,63.4676,-146.194,0,1.6,ml,,,,0.42,ak,ak023dbpiynq,2023-10-17T06:19:54.384Z,"51 km NW of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-17T06:13:50.570Z,19.3641662597656,-155.283828735352,1.95000004768372,1.76999998,md,18,117,,0.209999993,hv,hv73611262,2023-10-17T06:19:21.700Z,"10 km SSW of Volcano, Hawaii",earthquake,0.33,0.49000001,0.409999996,13,automatic,hv,hv
