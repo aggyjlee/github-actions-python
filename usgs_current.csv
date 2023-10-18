@@ -1,8 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-18T15:44:41.760Z,19.3578338623047,-155.290664672852,2.10999989509583,2.02,ml,32,114,,0.25,hv,hv73613457,2023-10-18T15:50:12.370Z,"11 km SSW of Volcano, Hawaii",earthquake,0.38,0.680000007,0.23,10,automatic,hv,hv
 2023-10-18T15:36:44.667Z,63.5573,-150.8266,0,1.6,ml,,,,0.34,ak,ak023ddijb02,2023-10-18T15:38:25.655Z,"44 km E of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-18T15:30:23.254Z,64.3466,-149.7028,0,1.9,ml,,,,0.84,ak,ak023ddihz1x,2023-10-18T15:32:39.222Z,"24 km W of Anderson, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-10-18T15:24:55.900Z,38.8266678,-122.8054962,2.16,1.03,md,20,42,0.004844,0.01,nc,nc73948640,2023-10-18T15:35:11.098Z,"7 km NW of The Geysers, CA",earthquake,0.22,0.45,0.1,22,automatic,nc,nc
-2023-10-18T15:15:00.561Z,37.2205,-116.1543,0,1.8,ml,23,124.48,0.007,0.1641,nn,nn00867561,2023-10-18T15:28:44.859Z,"59 km SW of Rachel, Nevada",earthquake,,0,0.29,18,reviewed,nn,nn
+2023-10-18T15:24:55.900Z,38.8266678,-122.8054962,2.16,1.03,md,20,42,0.004844,0.01,nc,nc73948640,2023-10-18T15:41:19.135Z,"7 km NW of The Geysers, CA",earthquake,0.22,0.45,0.1,22,automatic,nc,nc
+2023-10-18T15:15:00.534Z,37.2196,-116.1557,0,1.7,ml,43,91.89,0.006,0.1645,nn,nn00867561,2023-10-18T15:41:30.833Z,"59 km SW of Rachel, Nevada",earthquake,,0,0.27,25,reviewed,nn,nn
 2023-10-18T14:50:43.985Z,-55.2997,158.7696,10,4.7,mb,13,157,0.809,0.97,us,us6000lgd4,2023-10-18T15:14:39.040Z,"Macquarie Island region",earthquake,9.28,1.96,0.165,11,reviewed,us,us
 2023-10-18T14:49:55.000Z,32.7585,-115.5078333,10.52,1.69,ml,19,104,0.06946,0.26,ci,ci40583792,2023-10-18T14:53:37.677Z,"4 km NNE of Heber, CA",earthquake,0.6,1.1,0.231,26,automatic,ci,ci
 2023-10-18T14:48:48.923Z,60.5718,-151.7027,50.4,2.2,ml,,,,0.44,ak,ak023ddi0gbg,2023-10-18T14:49:56.214Z,"21 km WSW of Salamatof, Alaska",earthquake,,2.5,,,automatic,ak,ak
@@ -22,7 +23,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-18T12:51:50.210Z,19.367000579834,-155.289169311523,1.30999994277954,1.77999997,md,19,110,,0.209999993,hv,hv73613307,2023-10-18T12:55:02.270Z,"10 km SW of Volcano, Hawaii",earthquake,0.26,0.340000004,0.75,12,automatic,hv,hv
 2023-10-18T12:44:05.530Z,19.363166809082,-155.276672363281,2.45000004768372,1.73,ml,22,123,,0.180000007,hv,hv73613292,2023-10-18T12:49:37.860Z,"9 km SSW of Volcano, Hawaii",earthquake,0.35,0.349999994,2.15,9,automatic,hv,hv
 2023-10-18T12:05:24.120Z,19.3386669158936,-155.300338745117,2.55999994277954,1.76999998,md,25,116,,0.150000006,hv,hv73613262,2023-10-18T12:08:25.280Z,"13 km SSW of Volcano, Hawaii",earthquake,0.31,0.579999983,0.600000024,17,automatic,hv,hv
-2023-10-18T11:45:55.120Z,34.5203333,-116.5456667,1.28,1.45,ml,19,86,0.1393,0.19,ci,ci40583728,2023-10-18T11:59:42.687Z,"40 km ENE of Lucerne Valley, CA",earthquake,0.39,0.67,0.198,28,automatic,ci,ci
+2023-10-18T11:45:55.170Z,34.5173333,-116.5438333,2,1.47,ml,26,76,0.1426,0.12,ci,ci40583728,2023-10-18T15:47:35.656Z,"40 km NE of Big Bear City, CA",earthquake,0.17,0.39,0.18,15,reviewed,ci,ci
 2023-10-18T11:17:47.261Z,63.7901,-148.9257,25,1.5,ml,,,,0.57,ak,ak023ddg1i6e,2023-10-18T11:19:44.864Z,"6 km N of Denali Park, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-10-18T11:13:39.100Z,38.840332,-122.7724991,0.69,1.31,md,24,76,0.003796,0.04,nc,nc73948620,2023-10-18T14:57:15.878Z,"5 km WNW of Cobb, CA",earthquake,0.26,0.41,0.13,24,automatic,nc,nc
 2023-10-18T11:01:26.100Z,38.8434982,-122.8820038,2.33,0.97,md,11,106,0.005388,0.02,nc,nc73948615,2023-10-18T11:38:13.774Z,"12 km ENE of Cloverdale, CA",earthquake,0.41,0.56,0.2,11,automatic,nc,nc
