@@ -1,9 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-19T18:33:15.549Z,58.1484,-155.5997,35,0.8,ml,,,,0.97,ak,ak023df7u8wy,2023-10-19T18:34:59.468Z,"Alaska Peninsula",earthquake,,1.3,,,automatic,ak,ak
 2023-10-19T18:29:59.149Z,61.4002,-151.5969,77.8,1.4,ml,,,,0.18,ak,ak023df7tft2,2023-10-19T18:32:43.637Z,"Southern Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-10-19T18:03:01.410Z,17.837,-66.8946666666667,12.85,2.45,md,11,257,0.1351,0.16,pr,pr71429248,2023-10-19T18:15:42.410Z,"Puerto Rico region",earthquake,0.89,0.5,0.247850483825326,5,reviewed,pr,pr
 2023-10-19T17:56:29.140Z,38.8305016,-122.817337,1.85,0.95,md,7,80,0.009085,0.01,nc,nc73949045,2023-10-19T18:11:14.526Z,"8 km NW of The Geysers, CA",earthquake,0.39,1.21,0.78,8,automatic,nc,nc
 2023-10-19T17:53:07.353Z,53.9185,-163.5283,3.466,3.5,ml,29,207,0.907,0.31,us,us6000lgp8,2023-10-19T18:32:57.040Z,"Unimak Island region, Alaska",earthquake,5.19,9.403,0.094,15,reviewed,us,us
 2023-10-19T17:51:03.849Z,62.5657,-150.7814,70.8,1.4,ml,,,,0.73,ak,ak023df7cnao,2023-10-19T17:52:49.243Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-10-19T17:37:20.675Z,68.2271,-136.691,27.4,3.3,ml,,,,1.31,ak,ak023df79okp,2023-10-19T18:34:52.203Z,"123 km W of Inuvik, Canada",earthquake,,1,,,reviewed,ak,ak
 2023-10-19T17:21:18.120Z,38.6798325,-122.4936676,9.05,1.23,md,6,133,0.08783,0.06,nc,nc73949030,2023-10-19T17:39:12.220Z,"12 km NNW of Angwin, CA",earthquake,1.58,6.04,0.36,4,automatic,nc,nc
 2023-10-19T17:10:51.172Z,60.5393,-152.3116,90.3,1.7,ml,,,,0.73,ak,ak023df73ycv,2023-10-19T17:13:27.684Z,"55 km W of Salamatof, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2023-10-19T17:10:48.900Z,38.8381653,-122.8359985,1.27,0.51,md,12,116,0.0005819,0.01,nc,nc73949025,2023-10-19T17:27:14.155Z,"10 km NW of The Geysers, CA",earthquake,0.29,0.63,0.37,12,automatic,nc,nc
