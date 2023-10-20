@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-20T11:04:21.764Z,39.6249,-119.637,7.4,1.2,ml,10,90.31,0.193,0.2319,nn,nn00867653,2023-10-20T11:06:47.184Z,"Nevada",earthquake,,2.1,0.53,5,automatic,nn,nn
 2023-10-20T10:51:12.490Z,34.4805,-118.0848333,11.87,0.75,ml,13,60,0.02743,0.17,ci,ci40584552,2023-10-20T10:54:41.986Z,"4 km SE of Vincent, CA",earthquake,0.39,0.68,0.175,11,automatic,ci,ci
 2023-10-20T10:48:31.550Z,19.1906661987305,-155.392837524414,31.5300006866455,1.82000005,md,39,163,,0.119999997,hv,hv73614812,2023-10-20T10:51:43.200Z,"9 km E of Pāhala, Hawaii",earthquake,0.54,0.709999979,0.460000008,5,automatic,hv,hv
 2023-10-20T10:32:23.482Z,39.6303,-119.6454,0,1.5,ml,12,91.73,0.191,0.3132,nn,nn00867651,2023-10-20T10:34:47.217Z,"5 km ESE of Spanish Springs, Nevada",earthquake,,9.6,0.33,8,automatic,nn,nn
