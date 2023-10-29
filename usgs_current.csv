@@ -74,7 +74,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-29T01:48:29.378Z,9.2076,125.6014,10,4.6,mb,55,107,2.124,1.02,us,us7000l7ak,2023-10-29T02:27:19.040Z,"4 km ENE of Santa Ana, Philippines",earthquake,4.46,1.864,0.087,40,reviewed,us,us
 2023-10-29T01:46:10.430Z,38.8465004,-122.8153305,1.29,0.92,md,18,54,0.01028,0.02,nc,nc73953110,2023-10-29T01:56:09.958Z,"8 km WNW of Cobb, CA",earthquake,0.22,0.54,0.18,19,automatic,nc,nc
 2023-10-29T01:36:11.609Z,30.4023,50.2713,10,4.3,mb,56,78,5.944,0.69,us,us7000l7a6,2023-10-29T02:16:09.876Z,"21 km S of Behbahān, Iran",earthquake,8.73,1.924,0.094,32,reviewed,us,us
-2023-10-29T01:35:24.503Z,-11.222,29.8035,9.978,4.6,mb,40,61,4.327,0.59,us,us7000l7ab,2023-10-29T04:46:09.477Z,"31 km ENE of Samfya, Zambia",earthquake,9.62,4.548,0.105,27,reviewed,us,us
+2023-10-29T01:35:24.503Z,-11.222,29.8035,9.978,4.6,mb,40,61,4.327,0.59,us,us7000l7ab,2023-10-29T10:36:03.084Z,"31 km ENE of Samfya, Zambia",earthquake,9.62,4.548,0.105,27,reviewed,us,us
 2023-10-29T01:18:38.992Z,59.0556,-136.335,0.4,3.2,ml,,,,0.86,ak,ak023dvh06jr,2023-10-29T05:39:11.169Z,"43 km SSW of Covenant Life, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-10-29T01:18:09.672Z,60.327,-152.1085,83.8,2.1,ml,,,,0.31,ak,ak023dvh04dj,2023-10-29T01:27:30.040Z,"Southern Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-10-29T01:05:08.294Z,38.1892,-117.7969,3.5,1.8,ml,11,111.77,0.132,0.2031,nn,nn00868107,2023-10-29T01:08:00.399Z,"Nevada",earthquake,,1.2,0.31,9,automatic,nn,nn
