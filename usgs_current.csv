@@ -200,4 +200,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-30T18:47:48.960Z,19.2360000610352,-155.389663696289,33.189998626709,1.76999998,md,36,160,,0.109999999,hv,hv73633212,2023-10-30T18:50:55.650Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.74,0.910000026,1.05999994,7,automatic,hv,hv
 2023-10-30T18:47:22.271Z,58.9975,-136.3817,0,2.4,ml,,,,1.16,ak,ak023dxeu2uo,2023-10-30T18:51:44.259Z,"51 km SSW of Covenant Life, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-10-30T18:41:20.310Z,48.28366666666667,-116.61966666666666,-0.71,1.99,ml,7,149,0.3366,0.43,uw,uw61960437,2023-10-30T21:05:47.411Z,"3 km N of Dover, Idaho",explosion,3.89,31.61,0.1141192630740584,2,reviewed,uw,uw
-2023-10-30T18:31:01.174Z,61.9356,-151.0797,63,1.7,ml,,,,0.61,ak,ak023dxeqlt1,2023-10-30T18:34:49.384Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
