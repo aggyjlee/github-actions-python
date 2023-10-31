@@ -203,5 +203,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-30T09:49:57.730Z,37.4686667,-118.7878333,3.65,0.61,md,19,153,0.1255,0.04,nc,nc73953630,2023-10-30T19:11:26.998Z,"14 km SW of Toms Place, CA",earthquake,1.29,1.74,0.204,17,reviewed,nc,nc
 2023-10-30T09:42:25.300Z,44.2225,-115.1015,5.64,1.99,ml,14,72,0.2172,0.12,mb,mb90031238,2023-10-30T14:58:27.160Z,"13 km W of Stanley, Idaho",earthquake,0.29,0.9,0.348419164212916,12,reviewed,mb,mb
 2023-10-30T09:32:17.690Z,38.8286667,-122.7919998,1.1,0.7,md,11,54,0.009814,0.02,nc,nc73953620,2023-10-30T10:04:10.430Z,"6 km W of Cobb, CA",earthquake,0.26,0.92,0.07,14,automatic,nc,nc
-2023-10-30T09:29:24.740Z,61.775,-150.7443,41,1.8,ml,,,,0.61,ak,ak023dx9dbqy,2023-10-30T09:31:26.661Z,"28 km NNW of Susitna, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2023-10-30T09:28:16.040Z,46.9213333333333,-112.526166666667,10.73,2.22,ml,18,136,0.07819,0.12,mb,mb90031228,2023-10-30T14:45:22.820Z,"12 km ESE of Lincoln, Montana",earthquake,0.42,0.59,0.268855889620108,16,reviewed,mb,mb
