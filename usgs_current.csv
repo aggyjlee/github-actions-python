@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-04T09:16:19.890Z,19.2948341369629,-155.389663696289,1.12000000476837,2.05999994,md,18,158,,0.230000004,hv,hv73638847,2023-11-04T09:19:31.880Z,"13 km NE of Pāhala, Hawaii",earthquake,0.56,0.689999998,2.20000005,4,automatic,hv,hv
 2023-11-04T09:14:29.350Z,38.850666,-122.8215027,3.02,0.21,md,8,118,0.004241,0.01,nc,nc73955880,2023-11-04T09:16:07.560Z,"9 km WNW of Cobb, CA",earthquake,1.41,3.17,0.09,8,automatic,nc,nc
 2023-11-04T09:09:33.949Z,63.4702,-147.5217,1.7,1.3,ml,,,,0.4,ak,ak023e5ixslu,2023-11-04T09:11:13.001Z,"71 km E of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-04T09:04:41.586Z,58.7529,-153.7509,6.3,1.4,ml,,,,0.42,ak,ak023e5iwqm6,2023-11-04T09:06:55.232Z,"91 km NNW of Aleneva, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -12,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-04T08:11:30.430Z,35.694,-117.5226667,7.92,2.25,ml,31,75,0.08557,0.15,ci,ci39707258,2023-11-04T08:22:33.290Z,"14 km SW of Searles Valley, CA",earthquake,0.26,0.91,0.157,24,automatic,ci,ci
 2023-11-04T08:10:21.475Z,31.646,-104.309,3.8202,1.8,ml(texnet),19,69,0,0.4,tx,tx2023vpnq,2023-11-04T08:48:05.222Z,"59 km S of Whites City, New Mexico",earthquake,0,1.284372758,0.1,15,automatic,tx,tx
 2023-11-04T08:03:22.650Z,33.4965,-116.4203333,7.7,0.37,ml,14,93,0.1107,0.25,ci,ci39707250,2023-11-04T08:07:02.678Z,"21 km SSW of La Quinta, CA",earthquake,0.68,2.3,0.211,7,automatic,ci,ci
-2023-11-04T07:44:59.800Z,38.8204994,-122.7624969,1.86,2.11,md,47,56,0.01152,0.05,nc,nc73955855,2023-11-04T07:51:14.669Z,"3 km W of Cobb, CA",earthquake,0.16,0.25,0.12,42,automatic,nc,nc
+2023-11-04T07:44:59.800Z,38.8204994,-122.7624969,1.86,2.11,md,47,56,0.01152,0.05,nc,nc73955855,2023-11-04T09:22:13.922Z,"3 km W of Cobb, CA",earthquake,0.16,0.25,0.12,42,automatic,nc,nc
 2023-11-04T07:37:55.667Z,31.65,-104.368,4.3088,1.6,ml(texnet),19,71,0.1,0.3,tx,tx2023vpmo,2023-11-04T08:00:44.744Z,"58 km S of Whites City, New Mexico",earthquake,0,1.315136396,0.2,15,automatic,tx,tx
 2023-11-04T07:33:19.790Z,35.5971667,-117.8771667,8.41,0.56,ml,10,82,0.0156,0.15,ci,ci39707242,2023-11-04T07:36:59.431Z,"8 km SW of Inyokern, CA",earthquake,0.4,0.64,0.184,5,automatic,ci,ci
 2023-11-04T07:31:24.817Z,58.0843,-155.6994,59.3,0.5,ml,,,,0.27,ak,ak023e5hvmg1,2023-11-04T07:33:16.324Z,"87 km SE of King Salmon, Alaska",earthquake,,3.3,,,automatic,ak,ak
@@ -241,5 +242,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-03T09:30:22.970Z,58.1716666666667,-155.359,1.67,-0.5,ml,10,77,,0.06,av,av92105421,2023-11-04T01:21:24.440Z,"85 km NW of Karluk, Alaska",earthquake,0.18,0.66,0.179078053058395,10,reviewed,av,av
 2023-11-03T09:28:08.030Z,61.0206666666667,-152.380166666667,10.99,0.07,ml,11,154,,0.14,av,av92105416,2023-11-04T01:18:25.920Z,"Southern Alaska",earthquake,0.55,1.59,0.185775422449205,11,reviewed,av,av
 2023-11-03T09:28:00.533Z,63.4104,-150.8108,106.7,1.8,ml,,,,0.75,ak,ak023e3vig51,2023-11-03T09:29:49.836Z,"47 km ESE of Denali National Park, Alaska",earthquake,,1.8,,,automatic,ak,ak
-2023-11-03T09:19:24.583Z,62.3992,-148.3706,24.5,1.3,ml,,,,0.9,ak,ak023e3vgki6,2023-11-03T09:21:24.717Z,"67 km N of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-11-03T09:16:13.680Z,19.4215,-155.398666666667,7.66,1.96,ml,48,42,,0.11,hv,hv73637867,2023-11-04T02:44:49.790Z,"17 km W of Volcano, Hawaii",earthquake,0.25,0.52,0.152948516857651,19,reviewed,hv,hv
