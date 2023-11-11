@@ -254,4 +254,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-10T19:32:50.560Z,61.7674,-150.1094,76,2,ml,,,,0.85,ak,ak023efm96dc,2023-11-10T20:17:38.142Z,"Southern Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-11-10T19:24:21.715Z,61.0128,-147.0513,22.2,1.4,ml,,,,0.48,ak,ak023efm7eez,2023-11-10T19:26:07.695Z,"26 km NW of Tatitlek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-10T19:23:59.080Z,38.8404999,-122.8258362,1.61,0.76,md,18,97,0.007775,0.03,nc,nc73961066,2023-11-10T19:33:11.375Z,"9 km WNW of Cobb, CA",earthquake,0.22,0.45,0.15,18,automatic,nc,nc
-2023-11-10T19:15:24.113Z,31.632,-104.01,6.4224,1.6,ml(texnet),15,78,0,0.3,tx,tx2023wbio,2023-11-10T19:49:07.979Z,"39 km WSW of Mentone, Texas",earthquake,0,2.251092434,0.3,13,automatic,tx,tx
