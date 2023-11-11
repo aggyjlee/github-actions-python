@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-11T21:00:10.080Z,35.6551666,-117.4629974,10,1.29,ml,18,106,0.0335,0.14,ci,ci39711850,2023-11-11T21:02:23.616Z,"14 km SSW of Searles Valley, CA",earthquake,0.61,1.2,0.175,2,automatic,ci,ci
 2023-11-11T19:57:53.630Z,33.2253333,-116.3981667,1.43,0.87,ml,34,110,0.1044,0.19,ci,ci39711834,2023-11-11T20:03:58.315Z,"4 km SSW of Borrego Springs, CA",earthquake,0.23,0.43,0.143,16,automatic,ci,ci
 2023-11-11T19:55:29.033Z,62.8518,-151.1113,102.1,1.8,ml,,,,0.42,ak,ak023eh9xeo7,2023-11-11T19:57:15.471Z,"43 km NNW of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-11-11T19:51:33.756Z,31.658,-104.37,4.5171,1.6,ml(texnet),17,70,0.1,0.2,tx,tx2023wdfh,2023-11-11T20:38:36.807Z,"57 km S of Whites City, New Mexico",earthquake,0,1.336326899,0.2,13,automatic,tx,tx
@@ -244,5 +245,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-10T21:08:55.943Z,-6.3978,130.1471,10,4.9,mb,42,68,1.879,1.19,us,us7000la85,2023-11-10T21:59:52.040Z,"Banda Sea",earthquake,6.78,1.852,0.091,38,reviewed,us,us
 2023-11-10T21:05:59.178Z,-6.1114,130.0242,9.765,5,mb,45,54,1.583,0.92,us,us7000la83,2023-11-10T21:24:15.040Z,"Banda Sea",earthquake,7.55,4.647,0.105,29,reviewed,us,us
 2023-11-10T21:03:54.870Z,33.3345,-116.401,11.13,1.63,ml,76,22,0.02939,0.16,ci,ci39711330,2023-11-10T22:27:18.010Z,"9 km NNW of Borrego Springs, CA",earthquake,0.13,0.55,0.158,24,reviewed,ci,ci
-2023-11-10T21:00:34.030Z,32.8281667,-117.0651667,-0.17,0.86,ml,16,104,0.07555,0.25,ci,ci39711314,2023-11-10T21:57:27.207Z,"8 km NNW of La Mesa, CA",quarry blast,0.77,31.61,0.087,5,reviewed,ci,ci
-2023-11-10T20:55:43.692Z,61.2484,-146.8116,26.5,1.6,ml,,,,0.23,ak,ak023efmziw8,2023-11-10T20:58:01.882Z,"28 km WNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
