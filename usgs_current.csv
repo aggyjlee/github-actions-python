@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-12T10:16:36.150Z,19.3854999542236,-155.27766418457,1.30999994277954,2.00999999,md,22,62,,0.150000006,hv,hv73644862,2023-11-12T10:19:39.830Z,"7 km SW of Volcano, Hawaii",earthquake,0.25,0.209999993,1.37,15,automatic,hv,hv
+2023-11-12T09:48:42.596Z,-3.7382,151.0322,10,5.2,mww,68,85,1.215,0.84,us,us7000lagg,2023-11-12T10:08:07.040Z,"131 km SSE of Kavieng, Papua New Guinea",earthquake,7.72,1.862,0.083,14,reviewed,us,us
 2023-11-12T09:25:54.820Z,38.5299988,-122.4445038,9.55,1.42,md,7,101,0.1054,0.05,nc,nc73961996,2023-11-12T09:36:10.726Z,"4 km NE of Saint Helena, CA",earthquake,0.64,3.62,0.07,8,automatic,nc,nc
 2023-11-12T09:21:15.293Z,63.5365,-148.7126,13.6,1.4,ml,,,,0.76,ak,ak023eirb3pl,2023-11-12T09:23:06.813Z,"20 km NE of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-12T09:11:12.709Z,39.6374,-119.6469,10.6,1.4,ml,12,76.9,0.195,0.2253,nn,nn00868793,2023-11-12T09:13:07.626Z,"5 km ESE of Spanish Springs, Nevada",earthquake,,1.1,0.36,6,automatic,nn,nn
