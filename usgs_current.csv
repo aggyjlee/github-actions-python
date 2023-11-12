@@ -202,4 +202,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-11T08:08:46.440Z,38.7944984,-122.7606659,0.1,0.77,md,11,82,0.02407,0.02,nc,nc73961386,2023-11-11T10:00:11.364Z,"2 km N of The Geysers, CA",earthquake,0.24,0.8,0.14,10,automatic,nc,nc
 2023-11-11T07:47:26.570Z,38.776001,-122.8861694,1.82,1.21,md,13,224,0.03079,0.02,nc,nc73961376,2023-11-11T09:33:11.061Z,"11 km W of The Geysers, CA",earthquake,0.53,0.55,0.11,12,automatic,nc,nc
 2023-11-11T07:37:40.050Z,36.0303345,-120.5901642,3.71,1.4,md,18,76,0.0387,0.04,nc,nc73961371,2023-11-11T09:09:11.816Z,"20 km NW of Parkfield, CA",earthquake,0.28,0.46,0.35,9,automatic,nc,nc
-2023-11-11T07:18:37.580Z,31.672,-104.175,4.5752,1.5,ml(texnet),17,102,0.1,0.6,tx,tx2023wcgl,2023-11-11T07:32:14.175Z,"western Texas",earthquake,0,1.444220796,0.2,12,automatic,tx,tx
