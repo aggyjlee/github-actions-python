@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-21T14:01:36.840Z,33.0629997,-116.0368347,9.4,1.56,ml,44,47,0.1208,0.19,ci,ci39716050,2023-11-21T14:03:59.014Z,"13 km SE of Ocotillo Wells, CA",earthquake,0.23,0.92,0.113,6,automatic,ci,ci
+2023-11-21T14:01:36.850Z,33.0616667,-116.038,8.29,1.56,ml,60,29,0.1224,0.16,ci,ci39716050,2023-11-21T14:12:38.320Z,"13 km SE of Ocotillo Wells, CA",earthquake,0.12,0.69,0.16,30,automatic,ci,ci
 2023-11-21T13:57:27.040Z,19.3578338623047,-155.286331176758,2.02999997138977,1.85,ml,20,123,,0.109999999,hv,hv73655532,2023-11-21T14:02:59.730Z,"10 km SSW of Volcano, Hawaii",earthquake,0.31,0.460000008,3.61,5,automatic,hv,hv
-2023-11-21T13:55:30.310Z,33.9791667,-116.7261667,15.7,1.57,ml,60,71,0.08109,0.12,ci,ci39716042,2023-11-21T14:02:09.896Z,"9 km NE of Cabazon, CA",earthquake,0.11,0.28,0.174,27,automatic,ci,ci
+2023-11-21T13:55:30.310Z,33.9791667,-116.7261667,15.7,1.57,ml,60,71,0.08109,0.12,ci,ci39716042,2023-11-21T14:06:33.850Z,"9 km NE of Cabazon, CA",earthquake,0.11,0.28,0.174,27,automatic,ci,ci
 2023-11-21T13:36:47.640Z,19.1924991607666,-155.488998413086,33.4000015258789,1.75999999,md,34,139,,0.150000006,hv,hv73655502,2023-11-21T13:39:57.200Z,"1 km SW of Pāhala, Hawaii",earthquake,0.82,1.12,0.75,7,automatic,hv,hv
 2023-11-21T13:32:12.750Z,38.8271675,-122.8016663,1.65,0.58,md,7,136,0.007571,0.01,nc,nc73965301,2023-11-21T13:52:14.520Z,"7 km NW of The Geysers, CA",earthquake,0.36,0.78,0.3,8,automatic,nc,nc
 2023-11-21T13:11:49.210Z,38.8366661,-122.802002,1.61,0.7,md,8,82,0.00927,0.01,nc,nc73965291,2023-11-21T13:30:13.413Z,"7 km WNW of Cobb, CA",earthquake,0.35,1.13,0.43,8,automatic,nc,nc
@@ -19,12 +19,13 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-21T12:29:12.240Z,19.382999420166,-155.282836914062,0.740000009536743,2.19,ml,16,74,,0.100000001,hv,hv73655412,2023-11-21T12:34:43.960Z,"8 km SW of Volcano, Hawaii",earthquake,0.17,0.209999993,0.2,6,automatic,hv,hv
 2023-11-21T12:28:28.200Z,19.3859996795654,-155.279159545898,0.519999980926514,1.76,ml,18,63,,0.150000006,hv,hv73655407,2023-11-21T12:33:59.290Z,"7 km SW of Volcano, Hawaii",earthquake,0.21,0.239999995,0.23,6,automatic,hv,hv
 2023-11-21T12:26:16.409Z,58.8328,-138.1875,0,3,ml,,,,0.96,ak,ak023exoylmw,2023-11-21T12:37:10.040Z,"118 km SE of Yakutat, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-11-21T12:19:36.850Z,44.2121667,-110.7645,1.76,1.36,md,11,75,0.06547,0.18,uu,uu60554762,2023-11-21T14:20:18.690Z,"45 km ENE of Warm River, Idaho",earthquake,0.79,31.61,0.219,6,reviewed,uu,uu
 2023-11-21T11:51:40.270Z,19.3108329772949,-155.353164672852,0.589999973773956,2.44,ml,39,106,,0.280000001,hv,hv73655372,2023-11-21T11:57:10.710Z,"17 km NE of Pāhala, Hawaii",earthquake,0.42,0.50999999,4.38,3,automatic,hv,hv
 2023-11-21T11:13:46.505Z,61.2436,-147.4659,20,3.1,ml,,,,0.45,ak,ak023exoag0k,2023-11-21T11:44:25.040Z,"59 km NW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-21T11:04:45.941Z,58.0904,-154.4188,37,1.7,ml,,,,0.66,ak,ak023exo8ik2,2023-11-21T11:06:51.886Z,"58 km N of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-11-21T11:02:24.985Z,61.2766,-146.8517,24.8,1.9,ml,,,,0.24,ak,ak023exo81ia,2023-11-21T11:04:35.625Z,"31 km WNW of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-21T10:45:00.018Z,62.9391,-150.8791,87.3,1.4,ml,,,,0.58,ak,ak023exnvois,2023-11-21T10:47:27.236Z,"49 km N of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-11-21T10:41:48.750Z,36.3484993,-120.920166,1.91,1.96,md,8,119,0.03933,0.15,nc,nc73965256,2023-11-21T13:46:10.486Z,"23 km WSW of New Idria, CA",earthquake,0.57,1.18,0.16,6,automatic,nc,nc
+2023-11-21T10:41:48.750Z,36.3484993,-120.920166,1.91,1.96,md,8,119,0.03933,0.15,nc,nc73965256,2023-11-21T14:08:13.630Z,"23 km WSW of New Idria, CA",earthquake,0.57,1.18,0.16,6,automatic,nc,nc
 2023-11-21T10:37:05.940Z,19.3821659088135,-155.281326293945,0.949999988079071,1.97000003,md,9,162,,0.0500000007,hv,hv73655307,2023-11-21T10:39:57.700Z,"8 km SW of Volcano, Hawaii",earthquake,0.43,0.360000014,0.419999987,9,automatic,hv,hv
 2023-11-21T10:35:07.795Z,38.8837,-118.5885,3.6,1.5,ml,10,72.88,0.413,0.1463,nn,nn00869122,2023-11-21T10:37:37.857Z,"20 km ESE of Schurz, Nevada",earthquake,,13.5,0.17,4,automatic,nn,nn
 2023-11-21T10:26:51.450Z,33.2983333,-116.7031667,7.21,0.82,ml,36,47,0.07769,0.21,ci,ci39716018,2023-11-21T10:33:03.372Z,"7 km WNW of Warner Springs, CA",earthquake,0.22,1.47,0.15,16,automatic,ci,ci
