@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-24T07:19:59.250Z,38.8264999,-122.8544998,2.27,0.71,md,9,93,0.002127,0.01,nc,nc73966656,2023-11-24T07:21:32.070Z,"10 km WNW of The Geysers, CA",earthquake,0.35,0.67,0.26,11,automatic,nc,nc
 2023-11-24T07:05:22.560Z,33.3898333,-116.3913333,11.24,0.82,ml,44,93,0.06611,0.21,ci,ci39717282,2023-11-24T07:12:38.822Z,"15 km N of Borrego Springs, CA",earthquake,0.29,0.7,0.099,13,automatic,ci,ci
 2023-11-24T07:05:22.530Z,33.3903333,-116.387,11.01,0.82,ml,43,93,0.06558,0.2,ci,ci39717274,2023-11-24T07:11:34.820Z,"15 km N of Borrego Springs, CA",earthquake,0.28,0.4,0.101,12,automatic,ci,ci
 2023-11-24T07:02:30.970Z,61.643,-150.8592,61.2,1.5,ml,,,,0.47,ak,ak023f2kgd15,2023-11-24T07:04:29.308Z,"Southern Alaska",earthquake,,1.7,,,automatic,ak,ak
@@ -171,4 +172,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-23T07:43:43.570Z,45.6716666666667,-111.931166666667,3.48,0.28,ml,8,97,0.0632,0.08,mb,mb90033838,2023-11-23T14:44:38.930Z,"Western Montana",earthquake,0.42,0.9,0.257415723350229,2,reviewed,mb,mb
 2023-11-23T07:37:26.633Z,27.7718,56.7217,10,4.3,mb,21,144,2.853,0.4,us,us6000lq8g,2023-11-23T08:02:38.040Z,"southern Iran",earthquake,12.05,1.957,0.147,13,reviewed,us,us
 2023-11-23T07:32:54.820Z,19.2558326721191,-155.364669799805,31.4799995422363,1.83000004,md,34,144,,0.119999997,hv,hv73658677,2023-11-23T07:36:06.310Z,"13 km ENE of Pāhala, Hawaii",earthquake,0.98,0.730000019,0.910000026,3,automatic,hv,hv
-2023-11-23T07:21:42.657Z,39.6321,-119.5664,11.5,1.6,ml,15,73.79,0.11,0.1881,nn,nn00869216,2023-11-23T08:00:49.139Z,"Nevada",earthquake,,2.1,0.3,4,reviewed,nn,nn
