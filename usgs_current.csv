@@ -1,13 +1,17 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-25T06:46:41.910Z,19.3421669006348,-155.313827514648,-0.779999971389771,1.90999997,md,16,82,,0.230000004,hv,hv73661397,2023-11-25T06:49:47.860Z,"13 km SW of Volcano, Hawaii",earthquake,0.53,0.330000013,1.25999999,6,automatic,hv,hv
+2023-11-25T06:46:01.430Z,19.382999420166,-155.275665283203,0.970000028610229,1.87,md,16,66,,0.189999998,hv,hv73661392,2023-11-25T06:49:29.950Z,"7 km SSW of Volcano, Hawaii",earthquake,0.2,0.25999999,0.970000029,15,automatic,hv,hv
+2023-11-25T06:37:25.450Z,32.9103333,-115.5158333,8.08,1.28,ml,18,98,0.03877,0.26,ci,ci39717746,2023-11-25T06:43:30.328Z,"8 km S of Brawley, CA",earthquake,0.52,0.89,0.161,10,automatic,ci,ci
+2023-11-25T06:35:56.390Z,34.4378333,-119.2928333,8.41,1.47,ml,38,57,0.04105,0.23,ci,ci39717738,2023-11-25T06:42:33.327Z,"5 km WSW of Ojai, CA",earthquake,0.25,0.57,0.215,17,automatic,ci,ci
 2023-11-25T06:34:09.320Z,19.3384990692139,-155.305328369141,2.98000001907349,1.83,ml,28,61,,0.189999998,hv,hv73661377,2023-11-25T06:39:43.520Z,"13 km SSW of Volcano, Hawaii",earthquake,0.36,0.829999983,0.2,6,automatic,hv,hv
-2023-11-25T06:30:01.590Z,38.7794991,-122.725502,1.47,1.14,md,7,77,0.009533,0.01,nc,nc73967126,2023-11-25T06:38:10.588Z,"3 km E of The Geysers, CA",earthquake,0.49,1.55,0.18,6,automatic,nc,nc
-2023-11-25T06:22:47.719Z,31.584,-104.533,3.7365,1.8,ml(texnet),8,156,0.1,0.2,tx,tx2023xbtp,2023-11-25T06:35:15.722Z,"66 km NNE of Van Horn, Texas",earthquake,0,2.607466862,0.1,6,automatic,tx,tx
+2023-11-25T06:30:01.590Z,38.7794991,-122.725502,1.47,1.14,md,7,77,0.009533,0.01,nc,nc73967126,2023-11-25T06:44:14.624Z,"3 km E of The Geysers, CA",earthquake,0.49,1.55,0.18,6,automatic,nc,nc
+2023-11-25T06:22:47.713Z,31.586,-104.533,3.8699,1.8,ml(texnet),16,155,0.1,0.2,tx,tx2023xbtp,2023-11-25T06:41:59.506Z,"western Texas",earthquake,0,2.1194113,0.1,12,automatic,tx,tx
 2023-11-25T06:20:42.122Z,20.1044,145.4699,10,5,mb,84,100,4.847,0.61,us,us6000lqmy,2023-11-25T06:35:05.040Z,"Maug Islands region, Northern Mariana Islands",earthquake,9.91,1.846,0.069,68,reviewed,us,us
 2023-11-25T06:20:22.360Z,40.4023323,-124.3933334,16.72,2.27,md,13,229,0.06707,0.08,nc,nc73967121,2023-11-25T06:28:14.532Z,"13 km NW of Petrolia, CA",earthquake,1.46,1.08,0.12,10,automatic,nc,nc
-2023-11-25T06:13:42.909Z,31.581,-104.542,3.2776,1.8,ml(texnet),8,159,0.1,0.2,tx,tx2023xbti,2023-11-25T06:35:06.452Z,"65 km NNE of Van Horn, Texas",earthquake,0,2.334698403,0.2,6,automatic,tx,tx
+2023-11-25T06:13:42.962Z,31.581,-104.542,2.9623,1.8,ml(texnet),17,159,0.1,0.3,tx,tx2023xbti,2023-11-25T06:41:51.086Z,"65 km NNE of Van Horn, Texas",earthquake,0,1.664672955,0.1,12,automatic,tx,tx
 2023-11-25T06:00:43.470Z,38.8175011,-122.8059998,2.87,1.05,md,12,74,0.006691,0.03,nc,nc73967116,2023-11-25T06:17:21.480Z,"6 km NW of The Geysers, CA",earthquake,0.36,0.9,0.26,14,automatic,nc,nc
 2023-11-25T05:57:39.600Z,33.5585,-118.1978333,-0.19,1.75,ml,24,101,0.1733,0.17,ci,ci39717730,2023-11-25T06:04:19.107Z,"22 km SSE of San Pedro, CA",earthquake,0.24,0.59,0.239,34,automatic,ci,ci
-2023-11-25T05:57:20.916Z,31.58,-104.537,3.4396,1.7,ml(texnet),8,157,0.1,0.2,tx,tx2023xbsu,2023-11-25T06:34:56.997Z,"western Texas",earthquake,0,2.462495244,0.2,6,automatic,tx,tx
+2023-11-25T05:57:20.534Z,31.59,-104.531,5.5006,1.6,ml(texnet),17,155,0.1,0.5,tx,tx2023xbsu,2023-11-25T06:41:42.580Z,"66 km SSW of Whites City, New Mexico",earthquake,0,5.385477544,0.2,13,automatic,tx,tx
 2023-11-25T05:53:31.474Z,31.585,-104.538,3.3813,2.1,ml(texnet),17,158,0.1,0.2,tx,tx2023xbss,2023-11-25T06:07:48.544Z,"western Texas",earthquake,0,2.055113774,0.1,12,automatic,tx,tx
 2023-11-25T05:47:34.805Z,31.62,-103.982,5.6787,1.5,ml(texnet),15,79,0,0.3,tx,tx2023xbsm,2023-11-25T06:26:52.944Z,"western Texas",earthquake,0,2.124644755,0.2,13,automatic,tx,tx
 2023-11-25T05:31:55.450Z,35.6363333,-117.4601667,6.84,1.63,ml,34,59,0.0413,0.12,ci,ci39717722,2023-11-25T05:38:52.955Z,"15 km SSW of Searles Valley, CA",earthquake,0.15,0.27,0.141,18,automatic,ci,ci
@@ -61,7 +65,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-25T00:15:50.050Z,33.5101667,-116.7526667,3.9,0.59,ml,32,68,0.0399,0.16,ci,ci39717634,2023-11-25T00:22:06.300Z,"9 km SW of Anza, CA",earthquake,0.19,0.33,0.177,15,automatic,ci,ci
 2023-11-25T00:14:14.170Z,17.9538333333333,-66.9365,16.38,2.27,md,6,205,0.05843,0.05,pr,pr71432068,2023-11-25T00:32:35.040Z,"Puerto Rico",earthquake,0.53,0.6,0.0777791010285263,4,reviewed,pr,pr
 2023-11-25T00:12:16.816Z,-22.7248,-66.1849,258.952,4.3,mb,54,43,1.853,0.5,us,us6000lqle,2023-11-25T00:58:06.040Z,"Jujuy, Argentina",earthquake,7.39,10.034,0.138,15,reviewed,us,us
-2023-11-25T00:11:02.191Z,64.9987,-147.486,0,1.4,ml,,,,0.82,ak,ak023f43vjij,2023-11-25T00:13:35.174Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-11-25T00:11:02.191Z,64.9987,-147.486,0,1.4,ml,,,,0.82,ak,ak023f43vjij,2023-11-25T00:13:35.174Z,"7 km NE of Fox, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-24T23:57:01.850Z,38.7859993,-122.7365036,1.72,1.04,md,14,84,0.002764,0.02,nc,nc73967011,2023-11-25T00:19:11.905Z,"2 km ENE of The Geysers, CA",earthquake,0.24,0.52,0.19,15,automatic,nc,nc
 2023-11-24T23:56:13.240Z,19.3658333333333,-155.285333333333,2.1,2.68,ml,34,61,,0.1,hv,hv73660777,2023-11-25T03:03:02.990Z,"Island of Hawaii, Hawaii",earthquake,0.2,0.29,0.15241640756928,26,reviewed,hv,hv
 2023-11-24T23:54:09.200Z,41.8111649,-124.3028336,1.72,2.54,md,6,250,0.1861,0.08,nc,nc73967006,2023-11-25T02:59:18.802Z,"10 km NW of Crescent City, CA",earthquake,1.61,9.56,0.11,6,automatic,nc,nc
@@ -254,4 +258,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-24T07:05:22.560Z,33.3898333,-116.3913333,11.24,0.82,ml,44,93,0.06611,0.21,ci,ci39717282,2023-11-24T07:12:38.822Z,"15 km N of Borrego Springs, CA",earthquake,0.29,0.7,0.099,13,automatic,ci,ci
 2023-11-24T07:05:22.530Z,33.3903333,-116.387,11.01,0.82,ml,43,93,0.06558,0.2,ci,ci39717274,2023-11-24T07:11:34.820Z,"15 km N of Borrego Springs, CA",earthquake,0.28,0.4,0.101,12,automatic,ci,ci
 2023-11-24T07:02:30.970Z,61.643,-150.8592,61.2,1.5,ml,,,,0.47,ak,ak023f2kgd15,2023-11-24T07:04:29.308Z,"Southern Alaska",earthquake,,1.7,,,automatic,ak,ak
-2023-11-24T06:49:40.240Z,19.1774997711182,-155.496994018555,34.6500015258789,2.21000004,md,40,97,,0.140000001,hv,hv73659542,2023-11-24T06:52:51.810Z,"3 km SW of Pāhala, Hawaii",earthquake,0.71,0.879999995,1.25999999,3,automatic,hv,hv
