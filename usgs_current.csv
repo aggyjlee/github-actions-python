@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-27T13:04:04.030Z,38.7936668,-122.8001633,3.53,0.6,md,8,98,0.005797,0.01,nc,nc73968411,2023-11-27T13:13:11.124Z,"4 km WNW of The Geysers, CA",earthquake,0.5,1.31,0.37,9,automatic,nc,nc
+2023-11-27T13:04:04.030Z,38.7936668,-122.8001633,3.53,0.6,md,8,98,0.005797,0.01,nc,nc73968411,2023-11-27T13:20:12.172Z,"4 km WNW of The Geysers, CA",earthquake,0.5,1.31,0.37,9,automatic,nc,nc
 2023-11-27T12:58:22.670Z,32.9623333,-115.527,7.03,1.43,ml,11,82,0.06699,0.1,ci,ci39718346,2023-11-27T13:04:41.891Z,"2 km S of Brawley, CA",earthquake,0.23,0.66,0.263,15,automatic,ci,ci
 2023-11-27T12:34:21.780Z,19.3404998779297,-155.128173828125,3.63000011444092,2.56,ml,48,108,,0.200000003,hv,hv73664697,2023-11-27T12:39:52.290Z,"13 km S of Fern Forest, Hawaii",earthquake,0.39,1.09000003,3.29,26,automatic,hv,hv
 2023-11-27T12:33:09.101Z,31.692,-104.479,7.7132,1.5,ml(texnet),9,83,0,0.4,tx,tx2023xfww,2023-11-27T12:46:24.329Z,"western Texas",earthquake,0,2.658577202,0.1,7,automatic,tx,tx
