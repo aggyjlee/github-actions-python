@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-29T21:07:36.060Z,38.8353348,-122.8066635,4.4,0.22,md,10,89,0.01222,0.03,nc,nc73969616,2023-11-29T21:09:11.481Z,"7 km WNW of Cobb, CA",earthquake,0.56,0.74,0.1,8,automatic,nc,nc
+2023-11-29T21:07:36.060Z,38.8353348,-122.8066635,4.4,0.22,md,10,89,0.01222,0.03,nc,nc73969616,2023-11-29T21:20:10.856Z,"7 km WNW of Cobb, CA",earthquake,0.56,0.74,0.1,8,automatic,nc,nc
 2023-11-29T20:57:37.539Z,61.3224,-146.7113,25,2.4,ml,,,,0.44,ak,ak023fb27j95,2023-11-29T20:59:04.754Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-29T20:44:26.625Z,62.8296,-148.9201,2.1,2.9,ml,,,,0.96,ak,ak023fb24q21,2023-11-29T20:46:19.470Z,"62 km S of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-29T20:30:39.800Z,38.7908325,-122.76017,0.91,1.47,md,21,67,0.009785,0.03,nc,nc73969606,2023-11-29T21:07:12.790Z,"2 km NNW of The Geysers, CA",earthquake,0.22,0.41,0.12,21,automatic,nc,nc
