@@ -1,8 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-12-03T06:01:44.560Z,32.7394981,-115.87883,3.45,1.58,ml,37,44,0.09876,0.24,ci,ci39721970,2023-12-03T06:03:57.885Z,"11 km E of Ocotillo, CA",earthquake,0.27,0.54,0.227,14,automatic,ci,ci
+2023-12-03T06:01:44.670Z,32.7356667,-115.881,4.91,1.58,ml,41,41,0.09454,0.24,ci,ci39721970,2023-12-03T06:14:32.276Z,"10 km E of Ocotillo, CA",earthquake,0.23,0.64,0.148,26,automatic,ci,ci
 2023-12-03T06:00:29.950Z,64.3835,-145.7586,41.1,1.5,ml,,,,1.22,ak,ak023fhfomcz,2023-12-03T06:02:42.426Z,"Central Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-12-03T05:47:06.596Z,64.6359,-149.3483,17.9,1.1,ml,,,,0.19,ak,ak023fhfd7lv,2023-12-03T06:00:09.618Z,"11 km WNW of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-12-03T05:43:42.956Z,8.6521,126.6735,60.283,5.5,mb,105,44,1.91,0.78,us,us7000lfrl,2023-12-03T06:07:02.693Z,"Mindanao, Philippines",earthquake,7.89,5.706,0.039,230,reviewed,us,us
+2023-12-03T05:43:42.956Z,8.6521,126.6735,60.283,5.5,mb,105,44,1.91,0.78,us,us7000lfrl,2023-12-03T06:08:23.072Z,"Mindanao, Philippines",earthquake,7.89,5.706,0.039,230,reviewed,us,us
 2023-12-03T05:43:03.376Z,63.2725,-151.0792,5.7,1.4,ml,,,,0.68,ak,ak023fhfccht,2023-12-03T05:45:20.549Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-12-03T05:41:01.900Z,19.3910007476807,-155.251998901367,0.759999990463257,2.64,ml,35,42,,0.319999993,hv,hv73671482,2023-12-03T05:46:33.210Z,"6 km SSW of Volcano, Hawaii",earthquake,0.28,0.209999993,0.31,18,automatic,hv,hv
 2023-12-03T05:27:55.738Z,8.6586,127.0039,54.013,5,mb,62,114,2.118,0.5,us,us7000lfri,2023-12-03T05:45:39.040Z,"79 km ESE of Marihatag, Philippines",earthquake,8.22,7.03,0.072,62,reviewed,us,us
