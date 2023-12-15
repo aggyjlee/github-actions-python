@@ -221,4 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-14T19:28:42.890Z,36.2418333,-121.5593333,10.72,1.2,md,26,83,0.06339,0.14,nc,nc73976206,2023-12-15T01:26:09.490Z,"25 km N of Lopez Point, CA",earthquake,0.26,0.63,0.249,19,reviewed,nc,nc
 2023-12-14T19:27:46.380Z,56.9225,-157.737833333333,-2.98,1.77,ml,4,207,,0.06,av,av91124573,2023-12-15T01:13:58.890Z,"68 km SSW of Ugashik, Alaska",earthquake,0.66,2.15,0.70839208037693,4,reviewed,av,av
 2023-12-14T19:22:19.060Z,38.8256683,-122.8069992,2.14,1.06,md,21,38,0.0182,0.01,nc,nc73976201,2023-12-14T19:41:18.399Z,"7 km NW of The Geysers, CA",earthquake,0.2,0.44,0.14,20,automatic,nc,nc
-2023-12-14T19:18:26.670Z,46.0015,-112.4625,-2,0.93,ml,7,190,0.06492,0.03,mb,mb90036328,2023-12-15T16:39:47.860Z,"5 km E of Butte, Montana",quarry blast,1.17,31.61,0.169126284223986,6,reviewed,mb,mb
