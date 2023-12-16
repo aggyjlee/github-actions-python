@@ -233,4 +233,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-15T18:11:49.370Z,33.6915,-115.9531667,4.08,0.95,ml,20,107,0.04754,0.16,ci,ci40445199,2023-12-15T19:32:45.499Z,"18 km NE of Mecca, CA",earthquake,0.29,0.75,0.122,13,reviewed,ci,ci
 2023-12-15T17:50:28.501Z,59.1523,-153.1088,77.3,1.9,ml,,,,0.3,ak,ak023g1gz9mq,2023-12-15T17:52:41.489Z,"71 km WSW of Nanwalek, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-12-15T17:32:40.470Z,19.3823333333333,-155.245166666667,1.09,2.63,ml,25,63,,0.1,hv,hv73687012,2023-12-15T21:25:09.410Z,"6 km S of Volcano, Hawaii",earthquake,0.19,0.14,0.205072926805201,16,reviewed,hv,hv
-2023-12-15T17:26:59.640Z,61.2623333333333,-152.145,10.18,-0.3,ml,5,184,,0.06,av,av92154891,2023-12-16T01:25:00.840Z,"58 km WNW of Tyonek, Alaska",earthquake,0.63,0.5,0.234192836394754,5,reviewed,av,av
