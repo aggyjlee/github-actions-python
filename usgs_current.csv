@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-19T17:15:28.480Z,38.8266678,-122.8556671,2.1,0.8,md,15,95,0.001286,0.02,nc,nc73978221,2023-12-19T17:17:04.707Z,"10 km WNW of The Geysers, CA",earthquake,0.28,0.47,0.09,17,automatic,nc,nc
 2023-12-19T17:01:47.240Z,33.6221667,-116.7873333,11.66,0.89,ml,38,67,0.03439,0.14,ci,ci40447823,2023-12-19T17:08:08.627Z,"13 km NW of Anza, CA",earthquake,0.2,0.33,0.178,16,automatic,ci,ci
 2023-12-19T17:00:26.760Z,33.4786667,-116.4585,11.92,0.47,ml,20,78,0.09925,0.11,ci,ci40447815,2023-12-19T17:06:34.968Z,"22 km ESE of Anza, CA",earthquake,0.22,0.5,0.144,10,automatic,ci,ci
 2023-12-19T16:59:58.410Z,33.4788322,-116.4580002,11.49,0.72,ml,24,70,0.09937,0.11,ci,ci40447807,2023-12-19T17:03:28.816Z,"22 km ESE of Anza, CA",earthquake,0.31,1.04,0.165,16,automatic,ci,ci
@@ -63,7 +64,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-19T09:47:51.657Z,31.626,-104.485,3.253,1.6,ml,18,131,0,0.4,tx,tx2023ytwm,2023-12-19T10:19:36.116Z,"61 km S of Whites City, New Mexico",earthquake,0,1.631220868,0.1,13,automatic,tx,tx
 2023-12-19T09:39:35.730Z,38.793335,-122.7698364,1.9,1.79,md,27,75,0.01075,0.03,nc,nc73978061,2023-12-19T11:59:11.241Z,"2 km NNW of The Geysers, CA",earthquake,0.22,0.41,0.21,28,automatic,nc,nc
 2023-12-19T09:33:11.489Z,61.1316,-152.106,102.1,1.8,ml,,,,0.56,ak,ak023g7y9ia4,2023-12-19T09:42:32.564Z,"52 km W of Tyonek, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-12-19T09:31:41.043Z,39.6184,-119.6312,7,3.4,ml,34,71.91,0.063,0.1648,nn,nn00870301,2023-12-19T17:03:41.029Z,"7 km ESE of Spanish Springs, Nevada",earthquake,,0.9,0.27,10,reviewed,nn,nn
+2023-12-19T09:31:41.043Z,39.6184,-119.6312,7,3.4,ml,34,71.91,0.063,0.1648,nn,nn00870301,2023-12-19T17:17:46.267Z,"7 km ESE of Spanish Springs, Nevada",earthquake,,0.9,0.27,10,reviewed,nn,nn
 2023-12-19T09:30:38.494Z,60.0738,-152.3539,76.8,2.2,ml,,,,0.27,ak,ak023g7y8xe3,2023-12-19T09:34:08.470Z,"37 km WNW of Happy Valley, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2023-12-19T09:26:30.868Z,60.2806,-140.8282,4,2.5,ml,,,,0.53,ak,ak023g7y81ri,2023-12-19T10:24:09.040Z,"102 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-12-19T09:26:04.230Z,38.1731667,-112.619,-0.86,1.7,ml,17,144,0.306,0.21,uu,uu60556747,2023-12-19T14:33:42.100Z,"11 km S of Beaver, Utah",earthquake,0.67,2.31,0.104,7,reviewed,uu,uu
@@ -117,7 +118,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-19T04:02:40.022Z,51.7762,177.7272,108.216,4.4,mb,55,211,2.424,0.56,us,us7000ljzc,2023-12-19T06:16:57.492Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,13.15,12.574,0.054,97,reviewed,us,us
 2023-12-19T04:01:10.101Z,61.9564,-149.94,25.1,1.6,ml,,,,0.7,ak,ak023g7v3h8i,2023-12-19T04:03:14.446Z,"23 km SSW of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-12-19T03:51:22.955Z,61.0797,-146.6677,10.3,1.5,ml,,,,0.58,ak,ak023g7ussfb,2023-12-19T03:53:10.372Z,"18 km WSW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-12-19T03:34:56.113Z,31.596,-103.965,6.4193,1.7,ml,16,67,0,0.4,tx,tx2023ytke,2023-12-19T04:20:09.215Z,"35 km NNW of Toyah, Texas",earthquake,0,2.204007777,0.2,13,automatic,tx,tx
+2023-12-19T03:34:56.204Z,31.587,-103.979,6.8,1.7,ml,16,54,0,0.1,tx,tx2023ytke,2023-12-19T17:17:55.908Z,"34 km NNW of Toyah, Texas",earthquake,0.9705705324,1.158684347,0.2,14,reviewed,tx,tx
 2023-12-19T03:27:54.775Z,31.553,-104.001,6.2858,1.7,ml,12,57,0,0.1,tx,tx2023ytjz,2023-12-19T16:00:51.485Z,"32 km NW of Toyah, Texas",earthquake,0.9755244753,1.126815099,0.1,8,reviewed,tx,tx
 2023-12-19T03:24:19.242Z,63.04,-151.084,123.6,2.2,ml,,,,0.46,ak,ak023g7umzt0,2023-12-19T03:26:25.956Z,"62 km NNW of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-12-19T03:02:00.864Z,65.4009,-144.7709,0,1.7,ml,,,,0.6,ak,ak023g7ui8m0,2023-12-19T03:08:58.166Z,"19 km S of Central, Alaska",earthquake,,0.4,,,automatic,ak,ak
