@@ -277,4 +277,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-28T20:40:57.210Z,19.3848333333333,-155.276666666667,0.92,0.44,md,16,108,,0.06,hv,hv73699617,2023-12-28T21:25:50.290Z,"7 km SW of Volcano, Hawaii",earthquake,0.19,0.13,0.185515111035114,2,reviewed,hv,hv
 2023-12-28T20:37:20.840Z,38.8248329,-122.7900009,1.29,0.46,md,8,77,0.01356,0.01,nc,nc73982161,2023-12-28T21:17:14.316Z,"6 km W of Cobb, CA",earthquake,0.54,1.01,0.28,9,automatic,nc,nc
 2023-12-28T20:37:03.340Z,38.8246651,-122.7898331,1.36,1.28,md,24,39,0.01345,0.03,nc,nc73982156,2023-12-28T22:58:10.999Z,"6 km W of Cobb, CA",earthquake,0.19,0.34,0.07,24,automatic,nc,nc
-2023-12-28T20:27:49.960Z,38.8175011,-122.8125,2.78,0.96,md,17,44,0.01562,0.01,nc,nc73982151,2023-12-28T20:44:13.146Z,"7 km NW of The Geysers, CA",earthquake,0.28,0.72,0.32,18,automatic,nc,nc
