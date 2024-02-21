@@ -46,7 +46,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-21T15:14:15.230Z,35.5783333,-118.2675,4.41,0.91,ml,26,52,0.1117,0.14,ci,ci40673640,2024-02-21T15:20:16.975Z,"19 km ESE of Lake Isabella, CA",earthquake,0.19,0.44,0.181,9,automatic,ci,ci
 2024-02-21T15:12:11.274Z,61.5526,-146.3775,19.6,3,ml,,,,0.93,ak,ak0242e8y56u,2024-02-21T15:29:54.040Z,"47 km N of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-02-21T15:10:24.330Z,38.4955,-112.9045,2.89,0.32,md,10,147,0.01475,0.09,uu,uu80045036,2024-02-21T15:27:04.600Z,"14 km NE of Milford, Utah",earthquake,0.38,0.64,0.367598729042966,4,reviewed,uu,uu
-2024-02-21T15:01:07.393Z,36.544,-115.837,12,0.5,ml,10,203.96,0.155,0.082,nn,nn00873730,2024-02-21T15:03:09.779Z,"15 km W of Indian Springs, Nevada",earthquake,,0.9,0.49,6,automatic,nn,nn
+2024-02-21T15:01:07.022Z,36.5038,-115.8079,13.9,0.7,ml,22,301.6,0.201,0.1154,nn,nn00873730,2024-02-21T20:25:02.533Z,"14 km WSW of Indian Springs, Nevada",earthquake,,2.3,0.17,7,reviewed,nn,nn
 2024-02-21T14:52:38.291Z,62.441,-154.3708,0,2.2,ml,,,,1.15,ak,ak0242e8lcc5,2024-02-21T14:55:43.590Z,"63 km S of Nikolai, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-02-21T14:51:50.600Z,38.8284988,-122.814003,2.26,0.54,md,9,124,0.005949,0.02,nc,nc74005606,2024-02-21T15:20:13.264Z,"8 km NW of The Geysers, CA",earthquake,0.47,0.82,0.25,9,automatic,nc,nc
 2024-02-21T14:50:12.320Z,36.5051,-115.806,12.6,0.6,ml,15,314.85,0.201,0.1109,nn,nn00873729,2024-02-21T20:09:15.566Z,"14 km WSW of Indian Springs, Nevada",earthquake,,2.4,0.11,5,reviewed,nn,nn
@@ -256,5 +256,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-20T20:32:18.581Z,31.667,-104.332,6.6638,1.6,ml,26,68,0.1,0.3,tx,tx2024doxv,2024-02-21T14:31:36.832Z,"56 km S of Whites City, New Mexico",earthquake,0.6848951456910796,0.780575948120659,0.2,20,reviewed,tx,tx
 2024-02-20T20:31:50.660Z,32.7628333,-116.904,4.22,1.5,ml,34,89,0.04225,0.2,ci,ci40673304,2024-02-20T20:38:16.487Z,"3 km ENE of Rancho San Diego, CA",earthquake,0.25,0.66,0.168,29,automatic,ci,ci
 2024-02-20T20:25:44.520Z,32.6046667,-116.9883333,3.05,1.57,ml,26,202,0.04917,0.19,ci,ci40673280,2024-02-20T20:32:24.612Z,"6 km ESE of Chula Vista, CA",earthquake,0.43,0.56,0.105,24,automatic,ci,ci
-2024-02-20T20:24:19.350Z,35.9333333,-117.68,2.53,1.07,ml,22,64,0.02809,0.12,ci,ci40673272,2024-02-21T19:22:39.713Z,"20 km E of Little Lake, CA",earthquake,0.26,0.33,0.176,16,reviewed,ci,ci
-2024-02-20T20:23:21.090Z,38.4931666666667,-112.891833333333,1.42,1.86,ml,16,84,0.00822,0.13,uu,uu80043346,2024-02-20T21:30:02.900Z,"14 km NE of Milford, Utah",earthquake,0.38,0.54,0.257483281807435,2,reviewed,uu,uu
