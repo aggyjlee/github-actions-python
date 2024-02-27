@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-02-27T23:08:08.400Z,61.5944,-148.2337,15.5,2.7,ml,,,,0.92,ak,ak0242oawtxk,2024-02-27T23:15:07.110Z,"25 km SSE of Chickaloon, Alaska",earthquake,,0.1,,,automatic,ak,ak
+2024-02-27T23:08:08.400Z,61.5944,-148.2337,15.5,2.7,ml,,,,0.92,ak,ak0242oawtxk,2024-02-27T23:20:11.631Z,"25 km SSE of Chickaloon, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2024-02-27T22:57:29.780Z,38.4946666666667,-112.893,2.09,0.38,md,13,52,0.008516,0.1,uu,uu80050741,2024-02-27T23:16:01.640Z,"14 km NE of Milford, Utah",earthquake,0.26,0.42,0.280475250737087,4,reviewed,uu,uu
 2024-02-27T22:56:29.580Z,38.8173332,-122.8216629,2.36,1.62,md,30,48,0.01029,0.04,nc,nc74009026,2024-02-27T22:59:41.312Z,"7 km NW of The Geysers, CA",earthquake,0.18,0.33,0.11,33,automatic,nc,nc
 2024-02-27T22:54:41.310Z,38.4905,-112.893,2.22,0.79,md,14,52,0.005697,0.1,uu,uu80050736,2024-02-27T23:11:53.950Z,"14 km NE of Milford, Utah",earthquake,0.29,0.46,0.496342484514905,5,reviewed,uu,uu
@@ -238,4 +238,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-27T00:01:04.350Z,44.3693333333333,-116.108833333333,8.89,2.73,ml,12,88,0.3572,0.17,mb,mb90041953,2024-02-27T14:05:24.469Z,"7 km NNW of Smiths Ferry, Idaho",earthquake,0.44,1.1,0.235828314166788,25,reviewed,mb,mb
 2024-02-26T23:55:35.284Z,-7.5527,105.8011,30.667,4.6,mb,46,125,1.835,0.66,us,us7000m1rt,2024-02-27T00:15:08.040Z,"103 km SW of Pelabuhanratu, Indonesia",earthquake,6.91,1.167,0.09,37,reviewed,us,us
 2024-02-26T23:34:20.526Z,32.144,-101.072,8.4473,2,ml,42,68,0.2,0.2,tx,tx2024eacv,2024-02-27T19:51:44.526Z,"24 km SSW of Westbrook, Texas",earthquake,0.6593006960360889,1.9068142272599373,0.2,36,reviewed,tx,tx
-2024-02-26T23:19:13.570Z,48.46,-123.0835,22.82,1.19,ml,19,41,0.1329,0.15,uw,uw61985176,2024-02-27T16:52:06.100Z,"9 km SSW of Friday Harbor, Washington",earthquake,0.26,0.69,0.051295567699908284,7,reviewed,uw,uw
