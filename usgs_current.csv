@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-02-27T09:16:59.580Z,38.8143349,-122.8213348,2.77,2.16,md,44,41,0.008207,0.05,nc,nc74008726,2024-02-27T09:18:36.522Z,"7 km NW of The Geysers, CA",earthquake,0.16,0.28,0.12,44,automatic,nc,nc
+2024-02-27T09:16:59.580Z,38.8143349,-122.8213348,2.77,2.16,md,44,41,0.008207,0.05,nc,nc74008726,2024-02-27T09:20:07.502Z,"7 km NW of The Geysers, CA",earthquake,0.16,0.28,0.12,44,automatic,nc,nc
 2024-02-27T09:13:51.800Z,38.8180008,-122.8238297,2.27,0.93,md,10,86,0.01003,0.02,nc,nc74008721,2024-02-27T09:15:26.237Z,"7 km NW of The Geysers, CA",earthquake,0.46,1.07,0.23,10,automatic,nc,nc
 2024-02-27T09:09:19.310Z,38.7994995,-122.7480011,0.66,0.71,md,7,101,0.00922,0.02,nc,nc74008711,2024-02-27T09:10:56.153Z,"3 km NNE of The Geysers, CA",earthquake,0.35,0.68,0.05,7,automatic,nc,nc
 2024-02-27T09:02:28.010Z,19.3568325042725,-155.292831420898,0.519999980926514,1.84000003,md,14,64,0.02246,0.0900000036,hv,hv74122581,2024-02-27T09:04:01.130Z,"11 km SSW of Volcano, Hawaii",earthquake,0.24,0.460000008,0.349999994,7,automatic,hv,hv
