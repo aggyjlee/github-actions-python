@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-01T21:18:41.010Z,38.838665,-122.8431702,4.06,0.85,md,13,150,0.006001,0.05,nc,nc74010421,2024-03-01T21:20:13.514Z,"10 km NW of The Geysers, CA",earthquake,0.45,0.94,0.26,15,automatic,nc,nc
 2024-03-01T21:06:02.710Z,33.5896667,-116.8138333,4.34,0.37,ml,17,101,0.04921,0.21,ci,ci40679784,2024-03-01T21:12:11.803Z,"14 km WNW of Anza, CA",earthquake,0.38,0.76,0.073,6,automatic,ci,ci
 2024-03-01T21:00:30.360Z,33.8643333,-117.5005,1.91,1.25,ml,40,47,0.06574,0.2,ci,ci40679776,2024-03-01T21:07:04.261Z,"2 km SE of Home Gardens, CA",earthquake,0.22,0.35,0.314,37,automatic,ci,ci
 2024-03-01T20:46:13.006Z,31.663,-104.195,4.4671,1.8,ml,16,67,0.1,0.3,tx,tx2024ehfh,2024-03-01T21:05:03.376Z,"54 km NW of Toyah, Texas",earthquake,0,1.33333383003861,0.3,12,automatic,tx,tx
@@ -6,7 +7,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-01T20:24:55.429Z,61.7501,-149.5705,28.2,2.6,ml,,,,0.62,ak,ak0242t7u3o3,2024-03-01T20:26:13.921Z,"14 km N of Meadow Lakes, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-03-01T20:22:08.600Z,17.9755,-66.7986666666667,15.23,2.23,md,6,200,0.07671,0.07,pr,pr71441673,2024-03-01T20:51:15.170Z,"3 km SE of Indios, Puerto Rico",earthquake,2.57,1.08,0.110816001333143,4,reviewed,pr,pr
 2024-03-01T20:07:49.694Z,62.8808,-150.7527,91.5,1.9,ml,,,,0.38,ak,ak0242t7qg2h,2024-03-01T20:09:56.168Z,"42 km N of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2024-03-01T19:52:55.690Z,40.9028333,-121.7933333,15.94,2.36,md,35,56,0.1503,0.08,nc,nc74010391,2024-03-01T20:58:47.472Z,"11 km WNW of Burney, CA",earthquake,0.2,0.74,0.165,34,reviewed,nc,nc
+2024-03-01T19:52:55.690Z,40.9028333,-121.7933333,15.94,2.36,md,35,56,0.1503,0.08,nc,nc74010391,2024-03-01T21:22:07.323Z,"11 km WNW of Burney, CA",earthquake,0.2,0.74,0.165,34,reviewed,nc,nc
 2024-03-01T19:44:12.650Z,19.2178325653076,-155.481826782227,34.7400016784668,2.05999994,md,13,99,0.06483,0.200000003,hv,hv74125636,2024-03-01T19:45:46.070Z,"1 km NNW of Pāhala, Hawaii",earthquake,1.01,1.35000002,0.270000011,3,automatic,hv,hv
 2024-03-01T19:43:03.633Z,51.8559,178.2753,125.472,4.2,mb,23,192,0.209,0.61,us,us6000mg6f,2024-03-01T20:29:11.040Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,11.51,5.552,0.159,11,reviewed,us,us
 2024-03-01T19:39:35.499Z,59.6026,-151.9315,43.2,2.2,ml,,,,0.45,ak,ak0242t7bump,2024-03-01T19:47:49.107Z,"20 km SSW of Anchor Point, Alaska",earthquake,,2.1,,,automatic,ak,ak
