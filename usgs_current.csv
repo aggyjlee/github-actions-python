@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-03T23:23:26.400Z,61.0224,-146.833,23.5,2.2,ml,,,,0.43,ak,ak0242wkotj4,2024-03-03T23:25:12.937Z,"19 km NNW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-03-03T23:15:14.380Z,38.8274994,-122.8539963,2,0.76,md,15,95,0.002247,0.02,nc,nc74011341,2024-03-03T23:16:48.086Z,"10 km WNW of The Geysers, CA",earthquake,0.28,0.46,0.27,17,automatic,nc,nc
 2024-03-03T23:14:41.840Z,38.8276672,-122.8526688,1.86,0.97,md,16,119,0.01451,0.01,nc,nc74011336,2024-03-03T23:16:18.065Z,"10 km NW of The Geysers, CA",earthquake,0.26,0.57,0.18,15,automatic,nc,nc
 2024-03-03T23:09:17.130Z,38.8339996,-122.7928314,3.9,0.21,md,8,73,0.004812,0.04,nc,nc74011331,2024-03-03T23:10:51.993Z,"6 km WNW of Cobb, CA",earthquake,0.51,1.06,0.12,8,automatic,nc,nc
