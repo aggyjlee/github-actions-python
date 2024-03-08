@@ -235,5 +235,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-07T09:38:53.280Z,52.0831666666667,-176.088166666667,-1.8,0.22,ml,4,235,,0.29,av,av91135658,2024-03-07T22:14:46.120Z,"44 km ENE of Adak, Alaska",earthquake,2.53,2.49,0.46466931237418,4,reviewed,av,av
 2024-03-07T09:36:11.021Z,60.0908,-153.5217,158.3,2.1,ml,,,,0.37,ak,ak02432ykw6a,2024-03-07T10:07:27.040Z,"45 km ESE of Port Alsworth, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-03-07T09:34:26.434Z,60.2648,-139.2083,0,2,ml,,,,0.67,ak,ak02432ykhwz,2024-03-07T09:36:26.783Z,"85 km NNE of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-03-07T09:19:45.390Z,36.9316666666667,-113.242833333333,17.38,1.31,ml,13,169,0.07928,0.14,uu,uu80062116,2024-03-07T13:48:27.730Z,"20 km SSW of Apple Valley, Utah",earthquake,0.57,1.06,0.321245679285957,3,reviewed,uu,uu
-2024-03-07T09:19:15.449Z,64.7049,-149.3166,21.5,1.6,ml,,,,0.19,ak,ak02432yh9bs,2024-03-07T16:04:27.351Z,"14 km NW of Four Mile Road, Alaska",earthquake,,0.6,,,automatic,ak,ak
