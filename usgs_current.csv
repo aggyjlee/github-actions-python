@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-28T23:21:31.920Z,38.8263321,-122.7858353,1.44,1.14,md,20,47,0.01256,0.02,nc,nc74025671,2024-03-28T23:23:06.012Z,"6 km W of Cobb, CA",earthquake,0.2,0.38,0.13,22,automatic,nc,nc
+2024-03-28T23:21:19.290Z,38.8243332,-122.7866669,1.51,1.33,md,22,74,0.01435,0.01,nc,nc74025666,2024-03-28T23:22:55.986Z,"6 km W of Cobb, CA",earthquake,0.2,0.37,0.11,23,automatic,nc,nc
+2024-03-28T23:20:27.910Z,38.8208351,-122.7643356,2.15,1.15,md,14,118,0.01056,0.02,nc,nc74025661,2024-03-28T23:21:59.942Z,"4 km W of Cobb, CA",earthquake,0.3,0.61,0.12,16,automatic,nc,nc
 2024-03-28T23:09:12.540Z,38.8178329,-122.8218307,2.35,1.06,md,18,58,0.01063,0.01,nc,nc74025656,2024-03-28T23:10:44.868Z,"7 km NW of The Geysers, CA",earthquake,0.26,0.56,0.21,20,automatic,nc,nc
 2024-03-28T23:04:01.239Z,38.1739,-117.8325,0,2.2,ml,14,108.19,0.122,0.2869,nn,nn00875505,2024-03-28T23:06:45.228Z,"34 km SE of Mina, Nevada",earthquake,,2.8,0.27,9,automatic,nn,nn
 2024-03-28T22:59:15.330Z,38.836834,-122.8115005,1.86,1.26,md,22,77,0.01347,0.02,nc,nc74025651,2024-03-28T23:00:49.775Z,"8 km WNW of Cobb, CA",earthquake,0.22,0.41,0.16,26,automatic,nc,nc
@@ -223,4 +226,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-27T23:38:02.785Z,59.9343,-152.5196,85.4,1.2,ml,,,,0.57,ak,ak024409o761,2024-03-28T06:37:12.902Z,"42 km WNW of Anchor Point, Alaska",earthquake,,1,,,reviewed,ak,ak
 2024-03-27T23:32:19.622Z,36.7742,-116.2487,9.5,0.1,ml,23,76.07,0.046,0.1004,nn,nn00875454,2024-03-28T00:13:07.871Z,"47 km ESE of Beatty, Nevada",earthquake,,0.7,0.18,8,reviewed,nn,nn
 2024-03-27T23:29:38.989Z,56.9541,-155.1667,0,2.2,ml,,,,0.61,ak,ak024409mgne,2024-03-27T23:32:32.352Z,"60 km W of Akhiok, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2024-03-27T23:20:30.440Z,38.833168,-122.8095016,2.24,0.28,md,9,71,0.009769,0.02,nc,nc74025191,2024-03-27T23:22:06.755Z,"8 km W of Cobb, CA",earthquake,0.39,1.46,0.15,10,automatic,nc,nc
