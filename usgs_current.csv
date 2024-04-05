@@ -31,7 +31,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-05T17:25:21.742Z,-7.5361,127.8178,152.574,4.2,mb,20,76,3.643,0.85,us,us7000ma93,2024-04-05T19:36:39.040Z,"141 km NE of Lospalos, Timor Leste",earthquake,7.56,8.672,0.141,14,reviewed,us,us
 2024-04-05T17:21:55.207Z,40.7564,-74.7586,5,1.9,ml,7,205,0.691,0.32,us,us7000maav,2024-04-05T21:07:32.040Z,"3 km SSE of Long Valley, New Jersey",earthquake,2.24,1.994,0.181,4,reviewed,us,us
 2024-04-05T17:18:47.212Z,40.7386,-74.7403,5,2,ml,18,103,0.66,0.2,us,us7000maal,2024-04-05T20:57:12.208Z,"6 km SSE of Long Valley, New Jersey",earthquake,1.76,1.976,0.085,18,reviewed,us,us
-2024-04-05T17:14:12.576Z,40.7432,-74.6886,5,2,ml,13,118,0.61,0.42,us,us7000ma99,2024-04-05T20:28:25.978Z,"3 km NW of Gladstone, New Jersey",earthquake,1.83,1.342,0.097,14,reviewed,us,us
+2024-04-05T17:14:12.576Z,40.7432,-74.6886,5,2,ml,13,118,0.61,0.42,us,us7000ma99,2024-04-05T21:18:49.277Z,"3 km NW of Gladstone, New Jersey",earthquake,1.83,1.342,0.097,14,reviewed,us,us
 2024-04-05T16:58:15.807Z,64.4875,-146.9776,5.1,0.5,ml,,,,0.25,ak,ak0244f1gpu4,2024-04-05T17:01:23.110Z,"5 km SW of Salcha, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-04-05T16:56:50.095Z,59.4654,-153.0669,99.4,2.2,ml,,,,0.21,ak,ak0244f1gcvr,2024-04-05T16:59:19.262Z,"66 km W of Nanwalek, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-04-05T16:51:32.619Z,31.66,-104.462,6.0486,1.5,ml,21,66,0,0.1,tx,tx2024gswe,2024-04-05T17:27:12.360Z,"57 km S of Whites City, New Mexico",earthquake,0.9663205652287696,0.6770085973809813,0.2,13,reviewed,tx,tx
@@ -85,7 +85,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-05T11:06:42.797Z,63.1206,-150.4624,76,2,ml,,,,0.8,ak,ak0244ey6gnr,2024-04-05T11:08:50.433Z,"71 km NNE of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-04-05T11:03:16.444Z,19.1049,145.3881,222,6.8,mww,192,31,5.507,0.8,us,us7000ma2w,2024-04-05T18:38:36.040Z,"Maug Islands region, Northern Mariana Islands",earthquake,8.54,1.939,0.027,136,reviewed,us,us
 2024-04-05T11:02:44.267Z,61.9572,-143.4887,0,1.8,ml,,,,1.43,ak,ak0244ey5lwq,2024-04-05T11:05:36.212Z,"52 km SSW of Nabesna, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2024-04-05T10:46:45.640Z,40.0288315,-121.2866669,-0.41,2.99,md,36,42,0.3827,0.27,nc,nc74029686,2024-04-05T19:31:13.696Z,"4 km NW of Belden, CA",earthquake,0.44,2.27,0.16,38,automatic,nc,nc
+2024-04-05T10:46:45.640Z,40.0288315,-121.2866669,-0.41,2.99,md,36,42,0.3827,0.27,nc,nc74029686,2024-04-05T21:17:46.726Z,"4 km NW of Belden, CA",earthquake,0.44,2.27,0.16,38,automatic,nc,nc
 2024-04-05T10:43:24.630Z,37.2876663,-121.6623306,5.06,1.77,md,25,53,0.0299,0.07,nc,nc74029681,2024-04-05T10:44:58.803Z,"16 km E of Seven Trees, CA",earthquake,0.2,0.41,0.17,17,automatic,nc,nc
 2024-04-05T10:30:40.500Z,38.499,-112.877833333333,1.21,-0.64,md,8,73,0.005899,0.05,uu,uu80000658,2024-04-05T14:10:41.910Z,"16 km NE of Milford, Utah",earthquake,0.44,0.51,0.344486232751346,3,reviewed,uu,uu
 2024-04-05T10:26:15.400Z,40.041832,-121.2866669,-1.04,2.61,md,22,67,0.3702,0.27,nc,nc74029671,2024-04-05T16:15:58.893Z,"5 km NW of Belden, CA",earthquake,0.49,4.97,0.13,18,automatic,nc,nc
@@ -156,7 +156,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-05T04:04:54.542Z,-22.5799,-66.1873,269.921,4.1,mb,30,61,1.875,0.87,us,us7000ma1b,2024-04-05T04:39:51.040Z,"52 km WNW of Abra Pampa, Argentina",earthquake,9.19,9.809,0.214,6,reviewed,us,us
 2024-04-05T04:03:55.330Z,38.7779999,-122.758667,-0.35,1.09,md,11,190,0.01793,0.07,nc,nc74029601,2024-04-05T04:05:28.786Z,"0 km WNW of The Geysers, CA",earthquake,0.63,1.12,0.16,13,automatic,nc,nc
 2024-04-05T04:00:10.960Z,53.3783333333333,-168.215666666667,-0.81,-0.44,ml,4,267,0.03898,0.09,av,av93001434,2024-04-05T20:16:12.430Z,"65 km NE of Nikolski, Alaska",earthquake,0.46,0.51,0.160074774103032,5,reviewed,av,av
-2024-04-05T03:59:53.580Z,33.3535,-116.368,11.46,1.23,ml,58,59,0.02671,0.2,ci,ci40705920,2024-04-05T04:06:37.233Z,"11 km N of Borrego Springs, CA",earthquake,0.18,0.32,0.183,28,automatic,ci,ci
+2024-04-05T03:59:53.500Z,33.3561667,-116.3675,11.68,1.23,ml,51,66,0.02936,0.19,ci,ci40705920,2024-04-05T21:21:34.166Z,"11 km N of Borrego Springs, CA",earthquake,0.2,0.61,0.188,24,reviewed,ci,ci
 2024-04-05T03:58:33.340Z,61.315,-152.277666666667,2.84,-0.09,ml,9,124,0.07233,0.07,av,av93078426,2024-04-05T19:47:40.270Z,"67 km WNW of Beluga, Alaska",earthquake,0.43,0.68,0.176868557415927,9,reviewed,av,av
 2024-04-05T03:55:33.930Z,33.3795,-116.3285,5.69,1.47,ml,51,47,0.02328,0.17,ci,ci40705912,2024-04-05T20:53:43.280Z,"14 km NNE of Borrego Springs, CA",earthquake,0.18,0.43,0.202,25,reviewed,ci,ci
 2024-04-05T03:50:45.860Z,18.0153333333333,-66.829,16.73,2.36,md,10,149,0.02806,0.16,pr,pr71444663,2024-04-05T04:40:24.720Z,"2 km NNW of Indios, Puerto Rico",earthquake,0.62,0.64,0.0749033870382287,6,reviewed,pr,pr
@@ -230,4 +230,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-04T21:38:31.010Z,60.5481666666667,-152.742666666667,3.48,0.15,ml,9,112,0.05085,0.2,av,av93078136,2024-04-05T00:00:56.510Z,"78 km W of Salamatof, Alaska",earthquake,0.49,1.41,0.139512272976713,9,reviewed,av,av
 2024-04-04T21:30:15.490Z,33.8515,-117.483,-0.51,1.49,ml,32,48,0.04642,0.26,ci,ci40705744,2024-04-05T20:15:07.890Z,"5 km SE of Home Gardens, CA",quarry blast,0.38,31.61,0.176,45,reviewed,ci,ci
 2024-04-04T21:26:41.434Z,61.1759,-150.3098,39.1,1.3,ml,,,,0.33,ak,ak0244dgpqfj,2024-04-04T21:28:43.284Z,"22 km WSW of Anchorage, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2024-04-04T21:20:45.902Z,63.2055,-150.8883,26.2,1.2,ml,,,,1.06,ak,ak0244dgogja,2024-04-04T21:28:41.187Z,"56 km SE of Denali National Park, Alaska",earthquake,,2.7,,,automatic,ak,ak
