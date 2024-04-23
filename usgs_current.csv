@@ -249,7 +249,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-22T23:43:48.393Z,36.4726,-115.7892,7.8,1,ml,21,145.86,0.232,0.1492,nn,nn00876724,2024-04-23T00:24:09.270Z,"15 km SW of Indian Springs, Nevada",earthquake,,2.2,0.13,8,reviewed,nn,nn
 2024-04-22T23:35:39.486Z,23.8142,121.5956,11.844,4.3,mb,30,86,0.501,0.75,us,us6000mt38,2024-04-22T23:48:33.040Z,"18 km S of Hualien City, Taiwan",earthquake,2.34,5.028,0.147,13,reviewed,us,us
 2024-04-22T23:27:32.290Z,35.0293333,-117.6795,-0.85,1.59,ml,27,83,0.09572,0.25,ci,ci40555375,2024-04-22T23:34:24.266Z,"4 km NW of Boron, CA",earthquake,0.47,1.17,0.154,31,automatic,ci,ci
-2024-04-22T23:24:48.463Z,37.0252,-116.7351,3.9,1.4,ml,32,83.87,0.119,0.1582,nn,nn00876720,2024-04-23T00:02:38.963Z,"13 km N of Beatty, Nevada",earthquake,,2.8,0.33,13,reviewed,nn,nn
-2024-04-22T23:23:22.710Z,33.5845,-116.8021667,8.19,0.4,ml,16,74,0.03307,0.11,ci,ci40555367,2024-04-22T23:29:21.494Z,"12 km WNW of Anza, CA",earthquake,0.24,0.56,0.091,5,automatic,ci,ci
-2024-04-22T23:21:11.653Z,8.2942,126.628,68.136,4.4,mb,44,80,1.6,0.77,us,us6000mt37,2024-04-22T23:35:19.040Z,"26 km NE of Barcelona, Philippines",earthquake,9.23,7.006,0.071,57,reviewed,us,us
-2024-04-22T23:20:52.540Z,38.8111649,-122.8198318,2.48,0.73,md,12,58,0.007654,0.02,nc,nc74039461,2024-04-22T23:22:29.074Z,"7 km NW of The Geysers, CA",earthquake,0.32,0.78,0.39,15,automatic,nc,nc
