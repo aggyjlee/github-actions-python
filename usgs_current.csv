@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-05-03T18:38:02.940Z,34.1333351,-117.3301697,4.71,1.63,ml,21,112,0.0308,0.39,ci,ci40737552,2024-05-03T18:40:19.425Z,"3 km SSE of Muscoy, CA",earthquake,0.79,1.19,0.129,2,automatic,ci,ci
+2024-05-03T18:33:57.916Z,66.5956,-147.3794,9.2,1.4,ml,,,,1,ak,ak0245pdk17w,2024-05-03T18:37:31.583Z,"26 km N of Beaver, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-05-03T18:31:37.010Z,19.3798332214355,-155.242172241211,0.409999996423721,2.1500001,md,14,82,0.006405,0.140000001,hv,hv74211957,2024-05-03T18:32:59.590Z,"7 km S of Volcano, Hawaii",earthquake,0.24,0.25999999,0.310000002,12,automatic,hv,hv
 2024-05-03T18:25:17.160Z,19.3821659088135,-155.245498657227,-0.0500000007450581,1.75,ml,17,101,0.006416,0.189999998,hv,hv74211942,2024-05-03T18:27:54.580Z,"6 km S of Volcano, Hawaii",earthquake,0.2,0.219999999,0.18,8,automatic,hv,hv
 2024-05-03T18:24:24.141Z,62.8984,-148.1519,55,1.4,ml,,,,0.42,ak,ak0245pdi15b,2024-05-03T18:27:03.023Z,"68 km SE of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -269,4 +271,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-02T18:55:28.480Z,19.381,-155.238833333333,0.67,1.49,ml,20,73,0.007581,0.11,hv,hv74208207,2024-05-02T21:47:50.170Z,"6 km S of Volcano, Hawaii",earthquake,0.2,0.13,0.125756140076607,9,reviewed,hv,hv
 2024-05-02T18:52:51.757Z,38.2851,-118.7235,11.3,1.1,ml,5,215.55,0.175,0.1652,nn,nn00877140,2024-05-03T17:08:47.530Z,"27 km SSW of Hawthorne, Nevada",earthquake,,3.8,0.26,3,reviewed,nn,nn
 2024-05-02T18:45:38.630Z,38.8396682739258,-122.877502441406,2.05999994277954,1.36,md,21,88,0.004866,0.03,nc,nc75000056,2024-05-02T18:47:14.803Z,"13 km NW of The Geysers, CA",earthquake,0.25,0.400000006,0.17,22,automatic,nc,nc
-2024-05-02T18:34:16.980Z,38.8093333333333,-122.8215,2.68,1.21,md,38,53,0.006017,0.03,nc,nc75000051,2024-05-03T00:41:30.880Z,"7 km NW of The Geysers, CA",earthquake,0.15,0.28,0.168,32,reviewed,nc,nc
