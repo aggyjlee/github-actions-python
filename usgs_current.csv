@@ -260,4 +260,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-23T06:50:22.402Z,37.2881,-116.0371,6.9,0.8,ml,12,266.62,0.084,0.1387,nn,nn00878079,2024-05-24T02:05:43.466Z,"47 km SSW of Rachel, Nevada",earthquake,,2,0.35,9,reviewed,nn,nn
 2024-05-23T06:39:35.538Z,37.2965,-116.0257,3.7,0.5,ml,15,252.33000000000004,0.097,0.1344,nn,nn00878078,2024-05-24T02:05:37.273Z,"45 km SSW of Rachel, Nevada",earthquake,,3.8,0.31,11,reviewed,nn,nn
 2024-05-23T06:38:13.527Z,57.8883,-156.265,118.7,2,ml,,,,0.34,ak,ak0246m96qzs,2024-05-23T06:40:51.958Z,"75 km ESE of Egegik, Alaska",earthquake,,0.8,,,automatic,ak,ak
-2024-05-23T06:29:57.220Z,62.3109,-149.1995,0,1.7,ml,,,,0.67,ak,ak0246m94wx6,2024-05-23T06:31:47.796Z,"37 km ENE of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
