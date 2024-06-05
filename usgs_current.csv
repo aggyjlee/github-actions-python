@@ -1,6 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-06-05T18:41:00.960Z,38.8261680603027,-122.762832641602,1.87000000476837,0.72,md,8,132,0.007003,0.01,nc,nc75016827,2024-06-05T18:42:36.394Z,"3 km WNW of Cobb, CA",earthquake,0.42,0.620000005,0.23,9,automatic,nc,nc
+2024-06-05T18:39:50.620Z,33.3856659,-116.5271683,-1.17,1.39,ml,12,78,0.2001,0.27,ci,ci40615343,2024-06-05T18:41:53.008Z,"15 km NE of Warner Springs, CA",earthquake,0.62,2.01,0.751,15,automatic,ci,ci
 2024-06-05T18:23:07.020Z,38.8330001831055,-122.810668945312,2.05999994277954,1.07,md,25,45,0.009602,0.02,nc,nc75016817,2024-06-05T18:24:41.514Z,"8 km WNW of Cobb, CA",earthquake,0.19,0.379999995,0.11,25,automatic,nc,nc
 2024-06-05T18:21:15.910Z,33.894,-116.2445,3.1,0.86,ml,28,62,0.06694,0.17,ci,ci40615319,2024-06-05T18:27:21.709Z,"16 km ENE of Thousand Palms, CA",earthquake,0.2,0.75,0.179,14,automatic,ci,ci
+2024-06-05T18:19:40.095Z,-23.5523,-179.5815,563.328,4.7,mb,28,121,5.878,0.61,us,us7000mqjt,2024-06-05T18:41:24.040Z,"south of the Fiji Islands",earthquake,13.25,10.946,0.094,34,reviewed,us,us
 2024-06-05T18:17:44.034Z,60.0425,-140.4594,20.1,1.8,ml,,,,0.12,ak,ak02477y70zn,2024-06-05T18:19:10.456Z,"68 km NW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-06-05T18:15:33.131Z,31.601,-104.533,3.7864,1.7,ml,16,156,0.1,0.4,tx,tx2024lakq,2024-06-05T18:31:22.962Z,"65 km SSW of Whites City, New Mexico",earthquake,0,2.10814308645054,0.1,12,automatic,tx,tx
 2024-06-05T18:13:28.761Z,64.979,-147.4601,0,1.7,ml,,,,0.84,ak,ak02477y64y4,2024-06-05T18:15:32.187Z,"7 km ENE of Fox, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -281,4 +284,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-04T18:49:46.210Z,52.0766666666667,-176.1175,-1.78,0.43,ml,4,196,0.02676,0.4,av,av93150391,2024-06-05T00:10:24.150Z,"42 km ENE of Adak, Alaska",earthquake,1.09,1.73,0.127280834701093,4,reviewed,av,av
 2024-06-04T18:44:55.870Z,60.0398333333333,-153.08,-0.44,-0.55,ml,4,176,0.01941,0.09,av,av93150386,2024-06-04T23:57:54.770Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.41,1.87,0.31329725650982,4,reviewed,av,av
 2024-06-04T18:43:28.589Z,31.677,-104.189,7.0099,2.1,ml,35,66,0.1,0.1,tx,tx2024kyqb,2024-06-04T20:06:08.163Z,"55 km NW of Toyah, Texas",earthquake,0.4832841030867098,0.6259652321329957,0.1,26,reviewed,tx,tx
-2024-06-04T18:42:53.914Z,31.673,-104.192,6.6254,1.6,ml,28,68,0.1,0.1,tx,tx2024kyqa,2024-06-04T18:59:54.862Z,"54 km NW of Toyah, Texas",earthquake,0.4657508546572243,0.5825478753217646,0.1,18,reviewed,tx,tx
