@@ -4,7 +4,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-23T17:51:50.940Z,38.7608337402344,-122.738502502441,1.44000005722046,0.79,md,8,112,0.01069,0.04,nc,nc75026007,2024-06-23T17:53:26.631Z,"2 km SSE of The Geysers, CA",earthquake,0.47,0.649999976,0.19,8,automatic,nc,nc
 2024-06-23T17:45:41.840Z,33.1446667,-115.9595,5.51,0.97,ml,41,55,0.03257,0.18,ci,ci40807896,2024-06-23T17:55:15.361Z,"16 km E of Ocotillo Wells, CA",earthquake,0.19,0.35,0.12,22,automatic,ci,ci
 2024-06-23T17:44:32.570Z,32.9278333,-115.5295,5.68,1.09,ml,29,78,0.03715,0.31,ci,ci40807888,2024-06-23T17:52:24.650Z,"6 km S of Brawley, CA",earthquake,0.39,0.62,0.207,23,automatic,ci,ci
-2024-06-23T17:16:17.232Z,16.6785,-99.4464,14.395,5.2,mww,67,172,1.217,0.61,us,us7000mu56,2024-06-23T18:30:00.479Z,"11 km SE of Llano de la Puerta, Mexico",earthquake,8.82,4.596,0.046,45,reviewed,us,us
+2024-06-23T17:16:17.232Z,16.6785,-99.4464,14.395,5.2,mww,67,172,1.217,0.61,us,us7000mu56,2024-06-23T18:39:47.562Z,"11 km SE of Llano de la Puerta, Mexico",earthquake,8.82,4.596,0.046,45,reviewed,us,us
 2024-06-23T17:15:19.073Z,64.8009,-150.5924,12.9,0.8,ml,,,,0.51,ak,ak02481p9cwz,2024-06-23T17:17:10.899Z,"22 km S of Manley Hot Springs, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-06-23T17:15:14.194Z,16.679,-99.4652,16.134,4.1,mb,49,216,1.229,0.39,us,us7000mu58,2024-06-23T18:14:51.040Z,"9 km SE of Llano de la Puerta, Mexico",earthquake,11.02,9.805,0.055,92,reviewed,us,us
 2024-06-23T16:59:36.562Z,59.961,-153.2054,125,2.1,ml,,,,0.4,ak,ak02481oxe62,2024-06-23T17:02:33.522Z,"54 km ENE of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -17,7 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-23T16:19:34.438Z,37.0849,-117.4754,5.3,1.6,ml,19,192.69,0.201,0.4304,nn,nn00879845,2024-06-23T16:21:42.504Z,"66 km WNW of Beatty, Nevada",earthquake,,1.1,0.3,13,automatic,nn,nn
 2024-06-23T16:17:15.200Z,38.8238334655762,-122.844833374023,2.10999989509583,0.77,md,8,102,0.007691,0.02,nc,nc75025987,2024-06-23T16:18:51.975Z,"9 km NW of The Geysers, CA",earthquake,0.39,1.02999997,0.33,10,automatic,nc,nc
 2024-06-23T16:12:40.470Z,48.658166666666666,-122.01816666666667,0.57,1.79,ml,11,72,0.09786,0.13,uw,uw62018016,2024-06-23T17:31:15.400Z,"14 km NNE of Lyman, Washington",earthquake,0.3,0.66,0.2778737228369781,8,reviewed,uw,uw
-2024-06-23T15:57:36.832Z,62.1868,-150.7152,0.9,3.6,ml,,,,0.87,ak,ak02481obj61,2024-06-23T18:06:35.125Z,"29 km WSW of Trapper Creek, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-06-23T15:57:36.832Z,62.1868,-150.7152,0.9,3.6,ml,,,,0.87,ak,ak02481obj61,2024-06-23T18:40:34.345Z,"29 km WSW of Trapper Creek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-06-23T15:56:28.360Z,33.6771667,-116.6886667,16.02,0.68,ml,15,123,0.04003,0.08,ci,ci40807792,2024-06-23T16:02:36.670Z,"8 km SSE of Idyllwild, CA",earthquake,0.23,0.39,0.203,8,automatic,ci,ci
 2024-06-23T15:49:22.190Z,19.6341667175293,-155.432830810547,22.6800003051758,1.94,ml,43,70,0.1062,0.140000001,hv,hv74289221,2024-06-23T15:52:02.130Z,"29 km NW of Volcano, Hawaii",earthquake,0.35,0.790000021,1.03,5,automatic,hv,hv
 2024-06-23T15:30:08.260Z,60.4296,-148.9663,19.9,1.7,ml,,,,0.55,ak,ak02481o5om2,2024-06-23T15:33:09.965Z,"22 km E of Crown Point, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -134,7 +134,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-23T04:39:10.325Z,63.8172,-149.755,6.5,1,ml,,,,0.41,ak,ak02481hnuk8,2024-06-23T04:40:51.658Z,"38 km SW of Ferry, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-06-23T04:38:53.540Z,19.1981658935547,-155.488662719727,31.5599994659424,2.39,ml,56,74,0.04938,0.119999997,hv,hv74288656,2024-06-23T04:41:32.990Z,"1 km WSW of Pāhala, Hawaii",earthquake,0.35,0.550000012,0.54,13,automatic,hv,hv
 2024-06-23T04:35:00.800Z,39.4990005493164,-121.997001647949,24.2000007629395,2.78,ml,15,70,0.1159,0.19,nc,nc75025762,2024-06-23T04:37:04.434Z,"17 km ESE of Willows, CA",earthquake,0.57,1.28999996,0.351,7,automatic,nc,nc
-2024-06-23T04:33:37.940Z,33.6293333,-116.722,16.12,0.6,ml,37,54,0.04998,0.15,ci,ci40807368,2024-06-23T04:39:48.719Z,"9 km NNW of Anza, CA",earthquake,0.2,0.32,0.154,16,automatic,ci,ci
+2024-06-23T04:33:37.920Z,33.6276667,-116.7248333,16.08,0.59,ml,38,40,0.04714,0.13,ci,ci40807368,2024-06-23T18:38:47.610Z,"9 km NNW of Anza, CA",earthquake,0.16,0.29,0.145,16,reviewed,ci,ci
 2024-06-23T04:32:02.940Z,19.2654991149902,-155.403503417969,30.3899993896484,2.29999995,md,42,123,0.06961,0.159999996,hv,hv74288646,2024-06-23T04:34:08.960Z,"10 km NE of Pāhala, Hawaii",earthquake,0.46,0.730000019,0.109999999,8,automatic,hv,hv
 2024-06-23T04:26:37.700Z,32.5413333,-115.2531667,26.02,1.5,ml,21,51,0.1533,0.24,ci,ci40807360,2024-06-23T18:31:16.712Z,"10 km ESE of Puebla, B.C., MX",earthquake,0.4,1.13,0.288,12,reviewed,ci,ci
 2024-06-23T04:24:27.119Z,36.74,-116.279,10,-0.4,ml,10,127.30999999999999,0.038,0.0852,nn,nn00879803,2024-06-23T04:26:24.991Z,"46 km ESE of Beatty, Nevada",earthquake,,1.6,0.25,5,automatic,nn,nn
