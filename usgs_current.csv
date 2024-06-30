@@ -368,4 +368,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-29T19:34:55.304Z,31.664,-104.402,4.3879,1.9,ml,17,70,0,0.4,tx,tx2024msjh,2024-06-29T19:55:24.177Z,"56 km S of Whites City, New Mexico",earthquake,0,1.3641520782107,0.2,13,automatic,tx,tx
 2024-06-29T19:32:28.690Z,53.3875,-168.1705,1.75,0.66,ml,7,193,0.02068,0.31,av,av93181536,2024-06-30T00:03:28.590Z,"68 km NE of Nikolski, Alaska",earthquake,0.99,1.19,0.325963969956616,7,reviewed,av,av
 2024-06-29T19:27:25.470Z,33,-116.3693333,5.39,0.91,ml,40,71,0.04467,0.17,ci,ci40813952,2024-06-30T13:47:58.936Z,"23 km ESE of Julian, CA",earthquake,0.17,0.39,0.149,25,reviewed,ci,ci
-2024-06-29T19:16:47.492Z,-2.5293,129.7495,26.976,4.6,mb,16,84,2.526,1.16,us,us6000n97v,2024-06-29T21:29:18.040Z,"121 km NE of Masohi, Indonesia",earthquake,10.05,4.582,0.165,12,reviewed,us,us
