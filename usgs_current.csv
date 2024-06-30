@@ -356,8 +356,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-29T17:05:28.120Z,19.3880004882812,-155.262664794922,-1,1.72000003,md,17,59,0.01067,0.330000013,hv,hv74301701,2024-06-29T17:07:06.580Z,"6 km SSW of Volcano, Hawaii",earthquake,0.21,0.270000011,0.180000007,7,automatic,hv,hv
 2024-06-29T16:52:28.521Z,59.9198,-151.7654,63.5,1.2,ml,,,,0.28,ak,ak0248bm3yhw,2024-06-29T16:54:29.270Z,"3 km SSW of Happy Valley, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-06-29T16:52:23.770Z,32.6713333,-115.7046667,9.95,1.82,ml,39,43,0.02858,0.25,ci,ci40813848,2024-06-29T18:19:59.605Z,"15 km NW of Progreso, B.C., MX",earthquake,0.27,0.51,0.193,28,reviewed,ci,ci
-2024-06-29T16:42:24.484Z,64.7609,-151.2183,6.1,1,ml,,,,0.91,ak,ak0248bm1t0i,2024-06-29T16:53:04.235Z,"38 km SW of Manley Hot Springs, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2024-06-29T16:39:34.390Z,19.1346664428711,-155.370834350586,29.2999992370605,2.08999991,md,51,186,0.08872,0.129999995,hv,hv74301626,2024-06-29T16:41:35.520Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.55,0.620000005,0.189999998,17,automatic,hv,hv
-2024-06-29T16:39:03.011Z,61.1821,-141.7847,0,1.6,ml,,,,0.85,ak,ak0248bm147x,2024-06-29T16:40:59.073Z,"67 km ESE of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-06-29T16:38:50.810Z,33.6058333,-116.7511667,16.18,0.38,ml,17,76,0.01622,0.11,ci,ci40813840,2024-06-30T13:48:01.552Z,"9 km NW of Anza, CA",earthquake,0.22,0.38,0.163,10,reviewed,ci,ci
-2024-06-29T16:38:46.267Z,-54.0099,7.159,10,5.6,mww,77,34,23.718,1.06,us,us6000n96v,2024-06-29T18:42:57.928Z,"Bouvet Island region",earthquake,10.45,1.744,0.086,13,reviewed,us,us
