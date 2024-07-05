@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-07-05T19:20:12.660Z,19.3621673583984,-155.293502807617,1.00999999046326,1.84,ml,18,63,0.02667,0.209999993,hv,hv74316951,2024-07-05T19:22:51.720Z,"10 km SW of Volcano, Hawaii",earthquake,0.26,0.460000008,0.17,6,automatic,hv,hv
 2024-07-05T19:14:33.740Z,61.8907,-149.248,18.4,1.2,ml,,,,0.52,ak,ak0248lkw7gu,2024-07-05T19:16:29.517Z,"16 km N of Fishhook, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-07-05T19:10:33.920Z,36.5856666564941,-121.191497802734,6.46000003814697,1.61,md,14,138,0.1023,0.1,nc,nc75031262,2024-07-05T19:12:09.635Z,"7 km NNW of Pinnacles, CA",earthquake,0.5,1.79999995,0.11,12,automatic,nc,nc
+2024-07-05T19:05:26.212Z,31.561,-104.015,6.3928,1.6,ml,15,63,0,0.3,tx,tx2024ndhk,2024-07-05T19:18:33.631Z,"34 km NW of Toyah, Texas",earthquake,0,2.3696374081440106,0.2,13,automatic,tx,tx
 2024-07-05T18:53:48.540Z,38.8330001831055,-122.818000793457,1.51999998092651,0.68,md,14,50,0.01142,0.03,nc,nc75031247,2024-07-05T18:55:23.653Z,"8 km NNW of The Geysers, CA",earthquake,0.28,0.819999993,0.39,15,automatic,nc,nc
 2024-07-05T18:53:03.921Z,-28.7791,-69.2693,98.524,4.8,mww,57,80,1.276,0.96,us,us7000mxbr,2024-07-05T19:13:08.040Z,"103 km W of Vinchina, Argentina",earthquake,5.88,5.959,0.083,14,reviewed,us,us
 2024-07-05T18:52:29.500Z,19.4270000457764,-155.318496704102,5.32999992370605,1.98,ml,9,301,0.02675,0.310000002,hv,hv74316921,2024-07-05T18:55:08.170Z,"9 km W of Volcano, Hawaii",earthquake,1.68,1.99000001,0.18,4,automatic,hv,hv
