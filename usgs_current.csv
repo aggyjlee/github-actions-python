@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-07-05T16:37:55.770Z,33.3753333,-116.9608333,7.92,0.97,ml,44,26,0.06095,0.18,ci,ci40649503,2024-07-05T16:44:07.118Z,"9 km WNW of Palomar Observatory, CA",earthquake,0.17,0.61,0.151,27,automatic,ci,ci
+2024-07-05T16:36:02.486Z,61.7778,-149.5552,36.3,2,ml,,,,0.5,ak,ak0248lj8jzs,2024-07-05T16:38:15.738Z,"17 km N of Meadow Lakes, Alaska",earthquake,,1,,,automatic,ak,ak
+2024-07-05T16:36:02.246Z,61.7651,-149.6011,31,2.1,ml,,,,0.94,ak,ak0248lj8jz4,2024-07-05T16:39:48.862Z,"15 km N of Meadow Lakes, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-07-05T16:34:10.000Z,48.8459,-128.364,12,5,Mi,50,161.99998704000103,2.682369,1.22,at,at00sg5soy,2024-07-05T16:39:35.466Z,"182 km WSW of Tofino, Canada",earthquake,0,0,,5,reviewed,at,at
 2024-07-05T16:22:43.707Z,31.613,-104.116,4.3502,1.6,ml,17,57,0,0.2,tx,tx2024ndbz,2024-07-05T16:30:21.622Z,"45 km NW of Toyah, Texas",earthquake,0,1.4350389061947,0.2,13,automatic,tx,tx
 2024-07-05T16:17:10.180Z,33.4028333,-116.9885,-1.13,0.71,ml,11,169,0.1162,0.12,ci,ci40649487,2024-07-05T16:23:13.333Z,"9 km ENE of Pala, CA",earthquake,0.58,1.63,0.189,13,automatic,ci,ci
 2024-07-05T16:11:30.976Z,64.8453,-149.3715,15.2,1.1,ml,,,,0.42,ak,ak0248lj39ah,2024-07-05T16:13:15.773Z,"29 km NNW of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -172,5 +176,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-04T17:38:44.680Z,38.8253326416016,-122.785835266113,0.28999999165535,0.73,md,11,77,0.01271,0.02,nc,nc75030752,2024-07-04T17:40:21.903Z,"5 km WNW of Cobb, CA",earthquake,0.24,0.519999981,0.28,11,automatic,nc,nc
 2024-07-04T17:24:50.020Z,19.3811664581299,-155.230331420898,1.95000004768372,1.84000003,md,21,85,0.0123,0.200000003,hv,hv74315046,2024-07-04T17:26:28.370Z,"6 km S of Volcano, Hawaii",earthquake,0.36,0.289999992,0.209999993,14,automatic,hv,hv
 2024-07-04T17:06:57.935Z,62.0137,-147.839,59.7,0.6,ml,,,,0.24,ak,ak0248jw4bwh,2024-07-04T17:08:32.083Z,"24 km NNW of Glacier View, Alaska",earthquake,,2.1,,,automatic,ak,ak
-2024-07-04T16:43:19.587Z,61.768,-148.2071,15,0.9,ml,,,,0.55,ak,ak0248jvqqvo,2024-07-04T16:45:25.393Z,"13 km ESE of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-07-04T16:41:34.180Z,19.3863334655762,-155.242828369141,0.930000007152557,2.46,ml,37,55,0.008048,0.360000014,hv,hv74314976,2024-07-04T16:44:12.210Z,"6 km S of Volcano, Hawaii",earthquake,0.29,0.200000003,0.46,22,automatic,hv,hv
