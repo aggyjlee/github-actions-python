@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-07-06T07:39:41.330Z,19.3978328704834,-155.286834716797,0.419999986886978,2.38000011,md,14,53,0.01031,0.0900000036,hv,hv74317711,2024-07-06T07:41:11.950Z,"7 km SW of Volcano, Hawaii",earthquake,0.17,0.209999993,0.189999998,9,automatic,hv,hv
 2024-07-06T07:00:22.263Z,31.682,-104.42,5.5359,3.1,ml,37,62,0,0.1,tx,tx2024neey,2024-07-06T07:22:52.762Z,"54 km S of Whites City, New Mexico",earthquake,0.7395523436333591,0.7149258009947146,0.1,19,reviewed,tx,tx
 2024-07-06T06:43:54.910Z,33.2745,-116.426,4.49,0.45,ml,33,56,0.009712,0.21,ci,ci40649991,2024-07-06T06:57:59.035Z,"5 km WNW of Borrego Springs, CA",earthquake,0.21,0.44,0.108,7,automatic,ci,ci
 2024-07-06T06:42:20.675Z,36.8663,141.946,50.138,4.3,mb,27,207,3.02,0.7,us,us7000mxds,2024-07-06T07:26:45.040Z,"96 km ESE of Iwaki, Japan",earthquake,11.43,11.562,0.2,7,reviewed,us,us
