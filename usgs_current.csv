@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-04T04:45:22.490Z,33.2335,-116.0333333,4.82,0.82,ml,34,94,0.06118,0.22,ci,ci40861496,2024-08-04T04:51:24.790Z,"10 km SW of Salton City, CA",earthquake,0.25,0.58,0.099,13,automatic,ci,ci
 2024-08-04T04:38:05.330Z,19.4514999389648,-155.408996582031,1.01999998092651,2.02,ml,42,47,0.04678,0.189999998,hv,hv74383556,2024-08-04T04:40:45.540Z,"18 km W of Volcano, Hawaii",earthquake,0.26,0.479999989,0.32,4,automatic,hv,hv
 2024-08-04T04:16:29.850Z,33.4698333,-116.5608333,10.13,0.46,ml,23,70,0.04255,0.11,ci,ci40861472,2024-08-04T04:34:15.539Z,"14 km SE of Anza, CA",earthquake,0.24,0.37,0.125,8,automatic,ci,ci
 2024-08-04T04:15:42.180Z,35.97,-120.53,10.57,2.23,md,41,42,0.02275,0.1,nc,nc75043287,2024-08-04T04:27:16.700Z,"11 km NW of Parkfield, CA",earthquake,0.18,0.280000001,0.15,46,automatic,nc,nc
@@ -235,4 +236,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-03T05:07:32.498Z,38.6448,-119.3392,5.9,1.4,ml,11,113.53,0.306,0.3298,nn,nn00881876,2024-08-03T05:09:49.691Z,"15 km S of Smith Valley, Nevada",earthquake,,2.8,0.17,7,automatic,nn,nn
 2024-08-03T05:00:23.920Z,38.82,-122.82,2.51,0.98,md,12,77,0.009946,0.01,nc,nc75042982,2024-08-03T07:09:26.304Z,"7 km NW of The Geysers, CA",earthquake,0.33,0.579999983,0.2,12,automatic,nc,nc
 2024-08-03T04:59:41.820Z,52.06,-176.148,3.99,0.1,ml,5,149,0.004525,0.27,av,av93017439,2024-08-04T02:59:08.340Z,"39 km ENE of Adak, Alaska",earthquake,1.02,1.47,0.356489385039904,5,reviewed,av,av
-2024-08-03T04:48:09.290Z,35.8706667,-117.7226667,9.11,0.63,ml,20,91,0.07083,0.12,ci,ci40860384,2024-08-03T04:53:57.965Z,"18 km ESE of Little Lake, CA",earthquake,0.17,0.48,0.137,6,automatic,ci,ci
