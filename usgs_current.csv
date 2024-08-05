@@ -190,4 +190,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-04T04:56:04.101Z,60.6439,-143.0211,8.1,0.7,ml,,,,0.17,ak,ak0249yyc1zu,2024-08-04T04:57:53.084Z,"88 km S of McCarthy, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-08-04T04:53:47.001Z,62.9569,-151.4015,59.3,1.5,ml,,,,1.74,ak,ak0249yybi5o,2024-08-04T04:55:49.668Z,"60 km NNW of Petersville, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-08-04T04:45:22.490Z,33.2335,-116.0333333,4.82,0.82,ml,34,94,0.06118,0.22,ci,ci40861496,2024-08-04T04:51:24.790Z,"10 km SW of Salton City, CA",earthquake,0.25,0.58,0.099,13,automatic,ci,ci
-2024-08-04T04:38:05.330Z,19.4514999389648,-155.408996582031,1.01999998092651,2.02,ml,42,47,0.04678,0.189999998,hv,hv74383556,2024-08-04T04:40:45.540Z,"18 km W of Volcano, Hawaii",earthquake,0.26,0.479999989,0.32,4,automatic,hv,hv
