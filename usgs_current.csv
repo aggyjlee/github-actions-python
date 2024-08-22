@@ -280,5 +280,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-21T08:56:38.110Z,45.7772,-74.4519,1.489,1.8,ml,14,109,0.446,0.81,us,us7000n8ny,2024-08-22T01:47:36.040Z,"10 km NNW of Brownsburg-Chatham, Canada",earthquake,1.39,7.067,0.128,8,reviewed,us,us
 2024-08-21T08:55:48.729Z,61.6322,-150.3743,15.7,1.6,ml,,,,0.22,ak,ak024ar4ukjc,2024-08-21T08:57:00.785Z,"12 km NE of Susitna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-08-21T08:55:41.713Z,45.0935,-74.1217,8.16,1.2,ml,8,103,0.538,0.2,us,us7000n8nw,2024-08-22T01:42:02.040Z,"3 km ENE of Huntingdon, Canada",earthquake,1.27,6.371,0.128,8,reviewed,us,us
-2024-08-21T08:50:00.840Z,19.3834991455078,-155.248672485352,0.620000004768372,1.98000002,md,18,60,0.003194,0.159999996,hv,hv74416401,2024-08-21T08:51:40.200Z,"6 km SSW of Volcano, Hawaii",earthquake,0.16,0.180000007,0.209999993,12,automatic,hv,hv
-2024-08-21T08:49:45.580Z,32.9846667,-116.3133333,8.78,1.01,ml,45,53,0.08279,0.19,ci,ci40709775,2024-08-21T13:36:19.730Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.2,0.59,0.203,19,reviewed,ci,ci
