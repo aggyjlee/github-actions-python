@@ -326,4 +326,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-29T03:51:09.920Z,61.2163333333333,-152.059833333333,28.96,0.23,ml,5,238,0.07398,0.24,av,av93019639,2024-08-29T22:06:38.170Z,"52 km WNW of Tyonek, Alaska",earthquake,2.79,1.61,0.171378856253795,5,reviewed,av,av
 2024-08-29T03:50:38.607Z,61.3355,-152.2139,24,0.5,ml,,,,0.41,ak,ak024b4a533o,2024-08-29T22:00:39.570Z,"64 km WNW of Beluga, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-08-29T03:44:52.150Z,51.7858333333333,-178.842,7.42,0.83,ml,5,165,0.01221,0.21,av,av93244451,2024-08-29T17:25:33.690Z,"152 km W of Adak, Alaska",earthquake,0.91,1.04,0.305443743862298,5,reviewed,av,av
-2024-08-29T03:39:39.660Z,33.6136667,-116.7153333,14.23,0.81,ml,44,47,0.04532,0.13,ci,ci40718415,2024-08-29T14:12:54.491Z,"8 km NNW of Anza, CA",earthquake,0.15,0.24,0.165,28,reviewed,ci,ci
