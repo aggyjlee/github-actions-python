@@ -239,4 +239,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-03T19:36:40.340Z,60.9877,-153.5108,29.7,1.2,ml,,,,0.51,ak,ak024bct9rcy,2024-09-03T19:38:44.940Z,"98 km NNE of Port Alsworth, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2024-09-03T19:29:17.819Z,60.5203,-149.2649,22.7,1.4,ml,,,,0.42,ak,ak024bct87lx,2024-09-03T19:31:34.517Z,"6 km ENE of Moose Pass, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-09-03T19:26:10.634Z,60.5251,-150.7868,24.2,1.3,ml,,,,0.51,ak,ak024bct7jwn,2024-09-03T19:27:52.949Z,"1 km SW of Sterling, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-09-03T19:23:45.358Z,60.2506,-141.3417,6.4,1.9,ml,,,,0.77,ak,ak024bct6zfr,2024-09-03T19:25:45.978Z,"119 km NW of Yakutat, Alaska",earthquake,,0.1,,,automatic,ak,ak
