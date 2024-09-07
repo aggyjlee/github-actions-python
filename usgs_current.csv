@@ -1,11 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-09-07T23:14:38.150Z,33.2681667,-116.422,4.74,0.81,ml,48,45,0.004055,0.2,ci,ci40727951,2024-09-07T23:20:38.291Z,"5 km WNW of Borrego Springs, CA",earthquake,0.18,0.33,0.126,17,automatic,ci,ci
 2024-09-07T23:12:25.222Z,57.5065,-155.1397,63,2.3,ml,,,,0.29,ak,ak024bjhnpei,2024-09-07T23:14:20.912Z,"41 km W of Karluk, Alaska",earthquake,,1.7,,,automatic,ak,ak
+2024-09-07T23:09:55.985Z,19.5872,-75.6481,10,4.5,mb,53,62,0.608,0.97,us,us6000nqdg,2024-09-07T23:28:33.040Z,"51 km SSE of Santiago de Cuba, Cuba",earthquake,6.55,1.905,0.059,85,reviewed,us,us
 2024-09-07T23:06:00.364Z,64.9879,-147.4361,1.7,1.2,ml,,,,0.26,ak,ak024bjhmd6s,2024-09-07T23:07:53.011Z,"9 km ENE of Fox, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-09-07T22:51:23.720Z,47.1441650390625,-121.3671646118164,3.9300000667572,1.6969332695007324,ml,8,160,,0.300000012,uw,uw62044261,2024-09-07T22:54:22.470Z,"17 km SW of Easton, Washington",earthquake,5.92,21.4300003,0.2875768542289734,24,automatic,uw,uw
 2024-09-07T22:51:15.963Z,39.8939,143.1514,28.272,4.9,mb,65,151,1.829,0.78,us,us6000nqd9,2024-09-07T23:08:26.040Z,"107 km ENE of Miyako, Japan",earthquake,6.41,5.937,0.082,47,reviewed,us,us
 2024-09-07T22:44:34.040Z,34.027,-117.59,5.13,1.15,ml,25,88,0.03248,0.14,ci,ci40727927,2024-09-07T22:51:04.689Z,"4 km SE of Ontario, CA",earthquake,0.18,0.38,0.399,32,automatic,ci,ci
-2024-09-07T22:39:07.160Z,-21.2926,-173.7204,10,6,mww,98,26,1.156,1.65,us,us6000nqd8,2024-09-07T23:18:55.577Z,"128 km E of ‘Ohonua, Tonga",earthquake,6.86,1.772,0.063,24,reviewed,us,us
+2024-09-07T22:39:07.160Z,-21.2926,-173.7204,10,6,mww,98,26,1.156,1.65,us,us6000nqd8,2024-09-07T23:24:52.845Z,"128 km E of ‘Ohonua, Tonga",earthquake,6.86,1.772,0.063,24,reviewed,us,us
 2024-09-07T22:37:52.160Z,32.9926667,-116.2411667,8.34,0.87,ml,36,47,0.06462,0.18,ci,ci40727919,2024-09-07T22:44:01.089Z,"20 km SSW of Ocotillo Wells, CA",earthquake,0.19,0.66,0.137,14,automatic,ci,ci
 2024-09-07T22:29:55.241Z,63.1517,-150.8474,27,1.2,ml,,,,1.61,ak,ak024bjh5zac,2024-09-07T22:31:57.674Z,"61 km SE of Denali National Park, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2024-09-07T22:22:05.500Z,38.7916679382324,-122.778831481934,1.30999994277954,0.74,md,11,108,0.007259,0.03,nc,nc75058991,2024-09-07T22:23:43.490Z,"3 km NW of The Geysers, CA",earthquake,0.33,0.75999999,0.06,11,automatic,nc,nc
@@ -260,7 +261,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-07T01:55:36.580Z,38.7876663208008,-122.733329772949,1.50999999046326,1.33,md,22,86,0.005158,0.03,nc,nc75058381,2024-09-07T04:09:23.962Z,"2 km ENE of The Geysers, CA",earthquake,0.26,0.400000006,0.12,23,automatic,nc,nc
 2024-09-07T01:54:24.630Z,44.7138333333333,-111.133666666667,13.86,1.97,ml,22,57,0.0579,0.1,mb,mb90060858,2024-09-07T15:05:50.470Z,"6 km NNW of West Yellowstone, Montana",earthquake,0.31,0.61,0.175578737113705,35,reviewed,mb,mb
 2024-09-07T01:53:05.175Z,60.1348,-141.4178,8.1,1.9,ml,,,,0.72,ak,ak024bj4swwl,2024-09-07T01:55:14.030Z,"115 km NW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-09-07T01:51:44.036Z,-8.4312,115.313,35.79,4.8,mb,49,45,1.149,1.26,us,us6000nq8g,2024-09-07T15:07:59.621Z,"10 km NNE of Ubud, Indonesia",earthquake,7.05,1.433,0.08,51,reviewed,us,us
+2024-09-07T01:51:44.036Z,-8.4312,115.313,35.79,4.8,mb,49,45,1.149,1.26,us,us6000nq8g,2024-09-07T23:30:45.492Z,"10 km NNE of Ubud, Indonesia",earthquake,7.05,1.433,0.08,51,reviewed,us,us
 2024-09-07T01:51:14.279Z,35.61783333,-96.43383333,17.97,1.23,ml,20,110,0.2303547965,0.11,ok,ok2024roxl,2024-09-07T07:21:45.320Z,"11 km NNW of IXL, Oklahoma",earthquake,,0.8,0.21,10,reviewed,ok,ok
 2024-09-07T01:50:26.490Z,33.0226667,-116.4253333,12,1.34,ml,58,30,0.0522,0.18,ci,ci40726943,2024-09-07T02:01:10.660Z,"18 km ESE of Julian, CA",earthquake,0.16,0.41,0.19,27,automatic,ci,ci
 2024-09-07T01:29:35.720Z,37.7680015563965,-122.163833618164,6.67000007629395,1.61,md,18,54,0.05623,0.11,nc,nc75058366,2024-09-07T03:42:13.767Z,"5 km N of San Leandro, CA",earthquake,0.28,0.930000007,0.16,15,automatic,nc,nc
@@ -277,5 +278,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-07T00:02:39.539Z,3.222,128.0768,69.843,4.6,mb,51,113,2.535,0.83,us,us6000nq82,2024-09-07T00:20:56.040Z,"165 km N of Tobelo, Indonesia",earthquake,9.15,7.16,0.088,38,reviewed,us,us
 2024-09-06T23:54:15.980Z,60.8496,-149.0716,23.7,1.4,ml,,,,0.23,ak,ak024bhudc9q,2024-09-06T23:55:57.230Z,"11 km SSE of Girdwood, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-09-06T23:32:05.322Z,61.7827,-149.452,0,1.5,ml,,,,0.89,ak,ak024bhu8lp0,2024-09-06T23:34:17.405Z,"12 km WNW of Fishhook, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2024-09-06T23:31:01.100Z,39.348331451416,-123.255668640137,1.86000001430511,1.14,md,6,119,0.1022,0.06,nc,nc75058331,2024-09-07T01:54:27.096Z,"10 km NNW of Redwood Valley, CA",earthquake,0.57,8.19999981,0.18,4,automatic,nc,nc
-2024-09-06T23:22:54.569Z,64.9576,-147.4981,0,1.2,ml,,,,0.31,ak,ak024bhu6k6o,2024-09-07T08:56:38.659Z,"5 km E of Fox, Alaska",earthquake,,0.8,,,automatic,ak,ak
